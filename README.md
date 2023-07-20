@@ -7,4 +7,5 @@ Sources:
 * RHCP official Site: https://redhotchilipeppers.com/tour
 * Red Hot Live Archive: www.rhcplivearchive.com
 * The Side History: http://theside.free.fr
-* RHCP France: https://www.rhcpfrance.com* 
+* RHCP France: https://www.rhcpfrance.com
+
