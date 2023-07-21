@@ -26,7 +26,6 @@ Special mentions:
 * Foro Funkymonks
 * RHCP Chile (Cosmik Mellowship)
 * Stadiu Arcadium Forum
-* One Hot Globe UK
-* 
-* 
+* One Hot Globe UK 
+* Gong Li Narod: http://www.gongli.narod.ru
 
