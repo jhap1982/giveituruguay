@@ -25,8 +25,10 @@ Sources:
 Special mentions:
 * Foro Funkymonks
 * RHCP Chile (Cosmik Mellowship)
-* Stone Cold Bush
+* Stone Cold Bush (Red Hot Live)
 * Stadiu Arcadium Forum
-* One Hot Globe UK 
+* One Hot Globe UK
+* Seven1963 
 * Gong Li Narod: http://www.gongli.narod.ru
+* Ati Chlli
 
