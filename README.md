@@ -14,3 +14,4 @@ Sources:
 * The Side History: http://theside.free.fr
 * RHCP France: https://www.rhcpfrance.com
 * Rhrsandse: https://vk.com/rhrsandse
+* RHCP Sessions: https://www.rhcpsessions.com
