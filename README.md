@@ -31,6 +31,6 @@ Special mentions:
 * Stadiu Arcadium Forum
 * One Hot Globe UK
 * Seven1963 
-* Gong Li Narod: http://www.gongli.narod.ru
+* Gong Li (Narod)
 * Ati Chlli
 
