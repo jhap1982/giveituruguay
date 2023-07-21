@@ -23,6 +23,7 @@
 17. Give It Away
 
 ## Media
+
 <details>
   <summary>Pictures</summary>
   <img alt="Setlist" title="Setlist" src="20230717.jpg" height="200" />
