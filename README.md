@@ -1,7 +1,7 @@
 # GiveItUruguay
 giveituruguay: 
 * Blog site: https://giveituruguay.blogspot.com
-* Facebook page: facebook.com/giveituruguay
+* Facebook page: https://facebook.com/giveituruguay
 * Tiktok: https://www.tiktok.com/@giveituruguay
 * Instagram: https://www.instagram.com/giveituruguay
 
@@ -13,7 +13,3 @@ Sources:
 * Red Hot Live Archive: www.rhcplivearchive.com
 * The Side History: http://theside.free.fr
 * RHCP France: https://www.rhcpfrance.com
-
-Special mentions:
- * 
-
