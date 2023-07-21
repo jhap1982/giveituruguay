@@ -13,10 +13,20 @@ Sources:
 * Red Hot Live Archive: www.rhcplivearchive.com
 * The Side History: http://theside.free.fr
 * RHCP France: https://www.rhcpfrance.com
+* RHCP Brazil: https://www.rhcp.com.br
 * Rhrsandse: https://vk.com/rhrsandse
 * RHCP Sessions: https://www.rhcpsessions.com
 * The Trader's Den: http://www.thetradersden.org
 * Dimeadozen: http://www.dimeadozen.org
 * Rutracker: https://rutracker.org
 * The Central Box: https://www.thecentralbox.net
+* The Brothers Cup: https://thebrotherscup.club
+
+Special mentions:
+* Foro Funkymonks
+* RHCP Chile (Cosmik Mellowship)
+* Stadiu Arcadium Forum
+* One Hot Globe UK
+* 
+* 
 
