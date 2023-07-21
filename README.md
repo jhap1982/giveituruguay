@@ -15,3 +15,5 @@ Sources:
 * RHCP France: https://www.rhcpfrance.com
 * Rhrsandse: https://vk.com/rhrsandse
 * RHCP Sessions: https://www.rhcpsessions.com
+* The Trader's Den: http://www.thetradersden.org
+* Dimeadozen: http://www.dimeadozen.org
