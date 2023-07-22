@@ -36,8 +36,7 @@
 
 ## Recordings
 
-### AUD #1 audience audio 
-Church Audio CA-11 > CA UBB > Zoom H1WAV > FLAC recorded by CrazyToaster
+* AUD #1 audience audio: Church Audio CA-11 > CA UBB > Zoom H1WAV > FLAC recorded by CrazyToaster
 
 ## Links
 
