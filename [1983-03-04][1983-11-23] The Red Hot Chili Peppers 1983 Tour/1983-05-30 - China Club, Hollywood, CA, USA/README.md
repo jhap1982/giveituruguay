@@ -28,7 +28,7 @@
   
 ## Recordings
 
-* SBD #1 soundboard audio soundboard > unknown recorder ANA(M) > FLAC From a tape sold by James Slovak.
+* SBD #1 soundboard audio: soundboard > unknown recorder ANA(M) > FLAC From a tape sold by James Slovak.
 
 ## Links
 
