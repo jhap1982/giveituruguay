@@ -1,4 +1,4 @@
-0# Info
+# Info
 
 ## Setlist
 
