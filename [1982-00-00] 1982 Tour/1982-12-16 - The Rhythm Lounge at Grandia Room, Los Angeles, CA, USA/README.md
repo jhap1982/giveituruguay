@@ -6,7 +6,7 @@
 
 ## Media
 
--
+* N/A
 
 ## Notes
 
@@ -18,8 +18,7 @@ Less than fifty people attended the show and no pictures or recordings ever surf
 
 ## Recordings
 
--
+* N/A
 
 ## Links
 
--
