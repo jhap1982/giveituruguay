@@ -16,6 +16,13 @@ Less than fifty people attended the show and no pictures or recordings ever surf
 
 **Headliner**: Gary Allen
 
+## Line Up
+
+* Anthony Kiedis
+* Flea
+* Hillel Slovak
+* Jack Irons
+
 ## Recordings
 
 * N/A
