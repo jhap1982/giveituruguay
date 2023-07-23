@@ -2,33 +2,33 @@
 
 ## Setlist
 
-1. Setlist
-2. Emit Remmus
-3. Give It Away
-4. Tiny Dancer part of JOHN
-5. Scar Tissue
-6. If You Have to Ask
-7. Around the World
-8. I Could Have Lied
-9. Californication
-10. Blood Sugar Sex Magik
-11. Soul to Squeeze
-12. Under the Bridge
-13. Me and My Friends
+1. Emit Remmus
+2. Give It Away
+3. Tiny Dancer part of JOHN
+4. Scar Tissue
+5. If You Have to Ask
+6. Around the World
+7. I Could Have Lied
+8. Californication
+9. Blood Sugar Sex Magik
+10. Soul to Squeeze
+11. Under the Bridge
+12. Me and My Friends
 <br>ENCORE BREAK
-14. Bring It on Home tease
-15. Yertle the Turtle
-16. Freaky Styley
-17. Cosmic Slop tease
-18. Untitled #2 tease
-19. Cholly (Funk Get Ready to Roll!) tease
-20. Atomic Dog tease
-30. The Power of Equality
+13. Bring It on Home tease
+14. Yertle the Turtle
+15. Freaky Styley
+16. Cosmic Slop tease
+17. Untitled #2 tease
+18. Cholly (Funk Get Ready to Roll!) tease
+19. Atomic Dog tease
+20. The Power of Equality
 
 ## Notes
 
 ### Notes (theside)
-This show was for authorized fanclub members only. 
+
+> This show was for authorized fanclub members only. 
 There were also some songs that didn't make it on the TV and radio broadcasts: two of those are "Under The Bridge" (they messed up and Anthony improvised a rap version) and "Yertle The Turtle / Freaky Styley Medley". They also did those songs during the soundcheck: "Right On Time", "Easily", "This Velvet Glove", "Parallel Universe", a couple of unknown and some BSSM tunes.
 
 ## Media
