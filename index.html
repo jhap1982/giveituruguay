@@ -1,1 +1,85 @@
-Hello World!
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Give It Uruguay!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        nav a {
+            display: inline-block;
+            margin: 5px;
+            padding: 8px 12px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Give It Uruguay!</h1>
+    </header>
+
+    <nav>
+        <a href="#" onclick="showDefaultContent()">Inicio</a>
+        <a href="#" onclick="showYearContent(1982)">1982</a>
+        <a href="#" onclick="showYearContent(1983)">1983</a>
+        <!-- Agrega enlaces para los años restantes hasta 2023 -->
+        <!-- Por ejemplo: -->
+        <!-- <a href="#" onclick="showYearContent(1984)">1984</a> -->
+        <!-- <a href="#" onclick="showYearContent(1985)">1985</a> -->
+        <!-- ... -->
+        <!-- <a href="#" onclick="showYearContent(2023)">2023</a> -->
+    </nav>
+
+    <div class="content" id="default-content">
+        <h2>Welcome</h2>
+        <p>Select a specific year.</p>
+    </div>
+
+    <div class="content" id="year-content" style="display: none;">
+        <!-- Contenido específico del año se mostrará aquí -->
+    </div>
+
+    <script>
+        function showDefaultContent() {
+            document.getElementById('default-content').style.display = 'block';
+            document.getElementById('year-content').style.display = 'none';
+        }
+
+        function showYearContent(year) {
+            document.getElementById('default-content').style.display = 'none';
+            document.getElementById('year-content').style.display = 'block';
+            document.getElementById('year-content').innerHTML = `<h2>${year}</h2><p>Spec content ${year}.</p>`;
+        }
+    </script>
+</body>
+</html>
