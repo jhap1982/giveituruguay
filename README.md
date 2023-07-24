@@ -22,13 +22,13 @@ Sources:
 * The Central Box: https://www.thecentralbox.net
 * The Brothers Cup: https://thebrotherscup.club
 * Invisible Movement (John Frusciante): http://www.invisible-movement.net
-* Joshs Klinghoffer Fan Site: http://josh-klinghoffer.org
+* Josh Klinghoffer Fan Site: http://josh-klinghoffer.org
 
 Special mentions:
 * Foro Funkymonks
 * RHCP Chile (Cosmik Mellowship)
 * Stone Cold Bush (Red Hot Live)
-* Stadiu Arcadium Forum
+* Stadium Arcadium Forum
 * One Hot Globe UK
 * Seven1963 
 * Gong Li (Narod)
