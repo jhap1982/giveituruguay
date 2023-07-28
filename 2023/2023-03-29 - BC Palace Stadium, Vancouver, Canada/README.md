@@ -25,6 +25,7 @@
 ## Notes
 
 **Attendance**: 36,956 / 44,074 (84%)
+<br>
 **Support**: City and Colour, King Princess
 
 ### Additonal Musicians:
@@ -47,3 +48,7 @@
 ## Recordings
 
 * AUD #1 audience audio: built-in > iPhone 11 Pro Max M4A [64kbps] recorded by Levon Lundgren
+
+# Links
+
+* BC Palace: https://www.bcplace.com
