@@ -4,7 +4,7 @@
 
 ## Notes
 
-Rescheduled to August 15, 2012 due to Anthony's foot surgery.
+Rescheduled to August 15, 2012 due to Anthony's foot surgery. 🏥
 
 **Other Acts**: -
 
@@ -17,10 +17,10 @@ Rescheduled to August 15, 2012 due to Anthony's foot surgery.
 
 ## Line Up
 
-* Anthony Kiedis
-* Flea
-* Josh Klinghoffer
-* Chad Smith
+* Anthony Kiedis 🎤
+* Flea 🎸
+* Josh Klinghoffer 🎸
+* Chad Smith 🥁
 
 ## Recordings
 
