@@ -43,12 +43,15 @@
 
 ### Additional Musicians:
 
-*
+* Chris Warren
 
 ## Recordings
 
 * AUD #1 audience audio: Zoom iQ7 > iPhone 11 WAV > FLAC recorded by pompor. Missing "Scar Tissue" and "Snow ((Hey Oh))", plus a few songs cut in due to issues with the microphone detaching.
 * AUD #2 audience audio: Soundman OKM II Rock > A3 > Roland R-07 WAV > FLAC recorded by Pehjott
 * AUD #3 audience audio: SP-CMC-8 > SP-SPSB-10 > Roland R-07 WAV > FLAC recorded by toshi
+* AMT #1 amateur video: built-in > iPhone 14 Pro Max MOV > MP4 [2160p] recorded by Toshi Aizawa
 
 ## Links
+
+* Maimarktgelände: https://www.maimarktgelaende-mannheim.de
