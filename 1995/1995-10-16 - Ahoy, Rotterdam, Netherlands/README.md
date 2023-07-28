@@ -33,7 +33,9 @@
 
 <details>
   <summary>Pictures</summary>
-  <img alt="Setlist" title="Setlist" src="19951016.jpg" height="200" />
+  <img alt="Ticket" title="Ticket" src="19951016t.jpg" height="200" />
+  <img alt="Flyer" title="Flyer" src="19951016f.jpg" height="200" />
+  <img alt="Clipping" title="Clipping" src="19951016.jpg" height="200" />
 </details>
 
 ## Line Up
