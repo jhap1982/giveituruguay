@@ -26,7 +26,8 @@
 
 ## Notes
 
-***Support**: Santigold
+**Support**: Santigold
+<br>
 **Other Acts**: -
 
 ## Media 
@@ -47,4 +48,4 @@
 
 ## Links
 
-* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC "Brendan's Death Song" wasn't recorded due to a technical malfunction.
+* SBD #1 soundboard audio: soundboard > unknown recorder [LiveChiliPeppers.com](http://www.livechilipeppers.com) > FLAC "Brendan's Death Song" wasn't recorded due to a technical malfunction.
