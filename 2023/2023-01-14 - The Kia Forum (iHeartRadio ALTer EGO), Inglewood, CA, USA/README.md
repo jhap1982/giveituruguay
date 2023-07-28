@@ -2,6 +2,17 @@
 
 ## Setlist
 
+1. Intro Jam
+2. Fake as Fuck
+3. Black Summer
+4. Snow ((Hey Oh))
+5. Aquatic Mouth Dance
+6. Californication
+7. The Drummer
+8. Danny's Song part of JOHN
+9. Tippa My Tongue
+10. By the Way
+
 ## Notes
 
 > "Under the Bridge/Soul to Squeeze" and "Eddie" were not performed, probably due to time limits.
