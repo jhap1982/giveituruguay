@@ -21,6 +21,6 @@
 * Josh Klinghoffer
 * Chad Smith
 
-# Recordings
+## Recordings
 
 ## Links
