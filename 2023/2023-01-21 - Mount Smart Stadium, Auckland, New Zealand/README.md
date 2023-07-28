@@ -47,6 +47,6 @@
 * John Frusciante
 * Chad Smith
 
-# Recordings
+## Recordings
 
 * AUD #1 audience audio: DPA > Edirol R-09HR WAV > MP3 recorded by Gareth Gowan
