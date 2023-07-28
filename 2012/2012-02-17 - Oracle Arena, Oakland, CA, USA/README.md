@@ -4,6 +4,8 @@
 
 ## Notes
 
+Rescheduled to August 14, 2012 due to Anthony's foot surgery.
+
 **Other Acts**: -
 
 ## Media 

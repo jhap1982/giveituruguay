@@ -4,14 +4,15 @@
 
 ## Notes
 
+Rescheduled to August 12, 2012 due to Anthony's foot surgery.
+
 **Other Acts**: -
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Ticket" title="Ticket" src="20120227t.jpg" height="200" />  
 </details>
 
 ## Line Up

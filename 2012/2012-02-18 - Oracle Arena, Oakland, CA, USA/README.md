@@ -12,7 +12,7 @@ Rescheduled to August 15, 2012 due to Anthony's foot surgery.
 
 <details>
   <summary>Pictures</summary>
-  <img alt="Ticket" title="Setlist" src="20120218t.jpg" height="200" />
+  <img alt="Ticket" title="Ticket" src="20120218t.jpg" height="200" />
 </details>
 
 ## Line Up
