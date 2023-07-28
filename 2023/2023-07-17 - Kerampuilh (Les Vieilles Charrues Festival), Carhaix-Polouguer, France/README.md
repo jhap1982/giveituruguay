@@ -22,6 +22,11 @@
 17. Under the Bridge
 18. Give It Away
 
+## Notes
+
+**Other Acts**: [Skip the Use](https://skiptheuse.fr)
+
+
 ## Media
 
 <details>
@@ -30,9 +35,12 @@
   <img alt="Flyer" title="Flyer" src="20230717-flyer.jpg" height="200" />
 </details>
 
-## Notes
+## Line Up
 
-**Other Acts**: [Skip the Use](https://skiptheuse.fr)
+* Anthony Kiedis
+* Flea
+* John Frusciante
+* Chad Smith
 
 ## Recordings
 
