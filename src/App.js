@@ -1,3 +1,6 @@
+import React from 'react';
+import RepoList from './RepoList';
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +21,7 @@ function App() {
             Give It Uruguay!
         </a>
       </header>
+          <RepoList />
     </div>
   );
 }
