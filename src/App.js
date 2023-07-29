@@ -1,29 +1,50 @@
-import React from 'react';
-import RepoList from './RepoList';
+import React, { useState, useEffect } from 'react';
 
-import logo from './logo.svg';
+import './RepoList.css';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Coming <code>soon</code>, be patient.
-        </p>
-        <a
-          className="App-link"
-          href="https://giveituruguay.blogspot.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-            Give It Uruguay!
-        </a>
-      </header>
-          <RepoList />
-    </div>
-  );
-}
+import rotatingSvg from './logo.svg'; // Reemplaza 'path-to-your-svg.svg' con la ruta de tu archivo SVG
 
-export default App;
+const RepoList = () => {
+    const [repoContent, setRepoContent] = useState([]);
+
+    useEffect(() => {
+        // Cambia 'jhap1982' por el nombre de usuario y 'giveituruguay' por el nombre del repositorio
+        const repoUrl = 'https://api.github.com/repos/jhap1982/giveituruguay/contents';
+
+        fetch(repoUrl)
+            .then(response => response.json())
+            .then(data => {
+                // Filtrar solo los elementos que son directorios y no son 'public' o 'src'
+                const filteredContent = data.filter(item => item.type === 'dir' && item.name !== 'public' && item.name !== 'src');
+                setRepoContent(filteredContent);
+            })
+            .catch(error => {
+                console.error('Error fetching repository content:', error);
+            });
+    }, []);
+
+    return (
+        <div className="repo-list-container">
+            <div className="centered-text">
+                <h2>Give It Uruguay!</h2>
+                <img src={rotatingSvg} alt="Rotating SVG" className="rotating-svg" />
+            </div>
+            <div className="pill-container">
+                {repoContent.map(item => (
+                    <a
+                        key={item.name}
+                        href={item.html_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="pill"
+                    >
+                        <span>{item.name}</span>
+                    </a>
+                ))}
+            </div>
+        </div>
+    );
+};
+
+export default RepoList;

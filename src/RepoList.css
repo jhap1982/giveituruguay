@@ -10,17 +10,6 @@ body {
     padding: 16px;
 }
 
-.centered-text {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 16px;
-}
-
-    .centered-text h2 {
-        margin: 0;
-    }
-
 .pill-container {
     display: flex;
     flex-wrap: wrap;
@@ -50,20 +39,3 @@ body {
         display: inline-block;
         text-align: center;
     }
-
-.rotating-svg {
-    animation: rotate 4s linear infinite; /* 4s para una vuelta completa (ajusta el valor según lo desees) */
-    width: 80px; /* Ajusta el tamaño del SVG según tus preferencias */
-    height: 80px; /* Ajusta el tamaño del SVG según tus preferencias */
-    margin-top: 16px; /* Ajusta el margen superior para separar el logo del título */
-}
-
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}
