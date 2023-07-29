@@ -1,0 +1,1 @@
+First show outside the California state. This show took place circa October 10–13.
