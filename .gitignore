@@ -39,4 +39,10 @@ yarn-error.log*
 **/*.mp4
 **/*.m4a
 **/*.webm
+**/*.avi
+**/*.wmv
+**/*.flv
+**/*.ogg
+**/*.ape
+**/*.mpeg
 **/*.log
