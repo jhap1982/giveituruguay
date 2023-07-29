@@ -1,0 +1,82 @@
+RED HOT CHILI PEPPERS
+December 1, 1986
+First Avenue
+Minneapolis, MN
+
+
+TRACKS:
+01. Intro
+02. Out In L.A.
+03. Backwoods
+04. Buckle Down
+05. Jam
+06. Jungle Man
+07. Thirty Dirty Birds
+08. Blackeyed Blonde
+09. Green Heaven
+10. Police Helicopter
+11. Anarchy In The U.K.
+12. Party On Your Pussy
+13. Me And My Friends
+14. Yertle The Turtle
+15. Catholic School Girls Rule
+16. Get Up, Stand Up
+17. Get Up And Jump
+18. Nervous Breakdown
+19. Lovin' And Touchin'
+20. If You Want Me To Stay
+21. Nevermind
+ ENCORE
+22. Mommy Where's Daddy
+23. Foxy Lady
+24. You Always Sing The Same
+25. You Always Sing The Same
+26. You Always Sing The Same
+
+LENGTH:
+59:59
+
+SOURCE (AUD #1):
+unknown mic > unknown recorder
+
+TRANSFER:
+TEAC V-680 > Olympus LS-10 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+ANA(1) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This one comes straight from a 1st gen. cassette. The taper was using Dolby C when taping the show. Tape flip is after "Get Up And Jump", no music is missing.
+
+MD5 FINGERPRINTS:
+a215ee7013caae2bae81330cb1123c64 *RHCP_1986-12-01_AUD_t01.flac
+09b414ce54696e2241e115edb2ed1fb6 *RHCP_1986-12-01_AUD_t02.flac
+78e0af7bbd93c2b8d9407868bd312d46 *RHCP_1986-12-01_AUD_t03.flac
+860afa9b9d2e219d6eff6061a864d6f7 *RHCP_1986-12-01_AUD_t04.flac
+ba874b27b0d940120d78d60825504fb1 *RHCP_1986-12-01_AUD_t05.flac
+dc5d1f36f00886e6df17fc8413df7370 *RHCP_1986-12-01_AUD_t06.flac
+37bbc9559b99321d9712dc5838485030 *RHCP_1986-12-01_AUD_t07.flac
+804d1056e45aa7d0f45746d2f7e56c69 *RHCP_1986-12-01_AUD_t08.flac
+d0963c82c9103105228d4087fd5fd9ee *RHCP_1986-12-01_AUD_t09.flac
+0f71f077c4c2980f32b583105e3ca955 *RHCP_1986-12-01_AUD_t10.flac
+cdc391f7014c90fa11511d0ed4a29cd1 *RHCP_1986-12-01_AUD_t11.flac
+162aa895a045fd27194225c78a86c76a *RHCP_1986-12-01_AUD_t12.flac
+01ba1334bbc855ef5aa9faee41fe983d *RHCP_1986-12-01_AUD_t13.flac
+dcb71ff5565889be2d2f09b2a1fb0b0c *RHCP_1986-12-01_AUD_t14.flac
+cee2d1b99e4ed7d4f7f3d2f41502ba85 *RHCP_1986-12-01_AUD_t15.flac
+7d7f6afc8e6861d4ac6dacd090ff4cdb *RHCP_1986-12-01_AUD_t16.flac
+697960731e109096312db2f8652e836c *RHCP_1986-12-01_AUD_t17.flac
+86b90d77cf29e97975eca7bad473f380 *RHCP_1986-12-01_AUD_t18.flac
+3bef246ff32beebd897eab6c0b092b89 *RHCP_1986-12-01_AUD_t19.flac
+96aed22a00c1bebb515f19ab809de04d *RHCP_1986-12-01_AUD_t20.flac
+310f5e43ee7f045e83e4ae9bd438ae0f *RHCP_1986-12-01_AUD_t21.flac
+2ae530b21c469148cb72c6b8d4b8a2fb *RHCP_1986-12-01_AUD_t22.flac
+ea414cb948428abbdb5af5779799c798 *RHCP_1986-12-01_AUD_t23.flac
+b68facdc211fbbac6dd9e3c8f1c996b0 *RHCP_1986-12-01_AUD_t24.flac
+0ba8c050140bb0ead8335cfe951e64b3 *RHCP_1986-12-01_AUD_t25.flac
+2fd84a68205764172e112acdcc3de3c5 *RHCP_1986-12-01_AUD_t26.flac
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
