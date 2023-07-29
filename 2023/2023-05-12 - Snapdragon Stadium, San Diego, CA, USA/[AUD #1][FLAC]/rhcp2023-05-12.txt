@@ -1,0 +1,39 @@
+Red Hot Chili Peppers 
+May 12, 2023
+Snapdragon Stadium
+San Diego, CA
+
+01. [intro]
+02. Intro Jam > Can't Stop
+03. The Zephyr Song
+04. Dani California
+05. Aquatic Mouth Dance
+06. Danny's Song [John]
+07. Otherside
+08. Blood Sugar Sex Magik
+09. London Calling [tease] > Right on Time
+10. Tippa My Tongue
+11. Soul to Squeeze
+12. Eddie
+13. Hard to Concentrate
+14. Carry Me Home
+15. Californication
+16. Black Summer
+17. By The Way
+18. [encore break]
+19. I Could Have Lied
+20. Give It Away
+
+Source: AUD  - audience audio
+Equipment: Zoom H1
+Lineage: Zoom H1 > WAV > Audacity (split into mono & normalized to 0dB) > WAV (right channel only) > Audacity (split into tracks) > FLAC
+Taper: CerpinRemmus
+
+Notes:
+From section 104, row 14, seat 21
+
+Thundercat and The Mars Volta as openers
+
+Due to some issues with my recorder, the left channel was unusable, and it had to be split into mono
+
+If you'd like the audio of TMV from this night, it can be downloaded from themarbleshrine.com
