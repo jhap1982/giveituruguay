@@ -1,0 +1,24 @@
+The Red Hot Chili Peppers
+January 18, 1986
+The Catalyst
+Santa Cruz, CA
+
+from 4 channel cassette master - Soundboard + Microphones matrix mix / excellent sound quality.
+
+CD:   62:3001. "Rocky" Theme  1:1102. Out In L.A.  2:3003. Buckle Down  4:2404. American Ghost Dance  4:1805. Blackeyed Blonde  3:2106. Stranded  1:2307. Jungle Man  4:0408. Green Heaven  4:36
+09. Police Helicopter  1:2010. Yertle The Turtle  4:4711. Battle Ship  2:21
+12. True Men Don't Kill Coyotes  3:5813. Thirty Dirty Birds  0:3614. Get Up and Jump [tease]  0:3015. The Brother's Cup  3:2416. Get Up And Jump  2:36  17. Nevermind  5:3618. Mommy Where's Daddy  3:23
+19. You Always Sing The Same  1:49
+Encore:20. Freaky Styley  4:3421. Bass Jam  1:47
+
+Dolby C Maxell XLII-S cassettes > Yamaha MT44D 4 channel recorder (4 channels of 45 minutes per 90 min. tape in one direction when sensor is on back of cassette)
+ 
+2 channels of monitor soundboard + 2 channels of Crown PZM microphones over stage.
+
+Transfer info: Yamaha MT44D (Dolby C on) > Macintosh with Echo Layla audio interface > AIFF > Pro Tools (matrix mix, time alignment & tracking) > AIFF
+
+FLAC files (level 8) created with xAct. md5 file created with checkSum+.
+
+This is similar to what was previously seeded for this show except for minor remastering improvements, better tracking and known lineage. The setlist was supplied by the previous seeder and indicated some songs that were not tracked separately, so I added those missing track ID's.
+
+Enjoy!
