@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './RepoList.css';
 
 const RepoList = () => {
     const [repoContent, setRepoContent] = useState([]);
@@ -20,17 +21,21 @@ const RepoList = () => {
     }, []);
 
     return (
-        <div>
-            <h2>Dates</h2>
-            <ul>
+        <div className="repo-list-container">
+            <h2>Give It Uruguay!</h2>
+            <div className="pill-container">
                 {repoContent.map(item => (
-                    <li key={item.name}>
-                        <a href={item.html_url} target="_blank" rel="noopener noreferrer">
-                            {item.name}
-                        </a>
-                    </li>
+                    <a
+                        key={item.name}
+                        href={item.html_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="pill"
+                    >
+                        <span>{item.name}</span>
+                    </a>
                 ))}
-            </ul>
+            </div>
         </div>
     );
 };
