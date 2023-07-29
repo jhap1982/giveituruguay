@@ -1,0 +1,52 @@
+RED HOT CHILI PEPPERS
+August 17, 1985
+Freilichtbühne Loreley (Loreley Open Air)
+St. Goarshausen, Germany
+
+
+TRACKS:
+01. Out In L.A.
+02. Jungle Man
+03. Buckle Down
+04. Green Heaven
+05. Hollywood
+06. Stranded
+07. Blackeyed Blonde
+08. Baby Appeal / You Always Sing The Same
+09. True Men Don't Kill Coyotes
+10. Get Up And Jump
+11. Battle Ship
+12. Fire
+
+LENGTH:
+49:45
+
+TRANSFER:
+SONY DVD RW DW-G120A > EAC V1.0 beta 3 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+"Anthoney's Penis" CD > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+EAC WAV rip of liberated bootleg "Anthoney's Penis" (Shout To The Top), disc 1 (STTP 076). The CD's tray card mistakenly says "Disc 1 Live in Los Angeles Mar 17, 1985", as disc 1 features the performance at the Loreley Open Air on August 17, 1985, sourced from a WDR Rockpalast TV broadcast or video.
+
+FLAC FINGERPRINTS:
+rhcp1985-08-17t01.flac:ba384a2fa5d4a6960d9c3e5f946b41a9
+rhcp1985-08-17t02.flac:d9e96fa5bba0c1db80f1569dc1f47d0e
+rhcp1985-08-17t03.flac:42838950e3a95c33bf29d79ec2b3de4a
+rhcp1985-08-17t04.flac:f087185c26f2a77c66e7cd734eb2bbbf
+rhcp1985-08-17t05.flac:557e7284c9a6f541a5a0846ac761d076
+rhcp1985-08-17t06.flac:ed10058f7decc96c3e142eaef443fb88
+rhcp1985-08-17t07.flac:d0649a9e783a81af1828b8d1c7ecc347
+rhcp1985-08-17t08.flac:78c4ec765f6cfa347aedacdc41197623
+rhcp1985-08-17t09.flac:aad66203c87a9b2c15b615e958aff182
+rhcp1985-08-17t10.flac:f06a8f67135206afd8f936bc9694751e
+rhcp1985-08-17t11.flac:75f00c849ed653ce831bb809d8e055e2
+rhcp1985-08-17t12.flac:2ee96707758ba9a9a5e382669e1987cf
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
