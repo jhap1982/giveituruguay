@@ -1,5 +1,21 @@
+# other
+torrent
+**/*.torrent
 **/*.flac
+**/*.mp3
+**/*.wav
+**/*.vob
+**/*.mpg
+**/*.mkv
+**/*.mp4
 **/*.m4a
 **/*.webm
-**/*.mp3
-**/*.torrent
+**/*.avi
+**/*.wmv
+**/*.flv
+**/*.ogg
+**/*.ape
+**/*.mpeg
+**/*.rar
+**/*.zip
+**/*.log
