@@ -4,7 +4,7 @@
 
 ## Notes
 
-> The festival was cancelled due to the worldwide COVID-19 pandemic.
+> Cancelled due to the worldwide COVID-19 pandemic. The event would broadcast performances from five continents: Central Park in New York, Lagos in Nigeria and unconfirmed cities in Latin America, Europe, and Asia.
 
 ## Media 
 
