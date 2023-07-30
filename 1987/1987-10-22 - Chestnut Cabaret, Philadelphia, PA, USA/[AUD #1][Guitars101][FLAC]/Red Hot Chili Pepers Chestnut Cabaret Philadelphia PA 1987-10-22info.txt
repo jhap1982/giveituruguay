@@ -1,0 +1,40 @@
+Red Hot Chili Peppers Chestnut Cabaret Philadelphia PA 1987-10-22 (Support: Faith No More)
+
+Recording:
+2 Sennheiser 441 > Sony TCD 5m (No Dolby NR)
+
+A/D transfer-file prepration:
+Nakamichi Dragon > Audio Antiquary mastering preamp (Telefunken C3g tube) > QES Labs PAD-2 LE mk II(A/D 9624) > OSX Bias Peak Pro 7 > xACT 
+
+****Lineage for 16Bit/44Khz version: 24Bit/96Khz files > TLH > WAV> r8brain (downsample to 16Bit/44Khz) > TLH > FLAC (Level 8) ; new FFP
+
+
+Notes:
+very low levels first 22 seconds 
+master cassette flip appeared to happen because the taper probably didn’t realize the song wasn’t over even though it seemed like it. 
+This is essentially a straight raw transfer of the cassette master. Nothing other than tracking was done to digital file. No use raising the first 22 seconds as that would just make the hiss loud and preserving the entire recording matters more than cosmetic edits. There was nothing to be done with the cassette flip cut. No patch available and no blend or crossfade was going to help.
+
+Tracks:
+01. walk on…
+02. Out in L.A.
+03. Buckle Down 
+04. Blackeyed Blonde 
+05. Backwoods 
+06. Me and My Friends 
+07. Fight Like a Brave 
+08. Green Heaven 
+09. Police Helicopter 
+10. 30 Dirty Birds 
+11. Whole Lotta Love/What is Soul?/Back In Black 
+12. Special Secret Song Inside 
+13. Nervous Breakdown 
+14. Subterranean Homesick Blues 
+15. Anarchy in the UK 
+16. Skinny Sweaty Man 
+17. Love Trilogy 
+18. Stranded 
+19. Get Up and Jump 
+20. Nevermind 
+21. Mommy Where’s Daddy? 
+22. Fire 
+23. Send off
