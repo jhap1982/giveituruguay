@@ -1,0 +1,83 @@
+RED HOT CHILI PEPPERS
+November 8, 1987
+Graffiti Showcase
+Pittsburgh, PA
+
+TRACKS:
+01. Out In L.A.
+02. American Ghost Dance
+03. Me And My Friends
+04. We're The Good Time Boys jam
+05. Fight Like A Brave
+06. We Got The Biggest Cocks
+07. Blackeyed Blonde
+08. Green Heaven
+09. Police Helicopter
+10. We Got The Neutron Bomb
+11. Party On Your Pussy
+12. Thank You (Falettinme Be Mice Elf Agin) jam
+13. Buckle Down
+14. Flashlight jam
+15. Subterranean Homesick Blues
+16. Backwoods [cuts]
+17. Jam
+18. Skinny Sweaty Man
+19. Love Trilogy
+20. I Wanna Be Your Dog
+21. Whole Lotta Love > What Is Soul? > Back In Black
+22. True Men Don't Kill Coyotes
+23. Get Up And Jump
+24. Nevermind
+25. Yertle The Turtle
+26. Freaky Styley
+27. Cosmic Slop
+28. Fire
+
+LENGTH:
+72:17
+
+SOURCE (SBD #1):
+soundboard > unknown recorder
+
+TRANSFER:
+PC > Adobe Audition 1.5 > CD Wave 1.97 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+ANA > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+MD5 CHECKSUMS:
+bf656919c9d527bd661d615a769bc4c3 *RHCP_1987-11-08_SBD_t01.flac
+666860780c96111c5b5abceeb22b59fb *RHCP_1987-11-08_SBD_t02.flac
+6cbae164b4032d91949cd9ff629552f1 *RHCP_1987-11-08_SBD_t03.flac
+34675d8691e09355deee33afac88429d *RHCP_1987-11-08_SBD_t04.flac
+adb4342e12b5656132e4b97722769a03 *RHCP_1987-11-08_SBD_t05.flac
+71f7ca02096c57a8af62b20a5258101d *RHCP_1987-11-08_SBD_t06.flac
+a1e5867892f0362f3c77a0084000fd39 *RHCP_1987-11-08_SBD_t07.flac
+5cf3210933050ea6c69cce1c96797ada *RHCP_1987-11-08_SBD_t08.flac
+fb1a9e4ed085ab37774c0c58557f0c8e *RHCP_1987-11-08_SBD_t09.flac
+05a52bcf50c5ea2d36c78b9eaf921384 *RHCP_1987-11-08_SBD_t10.flac
+145233ef94d257f87701e44cb89c8b01 *RHCP_1987-11-08_SBD_t11.flac
+e1a4989d031d16382a21d7b0e1fa8d68 *RHCP_1987-11-08_SBD_t12.flac
+7c7dabb8b34dafbf924c33ef51194f43 *RHCP_1987-11-08_SBD_t13.flac
+69a5dff7562f27cba3163b9767b76bc4 *RHCP_1987-11-08_SBD_t14.flac
+b7d3c65a0572759404e3d1a65411945f *RHCP_1987-11-08_SBD_t15.flac
+c8484b7da5750db2c732ed9718331fbb *RHCP_1987-11-08_SBD_t16.flac
+5e3d1648693cbc4a88d64302183fd131 *RHCP_1987-11-08_SBD_t17.flac
+2c4fb0bff3fe4abfa72b6afd0e69698c *RHCP_1987-11-08_SBD_t18.flac
+21064bfaa98094d5ad8b6099b52f8ed2 *RHCP_1987-11-08_SBD_t19.flac
+1bf21a551742b42df92b64b970768f95 *RHCP_1987-11-08_SBD_t20.flac
+4bdd710cc20e6592092fac07e123e767 *RHCP_1987-11-08_SBD_t21.flac
+ebd6bfb016c18b648a0a907253ae1b55 *RHCP_1987-11-08_SBD_t22.flac
+1b9939c1fecd6ab33bb4b03b36439d5a *RHCP_1987-11-08_SBD_t23.flac
+3280af9cd4f8adbec348b5c066816214 *RHCP_1987-11-08_SBD_t24.flac
+54ae7d251411695d3d8cd799228ab806 *RHCP_1987-11-08_SBD_t25.flac
+cb97d13a8c0baf56a8c8851430efb012 *RHCP_1987-11-08_SBD_t26.flac
+78551a99d4405fd1c812464106f3848b *RHCP_1987-11-08_SBD_t27.flac
+6d5bcf4ab9d1073b921b500414f77f4a *RHCP_1987-11-08_SBD_t28.flac
+
+EDITED & COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
