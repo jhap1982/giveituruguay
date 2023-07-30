@@ -1,0 +1,68 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+August 25, 1994
+Dalymount Park (Sunstroke '94)
+Dublin, Ireland
+
+
+TRACKS:
+01. Grand Pappy Du Plenty (intro) 
+02. Give It Away
+03. Suck My Kiss
+04. Warped
+05. Stone Cold Bush
+06. Sunday Bloody Sunday (jam)
+07. If You Have To Ask
+08. Backwoods
+09. Aeroplane
+10. Blood Sugar Sex Magik
+11. Cornocupia (intro) > Higher Ground
+12. My Lovely Man
+13. Under The Bridge
+14. Me And My Friends
+15. The Power Of Equality 
+
+LENGTH:
+61:58
+
+SOURCE (SBD #1):
+soundboard > unknown recorder
+
+TRANSFER:
+TEAC V-680 > Olympus LS-10 > Adobe Audition 1.5 > SRCdrop V0.6.4 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+FM > ANA(M) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This goody comes from the Irish RTÉ 2fm radio broadcast, aired in 1994, which I've transferred from a master cassette. The broadcast has been sanitized meaning there has been some editing over offensive words. Apparently "Pea" was in the set as well but it was not broadcast for obvious reasons. I assume it was played after "Higher Ground" as Anthony Kiedis sings a few lines of it before they start "My Lovely Man". "Blood Sugar Sex Magik" cuts at its ending due to the tape filp, other than that nothig of the broadcast is missing.
+
+All credits go to Stephen Mahon, who not only witnessed this performance live as it took place, but also lent me his cassette master for releasing this uncircualted recording almost 20 years after the show's happening!!
+
+MD5 FINGERPRINTS:
+8b3df83b284a7644fa6c283f59f6f113 *RHCP_1994-08-25_FM_t01.flac
+24bc66b1f2ed014e457d53cc74e4fc54 *RHCP_1994-08-25_FM_t02.flac
+efc074069ee095e2fb5431c90a0f36ec *RHCP_1994-08-25_FM_t03.flac
+832de092aa876886793d26238ebd5734 *RHCP_1994-08-25_FM_t04.flac
+f5ff8722b91ef40c42d1c2c9d2b4412a *RHCP_1994-08-25_FM_t05.flac
+f6500f3cb27db9cf5658cda5760eed27 *RHCP_1994-08-25_FM_t06.flac
+60453577d45b22164cb8d9b182c2bd54 *RHCP_1994-08-25_FM_t07.flac
+252edfdfbee750559cb3b8f809956667 *RHCP_1994-08-25_FM_t08.flac
+1e141d95a89d0aa2135abad52d17f436 *RHCP_1994-08-25_FM_t09.flac
+3837606142e12c924102b15f6629b4c7 *RHCP_1994-08-25_FM_t10.flac
+71b20ab6a75674c8697392240aba96e6 *RHCP_1994-08-25_FM_t11.flac
+d62892d71776f4df942b6bfe42801d92 *RHCP_1994-08-25_FM_t12.flac
+6d18d35d74edfc1f87669c3ce249506d *RHCP_1994-08-25_FM_t13.flac
+c5f402205ae9213be6bb5a465540b093 *RHCP_1994-08-25_FM_t14.flac
+05679ac77ab0ade0eeeec6e10c04815b *RHCP_1994-08-25_FM_t15.flac
+
+RECORDED BY:
+STEPHEN MAHON
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
