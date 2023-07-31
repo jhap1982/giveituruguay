@@ -1,0 +1,87 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+October 20, 1989
+The Channel
+Boston, MA
+
+
+TRACKS:
+01. Out In L.A.
+02. Backwoods
+03. Dr. Funkenstein
+04. Funky Crime
+05. Stone Cold Bush
+06. Hit It And Quit It
+07. Boyz-N-The-Hood
+08. Party On Your Pussy
+09. Pretty Little Ditty
+10. Higher Ground
+11. We Got The Biggest Cocks
+12. Hollywood
+13. Magic Johnson
+14. Knock Me Down
+15. Inca Roads (John)
+16. Blackeyed Blonde
+17. Anarchy In The U.K.
+18. Organic Anti-Beat Box Band
+19. Mommy Where's Daddy
+20. Castles Made Of Sand
+21. Nevermind
+ ENCORE
+22. Yertle The Turtle
+23. Freaky Styley
+24. Cosmic Slop
+25. Crosstown Traffic
+
+LENGTH:
+72:02
+
+SOURCE (AUD #1):
+unknown mic > unknown recorder
+
+TRANSFER:
+Onkyo TA-RW344 (w/ azimuth correction) > M-Audio Microtrack II > Adobe Audition 3.0 > Audacity 2.0.3 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+ANA(x) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This is an upgrade for all circulating versions, transferred from a lower generation tape. The transfer was a bit sped up, hence I adjusted the speed in Audacity to about the same pace as it was on the other tranfer. During "Crosstown Traffic" the levels go up extremely high for about 9 seconds seconds. I tried to lower the volume for this part but it doesn't really help, this is the way the tape was recorded in the first place. Thanks to Milo for transferring this for us!
+
+MD5 FINGERPRINTS:
+cc5b44f18aae33be040b049be83cabf5 *RHCP_1989-10-20_t01.flac
+1bb85acd6e81ecb1da03f625b938a459 *RHCP_1989-10-20_t02.flac
+67cc66f4498c41702e6d66c149918c31 *RHCP_1989-10-20_t03.flac
+6ea3cd9e3b7916bde63a790038af9585 *RHCP_1989-10-20_t04.flac
+aca78b9b7f69d6139bcc0ff6fee40c2a *RHCP_1989-10-20_t05.flac
+5cc58b755ff2b862b8795f8b74d0c6b5 *RHCP_1989-10-20_t06.flac
+9f399dae32c62c0e988c81a0efc4e6f3 *RHCP_1989-10-20_t07.flac
+628476e72c821f1f9da538812ca0d5eb *RHCP_1989-10-20_t08.flac
+a4f8d56ba6187281844c04d655c201cd *RHCP_1989-10-20_t09.flac
+62158bea3ec2b135e4473f1f97fd3865 *RHCP_1989-10-20_t10.flac
+be330a6867a21b7b4eeaa6e7a9839dc8 *RHCP_1989-10-20_t11.flac
+5803694ce4cac4f05c729b0eacaca231 *RHCP_1989-10-20_t12.flac
+4fc253d40f79f24ba4267bc919e04b57 *RHCP_1989-10-20_t13.flac
+73c91b0d6149c8356ca8ecc9cd109a3d *RHCP_1989-10-20_t14.flac
+b508af0af3d11b384497703e5cede473 *RHCP_1989-10-20_t15.flac
+5f7521a10898c9519f0631ef8612908c *RHCP_1989-10-20_t16.flac
+97b590e5fb3585f648396f6f9289927d *RHCP_1989-10-20_t17.flac
+e359a00c83d58e1d9604830dfa23aba4 *RHCP_1989-10-20_t18.flac
+46fb4042a896fe5affe2c0f938650e4d *RHCP_1989-10-20_t19.flac
+3949e19454c9704d73708391c836ede6 *RHCP_1989-10-20_t20.flac
+739ee8dc90d4339a29bfd76c6fc35e3c *RHCP_1989-10-20_t21.flac
+e60404c7d56aa62ab6ef3222d6b2d3b9 *RHCP_1989-10-20_t22.flac
+6f69ba8a53f89444f1992d7b1d1f7ec2 *RHCP_1989-10-20_t23.flac
+01fd2caedd4c836bd62ebef16bdd68e9 *RHCP_1989-10-20_t24.flac
+5896ed82808221dcadaffbfe5b207802 *RHCP_1989-10-20_t25.flac
+
+TRANSFERRED BY:
+Milo Campo
+
+COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
