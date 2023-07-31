@@ -1,0 +1,89 @@
+RED HOT CHILI PEPPERS
+September 17, 1989
+The Catalyst
+Santa Cruz, CA
+
+
+TRACKS:
+01. Out In L.A. 
+02. Backwoods 
+03. Dr. Funkenstein 
+04. Funky Crime 
+05. Hit It And Quit It 
+06. Subway To Venus 
+07. Boys In The Hood 
+08. Party On Your Pussy 
+09. Pretty Little Ditty 
+10. Higher Ground 
+11. Hollywood 
+12. Knock Me Down 
+13. Anthony's Policy Rap 
+14. Love Trilogy 
+15. My Michelle 
+16. Jam 
+17. Stone Cold Bush 
+18. Castles Made Of Sand 
+19. Me And My Friends 
+20. Magic Johnson 
+21. Organic Anti-Beat Box Band 
+22. Bulletproof 
+23. Get Up And Jump 
+24. Inca Roads (John)
+25. Nevermind
+ ENCORE
+26. Nobody Weird Like Me 
+27. Crosstown Traffic
+
+LENGTH:
+73:04
+
+SOURCE (AUD):
+2 tie clip mics > Awai walkman
+
+TRANSFER:
+Onkyo TA-RW344 (w/ azimuth correction) > M-Audio Microtrack II > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This a transfer from the master cassette, done by the taper in 2013. The tape flip is at the very end of "Love Trilogy" and there is a cut after "Nevermind" in the encore break.
+
+MD5 FINGERPRINTS:
+8f6a42edf23afc0c3f35e7ca5324063c *RHCP_1989-09-17_AUD_t01.flac
+929f34bd0b96e63f076bf2df139f1816 *RHCP_1989-09-17_AUD_t02.flac
+4b7dcfbe904fbd8e1d0d22dd83ce13b1 *RHCP_1989-09-17_AUD_t03.flac
+f9bbbd094d231057b5e1be04007a80cd *RHCP_1989-09-17_AUD_t04.flac
+d51b3a26905b121c1e39b41b244870f9 *RHCP_1989-09-17_AUD_t05.flac
+c8b37958a252f8cee6bc057fe0d417d0 *RHCP_1989-09-17_AUD_t06.flac
+183331647c32132e83eff21f9a19a9d2 *RHCP_1989-09-17_AUD_t07.flac
+adb85a476ca3bbb0dbb7ecb439bfee08 *RHCP_1989-09-17_AUD_t08.flac
+9d1acf50f6b4a1fe9094f52048eade7a *RHCP_1989-09-17_AUD_t09.flac
+8e9d2034f944b7773a44d84be06f0f16 *RHCP_1989-09-17_AUD_t10.flac
+fa4080bcb87e41b1f0a116e1a42b7d16 *RHCP_1989-09-17_AUD_t11.flac
+6d765c66942b738aa9b048b8ab99ccf1 *RHCP_1989-09-17_AUD_t12.flac
+54e55e5ca4e6ed3db7433ad54d62fe36 *RHCP_1989-09-17_AUD_t13.flac
+fd3d895bc2c8160af300ccbe1c0a0386 *RHCP_1989-09-17_AUD_t14.flac
+4afece7afd913b978da6208e4289e4fa *RHCP_1989-09-17_AUD_t15.flac
+5f1ec115427977c873f3e1c08db83d39 *RHCP_1989-09-17_AUD_t16.flac
+9227e5ed39535f22a11fcb6aa40dad59 *RHCP_1989-09-17_AUD_t17.flac
+d581ef5a59dbba0f532c157956149edc *RHCP_1989-09-17_AUD_t18.flac
+b879e335bfa9f49677bd18b01175232e *RHCP_1989-09-17_AUD_t19.flac
+c670c6f882cfe45f5e88f2266bc45cd5 *RHCP_1989-09-17_AUD_t20.flac
+11b9e9856bcab5cc788b46dfa247ffc8 *RHCP_1989-09-17_AUD_t21.flac
+e27ac17d11bf72e936fbf04561e2cbb6 *RHCP_1989-09-17_AUD_t22.flac
+af3f6cf6004cf1f7883fed9d5bcc9b3c *RHCP_1989-09-17_AUD_t23.flac
+38da138e839bcd77e730a1dbbdd90dde *RHCP_1989-09-17_AUD_t24.flac
+e67a535f84fe9566ee83523c446e7d80 *RHCP_1989-09-17_AUD_t25.flac
+759c405c592a73640ee17017c200cdb3 *RHCP_1989-09-17_AUD_t26.flac
+8c3fdff2128463c122c70b84ff0fb3e8 *RHCP_1989-09-17_AUD_t27.flac
+
+RECORDED AND TRANSFERRED BY:
+Milo Campo
+
+COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
