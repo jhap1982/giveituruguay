@@ -2,6 +2,7 @@ temp
 **/*.torrent
 **/*.flac
 **/*.mp3
+**/*.ogg
 **/*.wav
 **/*.vob
 **/*.mpg
@@ -9,4 +10,8 @@ temp
 **/*.mp4
 **/*.m4a
 **/*.webm
+**/*.ts
+**/*.avi
+**/*.rar
+**/*.zip
 **/*.log
