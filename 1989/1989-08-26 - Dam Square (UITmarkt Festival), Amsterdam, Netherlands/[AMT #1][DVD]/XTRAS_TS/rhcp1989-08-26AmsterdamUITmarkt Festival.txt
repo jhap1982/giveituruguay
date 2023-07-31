@@ -1,0 +1,33 @@
+Artist:  	Red Hot Chili Peppers
+Date: 	1989-08-26
+City: 	Amsterdam
+Country:    Netherlands
+Venue: 	Dam Square (UITmarkt Festival)
+
+Lineage: AUD VHS(X gen) - Stand alone DVD - PC (DVDFab)
+Video system: PAL  25.000 fps
+Video Bitrate: 9138
+Audio codec: AC3
+Audio bitrate: 256 kb/s
+Length: 35 min
+No menu
+Chapters every 10 min
+
+
+Setlist: 	
+
+Out In L.A.
+Backwoods
+Subway To Venus
+Magic Johnson Jam
+Castles Made Of Sand
+Subterranean Homesick Blues
+Good Time Boys
+We Got The Biggest Cocks
+Mommy Where's Daddy
+Bullet Proof 
+
+
+
+
+
