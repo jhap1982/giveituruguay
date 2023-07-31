@@ -1,0 +1,17 @@
+Red Hot Chili Peppers
+Date: 		1998-06-14
+Venue: 		Robert F. Kennedy Memorial Stadium (Tibetan Freedom Concert), Washington D.C., USA
+Length: 	16m20s
+Taper:		Markit Aneight
+Lineage: 	Cam Hi8(m) > VHS > DVD
+Source		AMT#1
+Media:		DVD NTSC
+Video info: 	mpeg2 720x576 5500kb/s(VBR) 29,97/NTSC
+Audio info: 	AC3 256kb/s 48kHz
+Comment:	
+More info:	http://www.rhcplivearchive.com/show/jun-14-1998-washington-dc-357
+
+Setlist:
+Give It Away
+Under The Bridge
+The Power Of Equality
