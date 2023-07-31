@@ -1,0 +1,90 @@
+
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+November 27, 1989
+Barrymore Theater
+Madison, WI
+
+
+TRACKS:
+01. Intro
+02. Out In L.A.
+03. Backwoods
+04. Dr. Funkenstein
+05. Funky Crime
+06. Stone Cold Bush
+07. Standing On The Verge Of Getting It On
+08. American Ghost Dance
+09. Skinny Sweaty Man
+10. Good God Jam
+11. Boyz-N-The-Hood
+12. Party On Your Pussy
+13. Pretty Little Ditty
+14. Jam
+15. Knock Me Down
+16. Hollywood (cuts)
+17. Subterranean Homesick Blues
+18. Sexy Mexican Maid
+19. Back In Black
+20. Get Up And Jump
+21. Castles Made Of Sand
+22. Me And My Friends
+23. Inca Roads (John)
+24. Nevermind
+ ENCORE
+25. Mommy Where's Daddy
+26. Crosstown Traffic
+
+LENGTH:
+72:26
+
+SOURCE (AUD #1):
+unknown mic > unknown recorder
+
+TRANSFER:
+TEAC V-680 > Adobe Audition 1.5 > CD Wave 1.95.2 > Trader's Little Helper 1.1.0
+
+GENERATION:
+ANA(x) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+Due to the tape flip "Hollywood" cuts.
+
+MD5 FINGERPRINTS:
+0dd02c849ed3a317ae4f7c0af41063cc *RHCP_1989-11-27_AUD_t01.flac
+b6ccb10f242753d47e54d61547c07de1 *RHCP_1989-11-27_AUD_t02.flac
+447feca00ddb108523d7c09788ceed31 *RHCP_1989-11-27_AUD_t03.flac
+abbc25dec9ed7cf67738385620f2c7bf *RHCP_1989-11-27_AUD_t04.flac
+9d066b839375c1e8740eab9e2835972a *RHCP_1989-11-27_AUD_t05.flac
+dbc82dec6947b85c1f3d5cffbef8a538 *RHCP_1989-11-27_AUD_t06.flac
+ea86ad15ab4c1ad4ffd789572d3dfffd *RHCP_1989-11-27_AUD_t07.flac
+577c49f10d7ebee3f27dbc5b75f90c95 *RHCP_1989-11-27_AUD_t08.flac
+ca1e086263eafe931e4a482d12219948 *RHCP_1989-11-27_AUD_t09.flac
+a4922245f4835939e45abb7738b9e7b5 *RHCP_1989-11-27_AUD_t10.flac
+d1ae540c5f68868373672ac37107cf44 *RHCP_1989-11-27_AUD_t11.flac
+afbe34529820da4154521b81b5b41fe0 *RHCP_1989-11-27_AUD_t12.flac
+32d36281df80fc064a1608de4e327cfc *RHCP_1989-11-27_AUD_t13.flac
+31603b665974e712e7c6a6820e43a5de *RHCP_1989-11-27_AUD_t14.flac
+c2df5c6b01c7aaac22c69f5dfa8dccc8 *RHCP_1989-11-27_AUD_t15.flac
+90e0634e8677b701f7939967dc43e767 *RHCP_1989-11-27_AUD_t16.flac
+c9b64fbf799f699d96d347368210268a *RHCP_1989-11-27_AUD_t17.flac
+3fddbb9a2972589c707e5cda5631810c *RHCP_1989-11-27_AUD_t18.flac
+7a95146724d9a8b7490579458bcb58d4 *RHCP_1989-11-27_AUD_t19.flac
+645c2a188d670e4453147ea42708b854 *RHCP_1989-11-27_AUD_t20.flac
+beddf755f69a998e7befedb457a5dca6 *RHCP_1989-11-27_AUD_t21.flac
+b2095fb6e62cbd93218fbab7cdec6284 *RHCP_1989-11-27_AUD_t22.flac
+0ef69c8124c8e2ad1430dac48ede0d2a *RHCP_1989-11-27_AUD_t23.flac
+449d7cc5a9a5508082d6ca14173d8e13 *RHCP_1989-11-27_AUD_t24.flac
+6e6e324a98f9f6f0dba49ea7d243601a *RHCP_1989-11-27_AUD_t25.flac
+9d37a64bc5d2a0d14cd9041b97d7ce2a *RHCP_1989-11-27_AUD_t26.flac
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
+oldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
