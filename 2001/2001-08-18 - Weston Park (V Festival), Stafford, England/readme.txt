@@ -1,0 +1,29 @@
+Setlist
+Intro Jam
+Give It Away
+Scar Tissue
+Higher Ground
+Christine
+If You Have to Ask
+Otherside
+I Could Have Lied
+Fortune Faded
+Untitled #3 JOHN
+Parallel Universe
+Universally Speaking
+Californication
+What Is Soul? jam
+London Calling tease
+Right on Time
+Forming II JOHN
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Soul to Squeeze
+The Power of Equality
+Search and Destroy
+Outro Jam
+
+AUD #1
+audience audiounknown mic > unknown recorderMD(M) > FLACrecorded by Elliot GrieveDOWNLOADLISTEN  AMT #1
+amateur videobuilt-in > unknown cameraVHS(x) > DVDrecorded by Elliot Grieve
