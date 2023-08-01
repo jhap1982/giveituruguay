@@ -1,0 +1,33 @@
+Red Hot Chili Peppers
+March 16, 2018
+Hipodromo de San Isidro (Lollapalooza)
+Buenos Aires, Argentina
+
+01. Intro Jam
+02. Can't Stop
+03. Snow ((Hey Oh))
+04. The Zephyr Song
+05. Dark Necessities
+06. Jam 1
+07. Strip My Mind
+08. Nevermind
+09. Go Robot
+10. Jam 2
+11. Californication
+12. Jam 3
+13. Tell Me Baby
+14. Jam 4
+15. If
+16. Higher Ground
+17. Hump De Bump
+18. Under The Bridge
+19. Jam 5
+20. By The Way
+21. Encore Jam
+22. Goodbye Angels
+23. Jam 6
+24. Give It Away
+
+Source: built-in > iPhone 7
+Lineage: WAV > Audacity (minor edits, normalize, & fades) > CD Wave (tracking) > Trader's Little Helper (level 8) > FLAC > Foobar2000 (tagging) 
+Taper: Leni - www.rhcplivearchive.com

@@ -1,0 +1,38 @@
+Red Hot Chili Peppers 
+Lollapalooza Argentina
+Main Stage 1
+Hipódromo de San Isidro, Buenos Aires, Argentina  
+March 16 2018
+
+
+Source: livestream
+Transfer: ffmpeg -> mkvmerge (edit & sync) -> .mkv
+Video: MPEG4 Video (H264) 1280x720 25fps 2500kbps
+Audio: AAC 44100Hz stereo 128 kbps
+Length: 01:36:11
+
+
+SETLIST   
+
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+Strip My Mind 
+Nevermind
+Go Robot *
+Californication
+Tell Me Baby
+If
+Higher Ground (Stevie Wonder cover)
+Hump De Bump
+Under the Bridge
+By the Way
+
+Encore:
+Goodbye Angels
+Give It Away
+
+
+*Notes: there are some missing frames during Go Robot
