@@ -1,27 +1,39 @@
-import React from "react";
-import "./RepoList.css";
-import rotatingSvg from "./logo.svg";
+import React from 'react';
+import './RepoList.css';
+import rotatingSvg from './logo.svg'; // Importamos el logo SVG correctamente
+
+const RotatingSvg = () => {
+  return (
+    <div className="logo-container">
+      <img
+        className="rotating-logo"
+        src={rotatingSvg} // Utilizamos la variable rotatingSvg para el src
+        alt="Red Hot Chili Peppers Logo"
+      />
+    </div>
+  );
+};
 
 const RepoList = ({ directories }) => {
   return (
     <div className="container">
       <h1>Give It Uruguay!</h1>
-      <div className="logo-container">
-        <img src={rotatingSvg} alt="Logo" className="rotating-logo" />
-      </div>
-      <div className="repo-list">
-        {directories.map((directory, index) => (
-          <a
-            key={index}
-            href={`https://github.com/jhap1982/giveituruguay/tree/main/${directory}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="pill-link"
-          >
-            {directory}
-          </a>
+      <RotatingSvg />
+      <ul className="repo-list">
+        {directories.map((directory) => (
+          <li key={directory.name}>
+            <a
+              title={directory.name}
+              href={directory.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pill-link"
+            >
+              {directory.name}
+            </a>
+          </li>
         ))}
-      </div>
+      </ul>
     </div>
   );
 };
