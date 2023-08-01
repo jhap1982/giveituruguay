@@ -1,100 +1,63 @@
-.repo-list-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
+.repo-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pill-link {
+  display: block;
+  margin: 5px;
+  padding: 10px 15px;
+  background-color: #d31313;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 16px;
+}
+
+.pill-link:hover {
+  background-color: #ac0e0e;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.rotating-logo {
+  animation: rotation 2s infinite linear;
+  width: 80px;
+  height: 80px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
   }
-  
-  .centered-text {
-    display: flex;
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Estilos responsivos */
+@media screen and (max-width: 768px) {
+  .repo-list {
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .repo-list {
     flex-direction: column;
     align-items: center;
-    margin-bottom: 16px;
   }
-  
-  .centered-text h2 {
-    margin: 0;
-  }
-  
-  .pill-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-  
-  .pill {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 8px 16px;
-    border-radius: 50px;
-    background-color: #b20000; /* Rojo inspirado en Red Hot Chili Peppers */
-    color: #fff;
-    text-decoration: none;
-    cursor: pointer;
-    font-weight: bold;
-    text-transform: uppercase;
-    transition: background-color 0.3s ease;
-  }
-  
-  .pill:hover {
-    background-color: #d60000; /* Rojo más oscuro al pasar el cursor */
-  }
-  
-  .pill span {
-    display: inline-block;
-    text-align: center;
-  }
-  
-  .logo-svg {
-    animation: rotate 5s linear infinite; /* 5s para una vuelta completa (ajusta el valor según lo desees) */
-    width: 80px; /* Ajusta el tamaño del SVG según tus preferencias */
-    height: 80px; /* Ajusta el tamaño del SVG según tus preferencias */
-    margin-top: 16px; /* Ajusta el margen superior para separar el logo del título */
-  }
-  
-  @keyframes rotate {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  
-  .selected-folder-container {
-    margin-top: 20px;
-  }
-  
-  .selected-folder-container h3 {
-    margin-bottom: 10px;
-  }
-  
-  .selected-folder-container table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-  }
-  
-  .selected-folder-container th,
-  .selected-folder-container td {
-    padding: 8px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  .volver-btn {
-    background-color: #d60000; /* Rojo inspirado en Red Hot Chili Peppers */
-    color: #fff;
-    border: none;
-    padding: 8px 16px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    text-transform: uppercase;
-    transition: background-color 0.3s ease;
-  }
-  
-  .volver-btn:hover {
-    background-color: #b20000; /* Rojo más oscuro al pasar el cursor */
-  }
-  
+}
+
+/* Estilos para centrar el título */
+h2 {
+  text-align: center;
+}

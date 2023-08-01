@@ -1,4 +1,3 @@
-<<<<<<< .mine
 # GiveItUruguay
 
 * Github page: https://jhap1982.github.io/giveituruguay
@@ -73,5 +72,3 @@ Special mentions:
 * Gong Li (Narod)
 * Ati Chlli
 * OzPedia Peppers
-
->>>>>>> .theirs

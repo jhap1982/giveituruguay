@@ -1,88 +1,39 @@
-import React, { useState, useEffect } from 'react';
-import './RepoList.css';
-import logoSvg from './logo.svg'; // Reemplaza 'logo.svg' con la ruta de tu archivo SVG
+import React from "react";
+import "./RepoList.css";
+import rotatingSvg from "./logo.svg";
 
 const RepoList = () => {
-  const [repoContent, setRepoContent] = useState([]);
-  const [selectedFolderContent, setSelectedFolderContent] = useState([]);
-  const [showTable, setShowTable] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [selectedPill, setSelectedPill] = useState('');
-
-  useEffect(() => {
-    // Corregir la ruta para apuntar correctamente al archivo repoContent.json en la carpeta public
-    fetch(process.env.PUBLIC_URL + '/repoContent.json')
-      .then(response => response.json())
-      .then(data => setRepoContent(data))
-      .catch(error => console.error('Error fetching data:', error));
-  }, []);
-
-  const excludeDirectories = ['public', 'src']; // Agrega más directorios si es necesario
-
-  const handlePillClick = (folderName) => {
-    setSelectedPill(folderName);
-    setShowTable(true);
-    const selectedFolder = repoContent.find(item => item === folderName);
-    setSelectedFolderContent(selectedFolder); // Obtener contenido de la carpeta seleccionada
-  };
-
-  const handleBackButtonClick = () => {
-    setShowTable(false);
-    setSelectedFolderContent([]);
-  };
+  const directories = [
+    "1982", "1983", "1984", "1985", "1986", "1987", "1988", "1989",
+    "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997",
+    "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005",
+    "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013",
+    "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021",
+    "2022", "2023"
+  ];
 
   return (
-    <div className="repo-list-container">
-      <div className="centered-text">
-        <h2>Give It Uruguay!</h2>
-        <img src={logoSvg} alt="Logo SVG" className="logo-svg" />
+    <div>
+      <div className="logo-container">
+        <img src={rotatingSvg} alt="Logo" className="rotating-logo" />
       </div>
-      {isLoading ? (
-        <div className="loading-screen">
-          <p>Cargando...</p>
-        </div>
-      ) : !showTable ? (
-        <div className="pill-container">
-          {repoContent.map(item => (
-            <div
-              key={item}
-              className="pill"
-              onClick={() => handlePillClick(item)}
-            >
-              <span>{item}</span>
-            </div>
+      <h2>Give It Uruguay!</h2>
+      <div>
+        <ul className="repo-list">
+          {directories.map((directory, index) => (
+            <li key={index}>
+              <a
+                href={`https://github.com/jhap1982/giveituruguay/tree/main/${directory}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="pill-link"
+              >
+                {directory}
+              </a>
+            </li>
           ))}
-        </div>
-      ) : (
-        <div className="selected-folder-container">
-          <button onClick={handleBackButtonClick} className="volver-btn">
-            Volver a la lista
-          </button>
-          <h3>Contenido de la carpeta seleccionada: {selectedPill}</h3>
-          {selectedFolderContent.length > 0 ? (
-            <table>
-              <thead>
-                <tr>
-                  <th>Nombre</th>
-                  <th>Tipo</th>
-                  <th>Tamaño</th>
-                </tr>
-              </thead>
-              <tbody>
-                {selectedFolderContent.map(item => (
-                  <tr key={item.name}>
-                    <td>{item.name}</td>
-                    <td>{item.type}</td>
-                    <td>{item.size} bytes</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          ) : (
-            <p>No hay contenido en esta carpeta.</p>
-          )}
-        </div>
-      )}
+        </ul>
+      </div>
     </div>
   );
 };
