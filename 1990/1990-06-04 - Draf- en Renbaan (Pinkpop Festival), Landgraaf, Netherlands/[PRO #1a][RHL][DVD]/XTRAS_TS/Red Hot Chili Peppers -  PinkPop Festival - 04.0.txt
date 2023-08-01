@@ -1,0 +1,45 @@
+Red Hot Chili Peppers
+PinkPop Festival - Landgraaf, The Netherlands - 04.06.1990
+
+Source: ?
+Conversion: CDR>EAC>WAV>Frontend>FLAC
+Transfered by: bartek
+ 
+   *DO NOT CONVERT TO MP3 OR ANY OTHER LOSSY FORMAT*
+
+----------------------------------------------------------
+
+Disc 1:
+
+01. Out In LA
+02. Backwoods
+03. Dr Funkenstein
+04. Inca Roads + Funky Crime
+05. Anarchy In The UK + Stone Cold Bush
+06. If You Got Funk, You Got Style
+07. Nobody Weird Like Me
+08. Tiny Dancer + Party On Your Pussy
+09. Pretty Little Ditty
+10. Higher Ground
+11. Knock Me Down
+12. Castles Made Of Sand
+13. Me And My Friends
+
+Total Time: 49:20 min
+
+-----------------------------------------------------------
+
+01. Out In LA.flac:341e21ededb03e6404758bce1578418b
+02. Backwoods.flac:e459eb14a0744863e8c638326c17c477
+03. Dr Funkenstein.flac:6264e28d5a127d950d5241fb047aaa26
+04. Inca Roads + Funky Crime.flac:b270c36daf5d98ac08ad7e19de949a51
+05. Anarchy In The UK + Stone Cold Bush.flac:f8147202b4dd7292c77d72adcc8ca10a
+06. If You Got Funk, You Got Style.flac:34441f37ff4ca57d20b4fbaaaf2a2d78
+07. Nobody Weird Like Me.flac:993946676aed46befeeef31c6da8b97e
+08. Tiny Dancer + Party On Your Pussy.flac:43efccd5bd3acc20f52b047818b7e8a4
+09. Pretty Little Ditty.flac:438d8589c2a3842e7cb327c75386c2a8
+10. Higher Ground.flac:382a6ade346c9ed5db48383923b64ac9
+11. Knock Me Down.flac:8b0f61fd383ab92f0064ee59538e2d0c
+12. Castles Made Of Sand.flac:78eed28778c30610407451acd440538c
+13. Me And My Friends.flac:8c99b79f32becc19af9a4fdcc4b259ba
+ends.flac:8c99b79f32becc19af9a4fdcc4b259ba
