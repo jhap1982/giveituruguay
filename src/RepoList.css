@@ -1,20 +1,49 @@
+/* Estilo general de la página */
+body {
+  background: #000;
+  font-family: 'Bebas Neue', sans-serif; /* Aplicar la fuente Bebas Neue para todo el cuerpo */
+  margin: 0;
+}
+
+/* Estilo para el contenedor principal */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Estilo para el título */
+h1 {
+  text-align: center;
+  color: mediumaquamarine;
+  font-size: 48px;
+  margin-bottom: 30px;  
+}
+
+/* Estilo para las pills */
 .repo-list {
   list-style: none;
   padding: 0;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Ajustar a múltiples líneas */
   justify-content: center;
+  margin-top: 20px;
 }
 
 .pill-link {
-  display: block;
-  margin: 5px;
-  padding: 10px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #d31100;
   color: #ffffff;
   text-decoration: none;
-  border-radius: 50px;
-  font-size: 16px;
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 5px; /* Agregar margen entre las pills */
   transition: background-color 0.3s;
 }
 
@@ -22,6 +51,7 @@
   background-color: #b30000;
 }
 
+/* Estilos para el logo */
 .logo-container {
   display: flex;
   justify-content: center;
@@ -30,9 +60,9 @@
 }
 
 .rotating-logo {
-  animation: rotation 2s infinite linear;
-  width: 80px;
-  height: 80px;
+  animation: rotation 10s infinite linear;
+  width: 100px;
+  height: 100px;
 }
 
 @keyframes rotation {
@@ -41,27 +71,5 @@
   }
   to {
     transform: rotate(360deg);
-  }
-}
-
-/* Estilos para el título */
-h2 {
-  text-align: center;
-  color: #d31100;
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
-/* Estilos responsivos */
-@media screen and (max-width: 768px) {
-  .repo-list {
-    flex-direction: column;
-    align-items: center;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .repo-list {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
 }
