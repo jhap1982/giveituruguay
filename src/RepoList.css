@@ -10,15 +10,16 @@
   display: block;
   margin: 5px;
   padding: 10px 15px;
-  background-color: #d31313;
+  background-color: #d31100;
   color: #ffffff;
   text-decoration: none;
   border-radius: 50px;
   font-size: 16px;
+  transition: background-color 0.3s;
 }
 
 .pill-link:hover {
-  background-color: #ac0e0e;
+  background-color: #b30000;
 }
 
 .logo-container {
@@ -43,21 +44,24 @@
   }
 }
 
-/* Estilos responsivos */
-@media screen and (max-width: 768px) {
-  .repo-list {
-    justify-content: flex-start;
-  }
+/* Estilos para el título */
+h2 {
+  text-align: center;
+  color: #d31100;
+  font-size: 36px;
+  margin-bottom: 20px;
 }
 
-@media screen and (max-width: 480px) {
+/* Estilos responsivos */
+@media screen and (max-width: 768px) {
   .repo-list {
     flex-direction: column;
     align-items: center;
   }
 }
 
-/* Estilos para centrar el título */
-h2 {
-  text-align: center;
+@media screen and (max-width: 480px) {
+  .repo-list {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
 }

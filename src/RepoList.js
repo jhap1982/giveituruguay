@@ -2,15 +2,17 @@ import React from "react";
 import "./RepoList.css";
 import rotatingSvg from "./logo.svg";
 
-const RepoList = () => {
-  const directories = [
-    "1982", "1983", "1984", "1985", "1986", "1987", "1988", "1989",
-    "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997",
-    "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005",
-    "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013",
-    "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021",
-    "2022", "2023"
-  ];
+const RepoList = ({ directories }) => {
+  const numPills = directories.length;
+  const pillAngle = (2 * Math.PI) / numPills;
+  const pillRadius = 150;
+
+  const calculatePosition = (index) => {
+    const angle = index * pillAngle;
+    const x = Math.cos(angle) * pillRadius;
+    const y = Math.sin(angle) * pillRadius;
+    return { x, y };
+  };
 
   return (
     <div>
@@ -18,21 +20,22 @@ const RepoList = () => {
         <img src={rotatingSvg} alt="Logo" className="rotating-logo" />
       </div>
       <h2>Give It Uruguay!</h2>
-      <div>
-        <ul className="repo-list">
-          {directories.map((directory, index) => (
-            <li key={index}>
-              <a
-                href={`https://github.com/jhap1982/giveituruguay/tree/main/${directory}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="pill-link"
-              >
-                {directory}
-              </a>
-            </li>
-          ))}
-        </ul>
+      <div className="repo-list">
+        {directories.map((directory, index) => (
+          <a
+            key={index}
+            href={`https://github.com/jhap1982/giveituruguay/tree/main/${directory}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="pill-link"
+            style={{
+              top: `calc(50% + ${calculatePosition(index).y}px)`,
+              left: `calc(50% + ${calculatePosition(index).x}px)`,
+            }}
+          >
+            {directory}
+          </a>
+        ))}
       </div>
     </div>
   );
