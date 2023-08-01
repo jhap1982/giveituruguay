@@ -1,0 +1,98 @@
+From the StoneColdBush.com Tape Archive:
+
+RED HOT CHILI PEPPERS
+October 16, 1991
+Oscar Mayer Theater
+Madison, WI
+
+
+TRACKS:
+01. Love Trilogy
+02. Organic Anti-Beat Box Band
+03. No Head No Backstage Pass
+04. Suck My Kiss
+05. Orange Claw Hammer (Flea)
+06. Blackeyed Blonde
+07. Funky Crime
+08. Give It Away
+09. Sweet Jane (John)
+10. Nobody Weird Like Me
+11. Them Changes (Flea)
+12. Fela's Cock
+13. Breaking The Girl
+14. Stone Cold Bush
+15. If You Have To Ask
+16. My Lovely Man
+17. Fopp 
+18. Party On Your Pussy
+19. Red Hot Mama
+20. Higher Ground
+21. Poptones
+22. The Power Of Equality
+23. Under The Bridge
+24. Jam
+25. Me And My Friends
+26. Happy Birthday To Flea
+ ENCORE
+27. Yertle The Turtle
+28. Freaky Styley
+29. Cosmic Slop
+30. Search And Destroy
+
+LENGTH:
+90:16
+
+SOURCE (AUD #1):
+unknown mic > unknown recorder
+
+TRANSFER:
+TEAC V-680 > Olympus LS-10 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+ANA(x) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+NOTES:
+Beware, this is a collectors item only, as the sound quality is somewhat below average! The story of this tape is as follows...
+
+Around 10 years ago, some trading buddies and I chipped in to buy a few RHCP tapes from some guy who sold copies of bootleg cassettes via his website. Not sure which generation our copy is but it is hissy as hell and sometimes sounds as if it was recorded out of somebody's asshole. I did a transfer back then when we purchased those tapes, but it never really circulated. I retransferred it just recently, hoping I could make it sound better as this time I used better playback and recording devices, but it still blows anyway. Nevertheless, since no other tape/transfer of this recording ever surfaced I decided to let this sucker out for several reasons.
+
+The show took place on Flea's b-day and was the first show of the North American Blood Sugar Sex Magik tour, featuring the first ever (and last ever, until 2003) performance of "Breaking The Girl", as well as some other nice and rare tracks, like the "Sweet Jane" [The Velvet Underground] snippet by John or the "Them Changes" [Buddy Miles] tease by Flea. I still hope for a better transfer/recording, but for now that's all I have. Enjoy (if you can)!
+
+MD5 CHECKSUMS:
+f5d18484136ceed490cb64d9fb826c64 *RHCP_1991-10-16_AUD_t01.flac
+5e3764232b1b705ab5fad093ffdefe3d *RHCP_1991-10-16_AUD_t02.flac
+0d54adb553f397d3219e8bceb7efe6ad *RHCP_1991-10-16_AUD_t03.flac
+94e3b778dc51e7563ddfd284cffa9f93 *RHCP_1991-10-16_AUD_t04.flac
+74b2fea87102639508e3b17665598c7d *RHCP_1991-10-16_AUD_t05.flac
+ef5567728851fe9c537ea66f5ec5717b *RHCP_1991-10-16_AUD_t06.flac
+13a329f98d0f2470d110fc97e4292ad1 *RHCP_1991-10-16_AUD_t07.flac
+1007583b065b5bbe3e91a5ce355b5c37 *RHCP_1991-10-16_AUD_t08.flac
+e4fb56d5ab78cd711146441af586dec5 *RHCP_1991-10-16_AUD_t09.flac
+244c1ada49facb76cbf19cc8cee0fd8b *RHCP_1991-10-16_AUD_t10.flac
+1baa1ec6a3a335739fee95348d2e1dce *RHCP_1991-10-16_AUD_t11.flac
+dcd71bf93bf7a1a01b6683526ae13eee *RHCP_1991-10-16_AUD_t12.flac
+f9bb4b74758bef4db4a4151c25d3e1bd *RHCP_1991-10-16_AUD_t13.flac
+ca75ad3b09f2a959d642ea76bd2a2c42 *RHCP_1991-10-16_AUD_t14.flac
+b353f821243d3523c4ddbbba6e01d3ba *RHCP_1991-10-16_AUD_t15.flac
+a6c1b61cbde584ad40ae12ff76bfbeb8 *RHCP_1991-10-16_AUD_t16.flac
+f367800a8da95ebc841fd33fcc631cf4 *RHCP_1991-10-16_AUD_t17.flac
+7ccf4e4a658b7fd7620834d2d52eb32c *RHCP_1991-10-16_AUD_t18.flac
+2a67529888bdc883562bf78536719196 *RHCP_1991-10-16_AUD_t19.flac
+0cb268961f3827cb915b18b4469a2e31 *RHCP_1991-10-16_AUD_t20.flac
+e296f90fcfb5a6331ac30ca80376341b *RHCP_1991-10-16_AUD_t21.flac
+2713178e44171f285903e25c096494bc *RHCP_1991-10-16_AUD_t22.flac
+66e10d56a6e342cbeaf2cbaf937c9f59 *RHCP_1991-10-16_AUD_t23.flac
+08655079d5f0fe4baf818e8ce4cd193b *RHCP_1991-10-16_AUD_t24.flac
+440d1a4adab5f5cc1bbef4d2ea0414fd *RHCP_1991-10-16_AUD_t25.flac
+164575bcee9eeb0dea46835b1c50a003 *RHCP_1991-10-16_AUD_t26.flac
+99655d5a4cb6334e1128fa87b8401479 *RHCP_1991-10-16_AUD_t27.flac
+87c65fad36e992a760956cae3dd9c58e *RHCP_1991-10-16_AUD_t28.flac
+d888f69bbab101fef06effc68390ac84 *RHCP_1991-10-16_AUD_t29.flac
+2eb9bcd8f1d9decdf2d7d1308420fef1 *RHCP_1991-10-16_AUD_t30.flac
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
