@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './RepoList.css';
 import logoSvg from './logo.svg'; // Reemplaza 'logo.svg' con la ruta de tu archivo SVG
-import repoContentData from './repoContent.json'; // Importa el archivo JSON
 
 const RepoList = () => {
   const [repoContent, setRepoContent] = useState([]);
@@ -11,7 +10,10 @@ const RepoList = () => {
   const [selectedPill, setSelectedPill] = useState('');
 
   useEffect(() => {
-    setRepoContent(repoContentData); // Utiliza los datos del archivo JSON en lugar de llamar a la API de GitHub
+    fetch('/repoContent.json') // Ruta relativa al archivo JSON en la carpeta 'public'
+      .then(response => response.json())
+      .then(data => setRepoContent(data))
+      .catch(error => console.error('Error fetching data:', error));
   }, []);
 
   const excludeDirectories = ['public', 'src']; // Agrega más directorios si es necesario
