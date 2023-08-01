@@ -1,42 +1,31 @@
 import React, { useState, useEffect } from 'react';
 import './RepoList.css';
 import logoSvg from './logo.svg'; // Reemplaza 'logo.svg' con la ruta de tu archivo SVG
+import repoContentData from './repoContent.json'; // Importa el archivo JSON
 
 const RepoList = () => {
   const [repoContent, setRepoContent] = useState([]);
   const [selectedFolderContent, setSelectedFolderContent] = useState([]);
   const [showTable, setShowTable] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [selectedPill, setSelectedPill] = useState('');
 
   useEffect(() => {
-    // Cambia 'jhap1982' por el nombre de usuario y 'giveituruguay' por el nombre del repositorio
-    const repoUrl = 'https://api.github.com/repos/jhap1982/giveituruguay/contents';
-
-    fetch(repoUrl)
-      .then(response => response.json())
-      .then(data => {
-        // Filtrar solo los elementos que son directorios y no son 'public' o 'src'
-        const filteredContent = data.filter(item => item.type === 'dir' && item.name !== 'public' && item.name !== 'src');
-        setRepoContent(filteredContent);
-      })
-      .catch(error => {
-        console.error('Error fetching repository content:', error);
-      });
+    setRepoContent(repoContentData); // Utiliza los datos del archivo JSON en lugar de llamar a la API de GitHub
   }, []);
 
-  const handlePillClick = async (folderName) => {
-    const selectedFolder = repoContent.find(item => item.name === folderName);
-    if (selectedFolder) {
-      const folderUrl = selectedFolder.url;
-      const response = await fetch(folderUrl);
-      const data = await response.json();
-      const folderContent = data.filter(item => item.type === 'dir');
-      setSelectedFolderContent(folderContent);
-      setShowTable(true);
-    }
+  const excludeDirectories = ['public', 'src']; // Agrega más directorios si es necesario
+
+  const handlePillClick = (folderName) => {
+    setSelectedPill(folderName);
+    setShowTable(true);
+    const selectedFolder = repoContent.find(item => item === folderName);
+    setSelectedFolderContent(selectedFolder); // Obtener contenido de la carpeta seleccionada
   };
 
   const handleBackButtonClick = () => {
     setShowTable(false);
+    setSelectedFolderContent([]);
   };
 
   return (
@@ -45,41 +34,49 @@ const RepoList = () => {
         <h2>Give It Uruguay!</h2>
         <img src={logoSvg} alt="Logo SVG" className="logo-svg" />
       </div>
-      {!showTable ? (
+      {isLoading ? (
+        <div className="loading-screen">
+          <p>Cargando...</p>
+        </div>
+      ) : !showTable ? (
         <div className="pill-container">
           {repoContent.map(item => (
             <div
-              key={item.name}
+              key={item}
               className="pill"
-              onClick={() => handlePillClick(item.name)}
+              onClick={() => handlePillClick(item)}
             >
-              <span>{item.name}</span>
+              <span>{item}</span>
             </div>
           ))}
         </div>
       ) : (
         <div className="selected-folder-container">
           <button onClick={handleBackButtonClick} className="volver-btn">
-            BACK
+            Volver a la lista
           </button>
-          <h3>Tour</h3>
+          <h3>Contenido de la carpeta seleccionada: {selectedPill}</h3>
           {selectedFolderContent.length > 0 ? (
             <table>
               <thead>
                 <tr>
-                  <th></th>
+                  <th>Nombre</th>
+                  <th>Tipo</th>
+                  <th>Tamaño</th>
                 </tr>
               </thead>
               <tbody>
                 {selectedFolderContent.map(item => (
                   <tr key={item.name}>
                     <td>{item.name}</td>
+                    <td>{item.type}</td>
+                    <td>{item.size} bytes</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           ) : (
-            <p>Nothing found.</p>
+            <p>No hay contenido en esta carpeta.</p>
           )}
         </div>
       )}
