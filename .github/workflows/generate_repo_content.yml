@@ -14,8 +14,8 @@ jobs:
 
       - name: Generate JSON
         run: |
-          # List all directories (excluding public and src) in the repository and save the result to repoContent.json
-          find . -type d -not -path "./public/*" -not -path "./src/*" -maxdepth 1 -mindepth 1 | sed 's/\.\///' > repoContent.json
+          # List all directories (excluding .github, .git, public, and src) in the repository and save the result to repoContent.json
+          find . -type d -not -path "./.github/*" -not -path "./.git/*" -not -path "./public/*" -not -path "./src/*" -maxdepth 1 -mindepth 1 | sed 's/\.\///' > repoContent.json
 
       - name: Show generated JSON
         run: cat repoContent.json
