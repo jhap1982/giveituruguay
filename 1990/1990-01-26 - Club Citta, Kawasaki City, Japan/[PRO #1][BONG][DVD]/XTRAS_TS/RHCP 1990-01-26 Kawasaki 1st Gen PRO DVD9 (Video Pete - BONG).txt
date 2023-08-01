@@ -1,0 +1,60 @@
+Red Hot Chili Peppers
+Date: 1990-01-26
+Venue: (Video Pete - BONG) @Club Citta, Kawasaki, Japan
+Sets: 92min+
+Media: DVDR DL
+Number: 1
+
+Source: pro. 1st gen ntsc vhs > sa (XP) > dvdrX2 > Sony Vegas Pro 10 > GoldWave > DVDLab Pro 2.5 > DVD9
+Quality: A/A+
+Notes: 	
+
+(92:12)
+
+Intro
+Out In L.A.
+Backwoods
+Dr. Funkenstein
+Funky Crime
+Stone Cold Bush
+Standing On The Verge Of Getting It On
+Organic Anti-Beat Box Band
+Anarchy In The U.K.
+Subway To Venus
+Green Heaven
+Police Helicopter
+Jam (Say It Loud, I'm Japanese And I'm Proud)
+Pretty Little Ditty
+Hollywood
+Knock Me Down
+F.U.
+Boyz-N-The-Hood
+Party On Your Pussy
+Magic Johnson
+Nobody Weird Like Me
+Sexy Mexican Maid
+Back In Black
+Inca Roads (John)
+Crosstown Traffic
+Mommy Where's Daddy
+Me And My Friends
+
+Video: NTSC 720x480 4:3
+Audio: AC3 48000Hz 384 kb/s
+
+Transferred by Video Pete
+Authored by BONG
+
+c389b274021ebab88aa120eb10cc43a2 *VIDEO_TS.BUP
+c389b274021ebab88aa120eb10cc43a2 *VIDEO_TS.IFO
+d5d903e441575203c51232a9ef9ab879 *VIDEO_TS.VOB
+ce7e088937b1f72dc41ea3af434e9f81 *VTS_01_0.BUP
+ce7e088937b1f72dc41ea3af434e9f81 *VTS_01_0.IFO
+3f2549b66520567a8c200d2457985236 *VTS_01_0.VOB
+2c9adf6a70003547589df24688efa452 *VTS_01_1.VOB
+f784585167f83ebd97bcf3674b610a5f *VTS_01_2.VOB
+b128c7d2b4c3cdd4babfb412b8364089 *VTS_01_3.VOB
+72ac33a2f860bf60b645282ffd65f7dc *VTS_01_4.VOB
+bfc98a000a005e3d7a53f0ccd495f60e *VTS_01_5.VOB
+e9428843766d2fa8758d8648f85d7457 *VTS_01_6.VOB
+57b4e1e9f2acdd579e09540d22304eba *VTS_01_7.VOB
