@@ -17,10 +17,12 @@ jobs:
           # List all directories (excluding public and src) in the repository and save the result to repoContent.json
           find . -type d -not -path "./public/*" -not -path "./src/*" -maxdepth 1 -mindepth 1 | sed 's/\.\///' > repoContent.json
 
+      - name: Show generated JSON
+        run: cat repoContent.json
+
       - name: Copy repoContent.json to root
         run: |
-          cp ./public/repoContent.json ./repoContent.json
-          rm ./public/repoContent.json
+          cp ./repoContent.json ./public/repoContent.json
 
       - name: Commit changes
         run: |
