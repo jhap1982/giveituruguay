@@ -40,9 +40,11 @@ torrent
 **/*.mp4
 **/*.m4a
 **/*.webm
+**/*.asf
 **/*.avi
 **/*.wmv
 **/*.flv
+**/*.opus
 **/*.ogg
 **/*.ape
 **/*.mpeg
