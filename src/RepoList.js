@@ -10,7 +10,8 @@ const RepoList = () => {
   const [selectedPill, setSelectedPill] = useState('');
 
   useEffect(() => {
-    fetch('/repoContent.json') // Ruta relativa al archivo JSON en la carpeta 'public'
+    // Corregir la ruta para apuntar correctamente al archivo repoContent.json en la carpeta public
+    fetch(process.env.PUBLIC_URL + '/repoContent.json')
       .then(response => response.json())
       .then(data => setRepoContent(data))
       .catch(error => console.error('Error fetching data:', error));
