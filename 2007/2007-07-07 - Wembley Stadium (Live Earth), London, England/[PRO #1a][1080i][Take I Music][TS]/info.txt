@@ -1,0 +1,20 @@
+Red Hot Chili Peppers
+Date: 		2007-07-07
+Venue: 		Wembley Stadium (Live Earth), London, England
+Length: 	22m09s
+Taper:		?
+Lineage: 	HDTV > TS [1080i]
+Source		PRO#1a
+Media:		.ts
+Video info: 	AVC 1440x1080 15.6Mb/s(VBR) 25/PAL
+Audio#1 info: 	AC3 384kb/s 48kHz Stereo
+Audio#2 info: 	MPEG1 256kb/s 48kHz Stereo	
+Comment:	Complete
+More info:	http://www.rhcplivearchive.com/show/jul-07-2007-london-england-806
+
+Setlist:
+Intro Jam
+Can't Stop
+Dani California
+So Much I
+By The Way

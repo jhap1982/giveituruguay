@@ -1,0 +1,95 @@
+Red Hot Chili Peppers
+Date: 2007-07-07
+City: London
+Country: England
+Venue: Wembley Stadium (Live Earth)
+Line-Up: Anthony Kiedis, John Frusciante, Michael "Flea" Balzary, Chad Smith, Josh Klinghoffer
+
+
+BBC HD Broadcast > HDD > VideoReDo > TSSplitter > Trader's Little Helper > YOU
+
+Media Info:
+
+Format                                   : MPEG-TS
+File size                                : 2.65 GiB
+Duration                                 : 22mn 8s
+Overall bit rate                         : 17.1 Mbps
+
+Video
+ID                                       : 2318 (0x90E)
+Menu ID                                  : 6940 (0x1B1C)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=3, N=12
+Codec ID                                 : 27
+Duration                                 : 22mn 8s
+Bit rate                                 : 15.6 Mbps
+Maximum bit rate                         : 31.7 Mbps
+Width                                    : 1 440 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Bits/(Pixel*Frame)                       : 0.402
+Stream size                              : 2.42 GiB (91%)
+
+Audio #1
+ID                                       : 2319 (0x90F)
+Menu ID                                  : 6940 (0x1B1C)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : 6
+Duration                                 : 22mn 8s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Maximum bit rate                         : 31.7 Mbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -578ms
+Stream size                              : 60.8 MiB (2%)
+Language                                 : English
+
+Audio #2
+ID                                       : 2320 (0x910)
+Menu ID                                  : 6940 (0x1B1C)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : 3
+Duration                                 : 22mn 8s
+Bit rate mode                            : Constant
+Bit rate                                 : 256 Kbps
+Maximum bit rate                         : 31.7 Mbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -545ms
+Stream size                              : 40.5 MiB (1%)
+
+Tracklist:
+
+Intro Jam
+Can't Stop
+Dani California
+So Much I
+By The Way 
+
+
+Please don't convert to lossy formats.
+
+
+MD5 Checksum
+
+f0012115c64bce6e5d3d1eb1d9fc8740 *RHCP - 2007-07-07, Live Earth, Wembley Stadium, England (1080i).ts
+
+No errors occured.
