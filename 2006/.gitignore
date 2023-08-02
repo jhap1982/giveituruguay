@@ -12,6 +12,7 @@ torrent
 **/*.webm
 **/*.avi
 **/*.m2v
+**/*.m4v
 **/*.wmv
 **/*.flv
 **/*.ogg

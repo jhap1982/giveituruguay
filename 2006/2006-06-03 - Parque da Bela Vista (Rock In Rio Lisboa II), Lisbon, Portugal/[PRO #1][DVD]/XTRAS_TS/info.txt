@@ -1,0 +1,39 @@
+Red Hot Chili Peppers
+Date: 		2006-06-03
+Venue: 		Parque da Bela Vista (Rock In Rio Lisboa II), Lisbon, Portugal
+Length: 	1h42m09 s
+Taper:		?
+Lineage: 	Direct stream capture from DVB-S via Skystar2 PCI card>HDD>Edited/GOP Fixed in Womble MPEG Video Wizard>Authored in TMPGENc DVD Author
+Source		PRO#1
+Media:		DVD PAL
+Video info: 	mpeg2 720x576 4300kb/s(VBR) 25/PAL
+Audio info: 	mpeg1 192kb/s 48kHz
+Comment:	Including Screenshots and Cover
+More info:	http://www.rhcplivearchive.com/show/jun-03-2006-lisbon-portugal-838
+
+Setlist:
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Otherside
+Tell Me Baby
+How Deep Is Your Love (John) [The Bee Gees]
+Throw Away Your Television
+Don't You Ever Leave
+Snow ((Hey Oh))
+Me And My Friends
+Stadium Arcadium
+Right On Time
+Don't Forget Me
+21st Century
+Californication
+By The Way
+Encore:
+Drum solo
+Tonight I'm Gonna Rock You Tonight [Spinal Tap]
+Under The Bridge
+You're Gonna Get Yours [Public Enemy]
+Give It Away
+Final Jam

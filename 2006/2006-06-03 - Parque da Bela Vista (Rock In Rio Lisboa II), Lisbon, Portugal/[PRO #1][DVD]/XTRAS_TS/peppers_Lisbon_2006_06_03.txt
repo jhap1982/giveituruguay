@@ -1,0 +1,46 @@
+ Artist:  	 Red Hot Chili Peppers
+Date: 	2006-06-03
+City: 	Lisbon
+Country: 	Portugal
+Venue: 	Parque da Bela Vista (Rock In Rio)
+Media Format: DVD	
+Setlist: 	
+
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Otherside
+Tell Me Baby
+How Deep Is Your Love (John)
+Throw Away Your Television
+Don't You Ever Leave
+Snow (Hey Oh)
+Me And My Friends
+Stadium Arcadium
+Right On Time
+Don't Forget Me
+21st Century
+Californication
+By The Way
+
+ENCORE
+Drum Solo
+Tonight, I'm Gonna Rock You
+Under The Bridge
+You're Gonna Get Yours
+Give It Away
+Final Jam 
+
+VIDEO MPEG2 - PAL - 704x576  4:3  - kbps 4204 - Frames/s 25.000
+AUDIO MPEG1 - Layer2 - 48000Hz - 192 kb/s Stereo
+
+LKNGTH 1 houe 42 Minute 09 Seconds
+SIZE 3.18GB
+
+LINEAGE - Direct stream capture from DVB-S via Skystar2 PCI card>HDD>Edited/GOP Fixed in Womble MPEG Video Wizard>Authored in TMPGENc DVD Author.
+
+Main menu and tracks split- Screengrabs included
+
+
