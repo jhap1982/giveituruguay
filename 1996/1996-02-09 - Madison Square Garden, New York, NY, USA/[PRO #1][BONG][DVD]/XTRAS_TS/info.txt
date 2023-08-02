@@ -1,0 +1,39 @@
+The Red Hot Chili Peppers
+Madison Square Garden, NYC 1996-02-09
+MTV Bootleg
+
+Source:MTV Broadcast
+Lineage:Master VHS>Panasnic DVD Recorder(XP)>DVD>PC>Menus>Torrent
+Quality:EX
+Tape Transferred by PhilG
+Authored by Bong
+
+Video:
+codec-MPEG2
+Resolution-720X480
+Frame Rate-59.94
+Format-4:3(NTSC)
+
+audio:
+codec-AC3(LPCM)
+channels-stereo
+sample rate-48000Hz
+bitrate-224 Kvs
+
+Setlist:
+Intro
+Give It Away
+Anthony/Roadie Cam
+Aeroplane
+Meet & Greet
+Under The Bridge
+Dave Navarro Cam
+Warped
+Spy Cam
+My Friends
+Higher Ground
+Pea
+
+TT: (44:57)
+
+Notes:I transferred this from my master tape of the original broadcast. The audio had a minor boost. I believe there's a 2nd longer version that's circulating, but I have no knowledge of what's on it.  For fans of Dave Navarro era RHCP. 
