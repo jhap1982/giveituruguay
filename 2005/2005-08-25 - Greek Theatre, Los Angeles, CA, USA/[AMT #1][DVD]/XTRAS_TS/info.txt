@@ -1,0 +1,28 @@
+Red Hot Chili Peppers
+Date: 		2005-08-25
+Venue: 		Greek Theatre, Los Angeles, Ca, USA
+Length: 	58m13s
+Taper:		?
+Lineage: 	Cam > DVD
+Source		AMT#1
+Media:		DVD NTSC
+Video info: 	mpeg2 720x480 9000kb/s(VBR) 29.970FPS/NTS
+Audio info: 	AC3 192kb/s 48kHz
+Comment:	
+More info:	http://www.rhcplivearchive.com/show/aug-25-2005-los-angeles-ca-71
+
+Setlist:
+Can't Stop
+Scar Tissue
+Parallel Universe
+Throw Away Your Television
+Don't You Ever Leave
+Otherside
+Tell Me Baby
+Don't Forget Me
+I Feel Love
+Right on Time
+Californication
+Red Hot Mama
+School's Out
+Give It Away
