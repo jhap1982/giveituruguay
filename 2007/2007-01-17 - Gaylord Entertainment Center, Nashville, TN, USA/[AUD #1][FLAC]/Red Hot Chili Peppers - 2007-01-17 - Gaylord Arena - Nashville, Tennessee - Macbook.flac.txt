@@ -1,0 +1,46 @@
+Red Hot Chili Peppers 
+2007-01-17 
+Gaylord Arena 
+Nashville, Tennessee 
+Wednesday, Janurary 17th, 2007 
+
+Source: Sound Professionals BMC-2 Microphones -> Sonund Professionals SPSB-3 Battery Box -> Macbook (2.0GHz Intel Dual Core, 2GB RAM, 80GB, OSX 10.4.8) -> Audio Recorder v3.1 -> .wav (24bit, 96kHz, 4608kbps) -> CD Wave Editor v1.95 (Tracking) -> Flac Frontend v1.7.1 eTree Edition -> FLAC v1.1.4 -> .flac (Level 8) 
+Length: 1:51:30.912 (642327525 Samples) 
+Size: 2.23GB (FLAC8 v1.1.4 / 2,398,093,868 bytes / 2867kbps) 
+
+Setlist: 
+ 1. Intro 
+ 2. (Jam) 
+ 3. Can't Stop 
+ 4. Dani California 
+ 5. Scar Tissue 
+ 6. (Hello Nashville Jam) 
+ 7. Charlie 
+ 8. (What Key Is The Song?) 
+ 9. Havana Affair (The Ramones Cover) 
+10. (Jam) 
+11. 21st Century 
+12. Blood Sugar Sex Magik Intro 
+13. Blood Sugar Sex Magik 
+14. (Bass Jam) 
+15. Throw Away Your Television 
+16. Snow (Hey Oh) 
+17. How Can I Tell You (Cat Stevens Cover) (John Frusciante Solo) 
+18. Desecration Smile 
+19. Higher Ground 
+20. Wet Sand 
+21. (Funkiest Bass Player) 
+22. Warlocks 
+23. (Jam) 
+24. Californication 
+25. What Is Soul? 
+26. By The Way 
+27. (Encore) 
+28. (Playing Around) 
+29. Soul To Squeeze 
+30. (Thanks) 
+31. Give It Away 
+
+Notes: Recorded & everything done else by Matthew Callis (admin@eludevisibility.org / http://eludevisibility.org/). 
+FLAC encoding options: -8 -A "tukey(0.5)" -A flattop -b 4096. 
+No other real notes, just a great show!
