@@ -18,3 +18,4 @@ torrent
 **/*.rar
 **/*.zip
 **/*.log
+**/Thumbs.db
