@@ -1,0 +1,57 @@
+RED HOT CHILI PEPPERS
+February 25, 1992
+Theaterfabrik
+Munich, Germany
+
+
+TRACKS:
+01. Out In L.A.
+02. Organic Anti-Beat Box Band
+03. Bullet Proof
+04. Suck My Kiss
+05. Subterranean Homesick Blues
+06. Funky Crime
+07. Give It Away
+08. Nobody Weird Like Me
+09. If You Have To Ask
+10. Stone Cold Bush
+11. Magic Johnson
+12. I Could Have Lied
+13. Yertle The Turtle
+14. Freaky Styley / Cosmic Slop Medley
+15. Me And My Friends
+16. Skinny Sweaty Man / Green Heaven / Skinny Sweaty Man
+
+LENGTH:
+71:05
+
+TRANSFER:
+hp DVD RW AD-7711H > EAC V1.0 beta 1 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+"Live Magik" CD > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+EAC WAV rip of liberated bootleg "Live Magik" (Flashy). The RHCP played in Munich on the 25th and 26th of February, but the bootleg's back only says "Live in München" without any particular date given, hence the date for this perfromance's recording may be incorrect.
+
+FLAC FINGERPRINTS:
+rhcp1992-02-25t01.flac:f68a60538dcbbf3265b61d50196935a4
+rhcp1992-02-25t02.flac:9b914be2a9bfd1ef4d86b6369f2ee033
+rhcp1992-02-25t03.flac:9c3b731ab435542d3158ea1102cd3606
+rhcp1992-02-25t04.flac:82953222bc585dbfbd11115b58b9eb77
+rhcp1992-02-25t05.flac:0088a5e73f484ef0f2787d4332d81dd0
+rhcp1992-02-25t06.flac:4a11bb8790be11e713a77037e3ebc4f5
+rhcp1992-02-25t07.flac:7777c3835034389d854b05d88b27e034
+rhcp1992-02-25t08.flac:a97645ddb810705953b7efb987315d94
+rhcp1992-02-25t09.flac:8c0afd6cfbdb25a91314f390147fe7a4
+rhcp1992-02-25t10.flac:6ce4b4fdae5d8078d2b8a9795f70484b
+rhcp1992-02-25t11.flac:1e640723152a2c61645da35a906376d1
+rhcp1992-02-25t12.flac:d1f78353c2ebc12dd4530b22bc566d54
+rhcp1992-02-25t13.flac:60124d72dd4a30b9d5c0c894d584b3a5
+rhcp1992-02-25t14.flac:fb16f1e5ed755ed1122f326c982b49a4
+rhcp1992-02-25t15.flac:6f7d1b767ee060518e3ddd95df7f051d
+rhcp1992-02-25t16.flac:5214f19a8d39c2a1aa1cdfffeeb587d7
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
