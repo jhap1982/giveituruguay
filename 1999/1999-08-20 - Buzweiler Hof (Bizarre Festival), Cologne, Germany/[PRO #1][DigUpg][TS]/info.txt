@@ -1,0 +1,40 @@
+Date: 1999-08-20
+City: Cologne
+Country: Germany
+Venue: Butzweilerhof (Bizarre Festival)
+Line-Up: Anthony Kiedis, John Frusciante, Michael "Flea" Balzary, Chad Smith
+
+Setlist:
+
+Around the World
+Give It Away
+Scar Tissue
+Suck My Kiss
+Soul to Squeeze
+I Like Dirt
+If You Have To Ask
+Organic Anti-Beat Box Band
+My Lovely Man
+Right On Time (London Calling intro, cover by The Clash)
+Under the Bridge
+Me & My Friends
+Encore:
+(Yertle Trilogy)
+Yertle The Turtle
+Freaky Styley
+Cosmic Slop (Funkadelic cover)
+Cholly (Funkadelic cover)
+Not Great Men (Gang Of Four cover)
+Untitled #2 (John Frusciante)
+
+Info:
+
+Quality: 720p
+Format: TS
+Video:  Mpeg4 AVC, 1280x720, 16:9, 6995 kbps, 50 fps Progressive
+Audio #1: AC3, 448 kbps, 48 kHz, stereo
+Audio #2: MP2, 192 kbps, 48 kHz, stereo
+
+MD5 Checksum
+
+402007975a0707356e6c534e36186ae7  Red.Hot.Chili.Peppers-Bizarre.Festival.1999.ts
