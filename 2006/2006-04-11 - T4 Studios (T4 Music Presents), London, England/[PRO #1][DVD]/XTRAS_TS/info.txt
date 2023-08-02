@@ -1,0 +1,20 @@
+Red Hot Chili Peppers
+Date: 		2006-04-11
+Venue: 		T4 Music Presents, London, England
+Length: 	24m28s
+Taper:		?
+Lineage: 	TV > DVD
+Source		Pro#1
+Media:		DVD PAL
+Video info: 	mpeg2 720x576 2700kb/s(VBR) 25/PAL
+Audio info: 	AC3 192kb/s 48kHz
+Comment:	Missing Charlie (SCB & RHCPLivearchive stated they played it)
+More info:	http://www.rhcplivearchive.com/show/apr-11-2006-london-england-817
+
+Setlist:
+Dani California
+Interview
+Desecration Smile
+Tell Me Baby
+Interview
+Under The Bridge
