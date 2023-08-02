@@ -1,0 +1,95 @@
+Red Hot Chili Peppers
+Lollapalooza
+Samsung Stage
+Grant Park
+Chicago, Illinois, US
+July 30, 2016
+
+Lineage: LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 3500 Kbps 30.00 fps
+Audio: AAC 160 Kbps 48.0 KHz stereo
+
+Setlist: 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Snow ((Hey Oh))
+Look Around
+Otherside
+Blood Sugar Sex Magik
+Funky Crime (tease - Josh)
+Go Robot 
+Californication
+Parallel Universe
+The Getaway
+I Would for You (Jane’s Addiction cover - Josh) 
+Under the Bridge
+By the Way
+
+Encore:
+Goodbye Angels
+Give It Away
+
+TRT = 01:38:39
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Red Hot Chili Peppers - 2016-07-30 Lollapalooza, Chicago, IL [720p].ts
+Format                      : MPEG-TS
+File size                   : 2.52 GiB
+Duration                    : 1h 38mn
+Overall bit rate mode       : Variable
+Overall bit rate            : 3 658 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Main@L3.1
+Format settings, CABAC      : No
+Format settings, ReFrames   : 2 frames
+Format settings, GOP        : M=4, N=90
+Codec ID                    : 27
+Duration                    : 1h 38mn
+Bit rate mode               : Constant
+Nominal bit rate            : 3 200 Kbps
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 30.000 fps
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.116
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 1h 38mn
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 KHz
+Frame rate                  : 46.875 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -1s 891ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 1h 38mn
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television
