@@ -1,0 +1,98 @@
+Red Hot Chili Peppers
+Open'er Festival
+Main Stage
+Gdynia-Kosakowo Airport
+Gdynia, Poland
+June 30, 2016
+
+Lineage: Onet.tv Webcast -> FFmpeg -> .ts
+Video: MPEG4 Video (H264) 1280x720 2250 Kbps 25.00 fps
+Audio: AAC 150 Kbps 44.1 KHz stereo
+
+Setlist:
+Dani California
+Polska, Bialo-Czerwoni (traditional - Flea solo tease)
+We Turn Red
+Otherside
+Cello Suite No. 1 (Johann Sebastian Bach cover - Flea solo snippet)
+Nobody Weird Like Me
+Dark Necessities
+Magic Johnson (tease)
+She's Only 18
+Polska, Bialo-Czerwoni (traditional - Flea solo)
+Go Robot
+Californication
+Close My Eyes (Arthur Russell cover - Josh solo) 
+Around the World
+Detroit
+I Wanna Be Your Dog (The Stooges cover - tease)
+By the Way
+
+Encore:
+Warszawa (David Bowie cover - Josh solo)
+The Getaway
+Give It Away
+
+TRT = 01:21:38
+(Note: "Intro Jam", "Can't Stop" and Snow "((Hey Oh))" were omitted - complete broadcast)
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Red Hot Chili Peppers - 2016-06-30 Open'er Festival, Gdynia, Poland [720p].ts
+Format                      : MPEG-TS
+File size                   : 1.38 GiB
+Duration                    : 1h 21mn
+Overall bit rate mode       : Variable
+Overall bit rate            : 2 413 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Codec ID                    : 27
+Duration                    : 1h 21mn
+Nominal bit rate            : 2 048 Kbps
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Writing library             : x264 core 120 r2151 a3f4407
+Encoding settings           : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=50 / keyint_min=5 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=2048 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 1h 21mn
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 KHz
+Frame rate                  : 43.066 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -80ms
+Language                    : English
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 1h 21mn
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC, English)
+Language                    :  / English
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television

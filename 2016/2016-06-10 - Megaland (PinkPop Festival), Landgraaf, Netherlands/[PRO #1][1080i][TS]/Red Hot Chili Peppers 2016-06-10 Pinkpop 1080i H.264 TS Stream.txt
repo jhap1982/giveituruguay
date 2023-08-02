@@ -1,0 +1,109 @@
+Red Hot Chili Peppers
+Pinkpop, Megaland, Landgraaf, The Netherlands
+June 10, 2016
+Main Stage 22:25-23:45
+
+1. Interview Flea 1
+2. Californication
+3. Right On Time
+4. Dani California
+5. Interview Flea 2
+6. Dark Necessities
+7. By The Way
+
+Taken from the Dutch national television channel NPO 3 broadcasts, June 11 & 12, 2016.
+This was broadcast in three parts: on June 11th tracks 1-3, and on June 12th track 4 first and later tracks 5-7.
+See below for the full setlist.
+
+Lineage : NPO 3 DVB-C - Humax iHDR-5050C - VideoReDo TVSuite 4.20.7.629
+
+Technical details:
+File Name : Red Hot Chili Peppers 2016-06-10 Pinkpop 1080i H.264 TS Stream.ts
+Size : 2.633 GB
+Duration : 00:27:29.04
+Mux type : TS Stream
+TS mux rate : 14.977 Mbps
+
+Video Encoding : H.264
+VideoStreamID : xD03
+Frame rate : 25.00 fps
+Encoding size : 1920 x 1080
+Aspect ratio : 16:9
+Header bit rate : 20.000 Mbps
+VBV buffer : 380 KBytes
+Profile : High/4.0
+Progressive : Interlaced
+Chroma : 4:2:0
+Entropy mode : CABAC
+Bit rate : 11.834 Mbps
+
+Audio Stream: 1 (Primary)
+Codec : AC3
+Format : AC3 stream
+Channels : 5.1
+Language : dut
+PID : xD04
+PES Stream Id : xBD
+Bit rate : 448 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+
+Subtitle: 1-1
+Type : DVB Subpic
+PID : 0xD07
+Language : dut
+Page : 2
+
+Subtitle: 2-1
+Type : DVB Subpic
+PID : 0xD08
+Language : dut
+Page : 2
+
+Subtitle: 3-1
+Type : DVB Subpic
+PID : 0xD0A
+Language : 888
+Page : 2
+
+Subtitle: 4-1
+Type : DVB Teletext
+PID : 0xD0B
+Language : dut
+Page : 100
+
+Subtitle: 4-2
+Type : DVB Teletext
+PID : 0xD0B
+Language : dut
+Page : 888
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2016.
+
+Uploaded to DIME on June 15, 2016 by Magnix.
+
+
+Full setlist:
+01. Intro Jam
+02. Can't Stop
+03. Dani California
+04. Scar Tissue
+05. We Turn Red [live debut]
+06. Snow ((Hey Oh))
+07. The Adventures Of Rain Dance Maggie
+08. Nobody Weird Like Me
+09. Dark Necessities
+10. Wet Sand [tour debut] (w/ David Bowie's Ziggy Stardust intro)
+11. Right On Time (w/ George Clinton's Bullet Proof intro)
+12. The Getaway
+13. Band Jam
+14. Californication
+15. By The Way
+encore
+16. Encore Jam (ft. The Beatles' Hey Bulldog)
+17. Soul To Squeeze
+18. Give It Away
+19. Final Jam

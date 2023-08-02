@@ -1,0 +1,86 @@
+Red Hot Chili Peppers
+'The Getaway' iHeartRadio Album Release Party on AT&T Live
+iHeartRadio Theater LA
+Burbank, California
+May 26, 2016
+(Broadcast date: June 17, 2016)
+
+Lineage: LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 3500 Kbps 29.97 fps
+Audio: AAC 256 Kbps 44.1 KHz stereo
+
+Setlist:
+-Introduction-
+Can't Stop
+Snow ((Hey Oh))
+Dark Necessities
+-Q & A with Harms-
+This Ticonderoga (live debut)
+Otherside
+Go Robot (live debut with Thundercat)
+-Q & A with Harms-
+Soul to Squeeze
+Sick Love (live debut)
+By the Way
+
+TRT = 00:52:37
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Red Hot Chili Peppers - 2016-05-26 iHeartRadio Theater LA, Burbank, CA [720p].ts
+Format                      : MPEG-TS
+File size                   : 1.45 GiB
+Duration                    : 52mn 37s
+Overall bit rate mode       : Variable
+Overall bit rate            : 3 951 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Format settings, GOP        : M=4, N=60
+Codec ID                    : 27
+Duration                    : 52mn 37s
+Bit rate mode               : Constant
+Nominal bit rate            : 3 500 Kbps
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 29.970 (30000/1001) fps
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.127
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 52mn 38s
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 KHz
+Frame rate                  : 43.066 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -917ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 52mn 37s
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television

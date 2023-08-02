@@ -1,0 +1,92 @@
+Red Hot Chili Peppers
+Rock Werchter
+Main Stage 
+Werchterpark
+Werchter, Belgium
+July 2, 2016
+
+Lineage: LIVE Webcast -> FFmpeg (capture & edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 1600 Kbps 25.00 fps
+Audio: HE-AAC 64 Kbps 48.0 KHz stereo
+
+Setlist: 
+Intro Jam
+Can't Stop
+Dani California
+We Turn Red
+Scar Tissue
+Right on Time
+Snow ((Hey Oh))
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Aeroplane
+Go Robot
+Californication
+Detroit
+Under the Bridge
+Jam
+By the Way
+
+Encore:
+Your Eyes Girl 
+The Getaway
+Give It Away
+
+TRT = 01:35:00
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Red Hot Chili Peppers - 2016-07-02 Rock Werchter [720p].ts
+Format                      : MPEG-TS
+File size                   : 1.10 GiB
+Duration                    : 1h 35mn
+Overall bit rate mode       : Variable
+Overall bit rate            : 1 661 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Main@L3.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Codec ID                    : 27
+Duration                    : 1h 35mn
+Bit rate mode               : Variable
+Maximum bit rate            : 40.0 Mbps
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 2
+Format profile              : HE-AAC / LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 1h 35mn
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 KHz / 24.0 KHz
+Frame rate                  : 23.438 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -3s 973ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 1h 35mn
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television
