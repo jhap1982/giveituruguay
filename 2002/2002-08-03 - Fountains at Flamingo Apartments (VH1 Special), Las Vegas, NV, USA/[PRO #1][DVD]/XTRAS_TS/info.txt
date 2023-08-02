@@ -1,0 +1,20 @@
+Red Hot Chili Peppers
+Date: 		2002-08-03
+Venue: 		Cow Palace, Daly City, CA, USA
+Length: 	43m59s
+Taper:		Theyodaddy
+Lineage: 	TV Broadcast >VHS(M)>Panasonic DMR-EH75V HDMI's HDD>DVD+R>HDD
+Source		PRO#1
+Media:		DVD NTSC
+Video info: 	mpeg2 720x480 8900kb/s(VBR) 29.970/NTSC
+Audio info: 	AC3 384kb/s 48kHz
+Comment:	Video quality is shitty. Not complete
+More info:	http://www.rhcplivearchive.com/show/aug-03-2002-las-vegas-nv-518
+
+Setlist: 
+By The Way 
+Around The World
+Latest Disgrace / Parallel Universe
+The Zephyr Song
+Can't Stop
+Give It Away

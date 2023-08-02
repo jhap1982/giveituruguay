@@ -1,0 +1,47 @@
+RED HOT CHILI PEPPERS
+August 7, 2002
+The Edge 102.1 Studios
+Toronto, Canada
+
+
+TRACKS:
+01. DJ introduction
+02. Jam
+03. Cabron
+04. Otherside
+05. Dig A Pony (intro) > I Could Die For You
+06. Maybe (John)
+07. By The Way (slow version)
+08. Red Tape
+
+LENGTH:
+24:28
+
+SOURCE (SBD #1):
+Soundboard > unknown recorder
+
+TRANSFER:
+? > Adobe Audition 1.5 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+FM > ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+Recorded from a radio broadcast to analog cassette. I've received an uncut WAV file from the cassette transfer and did the tracking and file tagging. The levels are a bit hot on this one. Other than that this is a recommended recording.
+
+MD5 FINGERPRINTS:
+cf3c47e54aa1e1cda51ba6b4aa2d22a0 *RHCP_2002-08-07_FM_t01.flac
+a04a2bc5224019e402d01a951b33fe2c *RHCP_2002-08-07_FM_t02.flac
+d79697df8abe09b5c1ff297fcba51e0d *RHCP_2002-08-07_FM_t03.flac
+ccc30e8f15aad23fd760273f930f7177 *RHCP_2002-08-07_FM_t04.flac
+8979db78c08530bfc1e3ade8323275b1 *RHCP_2002-08-07_FM_t05.flac
+efa383977d51a7b38b757e5d9f679baa *RHCP_2002-08-07_FM_t06.flac
+4b58aaa30b6dd7aece7c0326959d1b6a *RHCP_2002-08-07_FM_t07.flac
+3f5ec01fdaff9fb76a10424336a702d4 *RHCP_2002-08-07_FM_t08.flac
+
+COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
