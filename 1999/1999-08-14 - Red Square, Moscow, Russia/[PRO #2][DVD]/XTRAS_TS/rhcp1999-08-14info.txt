@@ -1,0 +1,31 @@
+Red Hot Chili Peppers
+Date: 		1999-08-14
+Venue: 		Red Square, Moscow, Russia
+Length: 	1h10m
+Taper:		?
+Lineage: 	VHS > DVD
+Source		PRO#2
+Media:		DVD PAL
+Video info: 	mpeg2 720x480 6200kb/s(VBR) 25/PAL
+Audio info: 	AC3 256kb/s 48kHz
+Comment:	This is the complete video featuring all the songs with no channel logo, 		hence we assume it's taken from some kind of master tape.  The camera 			takes are pretty similar to the MTV broadcast's video, but the most 			notable difference is it has way less audience focus. Also, the audio is 		much clear due to quieter audience noise.
+More info:	http://www.rhcplivearchive.com/show/aug-14-1999-moscow-russia-450
+
+
+Setlist:
+01. Around The World
+02. Give It Away
+03. Scar Tissue
+04. Suck My Kiss
+05. If You Have To Ask
+06. Pea (aborted)
+07. Californication
+08. Right On Time
+09. Soul To Squeeze
+10. I Like Dirt
+11. My Lovely Man
+12. Easily
+13. Under The Bridge
+14. Me And My Friends
+Encore
+15. The Power Of Equality
