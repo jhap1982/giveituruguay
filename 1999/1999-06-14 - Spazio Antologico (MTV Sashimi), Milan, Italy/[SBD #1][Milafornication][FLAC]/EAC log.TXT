@@ -1,0 +1,134 @@
+EAC extraction logfile for CD
+Unknown Artist / Unknown Title
+
+
+Track  1
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track01.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 392A5A7E
+   Copy OK
+
+Track  2
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track02.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 5CC5B1BD
+   Copy OK
+
+Track  3
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track03.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 4322A79A
+   Copy OK
+
+Track  4
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track04.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 1137385C
+   Copy OK
+
+Track  5
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track05.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 1B749B46
+   Copy OK
+
+Track  6
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track06.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC AC2F3869
+   Copy OK
+
+Track  7
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 16BCC22D
+   Copy OK
+
+Track  8
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track08.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 8F192FAE
+   Copy OK
+
+Track  9
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track09.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 159A011B
+   Copy OK
+
+Track 10
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track10.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC FB0904A5
+   Copy OK
+
+Track 11
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track11.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 33C155DB
+   Copy OK
+
+Track 12
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track12.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 10DA72E8
+   Copy OK
+
+Track 13
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track13.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 16D9262A
+   Copy OK
+
+Track 14
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track14.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 5DA5E91E
+   Copy OK
+
+Track 15
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track15.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC AC84B5D6
+   Copy OK
+
+Track 16
+   Filename C:\Demonoid Ups\RHCP - Milafornication\Track16.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 90007A52
+   Copy OK
+
+
+End of status report
