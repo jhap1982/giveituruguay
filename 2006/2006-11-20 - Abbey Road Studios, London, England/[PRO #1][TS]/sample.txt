@@ -1,0 +1,17 @@
+Red Hot Chili Peppers
+Date: 		2006-11-20
+Venue: 		Abbey Road Studios, London, England
+Length: 	18m48s
+Taper:		?
+Lineage: 	HDTV > TS [1080i]
+Source		PRO#1a
+Media:		.ts
+Video info: 	mpeg2 1920x1080 11.2Mb/s(VBR) 29.970fps
+Audio info: 	AC3 384kb/s 48kHz 6ch
+Comment:	Not complete version, C'mon Girl is missing
+More info:	http://www.rhcplivearchive.com/show/nov-20-2006-london-england-903
+
+Setlist:
+Dani California
+Desecration Smile
+Snow ((Hey Oh))
