@@ -1,7 +1,6 @@
 temp
 **/*.torrent
 **/*.flac
-**/*.wma
 **/*.mp3
 **/*.wav
 **/*.vob
