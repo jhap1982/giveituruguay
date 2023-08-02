@@ -1,0 +1,150 @@
+EAC extraction logfile for CD
+Unknown Artist / Unknown Title
+
+
+Track  1
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track01.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 72EB41E7
+   Copy OK
+
+Track  2
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 82EC66DC
+   Copy OK
+
+Track  3
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track03.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 4BC51F76
+   Copy OK
+
+Track  4
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track04.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC FE6FEDF4
+   Copy OK
+
+Track  5
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track05.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D9B217ED
+   Copy OK
+
+Track  6
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track06.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 44F05CD7
+   Copy OK
+
+Track  7
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC A2F9229F
+   Copy OK
+
+Track  8
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track08.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC B709BDAB
+   Copy OK
+
+Track  9
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track09.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 2CAA0942
+   Copy OK
+
+Track 10
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track10.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC A3D2D845
+   Copy OK
+
+Track 11
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track11.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D6763678
+   Copy OK
+
+Track 12
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track12.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 07AF35DA
+   Copy OK
+
+Track 13
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track13.wav
+
+   Peak level 99.5 %
+   Track quality 100.0 %
+   Copy CRC 7A4A1899
+   Copy OK
+
+Track 14
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track14.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 6450894F
+   Copy OK
+
+Track 15
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track15.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D29F33FC
+   Copy OK
+
+Track 16
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track16.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 35CB3B4F
+   Copy OK
+
+Track 17
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track17.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC FE5CE005
+   Copy OK
+
+Track 18
+   Filename C:\Demonoid Ups\RHCP - Argenfornication\Track18.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC DECA259F
+   Copy OK
+
+
+End of status report

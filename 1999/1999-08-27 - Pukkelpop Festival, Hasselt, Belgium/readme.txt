@@ -1,0 +1,29 @@
+Setlist
+Around the World
+Give It Away
+Scar Tissue
+My Lovely Man
+Savior
+Rapper's Delight tease
+Soul to Squeeze
+If You Have to Ask
+Hardcore Jollies tease
+What Is Soul? jam
+Organic Anti-Beat Box Band
+Easily
+Cold Sweat jam
+London Calling tease
+Right on Time
+Under the Bridge
+Me and My Friends
+
+ENCORE BREAK
+Boyz-N-the-Hood part of
+Sir Psycho Sexy
+The Power of Equality
+
+Recordings
+
+AUD #1 audience audiounknown mic > unknown recorderMD(M) > FLACrecorded by unknown  
+AMT #1 amateur videoVHS(M) > MKVbuilt-in > unknown camerarecorded by unknown Missing "Give It Away" and "Organic Anti-Beat Box Band". Some songs also cut in. WATCH  
+AMT #2 amateur videoVHS(M) > MP4built-in > unknown camerarecorded by unknown Only "Give It Away" and "Scar Tissue" were taped.
