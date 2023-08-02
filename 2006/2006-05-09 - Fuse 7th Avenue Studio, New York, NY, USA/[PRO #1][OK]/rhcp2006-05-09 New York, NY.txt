@@ -1,0 +1,52 @@
+Red Hot Chili Peppers
+
+May 9, 2006 - Fuse Studios @ 7th Avenue, New York, NY
+
+
+DISC 1/1 (36:18) 
+-----------------
+01. Intro Jam
+02. Can't Stop
+03. Charlie
+04. Scar Tissue
+05. Dani California
+06. Right On Time
+07. How Deep Is Your Love
+08. Snow (Hey Oh)
+09. Tell Me Baby
+10. Me & My Friends
+
+
+GENERATION
+-----------------
+DVD-R > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+
+SOURCE (Pro-Shot)
+-----------------
+RushHD Broadcast > DVD
+
+[DVD Audio Coding mode: LPCM (48kHz, 16-bit, 2Ch)]
+
+
+TRANSFER
+-----------------
+SONY DVD RW DW-G120A > DVD Audio Extractor 3.4.1 > Adobe Audition 1.5 > Trader's Little Helper 1.1.0
+
+
+FLAC FINGERPRINTS
+-----------------
+rhcp2006-05-09t01.flac:e4018e64af9b8ad6047d825f0be4db2f
+rhcp2006-05-09t02.flac:e4f2e8156e8b2d47702162b462908469
+rhcp2006-05-09t03.flac:02a5153c9300aaa272c29f697c96d4e6
+rhcp2006-05-09t04.flac:adcfb5c815b35a39f802ffb73f7ab6d4
+rhcp2006-05-09t05.flac:19398f2d8e31490b00e88d0282e1561b
+rhcp2006-05-09t06.flac:8e55f41ae3e47cfb3c5884a99fc5fc9b
+rhcp2006-05-09t07.flac:0f32c4ceb4db9d5352219ee51efbdc45
+rhcp2006-05-09t08.flac:a406286f568b3fc421ae9fc11520c750
+rhcp2006-05-09t09.flac:ecca80ff2202b33af1239331400d068b
+rhcp2006-05-09t10.flac:e25ebb4ae6f4b3328037a914675c7930
+
+
+DVD converted by Sikamikanico Feb. 1, 2007--first seed at Zomb Feb. 1, 2007
+- PLEASE DO NOT ENCODE TO MP3 OR SELL!

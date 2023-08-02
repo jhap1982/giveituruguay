@@ -1,0 +1,82 @@
+Red Hot Chili Peppers
+Pinkpop Necessities
+
+As a warm-up for Pinkpop 2016 Friday's headlining show, NPO Cultura broadcast this compilation of the three previous appearances on the same festival (plus two clips which have been omitted for obvious reasons).
+Pinkpop, Megaland, Landgraaf, The Netherlands, June 5, 2006
+Pinkpop, Megaland, Landgraaf, The Netherlands, June 4, 1990
+Pinkpop, Megaland, Landgraaf, The Netherlands, May 23, 1988
+
+01. Dani California (Pinkpop 2006)
+02. Scar Tissue (Pinkpop 2006)
+**. The Adventures of Rain Dance Maggie (clip 2011) [deleted]
+**. Monarchy Of Roses (clip 2011) [deleted]
+03. Charlie (Pinkpop 2006)
+04. Otherside (Pinkpop 2006)
+05. Interview (Pinkpop 1988)
+06. Bullet Proof [George Clinton cover] (Pinkpop 1988)
+07. Get Up And Jump (Pinkpop 1988)
+08. Crosstown Traffic [Jimi Hendrix cover] (Pinkpop 1988)
+09. Mommy Where's Daddy (Pinkpop 1990)
+10. Interview (Pinkpop 1990)
+11. Drum Solo (Pinkpop 2006)
+12. Under The Bridge (Pinkpop 2006)
+13. You're Gonna' Get Yours/Give It Away/Final Jam (Pinkpop 2006)
+
+Taken from the Dutch national television channel NPO Cultura broadcast, June 9, 2016.
+
+Lineage : NPO Cultura DVB-C - Humax iHDR-5050C - VideoReDo TVSuite 4.20.7.629
+
+Technical details:
+File Name : Red Hot Chili Peppers Pinkpop Necessities.ts
+Size : 2.017 GB
+Duration : 00:54:08.01
+Mux type : TS Stream
+TS mux rate : 7.359 Mbps
+
+Video Encoding : MPEG2
+VideoStreamID : x399
+Frame rate : 25.00 fps
+Encoding size : 720 x 576
+Aspect ratio : 16:9
+Header bit rate : 4.800 Mbps
+VBV buffer : 220 KBytes
+Profile : Main@Main
+Progressive : Prog or Int
+Chroma : 4:2:0
+Bit rate : 4.585 Mbps
+
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Language : dut
+PID : x39A
+PES Stream Id : xC0
+Bit rate : 192 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+
+Subtitle: 1-1
+Type : DVB Subpic
+PID : 0x3A0
+Language : dut
+Page : 2
+
+Subtitle: 2-1
+Type : DVB Teletext
+PID : 0x3A1
+Language : dut
+Page : 100
+
+Subtitle: 2-2
+Type : DVB Teletext
+PID : 0x3A1
+Language : dut
+Page : 888
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2016.
+
+Uploaded to DIME on June 16, 2016 by Magnix.

@@ -3,6 +3,7 @@ torrent
 **/*.flac
 **/*.mp3
 **/*.wav
+**/*.wma
 **/*.vob
 **/*.mpg
 **/*.mkv
