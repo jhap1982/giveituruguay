@@ -6,6 +6,7 @@ torrent
 **/*.wma
 **/*.vob
 **/*.mpg
+**/*.m2ts
 **/*.mkv
 **/*.mp4
 **/*.m4a

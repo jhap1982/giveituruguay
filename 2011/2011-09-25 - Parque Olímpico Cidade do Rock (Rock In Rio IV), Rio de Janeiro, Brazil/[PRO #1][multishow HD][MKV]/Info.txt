@@ -1,0 +1,90 @@
+Hi there.
+
+Here is the full show. Aired on Multishow HD.
+All I did was getting the transport stream, trimmed junk at the beginning and end of the file, and remuxed to a mkv container.
+It's HD, but in my opinion the image is not all that great. But, of course, better than the SD I uploaded before.
+
+
+
+Here is some info taken with MediaInfo:
+
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 8.02 GiB
+Duration                         : 1h 42mn
+Overall bit rate                 : 11.2 Mbps
+
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 42mn
+Bit rate                         : 10.6 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Bits/(Pixel*Frame)               : 0.171
+Stream size                      : 7.59 GiB (95%)
+
+
+Audio
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 1h 42mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 29ms
+Stream size                      : 281 MiB (3%)
+
+
+
+Band:
+Anthony Kiedis – vocals
+Flea – bass, backing vocals
+Chad Smith – drums
+Josh Klinghoffer – guitar, backing vocals
+
+
+
+Setlist:
+01 - Monarchy Of Roses
+02 - Can't Stop
+03 - Charlie
+04 - Otherside
+05 - Look Around
+06 - Dani California
+07 - Under The Bridge
+08 - Factory Of Faith
+09 - Throw Away Your Television
+10 - Pea
+11 - The Adventures Of Rain Dance Meggie
+12 - Me And My Friends
+13 - Did I Let You Know
+14 - Higher Ground
+15 - Californication
+16 - By The Way
+17 - Drums And Percussion Jam
+18 - Around The World
+19 - Blood Sugar Sex Magik
+20 - Give It Away
+
+Enjoy it.
