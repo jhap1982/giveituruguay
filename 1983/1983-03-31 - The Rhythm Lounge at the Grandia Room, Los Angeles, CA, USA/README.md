@@ -6,7 +6,10 @@ N/A
 
 ## Notes
 
-Just about an hour after opening for The Minutemen at the Lingerie, the band performed another midnight session at the Rhythm Lounge.
+> [Notes #1](https://www.rhcplivearchive.com): Just about an hour after opening for The Minutemen at the Lingerie, the band performed another midnight session at the Rhythm Lounge.
+
+> [Notes #2](http://theside.free.fr): A thursday night at the Rhythm Lounge.
+
 
 ## Media
 
