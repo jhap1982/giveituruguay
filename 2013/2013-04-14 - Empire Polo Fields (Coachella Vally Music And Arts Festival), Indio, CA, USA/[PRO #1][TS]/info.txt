@@ -1,0 +1,50 @@
+RED HOT CHILI PEPPERS
+April 14th, 2013
+Empire Polo Grounds
+(Coachella festival) 
+Indio, CA, USA
+
+SOURCE (PRO #1): 
+soundboard > unknown 
+
+TRANSFER: 
+Youtube.com > HiDownload Platinum > tsMuxerGUI 1.10.6 
+
+GENERATION: 
+Webstream > TS [H.264 1920x1080, 4Mbps/AAC 251kbps 48khz]
+
+LENGTH: 
+95:28
+
+NOTES: 
+- Highest quality web stream segments directly captured, joined and then muxed into a TS container. No re-encoding. 1080p resolution, H.264 codec at 4Mbps. 251kbps 48khz AAC audio. 
+
+
+TRACKS: 
+01. Monarchy Of Roses 
+02. Dani California 
+03. Otherside 
+04. Look Around
+05. Can't Stop 
+06. Snow ((Hey Oh))
+07. The Adventures Of Rain Dance Maggie
+08. Tell Me Baby
+09. Parallel Universe
+10. Under the Bridge
+11. Ethiopia
+12. Higher Ground (Stevie Wonder cover)
+13. Californication
+14. By The Way 
+
+Encore: 
+15. Encore Jam
+16. Around The World 
+17. Give It Away
+
+
+RECORDED AND TRANSFERRED BY: 
+dION1983
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+**PLEASE DO NOT DISTRIBUTE WITHOUT THIS INFO FILE!**

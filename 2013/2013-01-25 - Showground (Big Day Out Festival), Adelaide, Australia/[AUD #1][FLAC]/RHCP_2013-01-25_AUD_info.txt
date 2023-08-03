@@ -1,0 +1,79 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+January 25, 2013
+Showground (Big Day Out)
+Adelaide, Australia
+
+
+TRACKS:
+01. Monarchy Of Roses
+02. Around The World
+03. Jam
+04. Scar Tissue
+05. Snow ((Hey Oh))
+06. Factory Of Faith
+07. Jam
+08. What In The World
+09. Can't Stop
+10. Jam
+11. The Adventures Of Rain Dance Maggie
+12. Universally Speaking
+13. Under The Bridge
+14, Jam
+15. Look Around
+16. Californication
+17. Jam
+18. By The Way
+ ENCORE
+19. Jam (incl. Good Time Boys tease)
+20. Soul To Squeeze
+21. Give It Away 
+
+LENGTH:
+91:00
+
+SOURCE (AUD #1):
+Audio Technica AT831 > SP-PREAMP-11 > Sony MZ-NH900
+
+TRANSFER:
+Sony MZ-NH900 > PC > Adobe Audition 1.5 > CD Wave 1.98 > Trader's Little Helper 2.7.0 (Build 172)
+
+GENERATION:
+Hi-MD(M) > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+NOTES:
+There were some mic problems due to one mic cable having a loose connection/contact. The right channel has been overlapped with the left and both channels have been boosted up. There are some obivious mic malfunctions, especially during "Give It Away". Although there are some screaming bitches around, this recording sounds pretty good now.
+
+MD5 FINGERPRINTS:
+a7d49d226e995077a1131721379dac31 *RHCP_2013-01-25_AUD_t01.flac
+f6404d44280dc66065d0f95c6925f843 *RHCP_2013-01-25_AUD_t02.flac
+19ad86d600d67daf29e79da25c0bf26e *RHCP_2013-01-25_AUD_t03.flac
+94268fd401bd3a31299efd80004c064d *RHCP_2013-01-25_AUD_t04.flac
+d7842f8ff092b0578349f3741bbcd00e *RHCP_2013-01-25_AUD_t05.flac
+c9827fcaa49c8ec497f136a5f18a21be *RHCP_2013-01-25_AUD_t06.flac
+727278fd12dfec881fca7997eb35c715 *RHCP_2013-01-25_AUD_t07.flac
+c828265d17651f25f53cb27c57292d92 *RHCP_2013-01-25_AUD_t08.flac
+dd6f9b565511c3f1f0c2caf69f09f17a *RHCP_2013-01-25_AUD_t09.flac
+5a44ea3a38cb26575f34a435c9a47c77 *RHCP_2013-01-25_AUD_t10.flac
+ff92e48240f483daae2a88f21df0aa86 *RHCP_2013-01-25_AUD_t11.flac
+d6a5c8d10fb359070e1389fb4cdfd8a4 *RHCP_2013-01-25_AUD_t12.flac
+833893a147320afeb94f8281a527381c *RHCP_2013-01-25_AUD_t13.flac
+370eb3917276dc3d88d4e0ec6cab44e5 *RHCP_2013-01-25_AUD_t14.flac
+0e206f1f880c8e7beb169c7ea42c386a *RHCP_2013-01-25_AUD_t15.flac
+a0d2dbff5e8a4cca9cc774c4545a8541 *RHCP_2013-01-25_AUD_t16.flac
+fa931b0ba553a4aaa4068996d8604e58 *RHCP_2013-01-25_AUD_t17.flac
+02565e738e8515535508968611cdcc04 *RHCP_2013-01-25_AUD_t18.flac
+07c06988397dbc162d11821533cb9d7d *RHCP_2013-01-25_AUD_t19.flac
+af8300c49a45bfdee58aecfeb61c6d6b *RHCP_2013-01-25_AUD_t20.flac
+def4056d101531263ff7833ea27880cb *RHCP_2013-01-25_AUD_t21.flac
+
+RECORDED & TRANSFERRED BY:
+jasonrhl
+
+EDITED & COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
