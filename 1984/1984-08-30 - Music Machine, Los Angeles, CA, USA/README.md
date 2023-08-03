@@ -11,7 +11,7 @@
 
 <details>
   <summary>Pictures</summary>
-  <img alt="Clipping" title="Clipping" src="19840830a.jpg" height="200" />
+  <img alt="Clipping" title="Clipping" src="19840830a.png" height="200" />
 </details>
 
 ## Line Up
