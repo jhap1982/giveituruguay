@@ -1,0 +1,74 @@
+Red Hot Chili Peppers - Live At Circuito Banco do Brasil, November 09, 2013 - HD 1080i
+
+
+Circuito Banco do Brasil 2013
+Parque dos Atletas
+Rio de Janeiro, Brasil
+
+
+Lineage: STB -> HDD -> TSDoctor -> SmartCutter
+
+
+This is the exactly stream received on my set top box. I just trimmed the start and ending of the file, to remove junk.
+
+Setlist:
+01 - Can't Stop
+02 - Dani California
+03 - Otherside
+04 - Factory Of Faith
+05 - Snow (Hey Oh)
+06 - Universally Speaking
+07 - I Like Dirt
+08 - The Adventures Of Rain Dance Maggie
+09 - Blood Sugar Sex Magik
+10 - Higher Ground
+11 - Under The Bridge
+12 - Did I Let You Know?
+13 - Californication
+14 - By The Way
+15 - Suck My Kiss
+16 - Meet Me At The Corner
+17 - Give It Away
+
+
+Some info taken with MediaInfo:
+
+Format                                   : MPEG-TS
+File size                                : 3.88 GiB
+Duration                                 : 1h 36mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 748 Kbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Duration                                 : 1h 36mn
+Bit rate                                 : 5 076 Kbps
+Maximum bit rate                         : 10.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.082
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Duration                                 : 1h 36mn
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Maximum bit rate                         : 395 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -150ms
+
+
+Enjoy!
