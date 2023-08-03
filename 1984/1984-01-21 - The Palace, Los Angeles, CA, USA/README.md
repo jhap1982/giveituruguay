@@ -5,14 +5,13 @@
 
 ## Notes
 
-**Other Acts**: -
+**Headliner**: [X](https://en.wikipedia.org/wiki/X_(American_band))
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Clipping" title="Clipping" src="19840121a.jpg" height="200" />
 </details>
 
 ## Line Up
