@@ -1,11 +1,10 @@
 # Info
 
-
 ## Setlist
 
 ## Notes
 
-**Other Acts**: -
+>> **UNCONFIRMED PERFORMANCE**
 
 ## Media 
 
