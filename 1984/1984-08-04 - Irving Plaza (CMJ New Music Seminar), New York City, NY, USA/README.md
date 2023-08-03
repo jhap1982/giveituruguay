@@ -5,14 +5,13 @@
 
 ## Notes
 
-**Other Acts**: -
+**Other Acts**: [Jason and the Scorchers](https://en.wikipedia.org/wiki/Jason_%26_the_Scorchers), [Silent Running](https://en.wikipedia.org/wiki/Silent_Running_(band))
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Flyer" title="Flyer" src="19840804.jpg" height="200" />
 </details>
 
 ## Line Up

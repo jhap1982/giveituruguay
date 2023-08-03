@@ -3,16 +3,19 @@
 
 ## Setlist
 
+1. Battleship
+<br>SETLIST INCOMPLETE
+
 ## Notes
 
-**Other Acts**: -
+**Headliner**: Sparks
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Flyer" title="Flyer" src="19840819f.jpg" height="200" />
+  <img alt="Flyer" title="Flyer" src="19840819a.jpg" height="200" />
 </details>
 
 ## Line Up

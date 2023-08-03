@@ -3,7 +3,12 @@
 
 ## Setlist
 
+1. Buckle Down
+2. Get Up and Jump
+
 ## Notes
+
+> The MTV film crew came to a rehearsal to shoot a short clip for the Cutting Edge program.
 
 **Other Acts**: -
 
@@ -24,4 +29,14 @@
 
 ## Recordings
 
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD
+<details>
+  <img src="1984-08-26 PRO #1 (1).png" height="200" />
+  <img src="1984-08-26 PRO #2 (1).png" height="200" />
+  <img src="1984-08-26 PRO #3 (1).png" height="200" />
+  <img src="1984-08-26 PRO #4 (1).png" height="200" />
+</details>
+
 ## Links
+
+* [I.R.S. Records Presents The Cutting Edge](https://en.wikipedia.org/wiki/I.R.S._Records_Presents_The_Cutting_Edge)
