@@ -29,12 +29,12 @@
 
 ## Recordings
 
-* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD
 <details>
-  <img src="1984-08-26 PRO #1 (1).png" height="200" />
-  <img src="1984-08-26 PRO #2 (1).png" height="200" />
-  <img src="1984-08-26 PRO #3 (1).png" height="200" />
-  <img src="1984-08-26 PRO #4 (1).png" height="200" />
+  <summary>PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD</summary>
+  <img src="1984-08-26%20PRO%20%231%20(1).png" height="200" />
+  <img src="1984-08-26%20PRO%20%231%20(2).png" height="200" />
+  <img src="1984-08-26%20PRO%20%231%20(3).png" height="200" />
+  <img src="1984-08-26%20PRO%20%231%20(4).png" height="200" />
 </details>
 
 ## Links
