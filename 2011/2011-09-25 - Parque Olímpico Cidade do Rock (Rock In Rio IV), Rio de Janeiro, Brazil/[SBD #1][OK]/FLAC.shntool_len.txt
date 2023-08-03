@@ -1,0 +1,23 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:39.528      53669508 B   cxx   --   ---xx   flac  0.4291  01. Monarchy of Roses.flac
+     5:27.584      62896212 B   cxx   --   ---xx   flac  0.4388  02. Can't Stop.flac
+     5:16.893      60843468 B   cxx   --   ---xx   flac  0.4528  03. Charlie.flac
+     6:07.192      70500968 B   cxx   --   ---xx   flac  0.4314  04. Otherside.flac
+     4:24.975      50875324 B   cxx   --   ---xx   flac  0.4427  05. Look Around.flac
+     5:12.118      59926748 B   cxx   --   ---xx   flac  0.4484  06. Dani California.flac
+     4:47.992      55294436 B   cxx   --   ---xx   flac  0.3959  07. Under The Bridge.flac
+     4:54.659      56574488 B   cxx   --   ---xx   flac  0.4285  08. Factory of Faith.flac
+     5:28.496      63071192 B   cxx   --   ---xx   flac  0.4206  09. Flea Bass solo - Throw Away Your Television.flac
+     2:29.718      28745912 B   cxx   --   ---xx   flac  0.3703  10. Pea.flac
+     5:24.201      62246564 B   cxx   --   ---xx   flac  0.4388  11. The Adventures of Raindance Maggi.flac
+     3:38.603      41971904 B   cxx   --   ---xx   flac  0.4161  12. Me & My Friends.flac
+     4:30.569      51949260 B   cxx   --   ---xx   flac  0.4387  13. Did I Let You Know.flac
+     4:06.419      47312464 B   cxx   --   ---xx   flac  0.4375  14. Higher Ground.flac
+     7:40.673      88449272 B   cxx   --   ---xx   flac  0.4160  15. Californication.flac
+     3:59.544      45992548 B   cxx   --   ---xx   flac  0.4113  16. By The Way.flac
+     2:36.353      30019892 B   cxx   --   ---xx   flac  0.3655  17. Encore Intermission.flac
+     4:14.334      48832084 B   cxx   --   ---xx   flac  0.4390  18. Chad Drum Solo.flac
+     4:19.442      49812980 B   cxx   --   ---xx   flac  0.4356  19. Around the World.flac
+     4:53.905      56429776 B   cxx   --   ---xx   flac  0.4252  20. Blood Sugar Sex Magic.flac
+     4:54.357      56516628 B   cxx   --   ---xx   flac  0.4494  21. Give It Away.flac
+    99:07.556    1141931628 B                            0.4280  (21 files)
