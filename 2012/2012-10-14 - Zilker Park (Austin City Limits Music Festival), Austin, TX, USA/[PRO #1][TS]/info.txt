@@ -1,0 +1,52 @@
+RED HOT CHILI PEPPERS
+October 14th, 2012 
+Zilker Park
+(Austin City Limits festival) 
+Austin, TX, USA
+
+SOURCE (PRO #1): 
+soundboard > unknown 
+
+TRANSFER: 
+Youtube.com > Replay Media Catcher 4 > FLVExtract 1.6.2 > tsMuxerGUI 1.10.6 
+
+GENERATION: 
+Webstream > FLV [H.264 1280x720, 3.5Mbps/AAC 96kbps 44.1khz] > Transport Stream 
+
+LENGTH: 
+101:59
+
+NOTES: 
+- Highest quality web stream directly captured, extracted and then remuxed into a TS container. No re- 
+encoding. 720p resolution, H.264 codec at 3.5Mbps. 96kbps 44.1khz AAC audio. 
+
+TRACKS: 
+01. Monarchy Of Roses 
+02. Dani California 
+03. Can't Stop  
+04. Otherside 
+05. Look Around 
+06. She's Only 18 
+07. Snow ((Hey Oh))
+08. Throw Away Your Television
+09. Tell Me Baby
+10. The Adventures Of Rain Dance Maggie
+11. Right on Time
+12. Suck My Kiss
+13. Under the Bridge
+14. Californication 
+15. By The Way 
+
+Encore: 
+15. Chad & Mauro Jam
+16. Sir Psycho Sexy 
+17. They're Red Hot (Robert Johnson cover)
+18. Give It Away
+
+
+RECORDED AND TRANSFERRED BY: 
+dION1983
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+**PLEASE DO NOT DISTRIBUTE WITHOUT THIS INFO FILE!**
