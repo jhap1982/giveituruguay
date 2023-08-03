@@ -21,9 +21,10 @@ Sources:
 * Dimeadozen: http://www.dimeadozen.org
 * Rutracker: https://rutracker.org
 * The Central Box: https://www.thecentralbox.net
-* The Brothers Cup: https://thebrotherscup.club
+* John Frusciante Effects: http://www.jfeffects.com.br/
 * Invisible Movement (John Frusciante): http://www.invisible-movement.net
 * Josh Klinghoffer Fan Site: http://josh-klinghoffer.org
+* The Brothers Cup: https://thebrotherscup.club
 
 Special mentions:
 * Foro Funkymonks
