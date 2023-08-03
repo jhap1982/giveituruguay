@@ -1,0 +1,92 @@
+Red Hot Chili Peppers
+Summer Sonic Tokyo
+Marine Stage
+Makuhari Messe
+Chiba, Japan
+August 17, 2019
+
+Lineage: LIVE Webcast -> Streamlink -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 2925 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+The very rare show that includes both "Scar Tissue" AND "Otherside".
+
+Setlist: 
+Intro Jam
+Can't Stop
+scar Tissue
+Dark Necessities
+Otherside
+Hey
+
+TRT = 00:31:32
+(incomplete set - complete broadcast) 
+
+Note: This is a perfect capture of the webcast.
+A very minor audio dropout occurs during "Intro Jam"
+at the 4:21 mark. Otherwise, no imperfections were 
+inherent in this broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Red Hot Chili Peppers - 2019-08-17 Summer Sonic Tokyo [1080p].ts
+Format                                   : MPEG-TS
+File size                                : 690 MiB
+Duration                                 : 31 min 32 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 057 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 1 frame
+Codec ID                                 : 27
+Duration                                 : 31 min 33 s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 31 min 36 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -4 s 59 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 31 min 32 s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.
