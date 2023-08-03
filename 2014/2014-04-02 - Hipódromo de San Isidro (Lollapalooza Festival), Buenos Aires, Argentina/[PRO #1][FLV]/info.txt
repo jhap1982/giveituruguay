@@ -1,0 +1,28 @@
+Red Hot Chili Peppers
+April 2, 2014
+Lollapalooza Argentina
+Hipódromo de San Isidro, San Isidro, Argentina
+
+Webcast [H.264 1280 X 720, AAC] > AdobeHDS PHP Script > ffmpeg(cuts) > Andy's FLV Joiner > .flv
+
+The Power Of Equality
+Dani California
+Can't Stop
+Why Don't You Love Me (Like You Used to Do)?
+Otherside
+Look Around
+Snow (Hey Oh) (cuts out)
+The Adventures Of Rain Dance Maggie (cuts in)
+Magic Johnson (Instrumental tease)
+Me And My Friends 
+Wet Sand
+Under The Bridge
+Ethiopia
+Californication
+By The Way
+If You Have To Ask
+Give It Away
+
+
+Notes:
+This is a combination of three rips: two from me and one from DIME user eva0001. eva's rip had the fewest glitches so it is used for the majority of the show. My sources were only used to patch some cuts in the first two songs and for The Adventures Of Rain Dance Maggie, Californication, and By The Way. The stream completely cut out in the middle of Snow and didn't resume until after Rain Dance Maggie had started so those two songs are incomplete. At 01:23:53 a Windows popup appears in the video, this was actually on the broadcast (someone plugged in an iPhone to the computer running the stream). Big thanks to eva0001.

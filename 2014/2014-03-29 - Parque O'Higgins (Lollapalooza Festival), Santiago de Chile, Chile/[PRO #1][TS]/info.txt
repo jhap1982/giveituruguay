@@ -1,0 +1,31 @@
+Red Hot Chili Peppers
+
+29th March 2014
+Parque O'Higgins
+Santiago, Chile
+
+Setlist:
+1. Can't Stop 
+2. Dani California 
+3. Otherside 
+4. Factory of Faith 
+5. Snow 
+6. Maggie 
+7. I Like Dirt 
+8. Wet Sand 
+9. She's Only 18 
+10. Under the Bridge 
+11. Ethiopia 
+12. Californication 
+13. By the Way 
+----ENCORE---- 
+14. Jam 
+15. Around the World 
+16. Give It Away
+
+Transfer:
+Live stream > ffmpeg > cmd (because I captured two files and I had to concatenate them) > you
+
+The stream was kinda glitchy and I was accessing it through a proxy, so there's a cut during the intro jam and Can't Stop. 
+
+Pasarel

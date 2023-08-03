@@ -1,0 +1,22 @@
+Bruno Mars
+Red Hot Chili Peppers
+
+2nd February 2013
+MetLife Stadium
+East Rutherford, NJ
+USA
+
+Setlist:
+1. Locked Out of Heaven (Bruno Mars)
+2. Treasure (Bruno Mars)
+3. Runaway (Bruno Mars)
+4. Give It Away (Red Hot Chili Peppers)
+5. Just The Way You Are (Bruno Mars)
+
+
+Transfer:
+Fox Sports live stream > AdobeHDS > FLVExtract > tsMuxeR GUI 2.6.12 > ffmpeg (for cutting the commercials) > you
+
+
+
+Pasarel
