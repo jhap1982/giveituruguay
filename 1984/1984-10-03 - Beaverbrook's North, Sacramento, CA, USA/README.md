@@ -6,7 +6,7 @@
 2. True Men Don't Kill Coyotes
 3. Mommy Where's Daddy?
 4. Green Heaven
-5. Fire
+5. Fire (Jimi Hendrix)
 6. Owner of a Lonely Heart tease (Yes)
 7. Why Don't You Love Me (Hank Williams)
 <br>SETLIST INCOMPLETE
