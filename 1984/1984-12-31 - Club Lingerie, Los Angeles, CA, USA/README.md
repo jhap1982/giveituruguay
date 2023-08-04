@@ -1,18 +1,19 @@
 # Info
 
-
 ## Setlist
+
+1.Fire
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
-**Other Acts**: -
+**Other Acts**: Sandra Bernhard, Cruzados
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Clipping" title="Clipping" src="19841231a.jpg" height="200" />
 </details>
 
 ## Line Up

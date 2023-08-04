@@ -5,14 +5,13 @@
 
 ## Notes
 
-**Other Acts**: -
+**Headliner**: The Hoodoo Gurus
 
 ## Media 
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Flyer" title="Flyer" src="19841022.jpg" height="200" />
 </details>
 
 ## Line Up

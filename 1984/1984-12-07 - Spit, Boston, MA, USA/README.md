@@ -1,7 +1,13 @@
 # Info
 
-
 ## Setlist
+
+1. Get Up and Jump
+2. True Men Don't Kill Coyotes
+3. Why Don't You Love Me (Hank Williams)
+4. Fire (Jimi Hendrix)
+5. Mommy Where's Daddy?
+<br> SETLIST INCOMPLETE
 
 ## Notes
 
@@ -11,8 +17,7 @@
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Clipping" title="Clipping" src="19841207a.jpg" height="200" />
 </details>
 
 ## Line Up
@@ -24,4 +29,4 @@
 
 ## Recordings
 
-## Links
+## Links 
