@@ -52,3 +52,6 @@ torrent
 **/*.rar
 **/*.zip
 **/*.log
+/giu-react.esproj.user
+/bfg-1.14.0.jar
+/commands.txt
