@@ -2,6 +2,9 @@
 
 ## Setlist
 
+1. American Ghost Dance
+<br>SETLIST INCOMPLETE
+
 ## Notes
 
 **Support**: -
@@ -10,10 +13,7 @@
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Clipping" title="Clipping" src="_.jpg" height="200" />
-  <img alt="Ticket" title="Ticket" src="_.jpg" height="200" />  
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />  -->
+  <img alt="Flyer" title="Flyer" src="19851211f.jpg" height="200" />
 </details>
 
 ## Line Up
@@ -25,4 +25,5 @@
 
 ## Recordings
 
+## Links
 ## Links
