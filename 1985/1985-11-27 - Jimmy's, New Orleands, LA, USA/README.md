@@ -20,7 +20,7 @@
 
 * Anthony Kiedis
 * Flea
-* Jack Sherman
+* Hillel Slovak
 * Cliff Martinez
 
 ## Recordings

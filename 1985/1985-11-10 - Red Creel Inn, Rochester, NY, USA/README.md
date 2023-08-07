@@ -20,9 +20,11 @@
 
 * Anthony Kiedis
 * Flea
-* Jack Sherman
+* Hillel Slovak
 * Cliff Martinez
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown **NOT CIRCULATING**
 
 ## Links

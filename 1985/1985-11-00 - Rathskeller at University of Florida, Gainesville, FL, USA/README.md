@@ -4,6 +4,9 @@
 
 ## Notes
 
+**UNCONFIRMED PERFORMANCE**
+
+
 **Support**: -
 
 ## Media 
@@ -20,7 +23,7 @@
 
 * Anthony Kiedis
 * Flea
-* Jack Sherman
+* Hillel Slovak
 * Cliff Martinez
 
 ## Recordings
