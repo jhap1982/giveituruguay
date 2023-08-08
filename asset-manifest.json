@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/giveituruguay/static/css/main.371dc0d2.css",
+    "main.css": "/giveituruguay/static/css/main.d09954be.css",
     "main.js": "/giveituruguay/static/js/main.c761510a.js",
     "static/js/787.28e588cc.chunk.js": "/giveituruguay/static/js/787.28e588cc.chunk.js",
+    "static/media/2010.jpg": "/giveituruguay/static/media/2010.bb4579e0c207e4f83e57.jpg",
+    "static/media/imbesideyou.jpg": "/giveituruguay/static/media/imbesideyou.d728c6d3872fdddd716a.jpg",
+    "static/media/ulrotdc.jpg": "/giveituruguay/static/media/ulrotdc.4c9847398fd10a205916.jpg",
+    "static/media/2008.jpg": "/giveituruguay/static/media/2008.698597eb2c5b3759e42c.jpg",
+    "static/media/therhcp.jpg": "/giveituruguay/static/media/therhcp.e8782ffaae94bd8685ce.jpg",
+    "static/media/theumpp.jpg": "/giveituruguay/static/media/theumpp.cef94518bf0c9ee1b7f1.jpg",
+    "static/media/greatesthits.jpg": "/giveituruguay/static/media/greatesthits.5f4afc97a3d1837e5fa3.jpg",
+    "static/media/freakystyley.jpg": "/giveituruguay/static/media/freakystyley.abf0178d8b4b252acfdb.jpg",
+    "static/media/californication.jpg": "/giveituruguay/static/media/californication.b2c82a97d762b0dbe7a8.jpg",
+    "static/media/2009.jpg": "/giveituruguay/static/media/2009.2e60f9491679f5d6a1d3.jpg",
+    "static/media/btw.jpg": "/giveituruguay/static/media/btw.078dc2600fcf3ee03bf0.jpg",
+    "static/media/thegetaway.jpg": "/giveituruguay/static/media/thegetaway.7fe67b0575e6b1620658.jpg",
+    "static/media/bssm.jpg": "/giveituruguay/static/media/bssm.16da0fadc8f5161829a5.jpg",
+    "static/media/1982.jpg": "/giveituruguay/static/media/1982.9814103294f0e555afe8.jpg",
+    "static/media/ohm.jpg": "/giveituruguay/static/media/ohm.de989bb1eac1042546f9.jpg",
+    "static/media/stadiumarcadium.jpg": "/giveituruguay/static/media/stadiumarcadium.5a521e54641cb81d0af7.jpg",
+    "static/media/mothersmilk.jpg": "/giveituruguay/static/media/mothersmilk.09088229d244350369c2.jpg",
+    "static/media/hydepark.jpg": "/giveituruguay/static/media/hydepark.6c2c50d888ea7851fe4d.jpg",
+    "static/media/iwy.jpg": "/giveituruguay/static/media/iwy.6c84d91bf2c3695c262f.jpg",
     "static/media/logo.svg": "/giveituruguay/static/media/logo.d21c8e2584347acb3056a895ee5d5b09.svg",
     "index.html": "/giveituruguay/index.html",
-    "main.371dc0d2.css.map": "/giveituruguay/static/css/main.371dc0d2.css.map",
+    "main.d09954be.css.map": "/giveituruguay/static/css/main.d09954be.css.map",
     "main.c761510a.js.map": "/giveituruguay/static/js/main.c761510a.js.map",
     "787.28e588cc.chunk.js.map": "/giveituruguay/static/js/787.28e588cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.371dc0d2.css",
+    "static/css/main.d09954be.css",
     "static/js/main.c761510a.js"
   ]
 }
