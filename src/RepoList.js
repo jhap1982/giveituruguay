@@ -34,7 +34,7 @@ const RepoList = ({ directories }) => {
                     </li>
                 ))}
             </ul>
-            <footer class="footer-container">
+            <footer className="footer-container">
                 <div>
                     <h2> [[ jhap1982 ~ Sharing since 2002 ]] </h2>
                     <p>
@@ -44,7 +44,7 @@ const RepoList = ({ directories }) => {
                     </p>
                 </div>
                 
-                <div class="footer-references">
+                <div className="footer-references">
                     (*)
                     <a href="https://redhotchilipeppers.com/">[Red Hot Chili Pepepres Site]</a>
                     <a target="_blank" href="http://theside.free.fr">[The Side Tour Story]</a>
@@ -52,7 +52,7 @@ const RepoList = ({ directories }) => {
                     <a target="_blank" href="https://vk.com/rhrsandse">[Rhrsandse]</a>
                     <a target="_blank" href="https://www.rhcpfrance.com">[RHCP France]</a>
                     <a target="_blank" href="https://www.rhcpsessions.com">[RHCP Sessions]</a>
-                    <a target="_blank" href="https://www.rhcp.com.br">[RHCP Brazil]</a>
+                    <a target="_blank" href="https://www.redhotchilipeppers.com.br">[RHCP Brazil]</a>
                 </div>
             </footer>
         </div>
