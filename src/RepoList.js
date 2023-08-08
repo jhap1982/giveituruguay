@@ -4,7 +4,7 @@ import rotatingSvg from './logo.svg'; // Importamos el logo SVG correctamente
 
 const RotatingSvg = () => {
     return (
-        <a href="https://giveituruguay.blogspot.com" className="logo-container" target="_blank">
+        <a href="https://giveituruguay.blogspot.com" className="logo-container" target="_blank" rel="noopener noreferrer">
             <img
                 className="rotating-logo"
                 src={rotatingSvg} // Utilizamos la variable rotatingSvg para el src
@@ -46,13 +46,13 @@ const RepoList = ({ directories }) => {
                 
                 <div className="footer-references">
                     (*)
-                    <a href="https://redhotchilipeppers.com/">[Red Hot Chili Pepepres Site]</a>
-                    <a target="_blank" href="http://theside.free.fr">[The Side Tour Story]</a>
-                    <a target="_blank" href="https://www.rhcplivearchive.com">[Red Hot Live Archive]</a>
-                    <a target="_blank" href="https://vk.com/rhrsandse">[Rhrsandse]</a>
-                    <a target="_blank" href="https://www.rhcpfrance.com">[RHCP France]</a>
-                    <a target="_blank" href="https://www.rhcpsessions.com">[RHCP Sessions]</a>
-                    <a target="_blank" href="https://www.redhotchilipeppers.com.br">[RHCP Brazil]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://redhotchilipeppers.com/">[Red Hot Chili Pepepres Site]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="http://theside.free.fr">[The Side Tour Story]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.rhcplivearchive.com">[Red Hot Live Archive]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://vk.com/rhrsandse">[Rhrsandse]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.rhcpfrance.com">[RHCP France]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.rhcpsessions.com">[RHCP Sessions]</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.redhotchilipeppers.com.br">[RHCP Brazil]</a>
                 </div>
             </footer>
         </div>
