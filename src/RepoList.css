@@ -19,8 +19,18 @@ body {
 h1 {
   text-align: center;
   color: mediumaquamarine;
-  font-size: 48px;
-  margin-bottom: 30px;  
+  font-size: 46px;
+}
+
+h2, h3 {
+    text-align: center;
+    color: burlywood;
+    font-size: 18px;
+}
+
+h3 {
+    text-align: left;
+    font-size: 16px;
 }
 
 /* Estilo para las pills */
@@ -183,8 +193,21 @@ a[title='2023'] {
   height: 100px;
 }
 
+.footer-container {
+    display: flex;
+    color: burlywood;
+    flex-direction: column;
+}
+
+.footer-references {
+    display: flex;
+    gap: 1rem;
+    font-size: 12px;
+    color: white;
+}
+
 @keyframes rotation {
-  from {
+    from {
     transform: rotate(0deg);
   }
   to {
