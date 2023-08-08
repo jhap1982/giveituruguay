@@ -14,7 +14,7 @@ Sources:
 * Red Hot Live Archive: www.rhcplivearchive.com
 * The Side History: http://theside.free.fr
 * RHCP France: https://www.rhcpfrance.com
-* RHCP Brazil: https://www.rhcp.com.br
+* RHCP Brazil: https://www.redhotchilipeppers.com.br
 * Rhrsandse: https://vk.com/rhrsandse
 * RHCP Sessions: https://www.rhcpsessions.com
 * The Trader's Den: http://www.thetradersden.org
