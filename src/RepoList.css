@@ -47,6 +47,124 @@ h1 {
   transition: background-color 0.3s;
 }
 
+a[title='1982'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/1982.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1983'],
+a[title='1984']{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/therhcp.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1985'],
+a[title='1986'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/freakystyley.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1987'],
+a[title='1988'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/theumpp.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1989'],
+a[title='1990'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/mothersmilk.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1991'],
+a[title='1992'],
+a[title='1993'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/bssm.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1994'],
+a[title='1995'],
+a[title='1996'],
+a[title='1997'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/ohm.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='1998'],
+a[title='1999'],
+a[title='2000'],
+a[title='2001'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/californication.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2002'],
+a[title='2005'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/btw.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2003'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/greatesthits.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2004'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/hydepark.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2006'],
+a[title='2007'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/stadiumarcadium.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2008'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/2008.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2009'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/2009.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2010'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/2010.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2011'],
+a[title='2012'],
+a[title='2014'],
+a[title='2015'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/iwy.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2013'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/imbesideyou.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2016'],
+a[title='2017'],
+a[title='2018'],
+a[title='2019'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/thegetaway.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
+a[title='2020'],
+a[title='2021'],
+a[title='2022'],
+a[title='2023'] {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/ulrotdc.jpg') center/cover no-repeat;
+    background-blend-mode: multiply;
+}
+
 .pill-link:hover {
   background-color: #b30000;
 }
