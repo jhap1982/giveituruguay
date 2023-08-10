@@ -516,6 +516,104 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1990-01-10 - Chelsea Television Studios (Michelob Presents Night Music), New York, NY, USA</td>
+                            <td>[PRO #1][SCB][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-01-26 - Club Citta, Kawasaki City, Japan</td>
+                            <td>
+                                [PRO #1][BONG][DVD]<br />
+                                [PRO #1][DVD]<br />
+                                [PRO #1a][DVD]<br /> 
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-02-06 - Riverside, Newcastle, England</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-02-07 - University of Leeds, Leeds, England</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [AUD #1][WAV]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-02-14 - Noorderligt, Tilburg, Netherlands</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-02-14 - Villa 65 (Nozems-a-gogo), Hilversum, Netherlands</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-03-01 - Transbordeur, Lyon, France</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-03-14 - MTV Spring Break Party, Daytona Beach, FL, USA</td>
+                            <td>[PRO #1][MTV][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-03-16 - Texan Hotel, Daytona Beach, FL, USA</td>
+                            <td>[AUD #1][RLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-03-30 - NBC Studios (Late Night with David Letterman), New York, NY, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-04-04 - Hard Rock Cafe (Save The Planet), Orlando, FL, USA</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-04-29 - Keaney Gym at University of Rhode Island, Kingston, RI, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-05-06 - University of New Hampshire, Durham, NH, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-06-04 - Draf- en Renbaan (Pinkpop Festival), Landgraaf, Netherlands</td>
+                            <td>
+                                [PRO #1a][RHL][DVD]<br />
+                                [AUD #1][RLA][FLAC]<br />
+                                [SBD #1][FLAC] <br/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-06-06 - Brixton Academy, London, England</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-06-16 - Greek Theatre, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][RLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1990-12-31 - Civic Center, San Francisco, CA, USA</td>
+                            <td>[AMT #1][RHL][DVD]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
