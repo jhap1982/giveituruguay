@@ -26,7 +26,10 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1983-05-30 - China Club, Hollywood, CA, USA</td>
-                            <td>[SBD #1][FLAC] [SBD #1][MP3]</td>
+                            <td>
+                                [SBD #1][FLAC]<br />
+                                [SBD #1][MP3]
+                            </td>
                         </tr>
                         <tr>
                             <td>1983-07-18 - Club Lingerie , Hollywood, CA, USA</td>
@@ -96,7 +99,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1985-08-17 - Freilichtbuhne Loreley (Loreley Open Air), St. Goarshausen, Germany</td>
-                            <td>[PRO #1][George Clinton][DVD] [PRO #1][RHL][DVD]</td>
+                            <td>
+                                [PRO #1][George Clinton][DVD]<br/>
+                                [PRO #1][RHL][DVD]
+                            </td>
                         </tr>
 
                         <tr>
@@ -106,7 +112,11 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1985-10-23 - The Patio, Indianapolis, IN, USA</td>
-                            <td>[AMT #1][BONG][DVD] [AMT #1][RHL][DVD] [AUD #1][FLAC]</td>
+                            <td>
+                                [AMT #1][BONG][DVD]<br />
+                                [AMT #1][RHL][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
                         </tr>
 
                         <tr>
@@ -127,6 +137,58 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+
+                        <tr>
+                            <td>1986-01-18 - The Catalyst, Santa Cruz, CA, USA</td>
+                            <td>[MTX #1][FLAC]</td>
+                        </tr>    
+
+                        <tr>
+                            <td>1986-02-07 - Fender's Ballroom, Long Beach, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>    
+
+                        <tr>
+                            <td>1986-05-02 - Astor Park Club, Seattle, WA, USA</td>
+                            <td>
+                                [SBD #1][APE]<br />
+                                [SBD #1][FLAC]<br />
+                                [SBD #1][MP3]<br/>
+                            </td>
+                        </tr>    
+
+                        <tr>
+                            <td>1986-02-07 - Fender's Ballroom, Long Beach, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-05-26 - The Roxy, Hollywood, CA, USA</td>
+                            <td>[PRO #1][Jimi Hendrix Tribute][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-11-24 - Mississippi Nights, St. Louis, MO, USA</td>
+                            <td>
+                                [PRO #1][BONG][DVD]<br/>
+                                [PRO #1][RHL][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-11-29 - Hoosier Ballroom, Indianapolis, IN, USA</td>
+                            <td>[AMT #1][SCB][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-12-01 - First Avenue, Minneapolis, MN, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-12-03 - Lee's Palace, Toronto, ON, Canada</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
