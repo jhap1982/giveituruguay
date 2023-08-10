@@ -16,6 +16,7 @@ Sources:
 * RHCP France: https://www.rhcpfrance.com
 * RHCP Brazil: https://www.redhotchilipeppers.com.br
 * Rhrsandse: https://vk.com/rhrsandse
+* La OzPedia Peppers: https://laozpediapeppers.com
 * RHCP Sessions: https://www.rhcpsessions.com
 * The Trader's Den: http://www.thetradersden.org
 * Dimeadozen: http://www.dimeadozen.org
@@ -35,4 +36,3 @@ Special mentions:
 * Seven1963 
 * Gong Li (Narod)
 * Ati Chlli
-* OzPedia Peppers
