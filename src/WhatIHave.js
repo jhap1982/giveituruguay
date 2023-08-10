@@ -284,6 +284,101 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1988-00-00 - VPRO Documentary - Europe</td>
+                            <td>[PRO #1][Storm][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-01-24 - ABC Television Center (Star-athon '88), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-05 - The Loft, Berlin, Germany</td>
+                            <td>[AUD #1][RHCPLA][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-11 - Volkshaus, Zurich, Switzerland</td>
+                            <td>[SBD #1][RHCPLA][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-17 - Ancienne Belgique, Brussels, Belgium</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-17 - BRT TV Studios (Bingo!), Brussels, Belgium</td>
+                            <td>[PRO #1][AVI]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-20 - Paradiso, Amsterdam, Netherlands</td>
+                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-03-14 - Montezuma Hall at San Diego State University, San Diego, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-03-27 - John Anson Ford Amphitheatre (Amnesty International Benefit Show), Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-04-02 - Raji's, Los Angeles, CA, USA</td>
+                            <td>[SBD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-04-08 - The Catalyst, Santa Cruz, CA, USA</td>
+                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-04-14 - Mississippi Nights, St. Louis, MO, USA</td>
+                            <td>[AUD #1][RLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-04-27 - The Channel, Boston, MA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-05-23 - Draf- en Renbaan (Pinkpop Festival), Landgraaf, Netherlands</td>
+                            <td>
+                                [PRO #1b][DVD]<br />
+                                [SBD #1][FLAC]<br />
+                                [SBD #2][FLAC]<br/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-06-04 - ProvinssiRock Festival, Seinajoki, Finland</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [SBD #1][FLAC]<br />
+                                [SBD #1][M4A]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-10-01 - Paradise Bowl (2HIP4TV), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-10-08 - John Anson Ford Amphitheatre, Los Angeles, CA, USA</td>
+                            <td>
+                                [AMT #1][BONG][dime][DVD]<br />
+                                [AUD #1][RLA][FLAC]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
