@@ -206,6 +206,22 @@ a[title='2023'] {
     color: white;
 }
 
+.what-i-have-button {
+    background-color: #b30000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+    .what-i-have-button:hover {
+        background-color: #8c0000;
+    }
+
 @keyframes rotation {
     from {
     transform: rotate(0deg);

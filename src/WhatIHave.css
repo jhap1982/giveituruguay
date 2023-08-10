@@ -1,0 +1,61 @@
+/* Estilos para WhatIHave.js */
+
+.what-i-have-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.back-button {
+    background-color: #b30000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background-color 0.3s;
+}
+
+    .back-button:hover {
+        background-color: #8c0000;
+    }
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para las secciones de años y tablas */
+.year-section {
+    margin-bottom: 20px;
+}
+
+.year-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+}
+
+    table th,
+    table td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #444;
+    }
+
+    table th {
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+    }
+
+/* Otros estilos que puedas necesitar */
