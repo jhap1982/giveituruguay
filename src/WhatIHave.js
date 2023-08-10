@@ -1010,6 +1010,38 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2005-07-02 - Silver Bowl Sports Complex, Las Vegas, NV, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2005-08-20 - Randall's Island (Amsterjam Festival), New York, NY, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2005-08-21 - Event Center at The Borgata Hotel, Atlantic City, NJ, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2005-08-25 - Greek Theatre, Los Angeles, CA, USA</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2005-09-09 - Greek Theatre, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2005-09-10 - Paramount Studios (ReAct Now Music and Relief), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][M2V]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
