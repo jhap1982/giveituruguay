@@ -21,5 +21,4 @@ They're Red Hot
 Give It Away
 
 
-PRO #1
-professional videosoundboard > unknownWEB > MP4The intro jam and "Can't Stop" were uploaded by the festival's producer to his personal Facebook account.
+PRO #1 professional video soundboard > unknown WEB > MP4 The intro jam and "Can't Stop" were uploaded by the festival's producer to his personal Facebook account.
