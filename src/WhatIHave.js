@@ -203,6 +203,73 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1987-02-13 - Scream at Embassy Hotel, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][M4A]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-02-22 - Goodies, Fullerton, CA, USA</td>
+                            <td>[AUD #1][RLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-07-10 - The Catalyst, Santa Cruz, CA, USA</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-07-11 - The Omni, Oakaland, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-08-07 - ?, Late Show With Arsenio Hall, Hollywood, CA, USA</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-08-29 - Deja Vu, Phoenix, AZ, USA</td>
+                            <td>[SBD #1][1st Show][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA</td>
+                            <td title="MPG from VOB DVD file">[PRO #1][DVD][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-10-22 - Chestnut Cabaret, Philadelphia, PA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-10-24 - Lost Horizon, Syracuse, NY, USA</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [AUD #2][RLA][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-11-08 - City Gardens, Trenton, NJ, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>                       
+
+                        <tr>
+                            <td>1987-11-09 - Graffiti's, Pittsburgh, PA, USA</td>
+                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-11-24 - Mississippi Nights, St. Louis, MO, USA</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1987-12-26 - Celebrity Theatre, Anaheim, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
