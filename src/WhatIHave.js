@@ -1233,6 +1233,25 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td title="jhap1982 whas here! ;)">2018-03-16 - Hipodromo de San Isidro (Lollapalooza Festival), Buenos Aires, Argentina</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [PRO #1][La Viola][YT][MP4] <br /> 
+                                [PRO #1][MKV]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2018-03-17 - Parque O'Higgins (Lollapalooza Festival), Santiago, Chile</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2018-03-23 - Autodromo Jose Carlos Pace (Lollapalooza Festival), Sao Paulo, Brazil</td>
+                            <td>[PRO #1][MKV]</td>
+                        </tr>
+                        
                     </tbody>
                 </table>
             </section>
