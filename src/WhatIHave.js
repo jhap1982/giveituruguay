@@ -1187,6 +1187,10 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2015-01-10 - Montage Hotel (JP Haitian Relief Organization Benefit Show), Beverly Hills, CA, USA</td>
+                            <td>[AMT #1][MP4]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
