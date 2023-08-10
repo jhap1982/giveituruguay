@@ -670,6 +670,46 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1994-08-10 - Club Lingerie, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-08-14 - Winston Farm (Woodstock '94), Saugerties, NY, USA</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [PRO #1][WWP][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-08-25 - Dalymount Park (Sunstroke Festival), Dublin, Ireland</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-08-27 - Kempische Steenweg (Pukkelpop Festival), Hasselt, Belgium</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-08-28 - Little John's Farm (Reading Festival), Reading, England</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [SBD #1][RHCPLA][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-10-19 - Rose Bowl, Pasadena, CA, USA</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1994-10-21 - Rose Bowl, Pasadena, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
