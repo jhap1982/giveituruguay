@@ -32,6 +32,5 @@ Foxy Lady
 Fire
 You Always Sing the Same
 
-AUD #1
-audience audiounknown mic > unknown recorderANA(?) > ? > MP3recorded by Patrick B  SBD #1
-soundboard audiosoundboard > unknown recorderFM > ANA(M) > ? > MP3Broadcasted by Radio DRS 3. There's no lossless transfer in circulation.
+AUD #1 audience audio unknown mic > unknown recorder ANA(?) > ? > MP3recorded by Patrick B  
+SBD #1 soundboard audio soundboard > unknown recorder FM > ANA(M) > ? > MP3 Broadcasted by Radio DRS 3. There's no lossless transfer in circulation.

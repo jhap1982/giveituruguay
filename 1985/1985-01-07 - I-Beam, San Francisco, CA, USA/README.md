@@ -1,0 +1,47 @@
+# Info
+
+## Setlist
+
+1. True Men Don't Kill Coyotes
+2. Get Up and Jump
+3. Battleship
+4. Fire (Jimi Hendrix)
+<br>SETLIST INCOMPLETE
+
+## Notes
+
+**Support**: Charlie Pickett and the Eggs
+
+## Media 
+
+<details>
+  <summary>Pictures</summary>
+  <img alt="Flyer" title="Flyer" src="19850107f.jpg" height="200" />
+  <img alt="Clipping" title="Clipping" src="19850107a.jpg" height="200" />  
+</details>
+
+## Line Up
+
+* Anthony Kiedis
+* Flea
+* Jack Sherman
+* Cliff Martinez
+
+## Recordings
+
+## Reviews
+
+> **Michael Snyder, San Francisco Chronicle**:
+Monday night was an exhibitionist's delight at the I-Beam, as the Red Hot Chili Peppers - a punk-funk band from Los Angeles - packed the house for a post-midnight show that was lewd, crude and partially nude. Of course, a capacity crowd is business as usual for the Haight Street dance club's live new wave rock series on Mondays, which attracts the weirdest and the wildest patronage in town. But on this particular evening, the outrageous antics of the locals were easily outdone by the headlining quartet.
+The ascendence of the I-Beam from gay disco to new-wave hot spot has paralleled the gentrification of the Haight. Although there are still a number of spare changers and drug burn-outs roaming the neighborhood, most of them have become alien figures in a changing landscape. On the other hand, those surviving hippies that could afford a ticket to the Peppers' performance mixed right into a crowd that was the standard I-Beam blend of trendies, gays and the occasional yuppie.
+The four-piece opening act from Miami, Charlie Pickett and the Eggs, flailed through a ragged dose of blues-based rock powered by their pudgy, slack-jawed drummer. Aptly named, Pickett and the Eggs laid one, especially when they attempted to egg on the audience by dumping on the 49ers and lauding the Dolphins. By a set-ending version of the Flamin' Groovies' "Shake Some Action", irate sports fans in the crowd were ready to finance the Eggs' trip home to Miami.
+<br><br>Inter-city rivalries notwithstanding, the word is out about L.A.'s Red Hot Chili Peppers, or people are mighty hungry for entertainment on a Monday night. If the latter is true, ticket- holders left the I-Beam with a bellyful. The Peppers' performance was a scalding, non-stop barrage of mutated urban funk, spiced by scatological between-song patter and unseemly public conduct with the emphasis on the pubic.
+These white boys from the Southern California hardcore circuit are attempting to cross the contemporary rap music that evolved from James Brown's relentless rhythm-and-blues with the careen- ing energy of punk-rock. In this regard, they are partially successful, speeding up the funk rhythms to a near-supersonic blur or slowing them down to a turgid crawl reminiscent of the most plodding heavy-metal rock.
+Lead singer Anthony Kiedis may be an eye-catching presence on stage with his bare chest, baseball cap, bleached shoulder-length hair, sunglasses and exuberant demeanor, but his "raps'' - growled in a manner that pays homage to gravelly-voiced antecedents like Captain Beefheart and Howlin' Wolf - are largely unintelligible. (His shouted interjection of "Free Dan White!'' came through loud and clear. Crowd-baiting, it's called.)
+Despite incomprehensible lyrics, riff-heavy selections such as "True Men Don't Kill Coyotes" and "Get Up and Jump" had a visceral impact. Guitarist Jack Sherman, resplendent in a shower cap and T-shirt ensemble, alternated between lean rhythm parts and spare solo lines.
+When he wasn't throwing himself about the stage in a reckless manner that mirrored Kiedis' moves, bassist Flea created a throbbing, soulful bottom end to ground the sound. (A tattoo of flamboyant guitarist Jimi Hendrix on Flea's bicep seemed to pinpoint the source of the band's theatrics.) The drumming of Cliff Martinez was on the mark, if undistinguished.
+A rough attempt at acapella and a total punk-out entitled "Blowjob Park"stretched the Peppers' stylistic perimeters. A raunchy encore of the Jimi Hendrix tune "Fire" wasn't quite raunchy enough for Kiedis. He climbed a speaker column at the end of the song and dropped his trousers, displaying his own end to the cheering throng.
+Still not satisfied, he and Flea emerged from the backstage area for another bit of acapella nonsense. Both of them were stark naked, except for one sock apiece, strategically placed over their privates.
+It was enough to make that tattoo of Hendrix blush.
+
+## Links

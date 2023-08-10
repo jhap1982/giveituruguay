@@ -1,7 +1,10 @@
 # Info
 
-
 ## Setlist
+
+Why Don't You Love Me (Hank Williams)
+Fire (Jimi Hendrix)
+<br>SETLIST INCOMPLETE
 
 ## Notes
 
@@ -11,8 +14,7 @@
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <img alt="Clipping" title="Clipping" src="19841127a.jpg" height="200" />
 </details>
 
 ## Line Up
