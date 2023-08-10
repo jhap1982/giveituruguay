@@ -28,5 +28,4 @@ Notes
 Support: Young Fresh Fellows
 
 Recordings
-AUD #1
-audience audiounknown mic > unknown recorderANA(X) > FLACrecorded by unknown
+AUD #1 audience audio unknown mic > unknown recorder ANA(X) > FLAC recorded by unknown

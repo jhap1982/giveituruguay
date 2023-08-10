@@ -393,6 +393,115 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1989-03-16 - The Visage, Orlando, FL, USA</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-03-17 - Jannus Landing, St. Petersburg, FL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-04-28 - Sundance Club, Bayshore, NY, USA</td>
+                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-08-26 - Dam Square (UITmarkt Festival), Amsterdam, Netherlands</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AMT #1][PAL][DVD]<br />
+                                [PRO #1][1080i][TS]<br />
+                                [AUD #1][RLA][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-09-17 - The Catalyst, Santa Cruz, CA, USA</td>
+                            <td>
+                                [AUD #1][2CDs][FLAC]<br />
+                                [AUD #1][RHCPLA][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-09-28 - Big Surf Waterpark (KUKQ Alternative Radio Festival), Tempe, AZ, USA</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-01 - Opera House, Austin, TX, USA</td>
+                            <td>[MIX #1][RHL][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-05 - Mississippi Nights, St. Louis, MO, USA</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-09 - First Avenue, Minneapolis, MN, USA</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-20 - The Channel, Boston, MA, USA</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-27 - The New Ritz, New York City, NY, USA</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-10-28 - Chestnut Cabaret, Philadelphia, PA, USA</td>
+                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-12 - L'Amour, New York City, NY, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-13 - The Chance, Poughkeepsie, NY, USA</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-18 - The Broathouse, Norfolk, VA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-21 - Phantasy Theatre, Lakewood, OH, USA</td>
+                            <td>
+                                [SBD #1][FLAC]<br />
+                                [SBD #2][FLAC]<br />
+                                [SBD #3][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-22 - Latin Quarter, Detroit, MI, USA</td>
+                            <td>[AUD #1][RLA][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-11-27 - Barrymore Theater, Madison, WI, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1989-12-10 - Deco's, Miami Beach, FL, USA</td>
+                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
