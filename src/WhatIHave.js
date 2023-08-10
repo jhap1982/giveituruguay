@@ -51,7 +51,7 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1984-03-16 - KTTV Studios (Ticke of the Night), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td title="Thanks Leni!!">[PRO #1][DVD]</td>
                         </tr>
 
                         <tr>
@@ -165,6 +165,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1986-05-26 - The Roxy, Hollywood, CA, USA</td>
                             <td>[PRO #1][Jimi Hendrix Tribute][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1986-11-22 - The Ritz, Austin, TX, USA</td>
+                            <td title="Thanks vell43!!">[AMT #1][RHL][DVD]</td>
                         </tr>
 
                         <tr>
@@ -904,6 +909,93 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2004-06-05 - Nurburgring (Rock Am Ring), Nurburg, Germany</td>
+                            <td>
+                                [PRO #1][guitars101][DVD]<br />
+                                [PRO #1a][MiniEpic][DVD]<br />
+                                [PRO #1b][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-08 - Stadio Giuseppe Meazza, Milan, Italy</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AMT #2][DVD]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-10 - Civitas Nova (Aerodrome Festival), Wiener Neustadt, Austria</td>
+                            <td>[AUD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-12 - Phoenix Park, Dublin, Ireland</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-13 - Murrayfield Stadium, Edinburgh, Scotland</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-15 - Parc Des Princes, Paris, France</td>
+                            <td>[AMT #1][+RockAmRing][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-16 - Amsterdam Arena, Amsterdan, Netherlands</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>     
+
+                        <tr>
+                            <td>2004-06-19 - Hyde Park, London, England</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-23 - Millennium Stadium, Cardiff, Wales</td>
+                            <td>[SBD #1][LiveChiliPeppers.com][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-27 - Auditorio Monte do Gozo, Santiago de Compostela, Spain</td>
+                            <td>[AUD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-07-25 - International Stadium Yokohama (Rock Odyssey Festival), Yokohama, Japan</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [PRO #1][DVD] <br />
+                                [PRO #1][rutracker][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-09-12 - Avalon Hollywood (Ramones 30th Anniversary Show), Los Angeles, CA, USA</td>
+                            <td>[SBD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-10-23 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-10-24 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
