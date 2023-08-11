@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/giveituruguay/static/css/main.20738192.css",
-    "main.js": "/giveituruguay/static/js/main.6fdb9a55.js",
+    "main.css": "/giveituruguay/static/css/main.cd263efb.css",
+    "main.js": "/giveituruguay/static/js/main.504432bd.js",
     "static/js/787.28e588cc.chunk.js": "/giveituruguay/static/js/787.28e588cc.chunk.js",
     "static/media/2010.jpg": "/giveituruguay/static/media/2010.bb4579e0c207e4f83e57.jpg",
     "static/media/imbesideyou.jpg": "/giveituruguay/static/media/imbesideyou.d728c6d3872fdddd716a.jpg",
@@ -24,12 +24,12 @@
     "static/media/iwy.jpg": "/giveituruguay/static/media/iwy.6c84d91bf2c3695c262f.jpg",
     "static/media/logo.svg": "/giveituruguay/static/media/logo.d21c8e2584347acb3056a895ee5d5b09.svg",
     "index.html": "/giveituruguay/index.html",
-    "main.20738192.css.map": "/giveituruguay/static/css/main.20738192.css.map",
-    "main.6fdb9a55.js.map": "/giveituruguay/static/js/main.6fdb9a55.js.map",
+    "main.cd263efb.css.map": "/giveituruguay/static/css/main.cd263efb.css.map",
+    "main.504432bd.js.map": "/giveituruguay/static/js/main.504432bd.js.map",
     "787.28e588cc.chunk.js.map": "/giveituruguay/static/js/787.28e588cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20738192.css",
-    "static/js/main.6fdb9a55.js"
+    "static/css/main.cd263efb.css",
+    "static/js/main.504432bd.js"
   ]
 }
