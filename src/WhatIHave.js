@@ -1611,12 +1611,32 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2020</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
                 <h3>2021</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
@@ -1629,6 +1649,183 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2022-03-29 - NBC Studio 6B at Rockefeller Center (The Tonight Show Starring Jimmy Fallon), New Yourk City, NY, USA</td>
+                            <td>
+                                [PRO #1][HDTV][1080i][TS]<br />
+                                [PRO #1][YT][Jimmy Fallon][MP4]
+                            </td>
+                        </tr>                        
+
+                        <tr>
+                            <td>2022-03-31 - Hollywood Roosevelt Hotel (Jimmy Kimmel Live!), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-04-05 - SiriusXM Garage (The Howard Stern Show), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4]<br />
+                                [SBD #1][MP3]<br />
+                                [SBD #1][YT][M4A]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-04-07 - Amoeba Music, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][M4A]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-05-01 - Fair Grounds Race Course (New Orleans Jazz & Heritage Festival), New Orleands, LA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-06-04 - Estadio La Cartuja de Sevilla, Seville, Spain</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-06-07 - Estadi Olimpic Lluis Companys, Barcelona, Spain</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-06-10 - Goffertpark, Nijmegen, Netherlands</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-06-12 - Tehelne Pole Stadion (Lovestream Festival), Bratislava, Slovakia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-06-25 - London Stadium, London, England</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-07-05 - Rhein Energie Stadion, Cologne, Germany</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-07-09 - Stade de France, Paris, France</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-07-12 - Volksparkstadion, Hamburg, Germany</td>
+                            <td>[AUD #2][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-07-29 - Levi's Stadium, Santa Clara, CA, USA</td>
+                            <td>
+                                [AUD #2][FLAC]<br />
+                                [MTX #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-07-31 - SoFi Stadium, Inglewood, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-03 - T-Mobile Park, Seattle, WA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-10 - Truist Park, Atlanta, GA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-12 - Nissan Stadium, Nashville, TN, USA</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [AUD #2][FLAC]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-19 - Soldier Field, Chicago, IL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-21 - Rogers Centre, Toronto, Canada</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-08-28 - Prudential Center (MTV Video Music Awards), Newark, NJ, USA</td>
+                            <td>
+                                [PRO #1][VegaMovies][MKV]<br />
+                                [PRO #1][YT][VMA][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-09-01 - Bank of America Stadium, Charlotte, NC, USA</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [MTX #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-09-03 - Citizens Bank Park, Phiiladelphia, PA, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4] <br />                                    
+                                [AUD #1][FLAC]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-09-10 - Fenway Park, Boston, MA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-09-13 - Apollo Theater, New York City, NY, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-09-15 - Camping World Stadium, Orlando, FL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>  
+
+                        <tr>
+                            <td>2022-09-21 - Oracle Park, San Francisco, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>  
+
+                        <tr>
+                            <td>2022-09-25 - Highland Festival Grounds at Kentucky Exposition Center (Louder Than Life Festival), Louisville, KY, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2022-10-09 - Zilker Park (Austin City Limits Festival), Austin, TX, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
