@@ -1,5 +1,6 @@
+/* Estilo general de la página */
 body {
-    background-color: #111;
-    color: #fff;
-    font-family: Arial, sans-serif;
-  }
+    background: #000;
+    font-family: 'Bebas Neue', sans-serif; /* Aplicar la fuente Bebas Neue para todo el cuerpo */
+    margin: 0;
+}

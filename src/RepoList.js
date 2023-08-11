@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './RepoList.css';
 import rotatingSvg from './logo.svg';
 import WhatIHave from './WhatIHave';
+import Tour from './components/Tour';
 
 const RotatingSvg = () => {
     return (
@@ -17,37 +18,44 @@ const RotatingSvg = () => {
 
 const RepoList = ({ directories }) => {
     const [showWhatIHave, setShowWhatIHave] = useState(false);
+    const [yearData, setYearData] = useState({});
 
     return (
         <div className="container">
             <h1>Give It Uruguay, Now!!</h1>
             <RotatingSvg />
+
             {showWhatIHave ? (
                 <WhatIHave onBack={() => setShowWhatIHave(false)} />
             ) : (
                 <>
-                    <button className="what-i-have-button" onClick={() => setShowWhatIHave(true)}>
-                        What I Have
-                    </button>
-
                     <ul className="repo-list">
                         {directories.map((directory) => (
                             <li key={directory.name}>
-                                <a
+                                <button
                                     title={directory.name}
                                     href={directory.link}
+                                    onClick={() => setYearData(directory)}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="pill-link"
                                 >
                                     {directory.name}
-                                </a>
+                                </button>
                             </li>
                         ))}
                     </ul>
+
+                    {yearData?.name >= 1982 ? <Tour yearData={yearData} /> : '' }
+
                     <footer className="footer-container">
+                        <button className="what-i-have-button" onClick={() => setShowWhatIHave(true)}>
+                            What I Have
+                        </button>
+
                         <div>
                             <h2> [[ jhap1982 ~ Sharing since 2002 ]] </h2>
+
                             <p>
                                 The purpose of this site is to have a - github - showcase of Red Hot Chili Peppers tours and related stuff from different sources (*)
                                 <br />

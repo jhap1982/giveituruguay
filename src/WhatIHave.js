@@ -19,7 +19,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
@@ -147,7 +147,6 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-
                         <tr>
                             <td>1986-01-18 - The Catalyst, Santa Cruz, CA, USA</td>
                             <td>[MTX #1][FLAC]</td>
@@ -1393,7 +1392,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
@@ -1408,7 +1407,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
@@ -1423,7 +1422,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
@@ -1619,7 +1618,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
@@ -1634,7 +1633,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
-                        <div>N/A</div>
+                        <tr><td colSpan="2">N/A</td></tr>
                     </tbody>
                 </table>
             </section>
