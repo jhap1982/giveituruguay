@@ -643,6 +643,82 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1991-10-16 - Oscar Mayer Theater, Madison, WI, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-10-17 - Duke Ellington Ballroom, Dekalb, IL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-10-19 - Stephens Auditorium at Iowa State Center, Ames, IA, USA</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-10-20 - Royal Terrace Ballroom, Omaha, NE, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-10-22 - Central Park Ballroom, Milwaukee, WI, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-10-30 - The Concert Hall, Toronto, Canada</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-11-01 - Walter Brown Arena, Boston, MA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-11-02 - Memorial Auditorium, Burlington, VT, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-11-05 - Houston Field House, Troy, NY, USA</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-11-12 - Roseland Ballroom, New York City, NY, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-12-15 - The Ritz (MTV New Year's Eve World Party), New York City, NY, USA</td>
+                            <td>
+                                [PRO #1][MPG]<br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-12-28 - Pat O'Brien Pavilion, Del Mar, CA, USA</td>
+                            <td>
+                                [SBD #1][Fix Speed][FLAC]<br/>
+                                [SBD #1][Xmas Party][SHN]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1991-12-31 - Cow Palace, Daly City, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
