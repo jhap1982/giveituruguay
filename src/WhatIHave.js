@@ -11,7 +11,17 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1982</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
@@ -1137,17 +1147,47 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2008</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
                 <h3>2009</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
                 <h3>2010</h3>
-                nope
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Concert</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <div>N/A</div>
+                    </tbody>
+                </table>
             </section>
 
             <section>
@@ -1220,7 +1260,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>2014-04-02 - Hipódromo de San Isidro (Lollapalooza Festival), Buenos Aires, Argentina</td>
+                            <td>2014-04-02 - Hipodromo de San Isidro (Lollapalooza Festival), Buenos Aires, Argentina</td>
                             <td>
                                 [PRO #1][FLV]<br />
                                 [PRO #1][MKV]<br />

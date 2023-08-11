@@ -24,9 +24,17 @@
         background-color: #8c0000;
     }
 
-h2 {
+h3 {
     font-size: 24px;
     margin-bottom: 20px;
+    text-align: center;
+}
+
+section {
+    border: 1px solid white;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
 
 /* Estilos para las secciones de años y tablas */
