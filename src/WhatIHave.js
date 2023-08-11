@@ -1761,6 +1761,33 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2019-01-09 - Microsoft Theater, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-10 - Staples Center (Grammy Awards), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-03-15 - Giza Pyramid Complex, Giza, Egypt</td>
+                            <td>[PRO #1][YT][MKV]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-08-17 - Zozo Marine Stadium (Summer Sonic Festival), Tokyo, Japan</td>
+                            <td>[PRO #1][1080p][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-10-03 - Parque Olímpico Cidade do Rock (Rock in Rio Festival), Rio De Janeiro, Brazil</td>
+                            <td>
+                                [PRO #1][HDTV][MKV] <br/>
+                                [PRO #2][WEB][MKV]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
