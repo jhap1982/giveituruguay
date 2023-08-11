@@ -1068,6 +1068,86 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1996-02-09 - Madison Square Garden, New York, NY, USA</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [AUD #2][FLAC] <br />
+                                [PRO #1][BONG][DVD] <br />
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-02-12 - Worcester Centrum, Worcester, MA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>                        
+
+                        <tr>
+                            <td>1996-02-13 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr> 
+
+                        <tr>
+                            <td>1996-03-06 - United Center, Chicago, IL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-03-12 - Gund Arena, Cleveland, OH, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-03-14 - Civic Arena, Pittsburgh, PA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-04-04 - Great Western Forum, Inglewood, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-04-06 - Cow Palace, Daly City, CA, USA</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-04-16 - San Diego Sports Arena, San Diego, CA, USA</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-05-14 - Sydney Entertainment Centre, Sydney, Australia</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-06-28 - Sittertobel (OpenAir St. Gallen), St. Gallen, Switzerland</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-06-29 - Festivalpladsen (Roskilde Festival), Roskilde, Denmark</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-07-03 - Oslo Spektrum, Oslo, Norway</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-07-05 - Peninsula of Lake Malsaucy (Eurockeennes de Belfort Festival), Belfort, France</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
