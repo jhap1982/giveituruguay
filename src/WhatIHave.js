@@ -1996,6 +1996,159 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2023-01-14 - The Kia Forum (iHeartRadio ALTer EGO), Inglewood, CA, USA</td>
+                            <td>[SBD #1][iHeart Radio][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-01-21 - Mount Smart Stadium, Auckland, New Zealand</td>
+                            <td>[AUD #1][Gareth Gowan][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-01-26 - Forsyth Barr Stadium, Dunedin, New Zealand</td>
+                            <td>[AUD #1][Gareth Gowan][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-02-02 - Accor Stadium, Sydney, Australia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-02-04 - Accor Stadium, Sydney, Australia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-02-09 - Marvel Stadium, Melbourne, Australia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2023-02-12 - Optus Stadium, Perth, Australia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-02-19 - Tokyo Dome, Tokyo, Japan</td>
+                            <td>
+                                [PRO #1][HDTV][WOWOW][TS] <br />
+                                [PRO #1][WOWOW][MP4] <br />
+                                [AUD #1][thosi][FLAC] <br />
+                                [AUD #1][WOWOW][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-02-21 - Osaka-Jo Hall, Osaka, Japan</td>
+                            <td>[AUD #1][toshi][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-03-29 - BC Palace Stadium, Vancouver, Canada</td>
+                            <td>[AUD #1][Levon Lundgren][M4A]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-04-01 - Allegiant Stadium, Las Vegas, NV, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-04-06 - FargoDome, Fargo, ND, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-04-08 - U.S. Bank Stadium, Minneapolis, MN, USA</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-04-14 - JMA Wireless Dome, Syracuse, NY, USA</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-05-12 - Snapdragon Stadium, San Diego, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-05-25 - Minute Maid Park, Houston, TX, USA</td>
+                            <td>[AUD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-06-18 - Magaland (Pinkpop Festival), Landgraaf, Netherlands</td>
+                            <td>
+                                [PRO #1][1080i][TS] <br />
+                                [PRO #1][VK][MP4] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-06-26 - Maimarktgelände, Mannheim, Germany</td>
+                            <td>
+                                [AUD #1][pompor][FLAC] <br />
+                                [AUD #2][Pehjott][FLAC] <br />
+                                [AUD #3][toshi][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-06-30 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
+                            <td>
+                                [PRO #1][VK][MP4] <br />
+                                [PRO #1][YT][MP4] <br />
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][FLAC] <br />
+                                [SBD #1][M4A] <br />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-02 - Ippodromo Snai (I-Days Festival), Milan, Italy</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-06 - Passeio Marítimo de Algés (NOS Alive Festival), Lisbon, Portugal</td>
+                            <td>
+                                [PRO #1][60fps][YT][MP4] <br />
+                                [PRO #1][1080p][MP4] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-11 - Groupama Stadium, Lyon, France</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-17 - Kerampuilh (Les Vieilles Charrues Festival), Carhaix-Polouguer, France</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-21 - Tottenham Hotspur Stadium, London, England</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-23 - Hampden Park, Glasgow, Scotland</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
