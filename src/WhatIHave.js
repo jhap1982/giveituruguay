@@ -733,6 +733,168 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1992-01-02 - Salem Armony, Salem, OR, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-02-11 - Ahoy, Rotterdam, Netherlands</td>
+                            <td>[SBD #1][Under The Bridge][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-02-13 - Docks, Hamburg, Germany</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-02-16 - Le Zénith, Paris, France</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-02-22 - NBC Studios at Rockefeller Center (Saturday Night Live), New York City, NY, USA</td>
+                            <td>
+                                [MIX #1][PRO #1][PRO #2][DVD]<br />
+                                [PRO #1][MPEG]<br />
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-02-25 - Theaterfabrik, Munich, Germany</td>
+                            <td>
+                                [AUD #1][FLAC]<br />
+                                [AUD #1][LiveMagik][FLAC]<br />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-03-01 - Palatrussardi, Milan, Italy</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [PRO #1b][DVD]<br />
+                                [AUD #1][FLAC]<br/>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-03-13 - Brixton Academy, London, England</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-03-17 - Philips Halle, Dusseldorf, Germany</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-07-05 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-07-18 - Shoreline Amphitheatre (Lollapalooza  Festival), Mountain View, CA, USA</td>
+                            <td>[AMT #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-02 - World Music Theater (Lollapalooza  Festival), Tinley Park, IL, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-05 - Molson Park (Lollapalooza Festival), Barrie, Canada</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-07 - Great Woods Performing Arts Center (Lollapalooza  Festival), Mansfield, MA, USA</td>
+                            <td>[AUD #2][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-08 - Great Woods Performing Arts Center (Lollapalooza  Festival), Mansfield, MA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-09 - Jones Beach Theater (Lollapalooza  Festival), Wantagh, NY, USA</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-12 - Waterloo Village (Lollapalooza Festival), Stanhope, NJ, USA</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-14 - Lake Fairfax (Lollapalooza Festival), Alexandria, VA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-15 - Montage Mountain Performing Arts Center (Lollapalooza Festival), Scranton, PA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-16 - Star Lake Amphitheater (Lollapalooza Festival), Pittsburgh, PA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-28 - Harriet Island (Lollapalooza Festival), Minneapolis, MN, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-08-29 - Alpine Valley Music Theatre (Lollapalooza Festival), East Troy, WI, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-09-04 - UNO Soccer Field (Lollapalooza Festival), New Orleans, LA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-09-08 - Desert Sky Pavilion (Lollapalooza Festival), Phoenix, AZ, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-09-09 - UCLA Pauley Pavilion (MTV Video Music Awards), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [PRO #1][MTV][SNL][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-09-11 - Irvine Meadows Amphitheatre (Lollapalooza Festival), Irvine, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-10-20 - Festival Hall, Melbourne, Australia</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-10-27 - Winter Show Buildings, Wellington, New Zealand</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][WMA]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
