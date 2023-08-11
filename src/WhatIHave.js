@@ -867,6 +867,67 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2001-01-21 - Parque Olimpico Cidade do Rock (Rock In Rio III), Rio de Janeiro, Brazil</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-01-24 - Estadio Jose Amalfitani, Buenos Aires, Argentina</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                                [PRO #1][fruscisgod][DVD]<br/>
+                                [AUD #1][DVD][MP3]
+                            </td>
+                        </tr>                        
+
+                        <tr>
+                            <td>2001-03-01 - Hollywood Palladium, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-03-14 - Irving Plaza (Robin Hood Foundation Benefit Show), New York, NY, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-01 - Hammerstein Ballroom (MTV 20 Live & Almost Legal), New York, NY, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-18 - Weston Park (V Festival), Stafford, England</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-19 - Hylands Park (V2001 Festival), Chelmsford, England</td>
+                            <td>
+                                [AMT #1][DVD]<br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-21 - Parken Stadion, Copenhagen, Denmark</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-23 - Prins Van Oranjehal, Utretch, Netherlands</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-08-25 - Slane Castle Grounds (Slane Festival), County Meat, Ireland</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2001-12-14 - Paramour Estate (Silver Lining Benefit Show), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][ASF]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
