@@ -748,7 +748,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>1992-02-16 - Le Zénith, Paris, France</td>
+                            <td>1992-02-16 - Le Zï¿½nith, Paris, France</td>
                             <td>[AUD #1][FLAC]</td>
                         </tr>
 
@@ -908,6 +908,18 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1993-01-22 - PraÃ§a da Apoteose (Hollywood Rock Festival), Rio de Janeiro, Brazil</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>1993-01-26 - Estadio Obras Sanitarias, Buenos Aires, Argentina</td>
+                            <td>
+                                [PRO #1][DVD]<br/>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
