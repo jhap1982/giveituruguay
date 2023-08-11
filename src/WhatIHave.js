@@ -988,6 +988,71 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>1995-09-07 - Radio City Music Hall (MTV Video Music Awards), New York, NY, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-09-27 - Subterrania Club, London, England</td>
+                            <td>
+                                [AMT #1][Subterranea + Brixton][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-01 - Point Theatre, Dublin, Ireland</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-03 - Brixton Academy, London, England</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-04 - Brixton Academy, London, England</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-11 - Deutschlandhalle, Berlin, Germany</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-14 - Stockholm Globe Arena, Stockholm, Sweden</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-16 - Ahoy, Rotterdam, Netherlands</td>
+                            <td>[SBD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-10-18 - Le Zénith, Paris, France</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1995-11-09 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA</td>
+                            <td>
+                                [PRO #1][RHL][MPG] <br />
+                                [PRO #1][Sisanumbers Stash Vol 3][DVD] <br />
+                                [PRO #1][Sisanumbers Stash Vol 3][DVD][MPG]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
