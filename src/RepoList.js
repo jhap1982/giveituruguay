@@ -32,21 +32,23 @@ const RepoList = ({ directories }) => {
                     <ul className="repo-list">
                         {directories.map((directory) => (
                             <li key={directory.name}>
-                                <button
+                                <a
                                     title={directory.name}
-                                    href={directory.link}
+                                    href="#anio"
                                     onClick={() => setYearData(directory)}
-                                    target="_blank"
+                                    target="_self"
                                     rel="noopener noreferrer"
                                     className="pill-link"
                                 >
                                     {directory.name}
-                                </button>
+                                </a>
                             </li>
                         ))}
                     </ul>
 
-                    {yearData?.name >= 1982 ? <Tour yearData={yearData} /> : '' }
+                    <div id="anio">
+                        <Tour yearData={yearData} />
+                    </div>                    
 
                     <footer className="footer-container">
                         <button className="what-i-have-button" onClick={() => setShowWhatIHave(true)}>
