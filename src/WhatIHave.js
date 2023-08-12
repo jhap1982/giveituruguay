@@ -2773,6 +2773,66 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2013-01-14 - Vector Arena, Auckland, New Zealand</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-15 - Vector Arena, Auckland, New Zealand</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-18 - Showground (Big Day Out Festival), Sydney, Australia</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][HDTV][MKV] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-25 - Showground (Big Day Out Festival), Adelaide, Australia</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-04-14 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-06-21 - Dover International Speedway (FireFly Music Festival), Dover, DE, USA</td>
+                            <td>
+                                [MIX #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-11-05 - Jockey Club del Paraguay, Asunción, Paraguay</td>
+                            <td title="piiiiipuuuuu!">
+                                [MIX #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-11-09 - Parque Dos Atletas (Circuito Banco do Brasil Festival), Rio de Janeiro, Brazil</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
