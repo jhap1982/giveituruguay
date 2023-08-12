@@ -1923,6 +1923,311 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2002-04-13 - Universal Amphitheatre (ESPN Awards), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][MPG]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-16 - Swing House Studios (Sessions at AOL), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][MPG] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-17 - Vans Skate Park, Orange County, Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][MTV][DVD] <br />
+                                [PRO #1][Skate87+02][DVD] <br />
+                                [PRO #1b][MTV2][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-26 - Piazza Piebiscito (Festival Bar TV), Naples, Italy</td>
+                            <td>
+                                [PRO #1][MPEG] <br />
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-27 - The London Studios (CD-UK), London, England</td>
+                            <td>
+                                [PRO #1a][mcm special][AVI]<br />
+                                [PRO #1b][AVI]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-30 - BBC Television Centre (Top of the Pops), London, England</td>
+                            <td>
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-05-31 - BBC Television Centre (Friday Night with Jonathan Ross), London, England</td>
+                            <td>
+                                [PRO #1][AVI]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-04 - Olympia, Paris, France</td>
+                            <td>
+                                [PRO #1][DIVX] <br />
+                                [PRO #1][MTV][AVI] <br />
+                                [PRO #1][MTV][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-06 - Capitol (TV Total), Cologne, Germany</td>
+                            <td>
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-07 - Saturn Parkhausdach, Hamburg, Germany</td>
+                            <td>
+                                [PRO #1a][DVD] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-10 - Circulo de Bellas Artes, Madrid, Spain</td>
+                            <td>
+                                [PRO #1a][40TV][DVD] <br />
+                                [PRO #1b][SOL][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-15 - Autodromo Enzo e Dino Ferrari (Heineken Jammin' Festival), Imola, Italy</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-17 - Pavelló Olímpic de Badalona, Barcelona, Spain</td>
+                            <td>
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-20 - Halle Tony Garnier, Lyon, France</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-26 - London Arena, London, England</td>
+                            <td>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-28 - Festivalpladsen (Roskilde Festival), Roskilde, Denmark</td>
+                            <td>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
+                            <td>
+                                [PRO #1][ASF]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-07-09 - Ellis Island, New York City, NY, USA</td>
+                            <td>
+                                [SBD #1][FLAC] <br />
+                                [SBD #1][SHN]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-07-28 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
+                            <td>
+                                [PRO #1][AVI] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-08-03 - Fountains at Flamingo Apartments (VH1 Special), Las Vegas, NV, USA</td>
+                            <td>
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-08-07 - The Edge FM Studios, Toronto, Canada</td>
+                            <td>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-09-16 - Hollywood Center Studios (Top of the Pops), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1a][1080p][YT][MP4] <br />
+                                [PRO #1b][1080p][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-09-18 - Hollywood Center Studios, Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][mcm Videos][DVD] <br />
+                                [PRO #1][Muchmusic][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-10-09 - Pista Atlética del Estadio Nacional, Santiago de Chile, Chile</td>
+                            <td>
+                                [AMT #1a][DVD] <br />
+                                [PRO #1][DVD] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-10-11 - ATL Hall, Rio de Janeiro, Brazil</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-10-12 - Estádio do Pacaembu, São Paulo, Brazil</td>
+                            <td>
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-10-16 - River Plate Stadium, Buenos Aires, Argentina</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][WAV] <br />
+                                [SBD #1a][FLAC] <br />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-10-26 - The Wiltern (KROQ Halloween Costume Ball), Los Angeles, CA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-02 - Makuhari Messe, Chiba, Japan</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [AUD #2][FLAC] <br />
+                                [PRO #1][AVI]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-03 - Makuhari Messe, Chiba, Japan</td>
+                            <td>
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-05 - Osaka-jo Hall, Osaka, Japan</td>
+                            <td>
+                                [AMT #1][MPG] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-06 - Osaka-jo Hall, Osaka, Japan</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-10 - Saitama Super Arena, Saitama, Japan</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-12 - Marine Messe Fukuoka, Fukuoka, Japan</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-13 - Nagoya Rainbow Hall, Nagoya, Japan</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-24 - Western Springs Stadium, Auckland, New Zealand</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-12-01 - Telstra Dome, Melbourne, Australia</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-12-03 - Adelaide Entertainment Centre, Adelaide, Australia</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-12-05 - Nova FM Studios, Perth, Australia</td>
+                            <td>
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-12-08 - Singapore Indoor Stadium, Singapore City, Singapore</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-12-20 - Park City Mountain Resort (Snowboard Grand Prix), Park City, UT, USA</td>
+                            <td>
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
