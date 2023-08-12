@@ -2672,6 +2672,221 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2006-02-11 - Diane Von Furstenberg, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-03-20 - The Mansion (Yahoo! Music), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-03-27 - The Mansion (iTunes Originals), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-03-28 - Laurel Canyon (AOL Sessions), Los Angeles, CA, USA</td>
+                            <td>[PRO #1][AOL 02][AOL 06][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-11 - T4 Studios (T4 Music Presents), London, England</td>
+                            <td>[PRO #1][DVD]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-13 - BBC Television Centre (Friday Night with Jonathan Ross), London, England</td>
+                            <td>[PRO #1][AVI]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-14 - Canvas Club, London, England</td>
+                            <td>[SBD #1][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-15 - BBC Television Centre (Top of the Pops), London, England</td>
+                            <td>
+                                [PRO #1][1080p][YT][MP4] <br />
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-18 - Guggenheim Museum, Bilbao, Spain</td>
+                            <td>
+                                [PRO #1][40][DVD] <br />
+                                [PRO #1][Canal+][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-20 - La Cigale, Paris, France</td>
+                            <td>
+                                [AUD #1][OGG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-21 - Studio 129 (Taratata), Paris, France</td>
+                            <td>
+                                [PRO #1][La Cigale + Taratata][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-23 - Den Grå Hal, Copenhagen, Denmark</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [SBD #1][FLAC] <br />
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-24 - Fliegende Bauten, Hamburg, Germany</td>
+                            <td>
+                                [PRO #1][YT][MP4] <br />
+                                [SBD #1][rhcpla][FLAC] <br />
+                                [SBD #2][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-26 - TV Total Studios (TV Total), Cologne, Germany</td>
+                            <td>
+                                [PRO #1][TOTP+Tv Total][DVD] <br />
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-04-29 - Alcatraz, Milan, Italy</td>
+                            <td>
+                                [PRO #1b][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-06 - NBC Studio 8H at Rockefeller Center (Saturday Night Live), New York, NY, USA</td>
+                            <td>
+                                [PRO #1][HDTV][TS] <br />
+                                [PRO #1][SNL + Ross][DVD] <br />
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-09 - Fuse 7th Avenue Studio, New York, NY, USA</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][WMV] <br />
+                                [Bootleg][DVD-A][FLAC] <br />
+                                [Bootleg][DVD-A][WMA]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-13 - Verizon Wireless Amphitheatre (KROQ Weenie Roast), Irvine, CA, USA</td>
+                            <td>
+                                [Bootleg][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-20 - Lowe's Motor Speedway, Concord, NC, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-30 - Palau Sant Jordi, Barcelona, Spain</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-05-31 - Palau Sant Jordi, Barcelona, Spain</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-00 - Pinkpop Necessities</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-02 - Palacio de Deportes de la Comunidad, Madrid, Spain</td>
+                            <td>
+                                [AUD #3][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-03 - Parque da Bela Vista (Rock In Rio Lisboa II), Lisbon, Portugal</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][Lisboa+Rosss][DVD] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-05 - Megaland (PinkPop Festival), Landgraaf, Netherlands</td>
+                            <td>
+                                [PRO #1][Broken!][DVD] <br />
+                                [PRO #1][Broken!][M4V] <br />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-06 - Halle Tony Garnier, Lyon, France</td>
+                            <td>
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-08 - Palais Omnisport de Paris Bercy, Paris, France</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #2][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-15 - Parkbühne Wuhlheide, Berlin, Germany</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-30 - Portman Road, Ipswich, England</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
