@@ -3140,6 +3140,221 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2007-01-17 - Gaylord Entertainment Center, Nashville, TN, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-01-23 - Charlotte Bobcats Arena, Charlotte, NC, USA</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-02-11 - Staples Center (49th Annual Grammys), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-02-14 - Earls Court Exhibition Centre (Brit Awards), London, England</td>
+                            <td>
+                                [PRO #1][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-03-03 - Assembly Hall, Champaign, IL, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-03-06 - AT&T Center, San Antonio, TX, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-03-10 - Foro Sol, Mexico City, Mexico</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-07 - Adelaide Entertainment Centre, Adelaide, Australia</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-11 - Federation Square, Melbourne, Australia</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][SCB][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-14 - Brisbane Entertainment Center, Brisbane, Australia</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-17 - Acer Arena, Sydney, Australia</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-19 - Acer Arena, Sydney, Australia</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-22 - Vector Arena, Auckland, New Zealand</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-04-28 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-05 - Tokyo Dome, Tokyo, Japan</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [MTX #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-06 - Tokyo Dome, Tokyo, Japan</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [MTX #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-08 - Kyosera Dome, Osaka, Japan</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-24 - Goffertpark, Nijmegen, Netherlands</td>
+                            <td>
+                                [AUD #1][2cds][FLAC] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-26 - Field (Tuborg GreenFest), Indjija, Serbia</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-28 - Stadio Friuli, Udine, Italy</td>
+                            <td>
+                                [AMT #1][DVD] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-06-29 - Olympiastadion, Munich, Germany</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-01 - AOL Arena, Hamburg, Germany</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-03 - Stadion Śląski, Chorzów, Poland</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [AUD #2][FLAC] <br />
+                                [SBD #1][FLAC] <br />
+                                [PRO #1][DVD] <br />
+                                [PRO #2][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-04 - Festwiese Ostragehege, Dresden, Germany</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-06 - Parc Des Princes, Paris, France</td>
+                            <td>
+                                [AUD #1][FLAC] <br />
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-07 - Festivalpladsen, (Roskilde Festival), Roskilde, Denmark</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-07-07 - Wembley Stadium (Live Earth), London, England</td>
+                            <td>
+                                [PRO #1a][1080i][Take I Music][TS] <br />
+                                [PRO #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-08-23 - Hampden Park, Glasgow, Scotland</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2007-08-25 - Little John's Farm (Reading Festival), Reading, England</td>
+                            <td>
+                                [PRO #1b][DVD] <br/ >
+                                [PRO #1b][MPG]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
