@@ -2911,6 +2911,123 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2016-05-26 - AT&T Live at iHeartRadio Theater, Burbank, CA, USA</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-06-04 - Flugplatz Mendig (Rock am Ring), Mendig, Germany</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-06-10 - Megaland (PinkPop Festival), Landgraaf, Netherlands</td>
+                            <td>
+                                [PRO #1][1080i][TS] <br />
+                                [PRO #1][DVD] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-06-14 - Studios SFP (Le Grand Journal), Paris, France</td>
+                            <td>
+                                [PRO #1a][FLV] <br />
+                                [PRO #1b][MP4] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-06-29 - Roskilde Festival, Roskilde, Denmark</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-06-30 - Kosakowo Airport (Open'er Festival), Gdynia, Poland</td>
+                            <td>
+                                [PRO #1][MP4] <br />
+                                [PRO #1][TS] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-07-02 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-07-10 - Strathallan Castle (T in the Park Festival), Perthshire, Scotland</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-07-22 - Jisan Valley Ski Resort (Valley Rock Festival), Ansan, South Korea</td>
+                            <td>
+                                [PRO #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-07-24 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
+                            <td>
+                                [PRO #1b][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-07-30 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
+                            <td>
+                                [PRO #1][HDMania][TS] <br />
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-08-27 - Little John's Farm (Reading Festival), London, England</td>
+                            <td>
+                                [PRO #1][TS] <br /> 
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-06 - Kraftwerk Berlin (Telekom Street Gigs at Internationale Funkausstellung), Berlin, Germany</td>
+                            <td>
+                                [PRO #1][YT][Set1][MP4] <br />
+                                [PRO #1][YT][Set2][MP4] <br />
+                                [PRO #2][360 VR][MP4] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-18 - Los Angeles Memorial Coliseum, Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-23 - Silverlake Conservatory of Music (Benefit Gala), Los Angeles, CA, USA</td>
+                            <td>
+                                [MIX #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-10 - Pala Alpitour, Turin, Italy</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
