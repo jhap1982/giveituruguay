@@ -2887,6 +2887,245 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][MP3]
                             </td>
                         </tr>
+
+                        <tr>
+                            <td>2006-07-02 - Ricoh Arena, Coventry, England</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-05 - Pride Park, Derby, England</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-09 - Punchestown Racecourse (Oxegen Festival), Kildare, Ireland</td>
+                            <td>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-12 - Manchester Evening News Arena, Manchester, England</td>
+                            <td>
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-14 - Earls Court Exhibition Centre, London, England</td>
+                            <td>
+                                [AUD #1][MP3] <br/>
+                                [AUD #2][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-15 - Earls Court Exhibition Centre, London, England</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-17 - Earls Court Exhibition Centre, London, England</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-29 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
+                            <td>
+                                [PRO #1a][Fuji][Grammy][Brit Awards][DVD] <br />
+                                [PRO #1b][DVD] <br />
+                                [AUD #1][FLAC] <br />
+                                [SBD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-08-06 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-08-12 - White River Amphitheater (Endfest), Auburn, WA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-08-22 - iPay One Center, San Diego, CA, USA</td>
+                            <td>
+                                [AUD #1][rhcpla][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-01 - The Forum, Inglewood, CA, USA</td>
+                            <td>
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-16 - AB, Penngrowth Saddledome, Calgary, Canada</td>
+                            <td>
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-17 - Rexall Place, Edmonton, Canada</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-25 - Air Canada Center, Toronto, Canada</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-28 - Centre Bell, Montreal, Canada</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-09-29 - Scotiabank Place, Ottawa, Canada</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-02 - TD Banknorth Garden, Boston, MA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-17 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
+                            <td>
+                                [MIX #1][DVD] <br />
+                                [AUD #3][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-18 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-20 - TD Banknorth Garden, Boston, MA, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-21 - Pepsi Arena, Albany, NY, USA</td>
+                            <td>
+                                [AUD #1][2 CDs][FLAC] <br />
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-28 - City Park (Voodoo Music Experience Festival), New Orleands, LA, USA</td>
+                            <td>
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-30 - Schottenstein Center, Columbus, OH, USA</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-10-31 - Quicken Loans Arena, Cleveland, OH, USA</td>
+                            <td>
+                                [AMT #1][DVD]<br/>
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-20 - Abbey Road Studios, London, England</td>
+                            <td>
+                                [PRO #1][DVD] <br/>
+                                [PRO #1][MP4] <br />
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-21 - BBC TV Studios (Later... with Jools Holland), London, England</td>
+                            <td>
+                                [PRO #1][1080i][TS] <br/>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][TS] <br />
+                                [PRO #1][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-27 - Hanns-Martin-Schleyer-Halle, Stuttgart, Germany</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-29 - Datch Forum di Assago, Milan, Italy</td>
+                            <td>
+                                [AUD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-12-07 - Wiener Stadthalle, Vienna, Austria</td>
+                            <td>
+                                [MIX #1][DVD] <br />
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-12-09 - Forum, Copenhagen, Denmark</td>
+                            <td>
+                                [AUD #1][2CDs][FLAC] <br />
+                                [AUD #1][rhcpla][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-12-11 - Stockholm Globe Arena, Stockholm, Sweden</td>
+                            <td>
+                                [AUD #1][MP3] <br />
+                                [MIX #1][DVD]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
