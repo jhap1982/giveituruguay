@@ -3414,6 +3414,302 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2011-08-09 - AsiaWorld Arena, Hong Kong, China</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-08-12 - TV Asahi Studios (Music Station), Tokyo, Japan</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-08-13 - Maishima Arena (Summer Sonic Festival), Osaka, Japan</td>
+                            <td>[AUD #1][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-08-14 - Chiba Marine Stadium (Summer Sonic Festival), Chiba, Japan</td>
+                            <td>
+                                [PRO #1a][TS] <br />
+                                [PRO #1b][TS] <br />
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-08-22 - The Roxy Theatre, West Hollywood, CA, USA</td>
+                            <td>
+                                [PRO #1][MP4] <br />
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2011-08-24 - Club Nokia, Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][FLV] <br />
+                                [PRO #1][YT][MP4]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-08-30 - E-Werk, Cologne, Germany</td>
+                            <td>
+                                [PRO #1][DVD] <br />
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-01 - Studio Canal+ (Le Grand Journal), Paris, France</td>
+                            <td>
+                                [PRO #1][MKV]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-02 - KOKO, Camden Town, London, England</td>
+                            <td>
+                                [PRO #1][MP4] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-07 - Taratata Studios (Taratata), La Plaine St Denis, France</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-10 - ITV Studios (The Jonathan Ross Show), London, England</td>
+                            <td>
+                                [PRO #1][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-14 - Estadio Nacional del Perú, Lima, Perú</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-16 - Estadio Monumental, Santiago de Chile, Chile</td>
+                            <td>
+                                [AMT #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-18 - Estadio Monumental Antonio Vespucio Liberti (Pepsi Music Festival), Buenos Aires, Argentina</td>
+                            <td title="jhap1982's first RHCP show!!">
+                                [MIX #1][DVD] <br />
+                                [PRO #1][BR] <br />
+                                [PRO #1][MKV] <br />
+                                [PRO #1][MTS] <br />
+                                [SBD #1][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-09-25 - Parque Olímpico Cidade do Rock (Rock In Rio IV), Rio de Janeiro, Brazil</td>
+                            <td>
+                                [PRO #1][720p][MKV] <br />
+                                [PRO #1][Globo][MKV] <br />
+                                [PRO #1][multishow HD][MKV] <br />
+                                [SBD #1][BootsLive][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-10-07 - Lanxess Arena, Cologne, Germany</td>
+                            <td>
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-10-08 - Veltins Arena (TV Total Stock Car Crash Challenge), Gelsenkirchen, Germany</td>
+                            <td>
+                                [PRO #1][MKV] <br />
+                                [PRO #1][MPG]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-10-16 - Ahoy, Rotterdam, Netherlands</td>
+                            <td>
+                                [AUD #2][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-10-19 - Palais Omnisports de Paris Bercy, Paris, France</td>
+                            <td>
+                                [MIX #1][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-04 - The O2, Dublin, Ireland</td>
+                            <td>
+                                [AUD #1][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-06 - Ulster Hall (MTV Europe Music Awards) , Belfast, Northern Ireland</td>
+                            <td>
+                                [PRO #1][729p][VIVA][MP4] <br />
+                                [PRO #1][MTV][1080i][TS]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-07 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-09 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-10 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][WMA]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-12 - Scottish Exhibition and Conference Centre Hall, Glasgow, Scotland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-14 - Manchester Evening News Arena, Manchester, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-15 - Manchester Evening News Arena, Manchester, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-17 - Motorpoint Arena, Sheffield, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-19 - LG Arena, Birmingham, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-20 - LG Arena, Birmingham, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-11-22 - BBC TV Studios (Later... with Jools Holland), London, England</td>
+                            <td>
+                                [PRO #1][1080][TS] <br />
+                                [PRO #1][ReEncoded][M4V]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-04 - O2 Arena Berlin, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-05 - Olympiahalle, Munich, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-07 - Stadthalle Vienna, Austria</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-10 - Palaolimpico, Torino, Italy</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-11 - Forum, Milan, Italy</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-13 - Hallenstadion, Zurich, Switzerland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-15 - Palau Sant Jordi, Barcelona, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-17 - Palacio de Deportes de la Comunidad, Madrid, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC] <br />
+                                [SBD #1][LiveChiliPeppers][MP3]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2011-12-19 - La Cigale, Paris, France</td>
+                            <td>
+                                [PRO #1][MP4]
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
