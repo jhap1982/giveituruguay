@@ -4631,6 +4631,35 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>2017-04-24 - Jacksonville Veterans Memorial Arena, Jacksonville, FL, USA</td>
+                            <td>[SBD #1][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-06-10 - Great Stage Park (Bonnaroo Music & Arts Festival), Manchester, TN, USA</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-09-15 - Del Mar Racetrack & Fairgrounds (Kaaboo Del Mar Festival), Del Mar, CA, USA</td>
+                            <td>[PRO #1][YT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-09-17 - Citi Field (The Meadows Music & Arts Festival), New York City, NY, USA</td>
+                            <td>[PRO #1][YT][VeniceQueen.IT][MP4]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-09-24 - Parque Olímpico Cidade do Rock (Rock in Rio Festival), Rio de Janeiro, Brazil</td>
+                            <td>[PRO #1][TS]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-10-07 - Zilker Park (Austin City Limits Festival), Austin, TX, USA</td>
+                            <td>[PRO #1][VK][MP4]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
