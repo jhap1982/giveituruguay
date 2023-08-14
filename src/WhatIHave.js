@@ -4804,6 +4804,41 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2019-02-19 - Qudos Bank Arena, Sydney, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-23 - Hope Estate, Pokolbin, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-25 - Brisbane Entertainment Centre, Brisbane, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-26 - Brisbane Entertainment Centre, Brisbane, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-03-02 - Mt Duneed Estate, Geelong, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-03-03 - Victoria Park (Superloop Adelaide 500), Adelaide, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2019-03-05 - HBF Park, Perth, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                        </tr>
+
+                        <tr>
                             <td>2019-03-15 - Giza Pyramid Complex, Giza, Egypt</td>
                             <td>[PRO #1][YT][MKV]</td>
                         </tr>
