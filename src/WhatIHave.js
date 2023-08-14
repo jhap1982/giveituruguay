@@ -4396,30 +4396,76 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2013-06-08 - Belle Isle (Orion Music + More Festival), Detroit, MI, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2013-06-21 - Dover International Speedway (FireFly Music Festival), Dover, DE, USA</td>
                             <td>
-                                [MIX #1][YT][MP4]
+                                [MIX #1][YT][MP4] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-08-11 - Golden Gate Park (Outside Lands Festival), San Francisco, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-09-21 - Piedmont Park (Music Midtown Festival), Atlanta, GA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-11-02 - Mega Space (Circuito Banco do Brasil Festival). Belo Horizonte, Brazil</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-11-05 - Jockey Club del Paraguay, Asunción, Paraguay</td>
                             <td title="piiiiipuuuuu!">
-                                [MIX #1][YT][MP4]
+                                [MIX #1][YT][MP4] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
                             </td>
                         </tr>
 
                         <tr>
+                            <td>2013-11-07 - Anhembi Arena, Sao Paulo, Brazil</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
                             <td>2013-11-09 - Parque Dos Atletas (Circuito Banco do Brasil Festival), Rio de Janeiro, Brazil</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][TS] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC]
                             </td>
                         </tr>
                     </tbody>
