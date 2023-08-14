@@ -643,6 +643,13 @@ const WhatIHave = ({ onBack }) => {
                     </thead>
                     <tbody>
                         <tr>
+                            <td>1991-10-06 - Amstel Canal, Amsterdam, Netherlands</td>
+                            <td title="JF: Wait a second here!!! You don't like the f*cking bassline at the end of the song? The Outro?">
+                                [PRO #1][VPRO Onrust][DVD]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1991-10-16 - Oscar Mayer Theater, Madison, WI, USA</td>
                             <td>[AUD #1][FLAC]</td>
                         </tr>
