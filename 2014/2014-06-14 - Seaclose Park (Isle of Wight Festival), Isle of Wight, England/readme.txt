@@ -20,5 +20,6 @@ Give It Away
 "Under the Bridge", "Higher Ground", "Around the World" and "Meet Me at the Corner" were on the setlist, but were skipped due to festival time limits.
 
 
-PRO #1
-professional videosoundboard > unknownHDTV > M2TS [1080i]Features "Dani California", "Blood Sugar Sex Magik" and "Give It Away".
+SBD #1 soundboard audio soundboard > unknown recorder LiveChiliPeppers.com > FLAC  
+SBD #2 soundboard audiosoundboard > unknown recorder WEB > FLAC "Dani California", "Blood Sugar Sex Magik" and "By The Way" were streamed by "Absolute" radio.  
+PRO #1 professional video soundboard > unknown HDTV > M2TS [1080i]Features "Dani California", "Blood Sugar Sex Magik" and "Give It Away".
