@@ -25,5 +25,4 @@ Attendance: 14,209 / 14,504 (98%)
 Support: Trombone Shorty & Orleans Avenue, Jack Irons
 
 Recordings
-SBD #1
-soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC
+SBD #1 soundboard audio soundboard > unknown recorder LiveChiliPeppers.com > FLAC
