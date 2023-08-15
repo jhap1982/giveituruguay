@@ -89,6 +89,7 @@
 * 1985-11-26 - Cotillion Ballroom at Louisiana State University, Baton Rouge, LA, USA
 * 1985-11-27 - Jimmy's, New Orleands, LA, USA
 * 1985-11-29 - Roosters, Nashville, TN, USA
+  * [AUD #1][FLAC]  
 * 1985-11-30 - Nucleus Club, Chattanooga, TN, USA
 * 1985-12-01 - Antenna Club, Memphis, TN, USA
 * 1985-12-04 - Mississippi Nights, St. Louis, MO, USA
