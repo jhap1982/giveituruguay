@@ -8,7 +8,9 @@
 * 1984-02-18 - Club Lingerie, Los Angeles, CA, USA
 * 1984-02-26 - Off Sunset, Los Angeles, CA, USA
 * 1984-02-28 - Ackerman Hall at University of California at Los Angeles, Los Angeles, CA, USA
+  * [AUD #1][FLAC]
 * 1984-03-16 - KTTV Studios (Ticke of the Night), Los Angeles, CA, USA
+  * [PRO #1][DVD] 
 * 1984-03-17 - Club Lingerie, Los Angeles, CA, USA
 * 1984-04-00 - Hollywood Palladium, Los Angeles, CA, USA
 * 1984-04-13 - Ackerman Ballroom at University of California at Los Angeles, Los Angeles, CA, USA
