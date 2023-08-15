@@ -35,6 +35,7 @@
   * [SBD #1][FLAC] 
 * 1984-08-19 - Greek Theatre, Los Angeles, CA, USA
 * 1984-08-26 - MTV Studios (The Cutting Edge), Los Angeles, CA, USA
+  * [PRO #1][DVD] 
 * 1984-08-30 - Music Machine, Los Angeles, CA, USA
 * 1984-09-00 - Club Lingerie, Los Angeles, CA, USA
 * 1984-09-07 - Fender's Ballroom, Long Beach, CA, USA
