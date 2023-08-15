@@ -95,6 +95,7 @@
 * 1984-12-14 - Steamboat Springs, Austin, TX, USA
 * 1984-12-15 - Starck Club, Dallas, TX, USA
 * 1984-12-16 - The Bowery, Oklahoma City, OK, USA
+  * [AUD #1][FLAC]
 * 1984-12-17 - Steamboat, Austin, TX, USA
 * 1984-12-20 - Music Machine, Los Angeles, CA, USA
 * 1984-12-31 - Club Lingerie, Los Angeles, CA, USA
