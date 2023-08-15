@@ -36,6 +36,7 @@
 * 1985-08-30 - Spatz, Huntington Beach, CA, USA
 * 1985-09-00 -  XXX (MusicCalifornia), Los Angeles, CA, USA
 * 1985-09-00 - Club Lingerie (The Tube), Los Angeles, CA, USA
+  * [PRO #1][VHS] 
 * 1985-09-05 - Reseda Country Club, Los Angeles, CA, USA
 * 1985-09-06 - Spatz, Huntington Beach, CA, USA
 * 1985-09-07 - Spatz, Huntington Beach, CA, USA
