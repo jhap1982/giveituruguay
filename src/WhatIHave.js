@@ -1579,6 +1579,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-02-02 - Melbourne Entertainment Center, Melbourne, Australia</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-03-24 - Target Center, Minneapolis, MN, USA</td>
                             <td>
                                 [AMT #1][DVD] <br />
@@ -1625,7 +1632,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-06-03 - University Arena, Albuquerque, NM, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][MP3]
+                                [SBD #1][LiveChiliPeppers.com][MP3] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC]
                             </td>
                         </tr>
 
@@ -2295,7 +2303,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-02-07 - Westfalenhalle, Dortmund, Germany</td>
                             <td>
-                                [SBD #1][MP3]
+                                [SBD #1][MP3] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC]
                             </td>
                         </tr>
 
@@ -2588,7 +2597,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2004-06-23 - Millennium Stadium, Cardiff, Wales</td>
-                            <td>[SBD #1][LiveChiliPeppers.com][MP3]</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][MP3] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
                         </tr>
 
                         <tr>
@@ -2986,7 +2998,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-09-16 - AB, Penngrowth Saddledome, Calgary, Canada</td>
                             <td>
-                                [SBD #1][MP3]
+                                [SBD #1][MP3] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC]
                             </td>
                         </tr>
 
