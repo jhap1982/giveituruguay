@@ -18,6 +18,7 @@
 * 1985-06-27 - Anti Club, Los Angeles, CA, USA
 * 1985-06-27 - Moore Theatre, Seattle, WA, USA
 * 1985-06-28 - Mason Jar, Phoenix, AZ, USA
+  * [AUD #1][FLAC] 
 * 1985-06-29 - Mason Jar, Phoenix, AZ, USA
 * 1985-07-00 - Anti Club, Los Angeles, CA, USA
 * 1985-07-04 - Fender's Ballroom, Long Beach, CA, USA
