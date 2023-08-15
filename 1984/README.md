@@ -66,7 +66,7 @@
 * 1984-11-16 - XXX, Cleveland, OH, USA
 * 1984-11-17 - JB's Down Under, Kent, OH, USA
 * 1984-11-18 - Joe's Star Lounge, Ann Arbor, MI, USA
-* 1984-11-20 - The Blue Note, Columbia, MO, USA
+* ~~1984-11-20 - The Blue Note, Columbia, MO, USA~~
 * 1984-11-21 - First Avenue Club, Minneapolis, MN, USA
 * 1984-11-22 - Cubby Bear, Chicago, IL, USA
 * 1984-11-22 - Outer Limits, Rhinleander, WI, USA

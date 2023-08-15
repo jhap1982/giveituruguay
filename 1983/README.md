@@ -15,7 +15,7 @@
 * 1983-06-05 - Sunday Club at Golden Village Supper Club, Los Angeles, CA, USA
 * 1983-06-11 - The Vex, Los Angeles, CA, USA
 * 1983-06-17 - Anti Club, Los Angeles, CA, USA
-* 1983-06-18 - The Plant, Studio City, CA, USA
+* ~~1983-06-18 - The Plant, Studio City, CA, USA~~
 * 1983-07-00 - The Cathay Grand Club, Aspen, CO, USA
 * 1983-07-03 - Kit Kat Club, Los Angeles, CA, USA
 * 1983-07-04 - Music Machine, Los Angeles, CA, USA
