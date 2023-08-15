@@ -67,6 +67,7 @@
 * 1984-11-13 - The Pyramid Club, New York City, NY, USA
 * 1984-11-14 - Maxwell's, Hoboken, NJ, USA
 * 1984-11-15 - Stache and Little Brother's, Columbus, OH, USA
+  * [AUD #1][FLAC]
 * 1984-11-16 - XXX, Cleveland, OH, USA
 * 1984-11-17 - JB's Down Under, Kent, OH, USA
 * 1984-11-18 - Joe's Star Lounge, Ann Arbor, MI, USA
