@@ -5,6 +5,7 @@
 * 1985-01-04 - The Keystone, Palo Alto, CA, USA
 * 1985-01-05 - Berkeley Square, Berkeley, CA, USA
 * 1985-01-06 - Club Culture, Santa Cruz, CA, USA
+  * [AUD #1][FLAC] 
 * 1985-01-07 - I-Beam, San Francisco, CA, USA
 * 1985-01-25 - Oscar's Cornhusker, Azusa, CA, USA
 * 1985-02-05 - Deja Vu, Newport Beach, CA, USA
