@@ -97,3 +97,4 @@
 * 1985-12-13 - Bronco Bowl, Dallas, TX, USA
 * 1985-12-14 - Celebrity Theatre, Phoenix, AZ, USA
 * 1985-12-31 - The Soundstage, Los Angeles, CA, USA
+
