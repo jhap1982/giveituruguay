@@ -73,7 +73,8 @@
 * 1985-11-07 - Chesnut Cabaret, Philadelphia, PA, USA
 * 1985-11-08 - Lost Horizon, Syracuse, NYA, USA
 * 1985-11-09 - Tralfamadore Cafe, Buffalo, NY, USA
-* 1985-11-10 - Red Creel Inn, Rochester, NY, USA
+* 1985-11-10 - Red Creek Inn, Rochester, NY, USA
+  * [AUD #1][FLAC] 
 * 1985-11-12 - Rick's American Cafe, East Lansing, MI, USA
 * 1985-11-13 - Tewligan's Tavern, Lousville, KY, USA
 * 1985-11-14 - Bogarts, Cleveland, OH, USA
