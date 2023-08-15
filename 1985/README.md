@@ -31,6 +31,7 @@
 * 1985-07-26 - Spatz, Huntington Beach, CA, USA
 * 1985-08-11 - Variety Arts Center, Los Angeles, CA, USA
 * 1985-08-17 - Freilichtbühne Loreley (Loreley Open Air), St. Goarshausen, Germany
+  * [PRO #1][DVD] 
 * 1985-08-22 - Dingwall's, London, England
 * 1985-08-30 - Spatz, Huntington Beach, CA, USA
 * 1985-09-00 -  XXX (MusicCalifornia), Los Angeles, CA, USA
