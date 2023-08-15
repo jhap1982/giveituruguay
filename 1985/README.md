@@ -5,6 +5,7 @@
 * 1985-01-04 - The Keystone, Palo Alto, CA, USA
 * 1985-01-05 - Berkeley Square, Berkeley, CA, USA
 * 1985-01-06 - Club Culture, Santa Cruz, CA, USA
+  * [AUD #1][FLAC] 
 * 1985-01-07 - I-Beam, San Francisco, CA, USA
 * 1985-01-25 - Oscar's Cornhusker, Azusa, CA, USA
 * 1985-02-05 - Deja Vu, Newport Beach, CA, USA
@@ -17,6 +18,7 @@
 * 1985-06-27 - Anti Club, Los Angeles, CA, USA
 * 1985-06-27 - Moore Theatre, Seattle, WA, USA
 * 1985-06-28 - Mason Jar, Phoenix, AZ, USA
+  * [AUD #1][FLAC] 
 * 1985-06-29 - Mason Jar, Phoenix, AZ, USA
 * 1985-07-00 - Anti Club, Los Angeles, CA, USA
 * 1985-07-04 - Fender's Ballroom, Long Beach, CA, USA
@@ -29,10 +31,12 @@
 * 1985-07-26 - Spatz, Huntington Beach, CA, USA
 * 1985-08-11 - Variety Arts Center, Los Angeles, CA, USA
 * 1985-08-17 - Freilichtbühne Loreley (Loreley Open Air), St. Goarshausen, Germany
+  * [PRO #1][DVD] 
 * 1985-08-22 - Dingwall's, London, England
 * 1985-08-30 - Spatz, Huntington Beach, CA, USA
 * 1985-09-00 -  XXX (MusicCalifornia), Los Angeles, CA, USA
 * 1985-09-00 - Club Lingerie (The Tube), Los Angeles, CA, USA
+  * [PRO #1][VHS] 
 * 1985-09-05 - Reseda Country Club, Los Angeles, CA, USA
 * 1985-09-06 - Spatz, Huntington Beach, CA, USA
 * 1985-09-07 - Spatz, Huntington Beach, CA, USA
@@ -69,7 +73,8 @@
 * 1985-11-07 - Chesnut Cabaret, Philadelphia, PA, USA
 * 1985-11-08 - Lost Horizon, Syracuse, NYA, USA
 * 1985-11-09 - Tralfamadore Cafe, Buffalo, NY, USA
-* 1985-11-10 - Red Creel Inn, Rochester, NY, USA
+* 1985-11-10 - Red Creek Inn, Rochester, NY, USA
+  * [AUD #1][FLAC] 
 * 1985-11-12 - Rick's American Cafe, East Lansing, MI, USA
 * 1985-11-13 - Tewligan's Tavern, Lousville, KY, USA
 * 1985-11-14 - Bogarts, Cleveland, OH, USA
@@ -84,6 +89,7 @@
 * 1985-11-26 - Cotillion Ballroom at Louisiana State University, Baton Rouge, LA, USA
 * 1985-11-27 - Jimmy's, New Orleands, LA, USA
 * 1985-11-29 - Roosters, Nashville, TN, USA
+  * [AUD #1][FLAC]  
 * 1985-11-30 - Nucleus Club, Chattanooga, TN, USA
 * 1985-12-01 - Antenna Club, Memphis, TN, USA
 * 1985-12-04 - Mississippi Nights, St. Louis, MO, USA
@@ -96,3 +102,4 @@
 * 1985-12-13 - Bronco Bowl, Dallas, TX, USA
 * 1985-12-14 - Celebrity Theatre, Phoenix, AZ, USA
 * 1985-12-31 - The Soundstage, Los Angeles, CA, USA
+
