@@ -4,8 +4,7 @@
 
 ## Notes
 
-
-**Other Acts**: -
+**Support**: Coincidence, Thelonious Monster
 
 ## Media 
 

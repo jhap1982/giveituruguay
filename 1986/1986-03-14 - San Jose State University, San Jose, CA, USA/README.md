@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: Dot 3
 
-**Other Acts**: -
 
 ## Media 
 

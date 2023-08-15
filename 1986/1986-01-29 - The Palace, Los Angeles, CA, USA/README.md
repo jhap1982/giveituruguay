@@ -4,8 +4,7 @@
 
 ## Notes
 
-
-**Other Acts**: -
+> Rescheduled to **February 5, 1986**
 
 ## Media 
 

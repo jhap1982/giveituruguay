@@ -4,8 +4,7 @@
 
 ## Notes
 
-
-**Other Acts**: -
+> Cancelled due to scheduling conflicts.
 
 ## Media 
 

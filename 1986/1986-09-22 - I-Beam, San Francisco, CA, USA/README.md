@@ -2,10 +2,13 @@
 
 ## Setlist
 
+1. Nervous Breakdown
+2. Foxy Lady
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
 
-
-**Other Acts**: -
+**Support**: Thelonious Monster
 
 ## Media 
 

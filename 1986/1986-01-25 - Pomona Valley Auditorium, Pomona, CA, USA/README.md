@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: Agent Orange, Flamethrowers, Desperation Squad
 
-**Other Acts**: -
 
 ## Media 
 

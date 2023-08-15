@@ -4,8 +4,7 @@
 
 ## Notes
 
-
-**Other Acts**: -
+> Most likely cancelled as March 21 show at Musicthon '86 was rescheduled to May.
 
 ## Media 
 

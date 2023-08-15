@@ -2,10 +2,14 @@
 
 ## Setlist
 
+1. Special Secret Song Inside
+2. Battleship
+3. Blackeyed Blonde
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
 
-
-**Other Acts**: -
+**Support**: T.S.O.L., Thelonious Monster
 
 ## Media 
 
@@ -25,5 +29,7 @@
 * Jack Irons
 
 ## Recordings
+
+* AMT #1 amateur video: built-in > unknown camera Super8(M) > ? recorded by David Walbert **NOT CIRCULATING**
 
 ## Links

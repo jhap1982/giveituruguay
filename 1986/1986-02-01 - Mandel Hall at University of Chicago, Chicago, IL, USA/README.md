@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: The Beastie Boys, Trouble Funk
 
-**Other Acts**: -
 
 ## Media 
 

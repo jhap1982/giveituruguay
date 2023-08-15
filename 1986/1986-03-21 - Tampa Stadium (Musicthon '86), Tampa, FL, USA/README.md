@@ -4,8 +4,7 @@
 
 ## Notes
 
-
-**Other Acts**: -
+> Rescheduled to *May 17, 1986* due to low ticket sales.
 
 ## Media 
 

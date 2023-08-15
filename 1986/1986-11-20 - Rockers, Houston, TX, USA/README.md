@@ -4,8 +4,10 @@
 
 ## Notes
 
+> Originally scheduled at "Cardi's" but moved to another venue just before the show.
 
-**Other Acts**: -
+**Support**: T.S.O.L., Thelonious Monster
+
 
 ## Media 
 

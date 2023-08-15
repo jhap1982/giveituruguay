@@ -4,8 +4,9 @@
 
 ## Notes
 
+> They played two shows at this venue on this date. This is the early show.
 
-**Other Acts**: -
+> They played two shows at this venue on this date. This is the late show.
 
 ## Media 
 

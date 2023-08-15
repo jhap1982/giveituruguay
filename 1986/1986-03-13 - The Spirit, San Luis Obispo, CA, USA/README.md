@@ -5,8 +5,6 @@
 ## Notes
 
 
-**Other Acts**: -
-
 ## Media 
 
 <details>

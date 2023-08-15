@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: T.S.O.L., Thelonious Monster
 
-**Other Acts**: -
 
 ## Media 
 

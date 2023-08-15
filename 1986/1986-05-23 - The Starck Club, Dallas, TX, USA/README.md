@@ -2,11 +2,7 @@
 
 ## Setlsit
 
-N/A
-
 ## Notes
-
-**Other Acts**: -
 
 ## Media 
 

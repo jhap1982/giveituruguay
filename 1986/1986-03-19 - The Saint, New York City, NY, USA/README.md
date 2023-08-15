@@ -4,8 +4,9 @@
 
 ## Notes
 
+> Spin Magazine's first anniversary party.
 
-**Other Acts**: -
+**Support**: Trouble Funk
 
 ## Media 
 

@@ -4,8 +4,8 @@
 
 ## Notes
 
+> Opening for X.
 
-**Other Acts**: -
 
 ## Media 
 

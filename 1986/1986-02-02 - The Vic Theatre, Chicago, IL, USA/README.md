@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: Trouble Funk
 
-**Other Acts**: -
 
 ## Media 
 

@@ -4,8 +4,8 @@
 
 ## Notes
 
+**Support**: Thelonious Monster
 
-**Other Acts**: -
 
 ## Media 
 

@@ -4,8 +4,8 @@
 
 ## Notes
 
-
-**Other Acts**: -
+**Attendance**: 7,410 / 15,000 (49%)
+**Other Acts**: The Untouchables, Fishbone, Secret Service
 
 ## Media 
 

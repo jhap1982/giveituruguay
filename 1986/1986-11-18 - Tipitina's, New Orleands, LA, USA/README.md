@@ -4,8 +4,8 @@
 
 ## Notes
 
-
-**Other Acts**: -
+> **UNCONFIRMED PERFORMANCE** <br>
+Michael Beinhorn mentions seeing the band for the first time at Tiptina's then travelling to Dallas the next day. It's possible he got the venue's name confused and actually means the show at Jimmy's on November 19, 1986.
 
 ## Media 
 
