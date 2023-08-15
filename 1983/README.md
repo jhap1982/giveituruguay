@@ -20,6 +20,7 @@
 * 1983-07-03 - Kit Kat Club, Los Angeles, CA, USA
 * 1983-07-04 - Music Machine, Los Angeles, CA, USA
 * 1983-07-18 - Club Lingerie , Hollywood, CA, USA
+  * [AUD #1][FLAC]
 * 1983-07-25 - Music Machine, Los Angeles, CA, USA
 * 1983-07-31 - Al's Bar, Los Angeles, CA, USA
 * 1983-08-04 - The Plant, Ventura, CA, USA
