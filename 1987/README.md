@@ -90,6 +90,7 @@
 * 1987-11-21 - Uptown Theatre, Kansas City, MO, USA
 * 1987-11-23 - The Blue Note, Columbia, MO, USA
 * 1987-11-24 - Mississippi Nights, St. Louis, MO, USA
+  * [AMT #1][DVD]
 * 1987-11-25 - Hugs, Louisville, KY, USA
 * 1987-11-26 - Exit-In, Nashville, TN, USA
 * 1987-11-27 - Kidnappers, Charlotte, NC, USA
@@ -111,6 +112,7 @@
 * 1987-12-17 - Club West, Santa Fe, NM, USA
 * 1987-12-18 - Auditorium Theatre, Denver, CO, USA
 * 1987-12-26 - Celebrity Theatre, Anaheim, CA, USA
+  * [AUD #1][FLAC]
 * 1987-12-27 - The Palace, Los Angeles, CA, USA
 * 1987-12-28 - The Fillmore, San Francisco, CA, USA
 * 1987-12-29 - One Step Beyond, Santa Clara, CA, USA
