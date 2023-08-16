@@ -17,6 +17,7 @@
 * 1986-02-05 - The Palace, Los Angeles, CA, USA
 * 1986-02-06 - Belly Up Tavern, Solana Beach, CA, USA
 * 1986-02-07 - Fender's Ballroom, Long Beach, CA, USA
+  * [AUD #1][FLAC] 
 * 1986-02-16 - The Coach House, San Juan Capistrano, CA, USA
 * 1986-02-24 - Bogarts, Long Beach, CA, USA
 * 1986-02-28 - Meltdown Nightclub, Los Angeles, CA, USA
