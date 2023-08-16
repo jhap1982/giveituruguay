@@ -6,6 +6,7 @@
 * 1986-01-16 - Wolfgang's, San Francisco, CA, USA
 * 1986-01-17 - Stanford University Memorial Auditorium, Stanford, CA, USA
 * 1986-01-18 - The Catalyst, Santa Cruz, CA, USA
+  * [MTX #1][FLAC] 
 * 1986-01-21 - Cotati Cabaret, Cotati, CA, USA
 * 1986-01-22 - Berkeley Square, Berkeley, CA, USA
 * 1986-01-25 - Pomona Valley Auditorium, Pomona, CA, USA
