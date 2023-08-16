@@ -37,7 +37,7 @@ section {
     border-radius: 10px;
 }
 
-/* Estilos para las secciones de años y tablas */
+/* Estilos para las secciones de aï¿½os y tablas */
 .year-section {
     margin-bottom: 20px;
 }
@@ -53,7 +53,7 @@ table {
     background-color: rgba(0, 0, 0, 0.6);
     border-radius: 8px;
 }
-
+    
     table th,
     table td {
         padding: 10px;
@@ -65,5 +65,4 @@ table {
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
     }
-
-/* Otros estilos que puedas necesitar */
+   

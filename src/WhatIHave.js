@@ -37,13 +37,13 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1983-05-30 - China Club, Hollywood, CA, USA</td>
                             <td>
-                                [SBD #1][FLAC]<br />
-                                [SBD #1][MP3]
+                                [SBD #1][FLAC][79,7 MB] <br />
+                                [SBD #1][MP3][52,4 MB]
                             </td>
                         </tr>
                         <tr>
                             <td>1983-07-18 - Club Lingerie , Hollywood, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][99,7 MB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -61,22 +61,22 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1984-03-16 - KTTV Studios (Ticke of the Night), Los Angeles, CA, USA</td>
-                            <td title="Thanks Leni!!">[PRO #1][DVD]</td>
+                            <td title="Thanks Leni!!">[PRO #1][DVD][585 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1984-08-11 - Club Lingerie, Los Angeles, CA, USA</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][182 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1984-11-15 - Stache and Little Brother's, Columbus, OH, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][127 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1984-12-16 - The Bowery, Oklahoma City, OK, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][337 MB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -94,44 +94,44 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1985-01-06 - Club Culture, Santa Cruz, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][191 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1985-06-28 - Mason Jar, Phoenix, AZ, USA</td>
-                            <td>[AUD #1][FLAC]</td>                            
+                            <td>[AUD #1][FLAC][361 MB]</td>                            
                         </tr>
 
                         <tr>
                             <td>1985-07-06 - The Keystone, Palo Alto, CA, USA</td>
-                            <td>[AUD #1][SCB][FLAC]</td>
+                            <td>[AUD #1][SCB][FLAC][361 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1985-08-17 - Freilichtbuhne Loreley (Loreley Open Air), St. Goarshausen, Germany</td>
                             <td>
-                                [PRO #1][George Clinton][DVD]<br/>
-                                [PRO #1][RHL][DVD]
+                                [PRO #1][George Clinton][DVD][2,88 GB]<br/>
+                                [PRO #1][RHL][DVD][3,43 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1985-10-12 - The Keystone, Palo Alto, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][402 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1985-10-23 - The Patio, Indianapolis, IN, USA</td>
                             <td>
-                                [AMT #1][BONG][DVD]<br />
-                                [AMT #1][RHL][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][BONG][DVD][4,04 GB]<br />
+                                [AMT #1][RHL][DVD][2,60 GB]<br />
+                                [AUD #1][FLAC][376 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1985-11-29 - Roosters, Nashville, TN, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][282 MB]</td>
                         </tr>                        
                     </tbody>
                 </table>
@@ -748,164 +748,170 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1992-01-02 - Salem Armony, Salem, OR, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][370 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-02-11 - Ahoy, Rotterdam, Netherlands</td>
-                            <td>[SBD #1][Under The Bridge][MP3]</td>
+                            <td>[SBD #1][Under The Bridge][MP3][58,1 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-02-13 - Docks, Hamburg, Germany</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][430 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-02-16 - Le Zenith, Paris, France</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][364 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-02-22 - NBC Studios at Rockefeller Center (Saturday Night Live), New York City, NY, USA</td>
                             <td>
-                                [MIX #1][PRO #1][PRO #2][DVD]<br />
-                                [PRO #1][MPEG]<br />
-                                [PRO #1][MPG]
+                                [MIX #1][PRO #1][PRO #2][DVD][1,27 GB]<br />
+                                [PRO #1][MPEG][48,5 MB]<br />
+                                [PRO #1][MPG][39,5 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-02-25 - Theaterfabrik, Munich, Germany</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #1][LiveMagik][FLAC]<br />
+                                [AUD #1][LiveMagik][FLAC][499 MB]<br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-03-01 - Palatrussardi, Milan, Italy</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [PRO #1b][DVD]<br />
-                                [AUD #1][FLAC]<br/>
+                                [AMT #1][DVD][3,76 GB]<br />
+                                [PRO #1b][DVD][2,28 GB]<br />
+                                [AUD #1][FLAC][401 MB]<br/>
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-03-13 - Brixton Academy, London, England</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][557 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-03-17 - Philips Halle, Dusseldorf, Germany</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][MP3][59,9 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-07-05 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][417 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-07-18 - Shoreline Amphitheatre (Lollapalooza  Festival), Mountain View, CA, USA</td>
-                            <td>[AMT #1][DVD]</td>
+                            <td>[AMT #1][DVD][4,21 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-02 - World Music Theater (Lollapalooza  Festival), Tinley Park, IL, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][506 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-05 - Molson Park (Lollapalooza Festival), Barrie, Canada</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][507 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-07 - Great Woods Performing Arts Center (Lollapalooza  Festival), Mansfield, MA, USA</td>
-                            <td>[AUD #2][FLAC]</td>
+                            <td>[AUD #2][FLAC][496 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-08 - Great Woods Performing Arts Center (Lollapalooza  Festival), Mansfield, MA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][496 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-09 - Jones Beach Theater (Lollapalooza  Festival), Wantagh, NY, USA</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,82 GB]<br />
+                                [AUD #1][FLAC][518 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-08-12 - Waterloo Village (Lollapalooza Festival), Stanhope, NJ, USA</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,81 GB]<br />
+                                [AUD #1][FLAC][507 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-08-14 - Lake Fairfax (Lollapalooza Festival), Alexandria, VA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][531 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-15 - Montage Mountain Performing Arts Center (Lollapalooza Festival), Scranton, PA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][529 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-16 - Star Lake Amphitheater (Lollapalooza Festival), Pittsburgh, PA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][533 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-28 - Harriet Island (Lollapalooza Festival), Minneapolis, MN, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][557 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-08-29 - Alpine Valley Music Theatre (Lollapalooza Festival), East Troy, WI, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][519 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-09-04 - UNO Soccer Field (Lollapalooza Festival), New Orleans, LA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][421 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-09-08 - Desert Sky Pavilion (Lollapalooza Festival), Phoenix, AZ, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][469 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-09-09 - UCLA Pauley Pavilion (MTV Video Music Awards), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [PRO #1][MTV][SNL][DVD]
+                                [PRO #1][DVD][3,13 GB]<br />
+                                [PRO #1][MTV][SNL][DVD][1,02 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1992-09-11 - Irvine Meadows Amphitheatre (Lollapalooza Festival), Irvine, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][600 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-10-20 - Festival Hall, Melbourne, Australia</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][395 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1992-10-27 - Winter Show Buildings, Wellington, New Zealand</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][WMA]
+                                [AMT #1][DVD][3,00 GB] <br />
+                                [AUD #1][WMA][19,7 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1992-10-28 - Mount Smart Super Top. Auckland, New Zealand</td>
+                            <td>
+                                [PRO #1][DVD][3,92 GB]
                             </td>
                         </tr>
                     </tbody>
@@ -1361,7 +1367,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][DVD] <br />
                                 [PRO #1][DigUpg][DVD] <br />
-                                [PRO #1][DigUpg][TS] <bn />
+                                [PRO #1][DigUpg][TS] <br />
                             </td>
                         </tr>
 
