@@ -36,6 +36,7 @@
 * 1986-04-30 - Beer Garden, Eugene, OR, USA
 * 1986-05-01 - Starry Night, Portland, OR, USA
 * 1986-05-02 - Astor Park Club, Seattle, WA, USA
+  * [SBD #1][FLAC]
 * 1986-05-03 - Astor Park, Seattle, WA, USA
 * 1986-05-04 - Viking Union Lounge at Western Washington University, Bellingham, WA, USA
 * 1986-05-05 - Harpo's, Victoria, Canada
