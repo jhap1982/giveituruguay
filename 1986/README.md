@@ -89,6 +89,7 @@
   * [AMT #1][DVD] 
 * 1986-11-30 - Century Hall, Milwaukee, WI, USA
 * 1986-12-01 - First Avenue, Minneapolis, MN, USA
+  * [AUD #1][FLAC] 
 * 1986-12-03 - Lee's Palace, Toronto, ON, Canada
 * 1986-12-04 - Barrymore's, Ottawa, Canada
 * 1986-12-07 - City Gardens, Trenton, NJ, USA
