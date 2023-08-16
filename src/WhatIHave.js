@@ -266,6 +266,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1987-10-27 - Night Club 9:30, Washington D.C., USA</td>
+                            <td>
+                                [PRO #1][DVD]<br />
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1987-11-08 - City Gardens, Trenton, NJ, USA</td>
                             <td>[AUD #1][FLAC]</td>
                         </tr>                       
@@ -1333,7 +1340,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-08-10 - Blue Line, Toronto, Canada</td>
                             <td>
-                                [SBD #1][Give The Dart Away][MP3]
+                                [SBD #1][Give The Dart Away][MP3] <br />
+                                [PRO #1][DVD]
                             </td>
                         </tr>
 
