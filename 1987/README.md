@@ -13,7 +13,7 @@
 * 1987-04-24 - Lory Student Center at Colorado State University, Fort Collins, CO, USA
 * 1987-04-25 - Aztlan Theatre, Denver, CO, USA
 * 1987-06-05 - North Park Theatre, San Diego, CA, USA
-  * [AUD #1][FLAC] 
+  * [AUD #1][FLAC]
 * 1987-06-06 - Variety Arts Center, Los Angeles, CA, USA
 * 1987-06-09 - The Limelight, Honolulu, HI, USA
 * 1987-06-10 - The Limelight, Honolulu, HI, USA
@@ -30,6 +30,7 @@
 * 1987-07-10 - The Catalyst, Santa Cruz, CA, USA
   * [SBD #1][FLAC] 
 * 1987-07-11 - The Omni, Oakaland, CA, USA
+  * [AUD #1][FLAC] 
 * 1987-07-12 - Cotati Cabaret, Cotati, CA, USA
 * 1987-07-13 - I-Beam, San Francisco, CA, USA
 * 1987-07-15 - Cotati Cabaret, Cotati, CA, USA
