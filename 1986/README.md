@@ -91,6 +91,7 @@
 * 1986-12-01 - First Avenue, Minneapolis, MN, USA
   * [AUD #1][FLAC] 
 * 1986-12-03 - Lee's Palace, Toronto, ON, Canada
+  * [PRO #1][DVD]
 * 1986-12-04 - Barrymore's, Ottawa, Canada
 * 1986-12-07 - City Gardens, Trenton, NJ, USA
 * 1986-12-08 - Rockitz, Richmond, VA, USA
