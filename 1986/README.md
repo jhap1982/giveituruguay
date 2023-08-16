@@ -80,6 +80,7 @@
 * 1986-11-21 - Longhorn Ballroom, Dallas, TX, USA
   * [AMT #1][?] 
 * 1986-11-22 - The Ritz, Austin, TX, USA
+  * [AMT #1][DVD] 
 * 1986-11-24 - Mississippi Nights, St. Louis, MO, USA
 * 1986-11-25 - The Drumstick, Lincoln, NE, USA
 * 1986-11-26 - Uptown Theatre, Kansas City, MO, USA
