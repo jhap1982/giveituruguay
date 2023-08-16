@@ -1184,7 +1184,7 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1997-07-26 - Fuji Rock Festival, Yamanashi, Japan</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][1,18 GB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -1202,51 +1202,53 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1998-06-05 - KBLT Radio Station, Los Angeles, CA, USA</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][172 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1998-06-14 - Robert F. Kennedy Memorial Stadium (Tibetan Freedom Concert), Washington D.C., USA</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][1,05 GB]<br />
+                                [AUD #1][FLAC][81,9 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1998-06-25 - Hollywood Moguls (Iggy Pop Tribute Show), Hollywood, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][91,0 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1998-09-04 - Santa Barbara Bowl, Santa Barbara, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][451 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1998-09-05 - Huntridge Theater, Las Vegas, NV, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #1][One Hot Weekend Day I][MP3]
+                                [AUD #1][FLAC][547 MB]<br />
+                                [AUD #1][One Hot Weekend Day I][MP3][76,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1998-09-06 - Huntridge Theater, Las Vegas, NV, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #1][One Hot Weekend Day II][MP3]
+                                [AUD #1][FLAC][76,2 MB]<br />
+                                [AUD #1][One Hot Weekend Day II][MP3][97,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1998-09-18 - Field of Dreams, Oroville, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][300 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1998-09-20 - Stockton Civic Auditorium, Stockton, CA, USA</td>
-                            <td title="some files does not match checksum file">[AMT #1][DVD]*</td>
+                            <td title="some files does not match checksum file">
+                                [AMT #1][DVD][300 MB]*
+                            </td>
                         </tr>
                     </tbody>
                 </table>
