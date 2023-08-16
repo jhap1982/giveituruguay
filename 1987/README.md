@@ -42,6 +42,7 @@
 * 1987-09-15 - Paradiso, Amsterdam, Netherlands
 * 1987-09-16 - Tivoli, Utrecth, Netherlands
 * 1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA
+  * [PRO #1][DVD] 
 * 1987-09-24 - Sam's Hofbrau, Sacramento, CA, USA
 * 1987-09-28 - Dingwalls, London, England
 * 1987-10-02 - The Loft, Berlin, Germany
@@ -51,12 +52,16 @@
 * 1987-10-07 - Alabama-Halle, Munich, Germany
 * 1987-10-16 - Klub Foot at Clarendon Hotel, London, England
 * 1987-10-22 - Chestnut Cabaret, Philadelphia, PA, USA
+  * [AUD #1][FLAC] 
 * 1987-10-23 - The Haunt, Ithaca, NY, USA
 * 1987-10-24 - Lost Horizon, Syracuse, NY, USA
+  * [AUD #1][FLAC]
+  * [AUD #2][FLAC] 
 * 1987-10-25 - Idols, Rochetster, NY, USA
 * 1987-10-26 - The Underground Railroad, Morgantown, WV, USA
-* 1987-10-27 - Night Club 9-30, Washington D.C., USA
-* 1987-10-28 - Night Club 9-30, Washington D.C., USA
+* 1987-10-27 - Night Club 9:30, Washington D.C., USA
+  * [PRO #1][DVD] 
+* 1987-10-28 - Night Club 9:30, Washington D.C., USA
 * 1987-10-29 - Toad's Place, New Haven, CT, USA
 * 1987-10-30 - The Limelight, New York City, NY, USA
 * 1987-10-31 - The Ritz, New York City, NY, USA
@@ -64,9 +69,12 @@
 * 1987-11-03 - QE2, Albany, NY, USA
 * 1987-11-05 - Paradise, Boston, MA, USA
 * 1987-11-06 - The Living room, Providence, RI, USA
+  * [SBD #1][FLAC] 
 * 1987-11-07 - Green Parrot Club, Neptune, NJ, USA
 * 1987-11-08 - City Gardens, Trenton, NJ, USA
+  * [AUD #1][FLAC] 
 * 1987-11-09 - Graffiti's, Pittsburgh, PA, USA
+  * [SBD #1][FLAC] 
 * 1987-11-10 - Newport Music Hall, Columbus, OH, USA
 * 1987-11-11 - Bogarts, Cincinnati, OH, USA
 * 1987-11-12 - Phantasy Theater, Lakewood, OH, USA
@@ -76,6 +84,7 @@
 * 1987-11-16 - Vogue, Indianapolis, IN, USA
 * 1987-11-17 - Headliners, Madison, WI, USA
 * 1987-11-18 - First Avenue Club, Minneapolis, MN, USA
+  *  [AUD #1][FLAC]
 * 1987-11-19 - Chesterfield's, Lincoln, NE, USA
 * 1987-11-20 - Coyote Club, Wichita, KS, USA
 * 1987-11-21 - Uptown Theatre, Kansas City, MO, USA
