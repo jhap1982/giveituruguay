@@ -82,6 +82,7 @@
 * 1986-11-22 - The Ritz, Austin, TX, USA
   * [AMT #1][DVD] 
 * 1986-11-24 - Mississippi Nights, St. Louis, MO, USA
+  * [PRO #1][DVD] 
 * 1986-11-25 - The Drumstick, Lincoln, NE, USA
 * 1986-11-26 - Uptown Theatre, Kansas City, MO, USA
 * 1986-11-29 - Hoosier Ballroom, Indianapolis, IN, USA
