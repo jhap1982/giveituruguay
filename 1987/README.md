@@ -5,6 +5,8 @@
 * 1987-01-09 - Fender's Ballroom, Long Beach, CA, USA
 * 1987-02-05 - The Roxy, West Hollywood, CA, USA
 * 1987-02-13 - Scream at Embassy Hotel, Los Angeles, CA, USA
+  * [AUD #1][FLAC]
+  * [AMT #1][?] 
 * 1987-02-22 - Goodies, Fullerton, CA, USA
 * 1987-03-05 - Variety Arts Center (L.A. Weekly Rock Music Awards), Los Angeles, CA, USA
 * 1987-04-24 - Lory Student Center at Colorado State University, Fort Collins, CO, USA
