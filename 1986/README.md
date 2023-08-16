@@ -86,6 +86,7 @@
 * 1986-11-25 - The Drumstick, Lincoln, NE, USA
 * 1986-11-26 - Uptown Theatre, Kansas City, MO, USA
 * 1986-11-29 - Hoosier Ballroom, Indianapolis, IN, USA
+  * [AMT #1][DVD] 
 * 1986-11-30 - Century Hall, Milwaukee, WI, USA
 * 1986-12-01 - First Avenue, Minneapolis, MN, USA
 * 1986-12-03 - Lee's Palace, Toronto, ON, Canada
