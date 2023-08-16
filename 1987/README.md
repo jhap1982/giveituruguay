@@ -8,6 +8,7 @@
   * [AUD #1][FLAC]
   * [AMT #1][?] 
 * 1987-02-22 - Goodies, Fullerton, CA, USA
+  * [AUD #1][FLAC]
 * 1987-03-05 - Variety Arts Center (L.A. Weekly Rock Music Awards), Los Angeles, CA, USA
 * 1987-04-24 - Lory Student Center at Colorado State University, Fort Collins, CO, USA
 * 1987-04-25 - Aztlan Theatre, Denver, CO, USA
