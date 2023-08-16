@@ -78,6 +78,7 @@
 * 1986-11-19 - Jimmy's , New Olreands, LA, USA
 * 1986-11-20 - Rockers, Houston, TX, USA
 * 1986-11-21 - Longhorn Ballroom, Dallas, TX, USA
+  * [AMT #1][?] 
 * 1986-11-22 - The Ritz, Austin, TX, USA
 * 1986-11-24 - Mississippi Nights, St. Louis, MO, USA
 * 1986-11-25 - The Drumstick, Lincoln, NE, USA
