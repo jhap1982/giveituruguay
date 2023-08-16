@@ -36,6 +36,7 @@
 * 1987-07-15 - Cotati Cabaret, Cotati, CA, USA
 * 1987-08-01 - Perkins Palace, Pasadena, CA, USA
 * 1987-08-07 - XXX, Late Show With Arsenio Hall, Hollywood, CA, USA
+  * [PRO #1][DVD] 
 * 1987-08-29 - Deja Vu, Phoenix, AZ, USA
 * 1987-09-15 - Paradiso, Amsterdam, Netherlands
 * 1987-09-16 - Tivoli, Utrecth, Netherlands
