@@ -28,6 +28,7 @@
 * 1987-07-05 - Harpo's, Victoria, Canada
 * 1987-07-09 - Club Can't Tell, Sacramento, CA, USA
 * 1987-07-10 - The Catalyst, Santa Cruz, CA, USA
+  * [SBD #1][FLAC] 
 * 1987-07-11 - The Omni, Oakaland, CA, USA
 * 1987-07-12 - Cotati Cabaret, Cotati, CA, USA
 * 1987-07-13 - I-Beam, San Francisco, CA, USA
