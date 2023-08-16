@@ -38,6 +38,7 @@
 * 1987-08-07 - XXX, Late Show With Arsenio Hall, Hollywood, CA, USA
   * [PRO #1][DVD] 
 * 1987-08-29 - Deja Vu, Phoenix, AZ, USA
+  * [SBD #1][FLAC]
 * 1987-09-15 - Paradiso, Amsterdam, Netherlands
 * 1987-09-16 - Tivoli, Utrecth, Netherlands
 * 1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA
