@@ -2549,6 +2549,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2004</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -2560,18 +2561,18 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2004-06-05 - Nurburgring (Rock Am Ring), Nurburg, Germany</td>
                             <td>
-                                [PRO #1][guitars101][DVD]<br />
-                                [PRO #1a][MiniEpic][DVD]<br />
-                                [PRO #1b][DVD]
+                                [PRO #1][guitars101][DVD][4,97 GB]<br />
+                                [PRO #1a][MiniEpic][DVD][3,91 GB]<br />
+                                [PRO #1b][DVD][1,20 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2004-06-08 - Stadio Giuseppe Meazza, Milan, Italy</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AMT #2][DVD]<br />
-                                [SBD #1][MP3]
+                                [AMT #1][DVD][3,22 GB]<br />
+                                [AMT #2][DVD][3,73 GB]<br />
+                                [SBD #1][MP3][234 MB]
                             </td>
                         </tr>
 
@@ -2583,69 +2584,68 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2004-06-12 - Phoenix Park, Dublin, Ireland</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][605 MB] <br />
+                                [SBD #1][MP3][605 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2004-06-13 - Murrayfield Stadium, Edinburgh, Scotland</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][92,1 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2004-06-15 - Parc Des Princes, Paris, France</td>
-                            <td>[AMT #1][+RockAmRing][DVD]</td>
+                            <td>[AMT #1][+RockAmRing][DVD][4,35 GB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-06-16 - Amsterdam Arena, Amsterdan, Netherlands</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][676 MB]</td>
                         </tr>     
 
                         <tr>
                             <td>2004-06-19 - Hyde Park, London, England</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][384 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-06-23 - Millennium Stadium, Cardiff, Wales</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][MP3] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][MP3][384 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][191 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2004-06-27 - Auditorio Monte do Gozo, Santiago de Compostela, Spain</td>
-                            <td>[AUD #1][MP3]</td>
+                            <td>[AUD #1][MP3][191 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-07-25 - International Stadium Yokohama (Rock Odyssey Festival), Yokohama, Japan</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [PRO #1][DVD] <br />
-                                [PRO #1][rutracker][DVD]
+                                [AMT #1][DVD][191 MB] <br />
+                                [PRO #1][DVD][3,81 GB] <br />
+                                [PRO #1][rutracker][DVD][3,25 GB ]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2004-09-12 - Avalon Hollywood (Ramones 30th Anniversary Show), Los Angeles, CA, USA</td>
-                            <td>[SBD #1][MP3]</td>
+                            <td>[SBD #1][MP3][20,2 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-10-23 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][200 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-10-24 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][185 MB]</td>
                         </tr>
                     </tbody>
                 </table>
