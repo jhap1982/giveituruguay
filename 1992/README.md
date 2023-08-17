@@ -104,4 +104,4 @@
 * 1992-10-20 - Festival Hall, Melbourne, Australia
 * 1992-10-21 - National Tennis Centre at Flinders Park, Melbourne, Australia
 * 1992-10-27 - Winter Show Buildings, Wellington, New Zealand
-* 1992-10-28 - Mount Smart Super Top. Auckland, New Zealand
+* 1992-10-28 - Mount Smart Super Top, Auckland, New Zealand
