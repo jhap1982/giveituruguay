@@ -38,6 +38,7 @@
 * 2023-07-21 - Tottenham Hotspur Stadium, London, England
 * 2023-07-23 - Hampden Park, Glasgow, Scotland
 * 2023-08-06 - Grant Park (Lollapalooza Festival), Chicago, IL, USA
+* 2023-08-16 - Nickerson's Gardens Playground, Los Angeles, CA, USA
 * 2023-09-23 - Global Citizen Festival, Central Park, NYC, USA
 * 2023-09-30 - Seaside Park (Sound on Sound Festival), Birdgeport, CT, USA
 * 2023-10-31 - Estadio Nacional de Costa Rica, San Jose, Costa Rica
