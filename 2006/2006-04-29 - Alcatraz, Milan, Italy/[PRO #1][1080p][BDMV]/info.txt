@@ -1,0 +1,86 @@
+Red Hot Chili Peppers - Live in Milan [2015, Blu-ray, 1080p]
+
+Genre: Rock, Alternative Rock, Funk Metal
+Duration: 00:44:54
+Year of issue: 2015
+
+Description: The Stadium Arcadium World Tour was a 2006-2007 concert tour by the band Red Hot Chili Peppers in support of their ninth studio album, Stadium Arcadium. The band started out with a pre-tour promotional leg of dates around the world while the world tour was composed of six legs, three in Europe, one in Australia, New Zealand and Asia, and the other two in the US and Canada.
+
+Quality: Blu-ray
+Container: BDMV
+Video Codec: MPEG2
+Audio codec: AC3
+Video: MPEG-2 Video / 30000 kbps / 1080p / 23.976 fps / 16: 9
+Audio 1: English / Dolby Digital Audio / 5.1 / 48 kHz / 448 kbps / DN -4dB
+Audio 2: English / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps / DN -4dB
+
+Tracklist:
+
+1. Can't Stop
+2. Charlie
+3. Tell Me Baby
+4. Emily
+5. Me And My Friends
+6. Dani California
+7. Scar tissue
+8. By The Way
+9. Give it Away
+
+BDMV/AUXDATA/sound.bdmv12.56 KiB
+BDMV/BACKUP/BDJO/00000.bdjo272 B
+BDMV/BACKUP/CLIPINF/00003.clpi26.40 KiB
+BDMV/BACKUP/CLIPINF/00002.clpi2.39 KiB
+BDMV/BACKUP/CLIPINF/00001.clpi2.39 KiB
+BDMV/BACKUP/CLIPINF/00004.clpi960 B
+BDMV/BACKUP/CLIPINF/00000.clpi560 B
+BDMV/BACKUP/JAR/00000/main.1.aca3.46 MiB
+BDMV/BACKUP/JAR/00000/main.0.aca3.4 MiB
+BDMV/BACKUP/JAR/00000/firstplay.nbi437.27 KiB
+BDMV/BACKUP/JAR/00000/firstplay.png152.64 KiB
+BDMV/BACKUP/JAR/00000.jar319.24 KiB
+BDMV/BACKUP/PLAYLIST/00003.mpls314 B
+BDMV/BACKUP/PLAYLIST/01003.mpls314 B
+BDMV/BACKUP/PLAYLIST/00002.mpls170 B
+BDMV/BACKUP/PLAYLIST/00001.mpls170 B
+BDMV/BACKUP/PLAYLIST/00004.mpls170 B
+BDMV/BACKUP/PLAYLIST/00000.mpls170 B
+BDMV/BACKUP/PLAYLIST/01001.mpls170 B
+BDMV/BACKUP/PLAYLIST/01002.mpls170 B
+BDMV/BACKUP/PLAYLIST/01000.mpls170 B
+BDMV/BACKUP/PLAYLIST/01004.mpls170 B
+BDMV/BACKUP/MovieObject.bdmv1.06 KiB
+BDMV/BACKUP/index.bdmv132 B
+BDMV/BDJO/00000.bdjo272 B
+BDMV/CLIPINF/00003.clpi26.40 KiB
+BDMV/CLIPINF/00002.clpi2.39 KiB
+BDMV/CLIPINF/00001.clpi2.39 KiB
+BDMV/CLIPINF/00004.clpi960 B
+BDMV/CLIPINF/00000.clpi560 B
+BDMV/JAR/00000/main.1.aca3.46 MiB
+BDMV/JAR/00000/main.0.aca3.4 MiB
+BDMV/JAR/00000/firstplay.nbi437.27 KiB
+BDMV/JAR/00000/firstplay.png152.64 KiB
+BDMV/JAR/00000.jar319.24 KiB
+BDMV/PLAYLIST/00003.mpls314 B
+BDMV/PLAYLIST/01003.mpls314 B
+BDMV/PLAYLIST/00002.mpls170 B
+BDMV/PLAYLIST/00001.mpls170 B
+BDMV/PLAYLIST/00004.mpls170 B
+BDMV/PLAYLIST/00000.mpls170 B
+BDMV/PLAYLIST/01001.mpls170 B
+BDMV/PLAYLIST/01002.mpls170 B
+BDMV/PLAYLIST/01000.mpls170 B
+BDMV/PLAYLIST/01004.mpls170 B
+BDMV/STREAM/00003.m2ts10.08 GiB
+BDMV/STREAM/00002.m2ts562.34 MiB
+BDMV/STREAM/00001.m2ts562.34 MiB
+BDMV/STREAM/00004.m2ts166.31 MiB
+BDMV/STREAM/00000.m2ts37.24 MiB
+BDMV/MovieObject.bdmv1.06 KiB
+BDMV/index.bdmv132 B
+CERTIFICATE/BACKUP/bu.discroot.crt663 B
+CERTIFICATE/BACKUP/app.discroot.crt662 B
+CERTIFICATE/BACKUP/id.bdmv104 B
+CERTIFICATE/bu.discroot.crt663 B
+CERTIFICATE/app.discroot.crt662 B
+CERTIFICATE/id.bdmv

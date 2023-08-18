@@ -39,6 +39,13 @@ torrent
 **/*.mpg
 **/*.mkv
 **/*.mp4
+**/*.m2ts
+**/*.mpls
+**/*.aca
+**/*.clpi
+**/*.bdmv
+**/*.nbi
+**/*.bdjo
 **/*.m4a
 **/*.webm
 **/*.asf
@@ -55,6 +62,8 @@ torrent
 **/*.ica
 **/*.exe
 **/*.msi
+**/*.crt
+**/*.jar
 /giu-react.esproj.user
 /bfg-1.14.0.jar
 /commands.txt
