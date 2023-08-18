@@ -4627,7 +4627,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2016-06-04 - Flugplatz Mendig (Rock am Ring), Mendig, Germany</td>
-                            <td>[PRO #1][TS]</td>
+                            <td>
+                                [PRO #1][HDTV][720p][TS][8,75 GB] <br />
+                                [PRO #1][HDTV][720p][MKV][7,31 GB]
+                            </td>
                         </tr>
 
                         <tr>
