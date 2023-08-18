@@ -28,7 +28,7 @@ Suck My Kiss
 Soul to Squeeze
 By the Way
 
-Lover, You Should've Come Over (Jeff Buckley cover — Josh solo)
+Lover, You Should've Come Over (Jeff Buckley cover Josh solo)
 Goodbye Angels
 Give It Away
 
@@ -36,7 +36,7 @@ TRT = 01:35:29
 
 Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
 
-Captured and uploaded to DIME by indykid. 
+Captured and uploaded by indykid. 
 
 MediaInfo:
 General
@@ -87,4 +87,4 @@ Frame rate                  : 43.066 FPS (1024 spf)
 Compression mode            : Lossy
 Delay relative to video     : -1 ms
 
-Captured and uploaded to DIME by indykid.
+Captured and uploaded by indykid.
