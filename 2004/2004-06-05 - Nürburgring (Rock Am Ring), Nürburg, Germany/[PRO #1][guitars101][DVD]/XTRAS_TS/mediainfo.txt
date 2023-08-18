@@ -1,0 +1,72 @@
+General
+Complete name                            : VTS_01_1.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Duration                                 : 18 min 27 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 757 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Format settings, picture structure       : Frame
+Duration                                 : 18 min 27 s
+Bit rate mode                            : Variable
+Bit rate                                 : 6 963 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.672
+Time code of first frame                 : 12:05:18:24
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 919 MiB (90%)
+
+Audio #1
+ID                                       : 192 (0xC0)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Duration                                 : 18 min 26 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 41.667 FPS (1152 SPF)
+Compression mode                         : Lossy
+Stream size                              : 25.3 MiB (2%)
+
+Audio #2
+ID                                       : 189 (0xBD)-129 (0x81)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Muxing mode                              : DVD-Video
+Duration                                 : 18 min 26 s
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 59.1 MiB (6%)
+Service kind                             : Complete Main
+
+Menu
+
+
