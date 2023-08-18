@@ -1,0 +1,63 @@
+Red Hot Chili Peppers
+Reading Festival
+Little John's Farm, Reading, England
+August 27, 2016
+A BBCFour Broadcast.
+
+BBC PCTV DVB-T TS capture>Authored with Magix MEP to DVD9.
+
+Chapters:
+01 - Titles & Introduction
+02 - Intro Jam
+03 - Can't Stop
+04 - Dani California
+05 - Scar Tissue
+06 - Dark Necessities
+07 - The Adventures of Rain Dance Maggie
+08 - Around the World
+09 - Snow ((Hey Oh))
+10 - Go Robot
+11 - Otherside
+12 - Parallel Universe
+13 - The Getaway
+14 - Californication
+15 - Under the Bridge
+16 - By the Way
+17 - Chad & Josh Jam
+18 - Goodbye Angels
+19 - Give It Away 
+Run time:- 1:34:53
+
+md5:
+7e0451bb0e7e41381ad90445e1c791af *desktop.ini
+ea3e8ccf6ef8ab80291329432574cb8e *VIDEO_TS.BUP
+ea3e8ccf6ef8ab80291329432574cb8e *VIDEO_TS.IFO
+33453007f4481a5328f8f1ee2433372c *VIDEO_TS.VOB
+a83172a8653e6e291a1312afaa9edba0 *VTS_01_0.BUP
+a83172a8653e6e291a1312afaa9edba0 *VTS_01_0.IFO
+82a90d7cd63ddf0a15847398053dd634 *VTS_01_0.VOB
+a55c47af6e26ec80f73eee950aa93f82 *VTS_01_1.VOB
+7e4ff0d009a5748d628d17fce01ad57e *VTS_01_2.VOB
+29f6bd2841f890c340525d2aab845360 *VTS_01_3.VOB
+4bb84c6d7e32072100f641180c9a7713 *VTS_01_4.VOB
+0d3213e5b277b9d3ac41326615e53117 *VTS_01_5.VOB
+72f9c6ae9b19a7d35c4ece52a416769d *VTS_01_6.VOB
+1d6911d492e5472c9c7b9e880f4fe5b9 *VTS_01_7.VOB
+
+GSpot Says:
+DVD VOB format
+MPEG-2 Program Stream << (1 vid, 1 aud)
+Sys Bitrate 10080 kb/s VBR 8993 kbps I/L TFF
+PAL 16:9
+MPEG-1 Layer 2 0xc0:48000Hz 256 kb/s tot ,
+Stereo.
+
+Play It LOUD!
+
+Enjoy.
+
+
+
+
+
+
