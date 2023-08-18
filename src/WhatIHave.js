@@ -4677,7 +4677,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2016-07-10 - Strathallan Castle (T in the Park Festival), Perthshire, Scotland</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][HDMania][1080i][TS][18,6 GB] <br />
+                                [PRO #1][TPB][1080i][MKV][8,99 GB]
                             </td>
                         </tr>
 
