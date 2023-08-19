@@ -817,6 +817,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1992-07-22 - Kitsap County Fairgrounds (Lollapalooza Festival), Bremerton, WA, USA</td>
+                            <td>[PRO #1][DVD][1,66 GB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1992-08-02 - World Music Theater (Lollapalooza  Festival), Tinley Park, IL, USA</td>
                             <td>[AUD #1][FLAC][506 MB]</td>
                         </tr>
