@@ -311,6 +311,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1988-02-17 - BRT TV Studios (Bingo!), Brussels, Belgium</td>
+                            <td>[PRO #1][DVD][366 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1988-01-24 - ABC Television Center (Star-athon '88), Los Angeles, CA, USA</td>
                             <td>[PRO #1][MPG]</td>
                         </tr>
@@ -389,8 +394,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>1988-10-01 - Paradise Bowl (2HIP4TV), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>1988-10-01 - 2HIP4TV, Paradise Bowl, Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD][288 MB] <br />
+                                [PRO #1][MPG][143 MB]
+                            </td>
                         </tr>
 
                         <tr>

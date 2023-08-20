@@ -52,6 +52,6 @@
 
 * AUD #1 audience audio: AT mic > Denecke-PS2 > Sony TCD-D100 DAT(M) > FLAC recorded by Tom, Jerry and Mickey 
 * AUD #2 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown 
-* AMT #1 amateur video: built-in > unknown camera MiniDV(M) > DVD recorded by unknownOnly around a minute from some songs was filmed, except for "Wet Sand" and "Californication" featuring the full song.
+* AMT #1 amateur video: built-in > unknown camera MiniDV(M) > DVD recorded by unknown Only around a minute from some songs was filmed, except for "Wet Sand" and "Californication" featuring the full song.
 
 ## Links
