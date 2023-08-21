@@ -1301,264 +1301,265 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-05-29 - PSInet Stadium (HFStival), Baltimore, MD, USA</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][MP3]
+                                [AMT #1][DVD][2,58 GB] <br />
+                                [AUD #1][MP3][55,6 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-05-30 - Tweeter Center (WBCN River Rave), Mansfield, MA, USA</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [SBD #1][FLAC]
+                                [AUD #1][MP3][64,1 MB] <br />
+                                [SBD #1][FLAC][253 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-02 - Kulturfabrik Kampnagel, Hamburg, Germany</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][2,60 GB] <br />
+                                [SBD #1][FLAC][328 MB]
                             </td>
                         </tr>
                         
                         <tr>
                             <td>1999-06-04 - Södra Teatern, Stockholm, Sweden</td>
                             <td>
-                                [PRO #1][redhotlive][DVD] <br />
-                                [PRO #1][TO][DVD] <br />
-                                [SBD #1] [FLAC]
+                                [PRO #1][redhotlive][DVD][3,10 GB] <br />
+                                [PRO #1][TO][DVD][2,03 GB] <br />
+                                [SBD #1] [FLAC][385 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-09 - Studio Canal+ (Nulle Part Ailleurs), Paris, France</td>
                             <td>
-                                [PRO #1][MPG] <br />
-                                [SBD #1][MP3] <br />
+                                [PRO #1][MPG][55,4 MB] <br />
+                                [SBD #1][MP3][6,87 MB] <br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-14 - Spazio Antologico (MTV Sashimi), Milan, Italy</td>
                             <td>
-                                [PRO #1a][DVD] <br />
-                                [SBD #1][Milafornication][FLAC] <br />
+                                [PRO #1a][DVD][3,78 GB] <br />
+                                [SBD #1][Milafornication][FLAC][515 MB] <br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-18 - Shoreline Amphitheatre (Big Friggin' Day Festival), Mountain View, CA, USA</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][47,4 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-19 - Irvine Meadows Amphitheatre (KROQ Weenie Roast), Irvine, CA, USA</td>
                             <td>
-                                [PRO #1][DVD]
+                                [PRO #1][DVD][1,56 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-07-22 - Yonge Street, Toronto, Canada</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][57,6 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-07-25 - Griffiss Air Force Base (Woodstock 1999), Rome, NY, USA</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][Reauthor][DVD] <br />
-                                [PRO #1][Uncensored][DVD] <br />
-                                [PRO #1][WT][DVD] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][DVD][2,57 GB] <br />
+                                [PRO #1][Reauthor][DVD][3,31 GB] <br />
+                                [PRO #1][Uncensored][DVD][4,21 GB] <br />
+                                [PRO #1][WT][DVD][4,21 GB] <br />
+                                [SBD #1][MP3][71,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-10 - Blue Line, Toronto, Canada</td>
                             <td>
-                                [SBD #1][Give The Dart Away][MP3] <br />
-                                [PRO #1][DVD]
+                                [SBD #1][Give The Dart Away][MP3][117 MB] <br />
+                                [PRO #1][DVD][1,51 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-14 - Red Square, Moscow, Russia</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][MKV] <br />
-                                [PRO #1][SL][DVD] <br />
-                                [PRO #2][DVD] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][DVD][2,44 GB] <br />
+                                [PRO #1][MKV][797 MB] <br />
+                                [PRO #1][SL][DVD][797 MB] <br />
+                                [PRO #2][DVD][797 MB] <br />
+                                [SBD #1][MP3][45,6 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-20 - Buzweiler Hof (Bizarre Festival), Cologne, Germany</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][DigUpg][DVD] <br />
-                                [PRO #1][DigUpg][TS] <br />
+                                [PRO #1][DVD][45,6 MB] <br />
+                                [PRO #1][DigUpg][DVD][3,01 GB] <br />
+                                [PRO #1][DigUpg][TS][3,89 GB] <br />
+                                [PRO #1][TPB][TS][6,51 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-25 - Les Arènes de Nîmes. Nimes, France</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][432 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-26 - Le Zénith, Paris, France</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #1][M4A]
+                                [AUD #1][FLAC][432 MB] <br />
+                                [AUD #1][M4A][67,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-29 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
-                                [SBD #1][MP3]
+                                [SBD #1][MP3][101 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-30 - Temple Newsam Park (Leeds Festival), Leeds, England</td>
                             <td>
-                                [AUD #1][M4A]
+                                [AUD #1][M4A][65,9 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-09-04 - Festival Bar TV, Verona, Italy</td>
                             <td title="This is a mpg vob extracted from other DVD">
-                                [PRO #1][DVD][MPG]
+                                [PRO #1][DVD][MPG][269 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-09-24 - CBS Studios (The Chirs Rock Show), New York, NY, USA</td>
                             <td>
-                                [PRO #1][MPG]
+                                [PRO #1][MPG][43,3 MB]
                             </td>
                         </tr>   
 
                         <tr>
                             <td>1999-10-02 - Centro Cultural Estación Mapocho, Santiago de Chile, Chile</td>
                             <td>
-                                [PRO #1][Via X][DVD] <br />
-                                [AMT #1][WMV] <br />
-                                [SBD #1][MP3] <br />
+                                [PRO #1][Via X][DVD][1,38 GB] <br />
+                                [AMT #1][WMV][258 MB] <br />
+                                [SBD #1][MP3][56,3 MB] <br />
                             </td>
                         </tr>   
 
                         <tr>
                             <td>1999-10-03 - Centro Cultural Estación Mapocho, Santiago de Chile, Chile</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][490 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-10-05 - Luna Park, Buenos Aires, Argentina</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][much][DVD]
+                                [PRO #1][DVD][605 MB] <br />
+                                [PRO #1][much][DVD][991 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-10-06 - Luna Park, Buenos Aires, Argentina</td>
                             <td>
-                                [PRO #1][HQ][DVD] <br />
-                                [SBD #1][Argenfornication][FLAC]
+                                [PRO #1][HQ][DVD][2,94 GB] <br />
+                                [SBD #1][Argenfornication][FLAC][496 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-10-08 - Credicard Hall, São Paulo, Brazil</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][DirecTV][MKV] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][1,16 GB] <br />
+                                [PRO #1][DirecTV][MKV][1,16 GB] <br />
+                                [SBD #1][FLAC][377 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-10-29 - Hartwall Arena, Helsinki, Finland</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][392 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-10-30 - Hartwall Arena, Helsinki, Finland</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][456 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-11-01 - Oslo Spektrum, Oslo, Norway</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][214 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-11-04 - Alsterdorfer Sporthalle, Hamburg, Germany</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][2,44 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-11-11 - Sporthalle, Böblingen, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][446 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-11-14 - Fila Forum di Assago, Milan, Italy</td>
                             <td>
-                                [AMT #1][Milan][+FestivalBar][DVD]
+                                [AMT #1][Milan][+FestivalBar][DVD][2,84 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-11-16 - Palais Omnisport de Paris Bercy, Paris, France</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,79 GB] <br />
+                                [AUD #1][FLAC][480 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-12-08 - MGM Grand Garden Arena (Billboard Music Awards), Paradise, NV, USA</td>
                             <td>
-                                [PRO #1][Lethal Productions][MPG]
+                                [PRO #1][Lethal Productions][MPG][52,5 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-12-28 - Cow Palace, Daly City, CA, USA</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][191 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-12-31 - Great Western Forum, Inglewood, CA, USA</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][191 MB]
                             </td>
                         </tr>
                     </tbody>
