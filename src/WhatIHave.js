@@ -654,6 +654,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1991</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -665,7 +666,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1991-10-06 - Amstel Canal, Amsterdam, Netherlands</td>
                             <td title="JF: Wait a second here!!! You don't like the f*cking bassline at the end of the song? The Outro?">
-                                [PRO #1][VPRO Onrust][DVD]
+                                [PRO #1][VPRO Onrust][DVD][536 MB]
                             </td>
                         </tr>
 
@@ -676,73 +677,73 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1991-10-17 - Duke Ellington Ballroom, Dekalb, IL, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][576 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-10-19 - Stephens Auditorium at Iowa State Center, Ames, IA, USA</td>
-                            <td>[AMT #1][DVD]</td>
+                            <td>[AMT #1][DVD][2,98 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-10-20 - Royal Terrace Ballroom, Omaha, NE, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][465 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-10-22 - Central Park Ballroom, Milwaukee, WI, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][473 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-10-30 - The Concert Hall, Toronto, Canada</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][373 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-11-01 - Walter Brown Arena, Boston, MA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][393 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-11-02 - Memorial Auditorium, Burlington, VT, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][620 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-11-05 - Houston Field House, Troy, NY, USA</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][3,45 GB]<br />
+                                [AUD #1][FLAC][470 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1991-11-12 - Roseland Ballroom, New York City, NY, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][445 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1991-12-15 - The Ritz (MTV New Year's Eve World Party), New York City, NY, USA</td>
                             <td>
-                                [PRO #1][MPG]<br />
-                                [SBD #1][MP3]
+                                [PRO #1][MPG][255 MB]<br />
+                                [SBD #1][MP3][32,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1991-12-28 - Pat O'Brien Pavilion, Del Mar, CA, USA</td>
                             <td>
-                                [SBD #1][Fix Speed][FLAC]<br/>
-                                [SBD #1][Xmas Party][SHN]
+                                [SBD #1][Fix Speed][FLAC][530 MB]<br/>
+                                [SBD #1][Xmas Party][SHN][569 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1991-12-31 - Cow Palace, Daly City, CA, USA</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [PRO #1][DVD][642 MB]<br />
+                                [AUD #1][FLAC][1,10 GB]
                             </td>
                         </tr>
                     </tbody>
@@ -751,6 +752,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1992</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -758,6 +760,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1992-01-02 - Salem Armony, Salem, OR, USA</td>
@@ -938,6 +941,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1993</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -945,17 +949,18 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1993-01-22 - Praça da Apoteose (Hollywood Rock Festival), Rio de Janeiro, Brazil</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][4,07 GB]</td>
                         </tr>
                         
                         <tr>
                             <td>1993-01-26 - Estadio Obras Sanitarias, Buenos Aires, Argentina</td>
                             <td>
-                                [PRO #1][DVD]<br/>
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][3,69 GB]<br/>
+                                [SBD #1][FLAC][516 MB]
                             </td>
                         </tr>
                     </tbody>
@@ -964,6 +969,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1994</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -974,43 +980,43 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1994-08-10 - Club Lingerie, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][453 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1994-08-14 - Winston Farm (Woodstock '94), Saugerties, NY, USA</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [PRO #1][WWP][DVD]
+                                [PRO #1][DVD][2,60 GB]<br />
+                                [PRO #1][WWP][DVD][5,95 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1994-08-25 - Dalymount Park (Sunstroke Festival), Dublin, Ireland</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][440 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1994-08-27 - Kempische Steenweg (Pukkelpop Festival), Hasselt, Belgium</td>
-                            <td>[AMT #1][DVD]</td>
+                            <td>[AMT #1][DVD][2,19 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1994-08-28 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [SBD #1][RHCPLA][FLAC]
+                                [PRO #1][DVD][2,73 GB]<br />
+                                [SBD #1][RHCPLA][FLAC][440 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1994-10-19 - Rose Bowl, Pasadena, CA, USA</td>
-                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                            <td>[AUD #1][RHCPLA][FLAC][278 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1994-10-21 - Rose Bowl, Pasadena, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][303 MB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -1018,6 +1024,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1995</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1028,67 +1035,67 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1995-09-07 - Radio City Music Hall (MTV Video Music Awards), New York, NY, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][51,4 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1995-09-27 - Subterrania Club, London, England</td>
                             <td>
-                                [AMT #1][Subterranea + Brixton][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][Subterranea + Brixton][DVD][3,45 GB] <br />
+                                [AUD #1][FLAC][383 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1995-10-01 - Point Theatre, Dublin, Ireland</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][391 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1995-10-03 - Brixton Academy, London, England</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,68 GB] <br />
+                                [AUD #1][FLAC][486 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1995-10-04 - Brixton Academy, London, England</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][486 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1995-10-11 - Deutschlandhalle, Berlin, Germany</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][181 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1995-10-14 - Stockholm Globe Arena, Stockholm, Sweden</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][4,22 GB] <br />
+                                [AUD #1][FLAC][494 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1995-10-16 - Ahoy, Rotterdam, Netherlands</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][510 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1995-10-18 - Le Zénith, Paris, France</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][3,68 GB] <br />
+                                [AUD #1][FLAC][498 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1995-11-09 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA</td>
                             <td>
-                                [PRO #1][RHL][MPG] <br />
-                                [PRO #1][Sisanumbers Stash Vol 3][DVD] <br />
-                                [PRO #1][Sisanumbers Stash Vol 3][DVD][MPG]
+                                [PRO #1][RHL][MPG][266 MB] <br />
+                                [PRO #1][Sisanumbers Stash Vol 3][DVD][3,78 GB] <br />
+                                [PRO #1][Sisanumbers Stash Vol 3][DVD][MPG][135 MB]
                             </td>
                         </tr>
                     </tbody>
