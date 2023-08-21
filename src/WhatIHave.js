@@ -307,7 +307,7 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1988-00-00 - VPRO Documentary - Europe</td>
-                            <td>[PRO #1][Storm][DVD]</td>
+                            <td>[PRO #1][Storm][DVD][3,12 GB]</td>
                         </tr>
 
                         <tr>
@@ -317,42 +317,42 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1988-01-24 - ABC Television Center (Star-athon '88), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][79,7 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-02-05 - The Loft, Berlin, Germany</td>
-                            <td>[AUD #1][RHCPLA][MP3]</td>
+                            <td>[AUD #1][RHCPLA][MP3][104 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-02-11 - Volkshaus, Zurich, Switzerland</td>
-                            <td>[SBD #1][RHCPLA][MP3]</td>
+                            <td>[SBD #1][RHCPLA][MP3][94,7 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-02-17 - Ancienne Belgique, Brussels, Belgium</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][427 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-02-17 - BRT TV Studios (Bingo!), Brussels, Belgium</td>
-                            <td>[PRO #1][AVI]</td>
+                            <td>[PRO #1][DVD][366 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-02-20 - Paradiso, Amsterdam, Netherlands</td>
-                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                            <td>[SBD #1][RHCPLA][FLAC][158 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-03-14 - Montezuma Hall at San Diego State University, San Diego, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][498 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-03-27 - John Anson Ford Amphitheatre (Amnesty International Benefit Show), Los Angeles, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][189 MB]</td>
                         </tr>
 
                         <tr>
@@ -362,34 +362,34 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1988-04-08 - The Catalyst, Santa Cruz, CA, USA</td>
-                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                            <td>[SBD #1][RHCPLA][FLAC][374 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-04-14 - Mississippi Nights, St. Louis, MO, USA</td>
-                            <td>[AUD #1][RLA][FLAC]</td>
+                            <td>[AUD #1][RLA][FLAC][426 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-04-27 - The Channel, Boston, MA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][369 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1988-05-23 - Draf- en Renbaan (Pinkpop Festival), Landgraaf, Netherlands</td>
                             <td>
-                                [PRO #1b][DVD]<br />
-                                [SBD #1][FLAC]<br />
-                                [SBD #2][FLAC]<br/>
+                                [PRO #1b][DVD][1,16 GB]<br />
+                                [SBD #1][FLAC][121 MB]<br />
+                                [SBD #2][FLAC][166 MB]<br/>
                             </td>
                         </tr>
 
                         <tr>
                             <td>1988-06-04 - ProvinssiRock Festival, Seinajoki, Finland</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [SBD #1][FLAC]<br />
-                                [SBD #1][M4A]
+                                [PRO #1][DVD][1,07 GB]<br />
+                                [SBD #1][FLAC][212 MB]<br />
+                                [SBD #1][M4A][34,2 MB]
                             </td>
                         </tr>
 
@@ -404,8 +404,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1988-10-08 - John Anson Ford Amphitheatre, Los Angeles, CA, USA</td>
                             <td>
-                                [AMT #1][BONG][dime][DVD]<br />
-                                [AUD #1][RLA][FLAC]
+                                [AMT #1][BONG][dime][DVD][4,15 GB]<br />
+                                [AUD #1][RLA][FLAC][348 MB]
                             </td>
                         </tr>
                     </tbody>
@@ -414,6 +414,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1989</h3>
+                
                 <table>
                     <thead>
                         <tr>
