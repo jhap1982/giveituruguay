@@ -84,6 +84,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1985</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -310,11 +311,6 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>1988-02-17 - BRT TV Studios (Bingo!), Brussels, Belgium</td>
-                            <td>[PRO #1][DVD][366 MB]</td>
-                        </tr>
-
-                        <tr>
                             <td>1988-01-24 - ABC Television Center (Star-athon '88), Los Angeles, CA, USA</td>
                             <td>[PRO #1][MPG][79,7 MB]</td>
                         </tr>
@@ -420,7 +416,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Concert</th>
                             <th>Description</th>
                         </tr>
-                    </thead>
+                    </thead> 
                     <tbody>
                         <tr>
                             <td>1989-03-16 - The Visage, Orlando, FL, USA</td>
@@ -1116,6 +1112,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1996</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1123,86 +1120,87 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1996-02-09 - Madison Square Garden, New York, NY, USA</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [AUD #2][FLAC] <br />
-                                [PRO #1][BONG][DVD] <br />
-                                [PRO #1][DVD]
+                                [AUD #1][MP3][54,5 MB] <br />
+                                [AUD #2][FLAC][582 MB] <br />
+                                [PRO #1][BONG][DVD][2,62 GB] <br />
+                                [PRO #1][DVD][0,98 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1996-02-12 - Worcester Centrum, Worcester, MA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][511 MB]</td>
                         </tr>                        
 
                         <tr>
                             <td>1996-02-13 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][74,5 MB]</td>
                         </tr> 
 
                         <tr>
                             <td>1996-03-06 - United Center, Chicago, IL, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][459 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-03-12 - Gund Arena, Cleveland, OH, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][432 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-03-14 - Civic Arena, Pittsburgh, PA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][456 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-04-04 - Great Western Forum, Inglewood, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][494 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-04-06 - Cow Palace, Daly City, CA, USA</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][5,15 GB] <br />
+                                [AUD #1][FLAC][570 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1996-04-16 - San Diego Sports Arena, San Diego, CA, USA</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][436 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-05-14 - Sydney Entertainment Centre, Sydney, Australia</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][572 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-06-28 - Sittertobel (OpenAir St. Gallen), St. Gallen, Switzerland</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][572 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-06-29 - Festivalpladsen (Roskilde Festival), Roskilde, Denmark</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,14 GB] <br />
+                                [AUD #1][FLAC][335 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1996-07-03 - Oslo Spektrum, Oslo, Norway</td>
-                            <td>[AMT #1][DVD]</td>
+                            <td>[AMT #1][DVD][2,42 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1996-07-05 - Peninsula of Lake Malsaucy (Eurockeennes de Belfort Festival), Belfort, France</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][395 MB]</td>
                         </tr>
                     </tbody>
                 </table>
