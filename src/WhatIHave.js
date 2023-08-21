@@ -1035,7 +1035,10 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1995-09-07 - Radio City Music Hall (MTV Video Music Awards), New York, NY, USA</td>
-                            <td>[PRO #1][MPG][51,4 MB]</td>
+                            <td>
+                                [PRO #1][MPG][51,4 MB]
+                                [PRO #1][MKV][282 MB]
+                            </td>
                         </tr>
 
                         <tr>
