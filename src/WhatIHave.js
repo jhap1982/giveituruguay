@@ -453,6 +453,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1989-09-14 - Paramount Studios (The Arsenio Hall Show), Los Angeles, CA, USA</td>
+                            <td>
+                                [PRO #1][DVD][184 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1989-09-17 - The Catalyst, Santa Cruz, CA, USA</td>
                             <td>
                                 [AUD #1][2CDs][FLAC][509 MB]<br />
