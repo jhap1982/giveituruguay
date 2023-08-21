@@ -30,7 +30,6 @@
 
 > Rescheduled from **March 19, 2007**.
 
-
 ## Media 
 
 <details>
