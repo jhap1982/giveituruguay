@@ -111,7 +111,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>1985-08-17 - Freilichtbuhne Loreley (Loreley Open Air), St. Goarshausen, Germany</td>
                             <td>
                                 [PRO #1][George Clinton][DVD][2,88 GB]<br/>
-                                [PRO #1][RHL][DVD][3,43 GB]
+                                [PRO #1][RHL][DVD][3,43 GB] <br />
+                                [PRO #1][Europe2Tv][DVD][1,79 GB]
                             </td>
                         </tr>
 
@@ -551,101 +552,101 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1990-01-10 - Chelsea Television Studios (Michelob Presents Night Music), New York, NY, USA</td>
-                            <td>[PRO #1][SCB][DVD]</td>
+                            <td>[PRO #1][SCB][DVD][372 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-01-26 - Club Citta, Kawasaki City, Japan</td>
                             <td>
-                                [PRO #1][BONG][DVD]<br />
-                                [PRO #1][DVD]<br />
-                                [PRO #1a][DVD]<br /> 
+                                [PRO #1][BONG][DVD][6,11 GB]<br />
+                                [PRO #1][DVD][3,70 GB]<br />
+                                [PRO #1a][DVD][3,16 GB]<br /> 
                             </td>
                         </tr>
 
                         <tr>
                             <td>1990-02-06 - Riverside, Newcastle, England</td>
-                            <td>[AUD #1][RHCPLA][FLAC]</td>
+                            <td>[AUD #1][RHCPLA][FLAC][476 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-02-07 - University of Leeds, Leeds, England</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #1][WAV]
+                                [AUD #1][FLAC][368 MB]<br />
+                                [AUD #1][WAV][740 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1990-02-14 - Noorderligt, Tilburg, Netherlands</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][156 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-02-14 - Villa 65 (Nozems-a-gogo), Hilversum, Netherlands</td>
                             <td>
-                                [PRO #1][DVD]<br />
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][1,55 GB]<br />
+                                [SBD #1][FLAC][117 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1990-03-01 - Transbordeur, Lyon, France</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][848 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-03-14 - MTV Spring Break Party, Daytona Beach, FL, USA</td>
-                            <td>[PRO #1][MTV][DVD]</td>
+                            <td>[PRO #1][MTV][DVD][116 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-03-16 - Texan Hotel, Daytona Beach, FL, USA</td>
-                            <td>[AUD #1][RLA][FLAC]</td>
+                            <td>[AUD #1][RLA][FLAC][583 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-03-30 - NBC Studios (Late Night with David Letterman), New York, NY, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][69,1 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-04-04 - Hard Rock Cafe (Save The Planet), Orlando, FL, USA</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][135 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-04-29 - Keaney Gym at University of Rhode Island, Kingston, RI, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][472 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-05-06 - University of New Hampshire, Durham, NH, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][472 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-06-04 - Draf- en Renbaan (Pinkpop Festival), Landgraaf, Netherlands</td>
                             <td>
-                                [PRO #1a][RHL][DVD]<br />
-                                [AUD #1][RLA][FLAC]<br />
-                                [SBD #1][FLAC] <br/>
+                                [PRO #1a][RHL][DVD][3,13 GB]<br />
+                                [AUD #1][RLA][FLAC][346 MB]<br />
+                                [SBD #1][FLAC][270 MB] <br/>
                             </td>
                         </tr>
 
                         <tr>
                             <td>1990-06-06 - Brixton Academy, London, England</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][439 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-06-16 - Greek Theatre, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][RLA][FLAC]</td>
+                            <td>[AUD #1][RLA][FLAC][519 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1990-12-31 - Civic Center, San Francisco, CA, USA</td>
-                            <td>[AMT #1][RHL][DVD]</td>
+                            <td>[AMT #1][RHL][DVD][2,40 GB]</td>
                         </tr>
                     </tbody>
                 </table>
