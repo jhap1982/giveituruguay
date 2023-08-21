@@ -139,6 +139,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1986</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -149,59 +150,54 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1986-01-18 - The Catalyst, Santa Cruz, CA, USA</td>
-                            <td>[MTX #1][FLAC]</td>
+                            <td>[MTX #1][FLAC][330 MB]</td>
                         </tr>    
 
                         <tr>
                             <td>1986-02-07 - Fender's Ballroom, Long Beach, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][166 MB]</td>
                         </tr>    
 
                         <tr>
                             <td>1986-05-02 - Astor Park Club, Seattle, WA, USA</td>
                             <td>
-                                [SBD #1][APE]<br />
-                                [SBD #1][FLAC]<br />
-                                [SBD #1][MP3]<br/>
+                                [SBD #1][APE][437 MB]<br />
+                                [SBD #1][FLAC][416 MB]<br />
+                                [SBD #1][MP3][162 MB]<br/>
                             </td>
                         </tr>    
 
                         <tr>
-                            <td>1986-02-07 - Fender's Ballroom, Long Beach, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
-                        </tr>
-
-                        <tr>
                             <td>1986-05-26 - The Roxy, Hollywood, CA, USA</td>
-                            <td>[PRO #1][Jimi Hendrix Tribute][DVD]</td>
+                            <td>[PRO #1][Jimi Hendrix Tribute][DVD][1,45 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1986-11-22 - The Ritz, Austin, TX, USA</td>
-                            <td title="Thanks vell43!!">[AMT #1][RHL][DVD]</td>
+                            <td title="Thanks vell43!!">[AMT #1][RHL][DVD][3,79 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1986-11-24 - Mississippi Nights, St. Louis, MO, USA</td>
                             <td>
-                                [PRO #1][BONG][DVD]<br/>
-                                [PRO #1][RHL][DVD]
+                                [PRO #1][BONG][DVD][4,35 GB]<br/>
+                                [PRO #1][RHL][DVD][1,94 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1986-11-29 - Hoosier Ballroom, Indianapolis, IN, USA</td>
-                            <td>[AMT #1][SCB][DVD]</td>
+                            <td>[AMT #1][SCB][DVD][3,80 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1986-12-01 - First Avenue, Minneapolis, MN, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][302 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1986-12-03 - Lee's Palace, Toronto, ON, Canada</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][3,51 GB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -209,6 +205,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1987</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -216,80 +213,81 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+                    
                     <tbody>
                         <tr>
                             <td>1987-02-13 - Scream at Embassy Hotel, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][M4A]</td>
+                            <td>[AUD #1][M4A][40,5 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-02-22 - Goodies, Fullerton, CA, USA</td>
-                            <td>[AUD #1][RLA][FLAC]</td>
+                            <td>[AUD #1][RLA][FLAC][297 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-07-10 - The Catalyst, Santa Cruz, CA, USA</td>
-                            <td>[SBD #1][FLAC]</td>
+                            <td>[SBD #1][FLAC][409 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-07-11 - The Omni, Oakaland, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][254 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-08-07 - ?, Late Show With Arsenio Hall, Hollywood, CA, USA</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][234 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-08-29 - Deja Vu, Phoenix, AZ, USA</td>
-                            <td>[SBD #1][1st Show][FLAC]</td>
+                            <td>[SBD #1][1st Show][FLAC][658 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA</td>
-                            <td title="MPG from VOB DVD file">[PRO #1][DVD][MPG]</td>
+                            <td title="MPG from VOB DVD file">[PRO #1][DVD][MPG][1,02 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-10-22 - Chestnut Cabaret, Philadelphia, PA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][372 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-10-24 - Lost Horizon, Syracuse, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #2][RLA][FLAC]
+                                [AUD #1][FLAC][360 MB]<br />
+                                [AUD #2][RLA][FLAC][295 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1987-10-27 - Night Club 9:30, Washington D.C., USA</td>
                             <td>
-                                [PRO #1][DVD]<br />
+                                [PRO #1][DVD][1,20 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1987-11-08 - City Gardens, Trenton, NJ, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][319 MB]</td>
                         </tr>                       
 
                         <tr>
                             <td>1987-11-09 - Graffiti's, Pittsburgh, PA, USA</td>
-                            <td>[SBD #1][RHCPLA][FLAC]</td>
+                            <td>[SBD #1][RHCPLA][FLAC][420 MB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-11-24 - Mississippi Nights, St. Louis, MO, USA</td>
-                            <td>[AMT #1][DVD]</td>
+                            <td>[AMT #1][DVD][2,16 GB]</td>
                         </tr>
 
                         <tr>
                             <td>1987-12-26 - Celebrity Theatre, Anaheim, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][306 MB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -414,7 +412,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1989</h3>
-                
+
                 <table>
                     <thead>
                         <tr>
