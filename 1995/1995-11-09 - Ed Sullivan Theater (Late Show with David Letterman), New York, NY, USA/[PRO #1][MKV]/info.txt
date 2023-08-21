@@ -1,0 +1,12 @@
+Red Hot Chili Peppers play their song "My Friends" off their album 'One Hot Minute' live on the Late Show with David Letterman. This aired on November 9, 1995.
+
+As far as I am aware, this performance has never been officially released, and Letterman performances are automatically blocked for viewing on YouTube, meaning that torrents are necessary to distribute this performance between fans.
+
+DVD resolution (704x480 interlaced, 29.97 fps)
+Audio 44.1 kHz / 16 bit mono PCM restored from AC3 stream (hum removed, volume increased)
+Subtitle track is included, from the original closed captions on the broadcast.
+
+Lineage:
+Cable TV broadcast // mono Toshiba VCR at SP speed // another mono Toshiba VCR at SP speed (2nd gen) // Panasonic DMR-E80H DVD burner at XP speed // lossless digital copy made with MakeMKV // this segment spliced from the DVD using MKVTooNix // audio restored using iZotope RX 10 Advanced // remuxed using MKVToolNix
+
+The MKV file includes the original MPEG video stream; no re-encoding has been performed. The 2nd gen VHS video tape included several different unrelated performances recorded over a period of several months, which was recorded in its entirety to DVD before I received it. Therefore, doing this splicing was necessary for proper organization of the music content.
