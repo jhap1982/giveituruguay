@@ -1578,326 +1578,319 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2000-01-08 - Nippon Budokan, Tokyo, Japan</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][397 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2000-01-09 - Nippon Budokan, Tokyo, Japan</td>
-                            <td>[PRO #1b][DVD]</td>
+                            <td>[PRO #1b][DVD][4,12 GB]</td>
                         </tr>
 
                         <tr>
                             <td>2000-01-11 - Nippon Budokan, Tokyo, Japan</td>
-                            <td>[AUD #1][Japanication][FLAC]</td>
+                            <td>[AUD #1][Japanication][FLAC][587 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2000-01-13 - Pacifico Yokohama, Yokohama, Japan</td>
                             <td>
-                                [AUD #1][Japanication][FLAC] <br />
-                                [SBD #1][FLAC]
+                                [AUD #1][Japanication][FLAC][478 MB] <br />
+                                [SBD #1][MP3][183 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-01-14 - Osaka-jo Hall, Osaka, Japan</td>
                             <td>
-                                [AUD #1][Japanication][FLAC]
+                                [AUD #1][Japanication][FLAC][545 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-01-24 - Brisbane Entertainment Center, Brisbane, Australia</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][366 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-01-26 - RAS Showgrounds (Big Day Out), Sydney, Australia</td>
                             <td>
-                                [PRO #1a][DVD] <br />
-                                [PRO #1b][DVD] <br />
-                                [AUD #1][MP3]
+                                [PRO #1a][DVD][3,76 GB] <br />
+                                [PRO #1b][DVD][2,26 GB] <br />
+                                [AUD #1][MP3][94,3 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-02-01 - Melbourne Entertainment Center, Melbourne, Australia</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][530 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-02-02 - Melbourne Entertainment Center, Melbourne, Australia</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][489 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-03-24 - Target Center, Minneapolis, MN, USA</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #2][FLAC]
+                                [AMT #1][DVD][3,56 GB] <br />
+                                [AUD #2][FLAC][434 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-04-02 - William D. Mullins Memorial Center, Amherst, MA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][574 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-05-08 - Norfolk Scope, Norfolk, VA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][455 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-05-27 - Gorge Amphitheatre, George, WA, USA</td>
                             <td>
-                                [AMT #1][George + Seattle][DVD]
+                                [AMT #1][George + Seattle][DVD][3,62 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-05-28 - General Motors Place, Vancouver, Canada</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,97 GB] <br />
+                                [AUD #1][FLAC][552 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-06-02 - Desert Sky Amphitheater, Phoenix, AZ, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][449 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-06-03 - University Arena, Albuquerque, NM, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][MP3] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
-                            </td>
-                        </tr>
-
-                        <tr>
-                            <td>2000-06-15 - TD Waterhouse Centre, Orlando, FL, USA</td>
-                            <td>
-                                [AUD #1][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][MP3][190 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][522 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-06-23 - Memorial Stadium (Experience Music Project), Seattle, WA, USA</td>
                             <td>
-                                [PRO #1][MPG-DVD] <br />
-                                [AUD #1][FLAC]
+                                [PRO #1][MPG-DVD][699 MB] <br />
+                                [AUD #1][FLAC][184 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-01 - Mark Of The Quad Cities, Moline, IL, USA</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][767 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-02 - Marcus Amphitheater (Summerfest), Milwaukee, WI, USA</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #4][FLAC]
+                                [AUD #1][FLAC][476 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-07 - Deer Creek Music Center, Noblesville, IL, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][520 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-08 - Blossom Music Center, Cuyahoga Falls, OH, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][485 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-10 - Nissan Pavilion at Stone Ridge, Bristow, WA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][507 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-11 - Blockbuster-Sony Music Entertainment Centre at The Waterfront, Camden, NJ, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][438 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-13 - The Meadows, Hartford, CT, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][472 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-14 - PNC Bank Arts Center, Homdel, NJ, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][449 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-16 - Tweeter Center, Mansfield, MA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][447 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-07-30 - Saratoga Performing Arts Center, Saratoga, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][384 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-03 - Riverbend Music Center, Cincinnati, OH, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][458 MB]
                             </td>
                         </tr>
                         
                         <tr>
                             <td>2000-08-05 - Westmoreland Fairgrounds (Rolling Rock Town Fair), Latrobe, PA, USA</td>
                             <td>
-                                [PRO #1][DVD]
+                                [PRO #1][DVD][2,93 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-12 - Jones Beach Theater, Wantagh, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][382 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-15 - Darien Lake Performing Arts Center, Buffalo, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][365 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-16 - Molson Canadian Amphitheatre, Toronto, Canada</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][473 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-19 - Centre Molson, Montreal, Canada</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][575 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-08-31 - Whisky a Go Go, West Hollywood, CA, USA</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][170 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-04 - Coors Amphitheatre, Chula Vista, CA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][473 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-07 - Radio City Music Hall (MTV Video Music Awards), New York, NY, USA</td>
                             <td>
-                                [PRO #1][MTV][VMA Performances][DVD] <br />
-                                [PRO #1][MPG]
+                                [PRO #1][MTV][VMA Performances][DVD][4,35 GB] <br />
+                                [PRO #1][MPG][41,4 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-09 - Shoreline Amphitheatre, Mountain View, CA, USA</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][391 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-10 - Sacramento Valley Amphitheatre, Wheatland, CA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][450 MB]
                             </td>
                         </tr>
                         
                         <tr>
                             <td>2000-09-13 - Thomas & Mack Center, Les Vegas, NV, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][490 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-16 - Coors Amphitheatre, Englewood, CO, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][373 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-21 - Memorial Coliseum, Portland, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][470 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-09-22 - KeyArena at Seattle Center, Seattle, WA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][417 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-10-28 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][221 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-10-29 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
                             <td>
-                                [AUD #4][FLAC]
+                                [AUD #1][MP3][41,4 MB]<br/>
+                                [AUD #4][FLAC][221 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2000-11-30 - Shrine Auditorium (VH1 Music Awards), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][MPG]
+                                [PRO #1][MPG][44,8 MB]
                             </td>
                         </tr>
                     </tbody>
