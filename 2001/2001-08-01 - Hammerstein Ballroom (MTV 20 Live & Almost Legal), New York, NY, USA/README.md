@@ -1,11 +1,13 @@
 # Info
 
-
 ## Setlist
+
+1. You're Gonna Get Yours tease
+2. Give It Away
 
 ## Notes
 
-**Other Acts**: -
+> MTV 20th anniversary event.
 
 ## Media 
 
@@ -23,5 +25,7 @@
 * Chad Smith
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD
 
 ## Links

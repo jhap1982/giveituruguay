@@ -1,11 +1,10 @@
 # Info
 
-
 ## Setlist
 
 ## Notes
 
-**Other Acts**: -
+**Cancelled due to a wave of terrorist attacks.**
 
 ## Media 
 
@@ -16,11 +15,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ## Recordings
 
