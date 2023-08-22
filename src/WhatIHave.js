@@ -1899,6 +1899,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2001</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1906,67 +1907,68 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2001-01-21 - Parque Olimpico Cidade do Rock (Rock In Rio III), Rio de Janeiro, Brazil</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>[PRO #1][DVD][2,82 GB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-01-24 - Estadio Jose Amalfitani, Buenos Aires, Argentina</td>
                             <td>
-                                [PRO #1][DVD]<br />
+                                [PRO #1][DVD][3,06 GB][5,35 GB]<br />
                                 [PRO #1][fruscisgod][DVD]<br/>
-                                [AUD #1][DVD][MP3]
+                                [AUD #1][DVD][MP3][75,7 MB]
                             </td>
                         </tr>                        
 
                         <tr>
                             <td>2001-03-01 - Hollywood Palladium, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][295 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-03-14 - Irving Plaza (Robin Hood Foundation Benefit Show), New York, NY, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][372 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-08-01 - Hammerstein Ballroom (MTV 20 Live & Almost Legal), New York, NY, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][53,6 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-08-18 - Weston Park (V Festival), Stafford, England</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][250 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-08-19 - Hylands Park (V2001 Festival), Chelmsford, England</td>
                             <td>
-                                [AMT #1][DVD]<br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][2,92 GB]<br />
+                                [AUD #1][FLAC][374 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2001-08-21 - Parken Stadion, Copenhagen, Denmark</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][394 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-08-23 - Prins Van Oranjehal, Utretch, Netherlands</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][425 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-08-25 - Slane Castle Grounds (Slane Festival), County Meat, Ireland</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][387 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2001-12-14 - Paramour Estate (Silver Lining Benefit Show), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][ASF]</td>
+                            <td>[PRO #1][ASF][13,6 MB]</td>
                         </tr>
                     </tbody>
                 </table>
@@ -1974,6 +1976,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2002</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1984,31 +1987,31 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2002-04-13 - Universal Amphitheatre (ESPN Awards), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][MPG]</td>
+                            <td>[PRO #1][MPG][107 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2002-05-16 - Swing House Studios (Sessions at AOL), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][MPG] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][MPG][426 MB] <br />
+                                [SBD #1][FLAC][96,7 MB ]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-05-17 - Vans Skate Park, Orange County, Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][MTV][DVD] <br />
-                                [PRO #1][Skate87+02][DVD] <br />
-                                [PRO #1b][MTV2][MPG]
+                                [PRO #1][MTV][DVD][1,22 GB] <br />
+                                [PRO #1][Skate87+02][DVD][2,33 GB] <br />
+                                [PRO #1b][MTV2][MPG][563 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-05-26 - Piazza Piebiscito (Festival Bar TV), Naples, Italy</td>
                             <td>
-                                [PRO #1][MPEG] <br />
-                                [PRO #1][MPG]
+                                [PRO #1][MPEG][21,1 MB] <br />
+                                [PRO #1][MPG][19,0 MB]
                             </td>
                         </tr>
 
@@ -2016,275 +2019,276 @@ const WhatIHave = ({ onBack }) => {
                             <td>2002-05-27 - The London Studios (CD-UK), London, England</td>
                             <td>
                                 [PRO #1a][mcm special][AVI]<br />
-                                [PRO #1b][AVI]
+                                [PRO #1b][AVI][190 MB][27,9 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-05-30 - BBC Television Centre (Top of the Pops), London, England</td>
                             <td>
-                                [PRO #1][MPG]
+                                [PRO #1][MPG][238 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-05-31 - BBC Television Centre (Friday Night with Jonathan Ross), London, England</td>
                             <td>
-                                [PRO #1][AVI]
+                                [PRO #1][AVI][13,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-04 - Olympia, Paris, France</td>
                             <td>
-                                [PRO #1][DIVX] <br />
-                                [PRO #1][MTV][AVI] <br />
-                                [PRO #1][MTV][DVD]
+                                [PRO #1][DIVX][354 MB] <br />
+                                [PRO #1][MTV][AVI][712 MB] <br />
+                                [PRO #1][MTV][DVD][1,42 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-06 - Capitol (TV Total), Cologne, Germany</td>
                             <td>
-                                [PRO #1][MPG]
+                                [PRO #1][MPG][38,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-07 - Saturn Parkhausdach, Hamburg, Germany</td>
                             <td>
-                                [PRO #1a][DVD] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1a][DVD][3,98 GB] <br />
+                                [SBD #1][FLAC][303 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-10 - Circulo de Bellas Artes, Madrid, Spain</td>
                             <td>
-                                [PRO #1a][40TV][DVD] <br />
-                                [PRO #1b][SOL][DVD]
+                                [PRO #1a][40TV][DVD][3,48 GB] <br />
+                                [PRO #1b][SOL][DVD][3,63 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-15 - Autodromo Enzo e Dino Ferrari (Heineken Jammin' Festival), Imola, Italy</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][MP3][70,9 MB] <br />
+                                [AUD #2][FLAC][484 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-17 - Pavelló Olímpic de Badalona, Barcelona, Spain</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][470 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-20 - Halle Tony Garnier, Lyon, France</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][86,3 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-26 - London Arena, London, England</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][315 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-28 - Festivalpladsen (Roskilde Festival), Roskilde, Denmark</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][354 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][ASF]
+                                [PRO #1][ASF][91,0 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-07-09 - Ellis Island, New York City, NY, USA</td>
                             <td>
-                                [SBD #1][FLAC] <br />
-                                [SBD #1][SHN]
+                                [SBD #1][FLAC][342 MB] <br />
+                                [SBD #1][SHN][401 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-07-28 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
                             <td>
-                                [PRO #1][AVI] <br />
-                                [AUD #1][FLAC]
+                                [PRO #1][AVI][236 MB] <br />
+                                [AUD #1][FLAC][518 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-08-03 - Fountains at Flamingo Apartments (VH1 Special), Las Vegas, NV, USA</td>
                             <td>
-                                [PRO #1][DVD]
+                                [PRO #1][DVD][2,41 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-08-07 - The Edge FM Studios, Toronto, Canada</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][136 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-09-16 - Hollywood Center Studios (Top of the Pops), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1a][1080p][YT][MP4] <br />
-                                [PRO #1b][1080p][YT][MP4]
+                                [PRO #1a][1080p][YT][MP4][86,2 MB] <br />
+                                [PRO #1b][1080p][YT][MP4][110 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-09-18 - Hollywood Center Studios, Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][mcm Videos][DVD] <br />
-                                [PRO #1][Muchmusic][DVD]
+                                [PRO #1][mcm Videos][DVD][2,16 GB] <br />
+                                [PRO #1][Muchmusic][DVD][266 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-10-09 - Pista Atlética del Estadio Nacional, Santiago de Chile, Chile</td>
                             <td>
-                                [AMT #1a][DVD] <br />
-                                [PRO #1][DVD] <br />
-                                [SBD #1][FLAC]
+                                [AMT #1a][DVD][3,19 GB] <br />
+                                [PRO #1][DVD][3,89 GB] <br />
+                                [SBD #1][FLAC][626 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-10-11 - ATL Hall, Rio de Janeiro, Brazil</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][110 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-10-12 - Estádio do Pacaembu, São Paulo, Brazil</td>
                             <td>
-                                [PRO #1][DVD]
+                                [PRO #1][DVD][2,10 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-10-16 - River Plate Stadium, Buenos Aires, Argentina</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][WAV] <br />
-                                [SBD #1a][FLAC] <br />
+                                [AUD #1][FLAC][487 MB] <br />
+                                [SBD #1][WAV][182 MB] <br />
+                                [SBD #1a][ThE BO0tLEG MAtRiX][FLAC][109 MB] <br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-10-26 - The Wiltern (KROQ Halloween Costume Ball), Los Angeles, CA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][478 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-02 - Makuhari Messe, Chiba, Japan</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [AUD #2][FLAC] <br />
-                                [PRO #1][AVI]
+                                [AUD #1][MP3][42,6 MB] <br />
+                                [AUD #2][FLAC][546 MB] <br />
+                                [PRO #1][AVI][166 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-03 - Makuhari Messe, Chiba, Japan</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][560 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-05 - Osaka-jo Hall, Osaka, Japan</td>
                             <td>
-                                [AMT #1][MPG] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][MPG][938 MB] <br />
+                                [AUD #1][FLAC][604 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-06 - Osaka-jo Hall, Osaka, Japan</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][640 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-10 - Saitama Super Arena, Saitama, Japan</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][630 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-12 - Marine Messe Fukuoka, Fukuoka, Japan</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][760 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-13 - Nagoya Rainbow Hall, Nagoya, Japan</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][254 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-11-24 - Western Springs Stadium, Auckland, New Zealand</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][467 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-12-01 - Telstra Dome, Melbourne, Australia</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][3,99 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-12-03 - Adelaide Entertainment Centre, Adelaide, Australia</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][575 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-12-05 - Nova FM Studios, Perth, Australia</td>
                             <td>
-                                [SBD #1][MP3]
+                                [SBD #1][MP3][6,48 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-12-08 - Singapore Indoor Stadium, Singapore City, Singapore</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][629 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2002-12-20 - Park City Mountain Resort (Snowboard Grand Prix), Park City, UT, USA</td>
                             <td>
-                                [PRO #1][DVD]
+                                [PRO #1][DVD][287 MB]<br />
+                                [PRO #1][MPG][43,5 MB]
                             </td>
                         </tr>
                     </tbody>
