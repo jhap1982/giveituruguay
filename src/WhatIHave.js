@@ -5043,7 +5043,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2022-07-12 - Volksparkstadion, Hamburg, Germany</td>
-                            <td>[AUD #2][FLAC]</td>
+                            <td>
+                                [AUD #1][FLAC] <br/>
+                                [AUD #2][FLAC]
+                            </td>
                         </tr>
 
                         <tr>
