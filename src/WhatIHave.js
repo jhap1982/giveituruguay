@@ -4407,6 +4407,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2013</h3>
+                
                 <table>
                     <thead>
                         <tr>
@@ -4417,57 +4418,129 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2013-01-14 - Vector Arena, Auckland, New Zealand</td>
-                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC][743 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2013-01-15 - Vector Arena, Auckland, New Zealand</td>
-                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC][728 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2013-01-18 - Showground (Big Day Out Festival), Sydney, Australia</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][HDTV][MKV] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [PRO #1][DVD][559 MB] <br />
+                                [PRO #1][HDTV][1080i][MKV][996 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][566 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-20 - Parklands (Big Day Out Festival), Gold Coast, Australia</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][617 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-01-25 - Showground (Big Day Out Festival), Adelaide, Australia</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][501 MB] <br/>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][582 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-26 - Flemington Racecourse (Big Day Out Festival), Melbourne, Australia</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][599 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-01-28 - Claremont Shougrounds (Big Day Out Festival), Perth, Australia</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][617 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-02-02 - The Soccer City Complex FNB Stadium, Johannesburg, South Africa</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][730 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-02-05 - Cape Town Stadium, Cape Town, South Africa</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][748 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-03-03 - Arena VFG, Guadalajara, Mexico</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][713 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-03-05 - Palacio de los Deportes, Mexico City, Mexico</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][716 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-03-06 - Palacio de los Deportes, Mexico City, Mexico</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][755 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-03-09 - Estadio Mateo Flores (Tigo Festival), Guatemala City, Guatemala</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][561 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-04-14 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][TS][2,86 GB] <br/>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][608 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-04-21 - Empire Polo Club (Coachella Valley Music and Arts Festival), Indio, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][658 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-06-08 - Belle Isle (Orion Music + More Festival), Detroit, MI, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][699 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-06-21 - Dover International Speedway (FireFly Music Festival), Dover, DE, USA</td>
                             <td>
-                                [MIX #1][YT][MP4] <br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [MIX #1][YT][MP4][2,11 GB] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][657 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [AMT #1][DVD][6,91 GB] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][693 MB]
                             </td>
                         </tr>
 
@@ -4475,50 +4548,57 @@ const WhatIHave = ({ onBack }) => {
                             <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
                             <td>
                                 [SBD #1][LiveChiliPeppers.com][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2013-08-06 - Sullivan Arena, Anchorage, AK, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][721 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-08-11 - Golden Gate Park (Outside Lands Festival), San Francisco, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][658 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-09-21 - Piedmont Park (Music Midtown Festival), Atlanta, GA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][610 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-11-02 - Mega Space (Circuito Banco do Brasil Festival). Belo Horizonte, Brazil</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][607 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-11-05 - Jockey Club del Paraguay, Asunción, Paraguay</td>
                             <td title="piiiiipuuuuu!">
-                                [MIX #1][YT][MP4] <br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [MIX #1][YT][MP4][3,07 GB] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][663 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2013-11-07 - Anhembi Arena, Sao Paulo, Brazil</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][641 MB]
                             </td>
                         </tr>
                         
                         <tr>
                             <td>2013-11-09 - Parque Dos Atletas (Circuito Banco do Brasil Festival), Rio de Janeiro, Brazil</td>
                             <td>
-                                [PRO #1][TS] <br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [PRO #1][1080i][TS][3,88 GB] <br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][586 MB]
                             </td>
                         </tr>
                     </tbody>
