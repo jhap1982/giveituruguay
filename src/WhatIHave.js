@@ -4617,67 +4617,68 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2014-02-01 - Barclays Center (WFAN's Big Hello To Brooklyn), New York, NY, USA</td>
-                            <td>[SBD #1][LiveChiliPeppers.com][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers.com][FLAC][562 MB]</td>
                         </tr>
                         
                         <tr>
                             <td>2014-02-02 - MetLife Stadium (Super Bowl XLVIII), East Rutherford, NJ,USA</td>
                             <td>
-                                [PRO #1][1080i][TS]<br />
-                                [PRO #1][MP4]<br />
-                                [PRO #1][TS] <br/>
+                                [PRO #1][720p][MP4][46,7 MB]<br />
+                                [PRO #1][720p][TS][335 MB]<br />
+                                [PRO #1][1080i][TS][199 MB] <br/>
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-02-23 - Global Gateway Logistics City (7107 International Music Festival), Clark, Philippines</td>
-                            <td>[SBD #1][LiveChiliPeppers.com][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers.com][FLAC][655 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2014-03-29 - Parque O'Higgins (Lollapalooza Festival), Santiago de Chile, Chile</td>
                             <td>
-                                [PRO #1][MKV]<br />
-                                [PRO #1][TS]<br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [PRO #1][360p][MKV][613 MB]<br />
+                                [PRO #1][360p][TS][734 MB]<br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][556 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-04-02 - Hipodromo de San Isidro (Lollapalooza Festival), Buenos Aires, Argentina</td>
                             <td title="couldn't go, health and money issues">
-                                [PRO #1][FLV]<br />
-                                [PRO #1][MKV]<br />
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [PRO #1][FLV][842 MB]<br />
+                                [PRO #1][MKV][900 MB]<br />
+                                [SBD #1][LiveChiliPeppers.com][FLAC][612 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-04-04 - Parque Deportivo 222 (Estereo Picnic Festival), Bogotá, Colombia</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][615 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-04-06 - Coliseo de Puerto Rico José Miguel Agrelot, San Juan, Puerto Rico</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][648 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-05-22 - NBC Studio 6B at Rockefeller Center (The Tonight Show Starring Jimmy Fallon), New York City, NY, USA</td>
                             <td>
-                                [PRO #1][M2TS]<br />
-                                [PRO #1][MP4]<br />
+                                [PRO #1][1080i][M2TS][2,23 GB]<br />
+                                [PRO #1][MP4][648 MB]<br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>2014-06-14 - Seaclose Park (Isle of Wight Festival), Isle of Wight, England</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [PRO #1][MP4][101 MB] <br/>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][522 MB]
                             </td>
                         </tr>
                     </tbody>
