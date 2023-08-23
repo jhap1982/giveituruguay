@@ -4715,7 +4715,10 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2016-05-26 - AT&T Live at iHeartRadio Theater, Burbank, CA, USA</td>
-                            <td>[PRO #1][TS]</td>
+                            <td>
+                                [PRO #1][720p][MP4][957 MB] <br />
+                                [PRO #1][720p][TS][1,45 GB]
+                            </td>
                         </tr>
 
                         <tr>
@@ -4730,40 +4733,40 @@ const WhatIHave = ({ onBack }) => {
                             <td>2016-06-10 - Megaland (PinkPop Festival), Landgraaf, Netherlands</td>
                             <td>
                                 [PRO #1][1080i][TS] <br />
-                                [PRO #1][DVD] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][DVD][3,16 GB] <br />
+                                [SBD #1][FLAC][713 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-06-14 - Studios SFP (Le Grand Journal), Paris, France</td>
                             <td>
-                                [PRO #1a][FLV] <br />
-                                [PRO #1b][MP4] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1a][FLV][534 MB] <br />
+                                [PRO #1b][MP4][214 MB] <br />
+                                [SBD #1][FLAC][231 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-06-29 - Roskilde Festival, Roskilde, Denmark</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][720p][TS][2,27 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-06-30 - Kosakowo Airport (Open'er Festival), Gdynia, Poland</td>
                             <td>
-                                [PRO #1][MP4] <br />
-                                [PRO #1][TS] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][MP4][1,54 GB] <br />
+                                [PRO #1][TS][1,37 GB] <br />
+                                [SBD #1][FLAC][463 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-07-02 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][720p][TS][1,10 GB]
                             </td>
                         </tr>
 
@@ -4778,60 +4781,320 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2016-07-22 - Jisan Valley Ski Resort (Valley Rock Festival), Ansan, South Korea</td>
                             <td>
-                                [PRO #1][YT][MP4]
+                                [PRO #1][YT][MP4][84,3 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-07-24 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
                             <td>
-                                [PRO #1b][YT][MP4]
+                                [PRO #1b][YT][MP4][611 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-07-30 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
                             <td>
-                                [PRO #1][HDMania][TS] <br />
-                                [PRO #1][TS]
+                                [PRO #1][HDMania][TS][1,36 GB] <br />
+                                [PRO #1][720p][TS][2,52 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-08-27 - Little John's Farm (Reading Festival), London, England</td>
                             <td>
-                                [PRO #1][TS] <br /> 
+                                [PRO #1][DVD][6,07 GB] <br /> 
+                                [PRO #1][1080i][TS][9,32 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-01 - Papp László Budapest Sportaréna, Budapest, Hungary</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][618 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-02 - Papp László Budapest Sportaréna, Budapest, Hungary</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][596 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-04 - O2 Arena, Prague, Czech Republic</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][589 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-09-06 - Kraftwerk Berlin (Telekom Street Gigs at Internationale Funkausstellung), Berlin, Germany</td>
                             <td>
-                                [PRO #1][YT][Set1][MP4] <br />
-                                [PRO #1][YT][Set2][MP4] <br />
-                                [PRO #2][360 VR][MP4] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][YT][Set1][MP4][1,35 GB] <br />
+                                [PRO #1][YT][Set2][MP4][1,30 GB] <br />
+                                [PRO #2][360 VR][MP4][525 MB] <br />
+                                [SBD #1][FLAC][557 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-08 - Telenor Arena, Oslo, Norway</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][635 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-10 - Tele2 Arena, Stockholm, Sweden</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][622 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-13 - Hartwall Arena, Helsinki, Finland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][661 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-14 - Hartwall Arena, Helsinki, Finland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][654 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-09-18 - Los Angeles Memorial Coliseum, Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][YT][MP4]
+                                [PRO #1][YT][MP4][200 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-09-23 - Silverlake Conservatory of Music (Benefit Gala), Los Angeles, CA, USA</td>
                             <td>
-                                [MIX #1][YT][MP4]
+                                [MIX #1][YT][MP4][888 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-27 - Barclaycard Center, Madrid, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][632 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-09-28 - Barclaycard Center, Madrid, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][686 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-01 - Palau Sant Jordi, Barcelona, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][598 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-02 - Palau Sant Jordi, Barcelona, Spain</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][617 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-05 - Hallenstadion, Zurich, Switzerland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][597 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-06 - Hallenstadion, Zurich, Switzerland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][636 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-08 - Unipol Arena, Bologna, Italy</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][660 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2016-10-10 - Pala Alpitour, Turin, Italy</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][FLAC]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][1,31 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-11 - Pala Alpitour, Turin, Italy</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][616 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-15 - AccorHotels Arena, Paris, France</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][628 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-16 - AccorHotels Arena, Paris, France</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][653 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-10-18 - AccorHotels Arena, Paris, France</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][659 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-01 - Olympiahalle, Munich, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][635 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-03 - Mercedes-Benz Arena, Berlin, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][691 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-06 - Sportpaleis, Antwerp, Belgium</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][607 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-08 - Ziggo Dome, Amsterdam, Netherlands</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][674 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-09 - Ziggo Dome, Amsterdam, Netherlands</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][662 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-11 - Rockhal, Esch-Sur-Alzette, Luxembourg</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][659 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-14 - Lanxess Arena, Cologne, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][667 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-16 - Jyske Bank Boxen, Herning, Denmark</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][649 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-17 - TUI Arena, Hannover, Germnay</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][615 MB]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2016-11-19 - Festhalle, Frankfurt, Germany</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][583 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-11-21 - Wiener Stadthalle, Vienna, Austria</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][645 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-05 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][560 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-06 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][572 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-08 - The Hydro, Glasgow, Scotland</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][626 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-10 - Genting Arena, Birmingham, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][571 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-11 - Genting Arena, Birmingham, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][574 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-14 - Manchester Arena, Manchester, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][637 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-15 - Manchester Arena, Manchester, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][603 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2016-12-18 - The O2, London, England</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers.com][FLAC][643 MB]
                             </td>
                         </tr>
                     </tbody>
