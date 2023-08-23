@@ -2,14 +2,13 @@
 
 ## Setlist
 
+1. (Don't Fear) the Reaper part of
+2. Standing on the Verge of Getting It on
+3. Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
-
-### Additonal Musicians:
-* -
+> After the Will Ferrell & Chad Smith's Drum-Off the band unexpectedly appeared for a live performance. "The Roots" joined them for the last two songs.
 
 ## Media 
 
@@ -26,3 +25,5 @@
 * Chad Smith
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > TS [1080i]

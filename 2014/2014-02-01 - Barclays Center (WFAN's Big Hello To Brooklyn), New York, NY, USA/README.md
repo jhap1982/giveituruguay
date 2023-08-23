@@ -44,6 +44,10 @@
 * josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

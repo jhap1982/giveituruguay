@@ -2,14 +2,16 @@
 
 ## Setlist
 
+1. Can't Stop
+2. Otherside
+3. The Adventures of Rain Dance Maggie
+4. Soul to Squeeze
+5. Californication
+6. By the Way
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
-
-### Additonal Musicians:
-* -
+> Private gig at Casey Wasserman's daughter birthday party.
 
 ## Media 
 
