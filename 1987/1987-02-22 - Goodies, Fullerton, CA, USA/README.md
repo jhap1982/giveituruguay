@@ -2,9 +2,22 @@
 
 ## Setlist
 
-## Notes
+1. Out in L.A.
+2. Backwoods
+3. Buckle Down
+4. Jungle Man
+5. Blackeyed Blonde
+6. Green Heaven
+7. Police Helicopter
+8. Nervous Breakdown
+9. Yertle the Turtle
+10. Special Secret Song Inside
+11. Catholic School Girls Rule
+12. Sex Rap tease
+13. Baby Appeal
+14. Fire
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -24,5 +37,7 @@
 * Jack Irons
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown
 
 ## Links

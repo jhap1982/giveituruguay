@@ -2,9 +2,10 @@
 
 ## Setlist
 
-## Notes
+1. Fight Like a Brave
+2. Organic Anti-Beat Box Band
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -24,5 +25,7 @@
 * Jack Irons
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links

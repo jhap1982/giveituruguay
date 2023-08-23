@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: Royal Crescent Mob, Faith No More
 
 ## Media 
 

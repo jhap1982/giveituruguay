@@ -18,11 +18,6 @@
 
 ## Line Up
 
-* Anthony Kiedis
-* Flea
-* Hillel Slovak
-* Jack Irons
-
 ## Recordings
 
 ## Links

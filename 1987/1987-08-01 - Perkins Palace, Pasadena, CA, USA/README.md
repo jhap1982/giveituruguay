@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: The Dickies, Little Kings
 
 ## Media 
 

@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: Neutral Nation, Faith No More
 
 ## Media 
 
@@ -24,5 +24,7 @@
 * Jack Irons
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder ANA(x) > FLAC **NOT CIRCULATING**
 
 ## Links

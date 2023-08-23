@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: El Grupo Sexo, Double Freak
 
 ## Media 
 

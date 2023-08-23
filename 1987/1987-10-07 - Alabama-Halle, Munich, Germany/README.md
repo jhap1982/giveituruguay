@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> Rescheduled to **February 9, 1988**. <br> An European tour was booked for September-October 1987 but
 
 ## Media 
 
@@ -17,11 +17,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Hillel Slovak
-* Jack Irons
 
 ## Recordings
 

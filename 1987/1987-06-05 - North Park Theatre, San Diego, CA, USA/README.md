@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: The Dickies, Thelonious Monster
 
 ## Media 
 
@@ -24,5 +24,7 @@
 * Jack Irons
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown **NOT CIRCULATING**
 
 ## Links
