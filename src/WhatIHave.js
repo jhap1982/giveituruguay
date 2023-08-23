@@ -3792,6 +3792,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2012</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -3802,626 +3803,602 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2012-03-29 - Tampa Bay Times Forum, Tampa, FL, USA</td>
-                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC][662 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2012-03-31 - Amway Arena, Orlando, FL, USA</td>
-                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC][752 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2012-04-02 - Bank Atlantic Center, Sunrise, FL, USA</td>
-                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC][715 MB]</td>
                         </tr>
 
                         <tr>
-                            <td>2012-04-02 - Bank Atlantic Center, Sunrise, FL, USA</td>
+                            <td>2012-04-04 - RBC Center, Raleight, NC, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][731 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-06 - Time Warner Cable Arena, Charlotte, NC, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][740 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-07 - Colonial Life Arena, Columbia, SC, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][775 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-09 - Greensboro Coliseum, Greensboro, NC, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][789 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-10 - The Arena at Gwinnett Center, Duluth, GA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][838 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-12 - FedEx Forum, Memphis, TN, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][744 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-14 - Public Auditorium (Rock and Roll Hall of Fame Induction Ceremony), Cleveland, OH, USA</td>
                             <td>
-                                [PRO #1][720p][TS] <br />
-                                [PRO #1][1080i][TS] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1][720p][TS][3,03 GB] <br />
+                                [PRO #1][1080i][TS][14,3 GB] <br />
+                                [SBD #1][MP3][19,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-27 - Air Canada Centre, Toronto, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][669 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-28 - Air Canada Centre, Toronto, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][731 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-04-30 - Scotiabank Place, Ottawa, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][752 MB ]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-02 - Centre Bell, Montreal, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][715 MB ]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-04 - Prudential Center, Newark, NJ, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][799 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-05 - Prudential Center, Newark, NJ, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][736 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-07 - TD Banknorth Garden, Boston, MA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][854 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-10 - Verizon Center, Washington D.C., USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][747 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-11 - Wells Fargo Center, Philadelphia, PA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][747 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-19 - The Hangout (Hangout Music Fest), Gulf Shores, AL, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][737 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-25 - Scottrade Center, St. Louis, MO, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][832 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-26 - Van Andel Arena, Grand Rapids, MI, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][857 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-28 - Allstate Arena, Rosemont, IL, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][782 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-05-30 - Consol Energy Center, Pittsburgh, PA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][791 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-01 - Joe Louis Arena, Detroit, MI, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][719 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-02 - Quicken Loans Arena, Cleveland, OH, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][733 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-04 - Value City Arena @ Jerome Schottenstein Center, Columbus, OH, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][728 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-06 - U.S. Bank Arena, Cincinnati, OH, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][797 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-07 - KFC Yum Center, Louisville, KY, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][773 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-09 - Great Stage Park (Bonnaroo Music & Arts Festival), Manchester, TN, USA</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][pepperdion][TS] <br />
-                                [PRO #1][TS] <br /> 
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [PRO #1][DVD][3,67 GB] <br />
+                                [PRO #1][pepperdion][TS][3,01 GB] <br />
+                                [PRO #1][TS][12,6 GB] <br /> 
+                                [SBD #1][LiveChiliPeppers][FLAC][760 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-23 - Knebworth Park, Stevenage Herts, England</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][805 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-24 - Stadium of Light, Sunderland, England</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][808 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-26 - Croke Park, Dublin, Ireland</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][772 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-28 - Goffertpark, Nijmegen, Netherlands</td>
                             <td>
-                                [MIX #1][DVD] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [MIX #1][DVD][5,21 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][885 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-06-30 - Stade de France, Paris, France</td>
                             <td>
-                                [MIX #1][RhcpFrance][DVD] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [MIX #1][RhcpFrance][DVD][4,33 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][866 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-01 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][690 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-03 - Stade de Suisse Wankdorf Bern, Bern, Switzerland</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][910 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-05 - Arena Concerti Fiera Milano Rho (Heineken Jammin' Festival), Milan, Italy</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][694 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-07 - Ciudad del Rock de Arganda del Rey (Rock In Rio Madrid III), Madrid, Spain</td>
                             <td>
-                                [PRO #1a][TS] <br />
-                                [PRO #1b][DVD] <br />
-                                [PRO #3][neox][DVD] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [PRO #1a][TS][2,55 GB] <br />
+                                [PRO #1b][DVD][2,44 GB] <br />
+                                [PRO #3][neox][DVD][2,31 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][732 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-20 - Petrovsky Stadium (Tuborg GreenFest), Saint Petersburg, Russia</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][1,64 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-22 - Luzhniki Stadium, Moscow, Russia</td>
                             <td>
-                                [AMT #1][Flame-XIII][MPG] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [AMT #1][Flame-XIII][MPG][4,84 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][801 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-25 - Olympisky Stadium, Kiev, Ukraine</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][1,56 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-27 - Lotnisko Bemowo (Impact Festival), Warsaw, Poland</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][734 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-28 - Žalgirio Arena, Kaunas, Lithuania</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][1,58 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-07-30 - Tallinn Song Festival Grounds, Tallinn, Estonia</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][848 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-01 - Ratina Stadium, Tampere, Finland</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][782 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-04 - Grant Park (Lollapalooza), Chicago, IL, USA</td>
                             <td>
-                                [PRO #1][720p][TS] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [PRO #1][720p][TS][2,57 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][609 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-11 - Staples Center, Los Angeles, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][706 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-12 - Staples Center, Los Angeles, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][1,46 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-14 - Oracle Arena, Oakland, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][1,52 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-15 - Oracle Arena, Oakland, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][747 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-25 - Veltins Arena (Rock Im Pott), Gelsenkirchen, Germany</td>
                             <td>
-                                [PRO #1][TS] <br />
-                                [PRO #1][WDR][TS] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [PRO #1][TS][5,61 GB] <br />
+                                [PRO #1][WDR][TS][7,49 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][791 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-27 - Synot Tip Arena, Prague, Czech Republic</td>
                             <td>
-                                [MIX #1][DVD] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [MIX #1][DVD][4,27 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][818 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-29 - Hippodrome, Zagreb, Croatia</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][815 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-08-31 - Arena Națională, Bucharest, Romania</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][799 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-01 - Arena Armeec Sofia, Sofia, Bulgaria</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [SBD #1][LiveChiliPeppers][FLAC][821 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-04 - Olympic Athletic Center of Athens Spiros Louis, Athens, Greece</td>
                             <td>
-                                [AMT #1][MP4] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC] <br />
-                                [SBD #1][LiveChiliPeppers][MP3]
+                                [AMT #1][MP4][983 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][802 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-06 - The Waterfront Beirut, Beirut, Lebanon</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][791 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-08 - Santralistanbul, Istanbul, Turkey</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][783 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-10 - Park HaYarkon, Tel Aviv, Israel</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][756 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-23 - Valley View Casino Center, San Diego, CA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][750 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-25 - Jobing.com Arena, Glendale, AZ, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][717 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-27 - Pepsi Center, Denver, CO, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][815 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-09-29 - AT&T Center, San Antonio, TX, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][719 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-02 - American Airlines Center, Dallas, TX, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][703 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-04 - New Orleans Arena, New Orleans, LA, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][730 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-14 - Zilker Park (Austin City Limits Music Festival), Austin, TX, USA</td>
                             <td>
-                                [PRO #1][MP4] <br />
-                                [PRO #1][TS] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [PRO #1][MP4][624 MB] <br />
+                                [PRO #1][TS][2,61 GB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][646 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-19 - Henson Recording Studio (From the Basement), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][1080p][MKV]
+                                [PRO #1][1080p][MKV][3,45 GB] <br />
+                                [PRO #1][IPTVRip][720p][MKV][4,14 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-20 - Toyota Center, Houston, TX, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][720 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-22 - Chesapeake Energy Arena, Oklahoma City, OK, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][713 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-23 - Bank of Oklahoma Center, Tulsa, OK, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][765 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-25 - Verizon Arena, Little Rock, AR, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][733 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-27 - Sprint Center, Kansas City, MO, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][732 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-28 - CenturyLink Center, Omaha, NE, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][735 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-10-30 - Target Center, Minneapolis, MN, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][740 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-01 - Bradley Center, Milwaukee, WI, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][710 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-14 - Rose Garden Arena, Portland, OR, USA</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][730 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2012-11-15 - KeyArena at Seattle Center, Seattle, WA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][711 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-17 - Rogers Arena, Vancouver, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][756 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2012-11-19 - Scotiabank Saddledome, Calgary, Canada</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][772 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-21 - Rexall Place, Edmonton, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][780 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-22 - Rexall Place, Edmonton, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][791 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-24 - Credit Union Center, Saskatoon, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][706 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2012-11-26 - MTS Centre, Winnipeg, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][LiveChiliPeppers][FLAC][718 MB]
                             </td>
                         </tr>
                     </tbody>
