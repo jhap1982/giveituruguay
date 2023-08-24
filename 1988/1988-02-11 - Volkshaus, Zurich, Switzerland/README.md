@@ -53,7 +53,7 @@
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ANA(?) > ? > MP3recorded by Patrick B  
-* SBD #1 soundboard audio soundboard > unknown recorderFM > ANA(M) > ? > MP3 Broadcasted by Radio DRS 3. There's no lossless transfer in circulation.
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(?) > ? > MP3 recorded by Patrick B  
+* SBD #1 soundboard audio: soundboard > unknown recorderFM > ANA(M) > ? > MP3 Broadcasted by Radio DRS 3. There's no lossless transfer in circulation.
 
 ## Links
