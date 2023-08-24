@@ -1,0 +1,21 @@
+https://sharemania.us/
+
+Bruno Mars & Red Hot Chili Peppers - Super Bowl XLVIII (02.02.2014) 1080i 50Mbps 4.2.2 TrollHD
+
+Format : MPEG-TS at 57.4 Mbps
+Length : 5.04 GiB for 12mn 34s 610ms
+
+Video #0 : MPEG Video at 51.5 Mbps
+Aspect : 1920 x 1080 (1.778) at 29.970 fps
+
+Audio #0 : MPEG Audio at 384 Kbps
+Infos : 2 channels, 48.0 KHz
+
+TrollHD
+
+pass: cv.to
+
+Bruno Mars - Locked Out of Heaven
+Bruno Mars - Treasure
+Bruno Mars - Runaway Baby
+Red Hot Chili Peppers - Give It Away
