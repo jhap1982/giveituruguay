@@ -2,11 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Pea
+Wet Sand
+Go Robot
+She's Only 18
+Factory of Faith
+Californication
+Sick Love
+The Power of Equality
+Encore tease
+Goodbye Angels
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Chad and Flea both did short solo songs on guitar during the encore jam.
+
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +48,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

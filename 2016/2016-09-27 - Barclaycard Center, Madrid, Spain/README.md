@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+If You Have to Ask
+Hardcore Jollies tease
+Right on Time
+The Getaway
+Ethiopia
+Californication
+Go Robot
+D'yer Mak'er tease
+Suck My Kiss
+Sick Love
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Badbadnotgood
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

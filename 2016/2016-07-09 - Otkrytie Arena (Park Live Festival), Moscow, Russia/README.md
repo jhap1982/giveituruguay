@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Blood Sugar Sex Magik
+Show of Strength tease
+Right on Time
+Wet Sand
+Factory of Faith
+The Getaway
+Californication
+Go Robot
+Strangers part of JOSH
+Under the Bridge
+Detroit
+By the Way
+ENCORE BREAK
+Jam
+Around the World
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> "We Turn Red" was written on the setlist but was replaced with "Around the World".
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+AMT #1
+amateur videobuilt-in > Nokia Lumia 930MP4 [1080p]recorded by Andrey Shpigar

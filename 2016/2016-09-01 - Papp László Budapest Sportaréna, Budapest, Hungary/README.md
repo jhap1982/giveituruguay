@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+She's Only 18
+Me and My Friends
+Goodbye Angels
+Parallel Universe
+Go Robot
+The Adventures of Rain Dance Maggie
+Under the Bridge
+I'm So Tired part of JOSH
+Detroit
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deap Vally
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

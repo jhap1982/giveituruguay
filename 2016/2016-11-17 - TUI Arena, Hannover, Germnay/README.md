@@ -2,11 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Yertle the Turtle
+Freaky Styley part of
+Atomic Dog tease
+Look Around
+I'm So Tired part of JOSH
+We Turn Red
+Californication
+Go Robot
+She's Only 18
+Sick Love
+Suck My Kiss
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +47,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

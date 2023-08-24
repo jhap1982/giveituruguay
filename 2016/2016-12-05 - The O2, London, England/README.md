@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Right on Time
+Go Robot
+Californication
+Sick Love
+Don't Forget Me
+The Getaway
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 18,371 / 18,371 (100%)
+**Support**: Babymetal
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

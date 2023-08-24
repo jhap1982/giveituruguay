@@ -2,11 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hard to Concentrate
+Right on Time
+Sick Love
+Did I Let You Know
+Go Robot
+Californication
+Feasting on the Flowers
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Badbadnotgood
 
 ## Media 
 
@@ -26,4 +44,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Parallel Universe
+Me and My Friends
+Baby Appeal tease
+The Longest Wave
+Look Around
+Californication
+Strangers part of JOSH
+Go Robot
+Sir Psycho Sexy
+They're Red Hot
+Goodbye Angels
+Orange Claw Hammer FLEA
+Under the Bridge
+By the Way
+ENCORE BREAK
+Don't Forget Me part of
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: La Femme
 
 ## Media 
 
@@ -26,4 +48,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

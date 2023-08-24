@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hard to Concentrate
+Nobody Weird Like Me
+Sick Love
+Ethiopia
+Go Robot
+Californication
+The Getaway
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Across the Universe part of JOSH
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 13,577 / 13,577 (100%)
+**Support**: La Femme
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Right on Time
+Sick Love
+Spectre part of JOSH
+If You Have to Ask
+Hardcore Jollies tease
+Nervous Breakdown part of FLEA
+Go Robot
+Californication
+The Getaway
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Five Years JOSH
+Goodbye Angels
+Give It Away
 
 ## Notes
 
 **Attendance**: -
-**Support**: -
+**Support**: La Femme
 
 ## Media 
 
@@ -26,4 +48,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

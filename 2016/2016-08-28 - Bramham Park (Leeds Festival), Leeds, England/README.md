@@ -2,6 +2,27 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Wet Sand
+Look Around
+Snow ((Hey Oh))
+Go Robot
+Otherside
+Blood Sugar Sex Magik
+Show of Strength tease
+The Getaway
+Californication
+Close My Eyes part of JOSH
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
@@ -25,5 +46,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
+Chris Warren  Nate Walcott  Samuel Banuelos
 
 ## Recordings

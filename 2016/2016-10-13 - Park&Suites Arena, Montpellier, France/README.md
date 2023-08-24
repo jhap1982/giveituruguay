@@ -2,11 +2,10 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Cancelled one day before the show due to severe weather conditions.
+
 
 ## Media 
 
@@ -18,11 +17,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Josh Klinghoffer
-* Chad Smith
 
 ### Additional Musicians
 

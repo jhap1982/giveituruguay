@@ -2,6 +2,26 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Chelsea Hotel #2 part of JOSH
+Snow ((Hey Oh))
+Look Around
+Otherside
+The Getaway
+Californication
+Tell Me Baby
+Go Robot
+Parallel Universe
+Under the Bridge
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Break on Through (to the Other Side) tease
+Give It Away
 
 ## Notes
 
@@ -25,5 +45,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
+Chris Warren  Nate Walcott  Samuel Banuelos
 
 ## Recordings

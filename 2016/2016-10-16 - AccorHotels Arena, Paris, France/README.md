@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Parallel Universe
+Me and My Friends
+Je Suis Venu Te Dire Que Je M'en Vais part of JOSH
+Feasting on the Flowers
+Look Around
+Californication
+Go Robot
+If You Have to Ask
+Hardcore Jollies tease
+Sick Love
+Under the Bridge
+By the Way
+ENCORE BREAK
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: La Femme
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

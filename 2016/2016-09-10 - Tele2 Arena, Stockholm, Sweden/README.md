@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Dark Necessities
+She's Only 18
+Search and Destroy
+Blood Sugar Sex Magik
+Show of Strength tease
+Go Robot
+Californication
+The Getaway
+Look Around
+Try Again part of JOSH
+Under the Bridge
+Sick Love
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deap Vally
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

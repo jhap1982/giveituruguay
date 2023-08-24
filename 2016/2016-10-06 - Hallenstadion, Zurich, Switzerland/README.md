@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+She's Only 18
+Look Around
+The Longest Wave
+The Power of Equality
+Californication
+Go Robot
+Aeroplane
+Sick Love
+Jack the Ripper part of JOSH
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 13,577 / 13,577 (100%)
+**Support**: La Femme
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

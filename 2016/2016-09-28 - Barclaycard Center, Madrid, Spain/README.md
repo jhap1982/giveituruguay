@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Parallel Universe
+Nobody Weird Like Me
+Sick Love
+Look Around
+Californication
+Go Robot
+Sir Psycho Sexy
+They're Red Hot
+This Ticonderoga
+Until Then part of JOSH
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Badbadnotgood
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

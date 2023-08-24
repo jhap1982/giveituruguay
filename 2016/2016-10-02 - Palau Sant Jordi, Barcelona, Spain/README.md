@@ -2,11 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Blood Sugar Sex Magik
+Show of Strength tease
+Cry Baby Cry part of JOSH
+Me and My Friends
+The Longest Wave
+Look Around
+Californication
+What Is Soul? jam
+Go Robot
+Aeroplane
+Detroit
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Badbadnotgood
 
 ## Media 
 
@@ -26,4 +47,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Go Robot
+Emit Remmus
+Californication
+Feasting on the Flowers
+Aeroplane
+Freaky Styley tease
+Catholic School Girls Rule tease
+Sick Love
+Higher Ground
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

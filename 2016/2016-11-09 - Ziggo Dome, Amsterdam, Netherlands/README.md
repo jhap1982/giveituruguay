@@ -2,11 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+Me and My Friends
+Go Robot
+Californication
+Sick Love
+Sir Psycho Sexy
+They're Red Hot
+Ethiopia
+Magic Johnson tease
+Suck My Kiss
+Under the Bridge
+By the Way
+ENCORE BREAK
+Anthem part of JOSH
+War Pigs tease
+Goodbye Angels
+Mommy Where's Daddy?
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +48,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

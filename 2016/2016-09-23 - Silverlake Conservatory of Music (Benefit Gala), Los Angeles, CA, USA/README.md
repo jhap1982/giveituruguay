@@ -2,11 +2,20 @@
 
 ## Setlist
 
+By the Way
+Dark Necessities
+Close My Eyes part of JOSH
+Otherside
+Parallel Universe
+Sick Love
+Mommy Where's Daddy?
+Goodbye Angels
+Californication
+Around the World
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Acoustic performance at the Silverlake Conservatory of Music annual fundraising gala.
 
 ## Media 
 
@@ -26,4 +35,9 @@
 
 ### Additional Musicians
 
+* Nate Walcott
+
 ## Recordings
+
+MIX #1
+mixed videosoundboard > unknown cameras? > MP4A three-camera mix surfaced on YouTube in March 2018.

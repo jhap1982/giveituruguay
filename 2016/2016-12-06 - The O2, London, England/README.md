@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+Hey
+Look Around
+Go Robot
+Parallel Universe
+Sick Love
+Aeroplane
+Goodbye Angels
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 17,137 / 18,371 (93%)
+**Support**: Babymetal
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Suck My Kiss
+Scar Tissue
+Dark Necessities
+Parallel Universe
+Nobody Weird Like Me
+Snow ((Hey Oh))
+Go Robot
+Californication
+What Is Soul? jam
+Factory of Faith
+Goodbye Angels
+This Is Where I Belong part of JOSH
+Under the Bridge
+Sick Love
+By the Way
+Jam
+ENCORE BREAK
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deap Vally
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

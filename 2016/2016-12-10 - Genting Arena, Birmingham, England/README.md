@@ -2,11 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Otherside
+Dark Necessities
+Hey
+Right on Time
+She's Only 18
+Go Robot
+Sick Love
+Californication
+Detroit
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Babymetal
 
 ## Media 
 
@@ -26,4 +43,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

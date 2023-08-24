@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Sick Love
+Otherside
+Me and My Friends
+Wet Sand
+Dark Necessities
+Blood Sugar Sex Magik
+Show of Strength tease
+Go Robot
+Californication
+The Longest Wave
+Higher Ground
+I'm on Fire part of JOSH
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Battles
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

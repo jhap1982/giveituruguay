@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Scar Tissue
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Nobody Weird Like Me
+Sick Love
+Snow ((Hey Oh))
+Parallel Universe
+Go Robot
+Hybrid Moments part of JOSH
+Did I Let You Know
+Californication
+Soul to Squeeze
+Suck My Kiss
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Battles
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

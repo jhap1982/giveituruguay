@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **September 21, 2017** due to Anthony getting sick with the flu.
+
 ## Media 
 
 <details>

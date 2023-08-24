@@ -2,11 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+This Is the Place tease
+Right on Time
+Universally Speaking
+Go Robot
+Californication
+Detroit
+Blood Sugar Sex Magik
+Show of Strength tease
+All Night Thing part of JOSH
+Goodbye Angels
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +47,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

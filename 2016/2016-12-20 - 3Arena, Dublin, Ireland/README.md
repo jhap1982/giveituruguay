@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **September 20, 2017** due to Anthony getting sick with the flu.
+
 ## Media 
 
 <details>
@@ -14,11 +16,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Josh Klinghoffer
-* Chad Smith
 
 ### Additional Musicians
 

@@ -2,11 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+Right on Time
+Go Robot
+If You Have to Ask
+Hardcore Jollies tease
+Sick Love
+Parallel Universe
+The Getaway
+Suck My Kiss
+Dirty Old Town part of JOSH
+Under the Bridge
+By the Way
+ENCORE BREAK
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 13,767 / 16,169 (85%)
+**Support**: Babymetal
 
 ## Media 
 
@@ -26,4 +46,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Wet Sand
+Me and My Friends
+Go Robot
+Parallel Universe
+Sick Love
+Don't Forget Me
+The Getaway
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +43,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

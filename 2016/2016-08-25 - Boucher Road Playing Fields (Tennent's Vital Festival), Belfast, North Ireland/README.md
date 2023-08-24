@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Snow ((Hey Oh))
+Look Around
+The Getaway
+Otherside
+Suck My Kiss
+Go Robot
+Californication
+Parallel Universe
+Under the Bridge
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 37,255 / 37,255 (100%)
+
 
 ## Media 
 
@@ -25,5 +44,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
+Chris Warren  Nate Walcott  Samuel Banuelos
 
 ## Recordings

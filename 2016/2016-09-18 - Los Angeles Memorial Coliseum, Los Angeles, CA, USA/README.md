@@ -2,11 +2,12 @@
 
 ## Setlist
 
+Can't Stop
+Dark Necessities
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> The band performed at the Rams’ inaugural season back home in Southern California.
 
 ## Media 
 
@@ -26,4 +27,9 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings
+
+PRO #1
+professional videosoundboard > unknownWEB > MP4 [720p]Taken from the Rams' official web site.

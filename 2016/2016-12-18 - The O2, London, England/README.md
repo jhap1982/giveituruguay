@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+Look Around
+Go Robot
+Californication
+Sick Love
+Don't Forget Me
+The Getaway
+Blood Sugar Sex Magik
+Show of Strength tease
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Attendance**: 17,696 / 18,371 (96%)
+**Support**: Babymetal
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

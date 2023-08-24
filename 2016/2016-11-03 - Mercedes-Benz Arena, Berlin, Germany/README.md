@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+Parallel Universe
+Me and My Friends
+The Getaway
+Look Around
+Californication
+Go Robot
+Blood Sugar Sex Magik
+Show of Strength tease
+Sick Love
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC

@@ -2,11 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+The Zephyr Song
+Dark Necessities
+Hey
+Right on Time
+Go Robot
+Californication
+Detroit
+Sir Psycho Sexy
+They're Red Hot
+Did I Let You Know
+Goodbye Angels
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Dreams of a Samurai
+Give It Away
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Deerhoof
 
 ## Media 
 
@@ -26,4 +45,9 @@
 
 ### Additional Musicians
 
+Chris Warren  Nate Walcott  Samuel Banuelos
+
 ## Recordings
+
+SBD #1
+soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC
