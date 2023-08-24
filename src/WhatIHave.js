@@ -5297,182 +5297,189 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2022-03-29 - NBC Studio 6B at Rockefeller Center (The Tonight Show Starring Jimmy Fallon), New Yourk City, NY, USA</td>
                             <td>
-                                [PRO #1][HDTV][1080i][TS]<br />
-                                [PRO #1][YT][Jimmy Fallon][MP4]
+                                [PRO #1][HDTV][1080i][TS][718 MB]<br />
+                                [PRO #1][YT][Jimmy Fallon][1080p][MP4][95,8 MB]
                             </td>
                         </tr>                        
 
                         <tr>
                             <td>2022-03-31 - Hollywood Roosevelt Hotel (Jimmy Kimmel Live!), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>[PRO #1][YT][720p][MP4][47,4 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-04-05 - SiriusXM Garage (The Howard Stern Show), Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][YT][MP4]<br />
-                                [SBD #1][MP3]<br />
-                                [SBD #1][YT][M4A]
+                                [PRO #1][YT][1080p][MP4][803 MB]<br />
+                                [SBD #1][MP3][18,6 MB]<br />
+                                [SBD #1][YT][M4A][12,5 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-04-07 - Amoeba Music, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][M4A]</td>
+                            <td>[AUD #1][M4A][8,04 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-05-01 - Fair Grounds Race Course (New Orleans Jazz & Heritage Festival), New Orleands, LA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][413 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-06-04 - Estadio La Cartuja de Sevilla, Seville, Spain</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][683 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-06-07 - Estadi Olimpic Lluis Companys, Barcelona, Spain</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][680 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-06-10 - Goffertpark, Nijmegen, Netherlands</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][1,16 GB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-06-12 - Tehelne Pole Stadion (Lovestream Festival), Bratislava, Slovakia</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][684 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-06-25 - London Stadium, London, England</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][572 MB]<br />
+                                [SBD #1][MP3][227 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-07-05 - Rhein Energie Stadion, Cologne, Germany</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][659 MB]</td>
                         </tr>
 
                         <tr>
+                            <td>2022-07-08 - Stade de France, Paris, France</td>
+                            <td>[SBD #1][RODC-Tour Edition][MP3][8,61 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>[AUD #1][FLAC][507 MB]</td>
                             <td>2022-07-09 - Stade de France, Paris, France</td>
-                            <td>[AUD #1][FLAC]</td>
                         </tr>
 
                         <tr>
                             <td>2022-07-12 - Volksparkstadion, Hamburg, Germany</td>
                             <td>
-                                [AUD #1][FLAC] <br/>
-                                [AUD #2][FLAC]
+                                [AUD #1][FLAC][628 MB] <br/>
+                                [AUD #2][FLAC][453 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-07-29 - Levi's Stadium, Santa Clara, CA, USA</td>
                             <td>
-                                [AUD #2][FLAC]<br />
-                                [MTX #1][FLAC]
+                                [AUD #2][FLAC][532 MB]<br />
+                                [MTX #1][FLAC][682 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-07-31 - SoFi Stadium, Inglewood, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][637 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-08-03 - T-Mobile Park, Seattle, WA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][534 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-08-10 - Truist Park, Atlanta, GA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][474 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-08-12 - Nissan Stadium, Nashville, TN, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [AUD #2][FLAC]<br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][589 MB]<br />
+                                [AUD #2][FLAC][553 MB]<br />
+                                [SBD #1][MP3][230 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-08-19 - Soldier Field, Chicago, IL, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][546 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-08-21 - Rogers Centre, Toronto, Canada</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][586 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-08-28 - Prudential Center (MTV Video Music Awards), Newark, NJ, USA</td>
                             <td>
-                                [PRO #1][VegaMovies][MKV]<br />
-                                [PRO #1][YT][VMA][MP4]
+                                [PRO #1][VegaMovies][720p][MKV][1,40 GB]<br />
+                                [PRO #1][VMA FULL][1080i][TS][18,8 GB] <br/>
+                                [PRO #1][YT][1080p][MP4][30,8 MB] <br />
+                                [PRO #1][YT][VMA][1080p][MP4][263 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-09-01 - Bank of America Stadium, Charlotte, NC, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [MTX #1][FLAC]
+                                [AUD #1][FLAC][624 MB]<br />
+                                [MTX #1][FLAC][669 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-09-03 - Citizens Bank Park, Phiiladelphia, PA, USA</td>
                             <td>
-                                [PRO #1][YT][MP4] <br />                                    
-                                [AUD #1][FLAC]<br />
-                                [SBD #1][MP3]
+                                [PRO #1][YT][1080p][MP4][69,1 MB] <br />                                    
+                                [AUD #1][FLAC][553 MB]<br />
+                                [SBD #1][MP3][248 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-09-10 - Fenway Park, Boston, MA, USA</td>
                             <td>
-                                [AUD #1][FLAC]<br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][669 MB]<br />
+                                [SBD #1][MP3][242 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-09-13 - Apollo Theater, New York City, NY, USA</td>
                             <td>
-                                [PRO #1][YT][MP4] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][YT][1080p][MP4][631 MB] <br />
+                                [SBD #1][MP3][185 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2022-09-15 - Camping World Stadium, Orlando, FL, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][598 MB]</td>
                         </tr>  
 
                         <tr>
                             <td>2022-09-21 - Oracle Park, San Francisco, CA, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>[PRO #1][YT][RHCP Uploader][MP4][432 MB]</td>
                         </tr>  
 
                         <tr>
                             <td>2022-09-25 - Highland Festival Grounds at Kentucky Exposition Center (Louder Than Life Festival), Louisville, KY, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][413 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2022-10-09 - Zilker Park (Austin City Limits Festival), Austin, TX, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>[PRO #1][TPB][720p][MP4][3,32 GB]</td>
                         </tr>
                     </tbody>
                 </table>
