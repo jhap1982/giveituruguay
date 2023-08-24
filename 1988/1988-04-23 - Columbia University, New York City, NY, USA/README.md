@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: The Wilmingtons
 
 ## Media 
 

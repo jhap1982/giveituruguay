@@ -297,6 +297,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1988</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -304,6 +305,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1988-00-00 - VPRO Documentary - Europe</td>
@@ -338,6 +340,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1988-02-20 - Paradiso, Amsterdam, Netherlands</td>
                             <td>[SBD #1][RHCPLA][FLAC][158 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-02-24 - The Ritz, New York City, NY, USA</td>
+                            <td>[AUD #1][FLAC][443 MB]</td>
                         </tr>
 
                         <tr>

@@ -5,8 +5,9 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**UNCONFIRMED PERFORMANCE** 
+
+**Support**: Fishbone, Thelonious Monster
 
 ## Media 
 

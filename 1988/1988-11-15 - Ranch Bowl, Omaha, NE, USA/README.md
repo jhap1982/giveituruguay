@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Cellophane Ceiling, Sidekick
 
 ## Media 
 

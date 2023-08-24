@@ -5,8 +5,11 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**UNCONFIRMED PERFORMANCE**
+
+> It seems Anthony was too sick to come out and the entire set was fronted by Angelo Moore from Fishbone. This info is not confirmed.
+
+**Support**: Fishbone, Thelonious Monster
 
 ## Media 
 

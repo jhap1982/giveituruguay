@@ -2,11 +2,15 @@
 
 ## Setlist
 
+1. Hollywood (Africa)
+2. Fight Like a Brave
+3. Special Secret Song Inside
+4. Yertle the Turtle
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Firehose, Thelonious Monster
 
 ## Media 
 

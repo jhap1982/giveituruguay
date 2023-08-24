@@ -5,8 +5,7 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**UNCONFIRMED PERFORMANCE** 
 
 ## Media 
 

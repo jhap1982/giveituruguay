@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: The Busboys, Fishbone, Thelonious Monster
 
 ## Media 
 

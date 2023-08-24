@@ -5,8 +5,7 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Rescheduled to **October 8, 1988** due to conflicts nearby the Hollywood Bowl. Several concerts around the area had to be postponed.
 
 ## Media 
 
@@ -18,11 +17,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* DeWayne "Blackbyrd" McKnight
-* D.H. Peligro
 
 ### Additional Musicians
 

@@ -2,11 +2,15 @@
 
 ## Setlist
 
+1. Organic Anti-Beat Box Band
+2. Baby Appeal
+3. Me and My Friends
+4. Crosstown Traffic
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Fishbone
 
 ## Media 
 

@@ -2,11 +2,11 @@
 
 ## Setlist
 
+1. Backwoods
+2. Funky Crime
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
-
-**Attendance**: -
-**Support**: -
 
 ## Media 
 

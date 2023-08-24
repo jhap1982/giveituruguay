@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: Warlock Pinchers, Butthole Surfers
 
 ## Media 
 

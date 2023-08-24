@@ -5,8 +5,7 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+**Support**: The Borman Six, Slammin' Watusis
 
 ## Media 
 

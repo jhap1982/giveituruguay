@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Rescheduled from **October 16, 1987**.
 
 ## Media 
 

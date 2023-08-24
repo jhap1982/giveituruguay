@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Cancelled due to Flea breaking his thumb while skiing.
 
 ## Media 
 
@@ -18,11 +16,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* D.H. Peligro
 
 ### Additional Musicians
 

@@ -2,11 +2,9 @@
 
 ## Setlist
 
-
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Although widely circulating as a Red Hot Chili Peppers show this was probably a Thelonious Monster show as besides Flea on bass, the lineup featured Bob Forrest on vocals, Zander Schloss on guitar and Pete Weiss on drums.
 
 ## Media 
 
@@ -18,11 +16,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Hillel Slovak
-* Jack Irons
 
 ### Additional Musicians
 

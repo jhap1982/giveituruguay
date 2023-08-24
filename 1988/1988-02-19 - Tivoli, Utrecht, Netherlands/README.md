@@ -5,8 +5,9 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
+> Rescheduled from **September 16, 1987**.
+
+**Support**: Urban Dance Squad
 
 ## Media 
 
