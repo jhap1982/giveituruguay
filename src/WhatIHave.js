@@ -1462,7 +1462,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>1999-09-24 - CBS Studios (The Chirs Rock Show), New York, NY, USA</td>
                             <td>
                                 [PRO #1][DVD][202 MB] <br />
-                                [PRO #1][MPG][43,3 MB]
+                                [PRO #1][MPG][43,3 MB] <br />
+                                [PRO #1][Chris Rock Show][1080p][MKV][0,99 GB]
                             </td>
                         </tr>   
 
