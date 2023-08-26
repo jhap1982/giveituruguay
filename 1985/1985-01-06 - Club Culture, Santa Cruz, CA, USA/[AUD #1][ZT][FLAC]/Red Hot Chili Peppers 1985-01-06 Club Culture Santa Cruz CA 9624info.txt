@@ -1,0 +1,5 @@
+Red Hot Chili Peppers 1985-01-06 Club Culture Santa Cruz CA 9624
+
+Recording: AKG C567e > Sony TCD-5m (TDK MA C-60, Dolby B)
+
+Transfer: Nakamichi Dragon (Dolby B decoded) > Audio Antiquery Mastering Preamp > QES Labs PAD-2 LE MK 2 (A/D 9624) > Bias Peak Pro 7 > xACT
