@@ -46,9 +46,10 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings
 
-AMT #1
-amateur videobuilt-in > Nokia Lumia 930MP4 [1080p]recorded by Andrey Shpigar
+* AMT #1 amateur video: built-in > Nokia Lumia 930 MP4 [1080p] recorded by Andrey Shpigar

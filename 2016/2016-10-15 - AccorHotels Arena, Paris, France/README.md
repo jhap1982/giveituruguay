@@ -44,10 +44,11 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings
 
-AUD #1
-audience audiobuilt-in > Tascam DR-07 MKIIWAV > FLACrecorded by matmat159  SBD #1
-soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC
+* AUD #1 audience audio: built-in > Tascam DR-07 MKII WAV > FLAC recorded by matmat159  
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

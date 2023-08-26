@@ -41,6 +41,8 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings

@@ -2,12 +2,12 @@
 
 ## Setlist
 
-Can't Stop
-Snow ((Hey Oh))
-Otherside
-Californication
-By the Way
-Higher Ground
+1. Can't Stop
+2. Snow ((Hey Oh))
+3. Otherside
+4. Californication
+5. By the Way
+6. Higher Ground
 
 ## Notes
 

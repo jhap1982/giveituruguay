@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Snow ((Hey Oh))
-Dark Necessities
-Nobody Weird Like Me
-The Adventures of Rain Dance Maggie
-Otherside
-Right on Time
-Higher Ground
-That Joke Isn't Funny Anymore part of JOSH
-Under the Bridge
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Around the World
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Nobody Weird Like Me
+7. The Adventures of Rain Dance Maggie
+8. Otherside
+9. Right on Time
+10. Higher Ground
+11. That Joke Isn't Funny Anymore part of JOSH
+12. Under the Bridge
+13. Suck My Kiss
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Around the World
+17. Give It Away
 
 ## Notes
 
@@ -48,4 +48,3 @@ Give It Away
 * Nate Walcott
 
 ## Recordings
-	

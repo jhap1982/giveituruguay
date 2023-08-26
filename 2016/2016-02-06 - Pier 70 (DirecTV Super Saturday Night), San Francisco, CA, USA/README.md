@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Can't Stop
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Starman
-Otherside
-Police Helicopter
-Aeroplane
-Blood Sugar Sex Magik
-Show of Strength tease
-Around the World
-Me and My Friends
-Snow ((Hey Oh))
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Can't Stop
+2. The Adventures of Rain Dance Maggie
+3. Nobody Weird Like Me
+4. Starman
+5. Otherside
+6. Police Helicopter
+7. Aeroplane
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Around the World
+11. Me and My Friends
+12. Snow ((Hey Oh))
+13. Californication
+14. By the Way
+<br>ENCORE BREAK
+15. Under the Bridge
+16. Give It Away
 
 ## Notes
 

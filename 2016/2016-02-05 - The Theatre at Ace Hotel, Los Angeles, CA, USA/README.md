@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Can't Stop
-Factory of Faith
-Nobody Weird Like Me
-Otherside
-Police Helicopter
-Around the World
-Blood Sugar Sex Magik
-Show of Strength tease
-Me and My Friends
-Snow ((Hey Oh))
-Cracked Actor
-By the Way
-ENCORE BREAK
-Give It Away
+1. Can't Stop
+2. Factory of Faith
+3. Nobody Weird Like Me
+4. Otherside
+5. Police Helicopter
+6. Around the World
+7. Blood Sugar Sex Magik
+8. Show of Strength tease
+9. Me and My Friends
+10. Snow ((Hey Oh))
+11. Cracked Actor
+12. By the Way
+<br> ENCORE BREAK
+13. Give It Away
 
 ## Notes
 

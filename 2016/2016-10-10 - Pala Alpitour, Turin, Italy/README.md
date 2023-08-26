@@ -48,9 +48,9 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott
+* Chris Warren  
+* Nate Walcott
 
 ## Recordings
 
-SBD #1
-soundboard audiosoundboard > unknown recorderLiveChiliPeppers.com > FLAC
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

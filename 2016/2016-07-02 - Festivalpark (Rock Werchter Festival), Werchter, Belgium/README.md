@@ -45,10 +45,12 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings
 
-SBD #1
-soundboard audiosoundboard > unknownFM > FLACBroadcasted by "Studio Brussel".  PRO #1
-professional videosoundboard > unknownWEB > TS [720p]Sourced from the festival's official webstream.
+* SBD #1 soundboard audio: soundboard > unknown FM > FLAC Broadcasted by "Studio Brussel".  
+* PRO #1 professional video: soundboard > unknown WEB > TS [720p] Sourced from the festival's official webstream.
+

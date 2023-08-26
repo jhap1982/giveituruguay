@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Nobody Weird Like Me
-The Adventures of Rain Dance Maggie
-Universally Speaking
-Me and My Friends
-The Getaway
-Snow ((Hey Oh))
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Nobody Weird Like Me
+7. The Adventures of Rain Dance Maggie
+8. Universally Speaking
+9. Me and My Friends
+10. The Getaway
+11. Snow ((Hey Oh))
+12. Higher Ground
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Sir Psycho Sexy
+16. They're Red Hot
+17. Give It Away
 
 ## Notes
 

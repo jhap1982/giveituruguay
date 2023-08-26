@@ -39,5 +39,4 @@ Around the World
 
 ## Recordings
 
-MIX #1
-mixed videosoundboard > unknown cameras? > MP4A three-camera mix surfaced on YouTube in March 2018.
+* MIX #1 mixed video: soundboard > unknown cameras ? > MP4A three-camera mix surfaced on YouTube in March 2018.

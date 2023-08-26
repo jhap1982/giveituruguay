@@ -47,10 +47,11 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings
 
-SBD #1
-soundboard audiosoundboard > unknownWEB > MP3Broadcasted by 101WKQX FM. The intro jam, "Scar Tissue", "Otherside", "Go Robot" and Josh's solo song are missing. There's no lossless transfer circulating of this recording.  PRO #1
-professional videosoundboard > unknownWEB > TS [720p]Streamed live by redbull.tv
+* SBD #1 soundboard audio: soundboard > unknown WEB > MP3 Broadcasted by 101WKQX FM. The intro jam, "Scar Tissue", "Otherside", "Go Robot" and Josh's solo song are missing. There's no lossless transfer circulating of this recording.  
+* PRO #1 professional video: soundboard > unknown WEB > TS [720p] Streamed live by redbull.tv

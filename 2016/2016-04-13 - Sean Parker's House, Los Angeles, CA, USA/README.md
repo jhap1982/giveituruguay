@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Can't Stop
-Otherside
-Californication
-By the Way
+1. Can't Stop
+2. Otherside
+3. Californication
+4. By the Way
 
 ## Notes
 

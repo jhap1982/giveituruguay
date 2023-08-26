@@ -31,5 +31,4 @@ Dark Necessities
 
 ## Recordings
 
-PRO #1
-professional videosoundboard > unknownWEB > MP4 [720p]Taken from the Rams' official web site.
+* PRO #1 professional video: soundboard > unknown WEB > MP4 [720p] Taken from the Rams' official web site.

@@ -2,17 +2,17 @@
 
 ## Setlist
 
-Can't Stop
-Sick Love
-Snow ((Hey Oh))
-Dark Necessities
-Universally Speaking
-This Ticonderoga
-Otherside
-Go Robot
-Soul to Squeeze
-Sick Love
-By the Way
+1. Can't Stop
+2. Sick Love
+3. Snow ((Hey Oh))
+4. Dark Necessities
+5. Universally Speaking
+6. This Ticonderoga
+7. Otherside
+8. Go Robot
+9. Soul to Squeeze
+10. Sick Love
+11. By the Way
 
 ## Notes
 

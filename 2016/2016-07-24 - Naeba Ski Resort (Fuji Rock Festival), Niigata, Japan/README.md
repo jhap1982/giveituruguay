@@ -43,17 +43,14 @@ Give It Away
 
 ### Additional Musicians
 
-Chris Warren  Nate Walcott  Samuel Banuelos
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings
 
-AUD #1
-audience audiounknown mic > unknown recorder? > FLACrecorded by Xavel  MTX #1
-matrix audiounknown mics > unknown recorders? > FLACThis recording is a matrix of AUD #1 + audio from three in-ear monitors which were used by the band on stage.
-AMT #1
-amateur videobuilt-in > unknown camera? > DVDrecorded by Xavel  PRO #1a
-professional videosoundboard > unknownHDTV > MP4 [720p]"Look Around", "The Getaway" and "Californication" were broadcasted on Japanese TV.
-
-
-PRO #1b
-professional videosoundboard > unknownHDTV > MP4 [720p]Includes "Otherside", "Look Around", "The Getaway", "Californication" and "Go Robot".
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by Xavel  
+* MTX #1 matrix audio: unknown mics > unknown recorders ? > FLAC This recording is a matrix of AUD #1 + audio from three in-ear monitors which were used by the band on stage.
+* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by Xavel  
+* PRO #1a professional video: soundboard > unknown HDTV > MP4 [720p] "Look Around", "The Getaway" and "Californication" were broadcasted on Japanese TV.
+* PRO #1b professional video: soundboard > unknown HDTV > MP4 [720p] Includes "Otherside", "Look Around", "The Getaway", "Californication" and "Go Robot".

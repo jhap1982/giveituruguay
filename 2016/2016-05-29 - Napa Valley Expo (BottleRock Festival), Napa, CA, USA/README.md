@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-What Is Soul? jam
-Snow ((Hey Oh))
-Dark Necessities
-Nobody Weird Like Me
-The Adventures of Rain Dance Maggie
-Otherside
-Right on Time
-The Getaway
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. What Is Soul? jam
+5. Snow ((Hey Oh))
+6. Dark Necessities
+7. Nobody Weird Like Me
+8. The Adventures of Rain Dance Maggie
+9. Otherside
+10. Right on Time
+11. The Getaway
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br>ENCORE BREAK
+16. Jam
+17. Around the World
+18. Give It Away
 
 ## Notes
 
