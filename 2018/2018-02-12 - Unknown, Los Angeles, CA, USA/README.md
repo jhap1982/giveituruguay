@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Anthony and Josh performed a 3-song acoustic set at Ellen’s 60th private birthday party.
+
 ## Media 
 
 <details>
@@ -16,10 +18,12 @@
 ## Line Up
 
 * Anthony Kiedis
-* Flea
 * Josh Klinghoffer
-* Chad Smith
 
 ### Additional Musicians
 
 ## Recordings
+
+## Links:
+
+* Ellen DeGeneres IG: https://www.instagram.com/ellendegeneres
