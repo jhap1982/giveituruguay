@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Scar Tissue
-Dark Necessities
-Parallel Universe
-Sick Love
-Right on Time
-Go Robot
-Californication
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Scar Tissue
+4. Dark Necessities
+5. Parallel Universe
+6. Sick Love
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Suck My Kiss
+11. I Could Have Lied
+12. By the Way
+<br>ENCORE BREAK
+13. Goodbye Angels
+14. Give It Away
 
 ## Notes
 

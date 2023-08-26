@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Parallel Universe
-Me and My Friends
-The Getaway
-Look Around
-Californication
-Go Robot
-Blood Sugar Sex Magik
-Show of Strength tease
-Sick Love
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Parallel Universe
+7. Me and My Friends
+8. The Getaway
+9. Look Around
+10. Californication
+11. Go Robot
+12. Blood Sugar Sex Magik
+13. Show of Strength tease
+14. Sick Love
+15. I Could Have Lied
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

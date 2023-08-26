@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Parallel Universe
-Me and My Friends
-Je Suis Venu Te Dire Que Je M'en Vais part of JOSH
-Feasting on the Flowers
-Look Around
-Californication
-Go Robot
-If You Have to Ask
-Hardcore Jollies tease
-Sick Love
-Under the Bridge
-By the Way
-ENCORE BREAK
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Parallel Universe
+7. Me and My Friends
+8. Je Suis Venu Te Dire Que Je M'en Vais part of JOSH
+9. Feasting on the Flowers
+10. Look Around
+11. Californication
+12. Go Robot
+13. If You Have to Ask
+14. Hardcore Jollies tease
+15. Sick Love
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Dreams of a Samurai
+19. Give It Away
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hard to Concentrate
-Nobody Weird Like Me
-Sick Love
-Tell Me Baby
-Go Robot
-Californication
-What Is Soul? jam
-Detroit
-The Power of Equality
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hard to Concentrate
+7. Nobody Weird Like Me
+8. Sick Love
+9. Tell Me Baby
+10. Go Robot
+11. Californication
+12. What Is Soul? jam
+13. Detroit
+14. The Power of Equality
+15. I Could Have Lied
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

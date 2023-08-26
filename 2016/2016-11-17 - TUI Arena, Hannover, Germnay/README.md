@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Yertle the Turtle
-Freaky Styley part of
-Atomic Dog tease
-Look Around
-I'm So Tired part of JOSH
-We Turn Red
-Californication
-Go Robot
-She's Only 18
-Sick Love
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Yertle the Turtle
+7. Freaky Styley part of
+8. Atomic Dog tease
+9. Look Around
+10. I'm So Tired part of JOSH
+11. We Turn Red
+12. Californication
+13. Go Robot
+14. She's Only 18
+15. Sick Love
+16. Suck My Kiss
+17. Under the Bridge
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Dreams of a Samurai
+21. Give It Away
 
 ## Notes
 

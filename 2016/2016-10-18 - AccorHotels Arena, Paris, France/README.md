@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Wet Sand
-Factory of Faith
-The Longest Wave
-Did I Let You Know
-Go Robot
-Californication
-What Is Soul? jam
-Sick Love
-The Power of Equality
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Wet Sand
+7. Factory of Faith
+8. The Longest Wave
+9. Did I Let You Know
+10. Go Robot
+11. Californication
+12. What Is Soul? jam
+13. Sick Love
+14. The Power of Equality
+15. Soul to Squeeze
+16. By the Way
+<br>ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

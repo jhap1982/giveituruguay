@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Dreams of a Samurai
-Soul to Squeeze
-Go Robot
-Californication
-The Getaway
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Heroes part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Nobody Weird Like Me
+8. Dreams of a Samurai
+9. Soul to Squeeze
+10. Go Robot
+11. Californication
+12. The Getaway
+13. Suck My Kiss
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Heroes part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

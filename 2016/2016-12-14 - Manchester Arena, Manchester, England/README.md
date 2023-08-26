@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Go Robot
-Californication
-Sick Love
-Don't Forget Me
-Aeroplane
-Higher Ground
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Nobody Weird Like Me
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Don't Forget Me
+12. Aeroplane
+13. Higher Ground
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

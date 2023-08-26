@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Wet Sand
-Me and My Friends
-Go Robot
-Parallel Universe
-Sick Love
-Don't Forget Me
-The Getaway
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Wet Sand
+7. Me and My Friends
+8. Go Robot
+9. Parallel Universe
+10. Sick Love
+11. Don't Forget Me
+12. The Getaway
+13. Higher Ground
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 

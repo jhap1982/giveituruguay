@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-Me and My Friends
-Go Robot
-Californication
-Sick Love
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Magic Johnson tease
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Anthem part of JOSH
-War Pigs tease
-Goodbye Angels
-Mommy Where's Daddy?
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Sir Psycho Sexy
+12. They're Red Hot
+13. Ethiopia
+14. Magic Johnson tease
+15. Suck My Kiss
+16. Under the Bridge
+17. By the Way
+<br>ENCORE BREAK
+18. Anthem part of JOSH
+19. War Pigs tease
+20. Goodbye Angels
+21. Mommy Where's Daddy?
+22. Give It Away
 
 ## Notes
 

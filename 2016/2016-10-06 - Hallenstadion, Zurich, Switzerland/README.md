@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-She's Only 18
-Look Around
-The Longest Wave
-The Power of Equality
-Californication
-Go Robot
-Aeroplane
-Sick Love
-Jack the Ripper part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. She's Only 18
+7. Look Around
+8. The Longest Wave
+9. The Power of Equality
+10. Californication
+11. Go Robot
+12. Aeroplane
+13. Sick Love
+14. Jack the Ripper part of JOSH
+15. Under the Bridge
+16. By the Way
+<br>ENCORE BREAK
+17. Jam
+18. Dreams of a Samurai
+19. Give It Away
 
 ## Notes
 

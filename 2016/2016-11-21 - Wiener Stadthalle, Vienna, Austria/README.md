@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-This Is the Place tease
-Right on Time
-Universally Speaking
-Go Robot
-Californication
-Detroit
-Blood Sugar Sex Magik
-Show of Strength tease
-All Night Thing part of JOSH
-Goodbye Angels
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. This Is the Place tease
+8. Right on Time
+9. Universally Speaking
+10. Go Robot
+11. Californication
+12. Detroit
+13. Blood Sugar Sex Magik
+14. Show of Strength tease
+15. All Night Thing part of JOSH
+16. Goodbye Angels
+17. I Could Have Lied
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Dreams of a Samurai
+21. Give It Away
 
 ## Notes
 

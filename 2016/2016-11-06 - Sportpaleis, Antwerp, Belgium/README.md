@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Cosmic Dancer part of JOSH
-Get It On part of JOSH
-Did I Let You Know
-Go Robot
-Right on Time
-Feasting on the Flowers
-Aeroplane
-Detroit
-Californication
-Nervous Breakdown part of FLEA
-Goodbye Angels
-If It Be Your Will part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-My Death part of JOSH
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Cosmic Dancer part of JOSH
+7. Get It On part of JOSH
+8. Did I Let You Know
+9. Go Robot
+10. Right on Time
+11. Feasting on the Flowers
+12. Aeroplane
+13. Detroit
+14. Californication
+15. Nervous Breakdown part of FLEA
+16. Goodbye Angels
+17. If It Be Your Will part of JOSH
+18. Under the Bridge
+19. By the Way
+<br> ENCORE BREAK
+20. My Death part of JOSH
+21. Dreams of a Samurai
+22. Give It Away
 
 ## Notes
 

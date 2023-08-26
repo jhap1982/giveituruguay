@@ -2,26 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Nobody Weird Like Me
-Hard to Concentrate
-Go Robot
-Parallel Universe
-Sick Love
-Tell Me Baby
-The Getaway
-Did I Let You Know
-Under the Bridge
-By the Way
-ENCORE BREAK
-Iron Man tease
-Dreams of a Samurai
-Give It Away
-
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Nobody Weird Like Me
+7. Hard to Concentrate
+8. Go Robot
+9. Parallel Universe
+10. Sick Love
+11. Tell Me Baby
+12. The Getaway
+13. Did I Let You Know
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Iron Man tease
+17. Dreams of a Samurai
+18. Give It Away
 
 ## Notes
 

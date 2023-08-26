@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Fire
-Sick Love
-Parallel Universe
-Go Robot
-Californication
-What Is Soul? jam
-The Getaway
-Higher Ground
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Field Commander Cohen part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Fire
+8. Sick Love
+9. Parallel Universe
+10. Go Robot
+11. Californication
+12. What Is Soul? jam
+13. The Getaway
+14. Higher Ground
+15. I Could Have Lied
+16. By the Way
+<br> ENCORE BREAK
+17. Field Commander Cohen part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-Look Around
-Go Robot
-Californication
-Sick Love
-Don't Forget Me
-The Getaway
-Blood Sugar Sex Magik
-Show of Strength tease
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Look Around
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Don't Forget Me
+12. The Getaway
+13. Blood Sugar Sex Magik
+14. Show of Strength tease
+15. I Could Have Lied
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

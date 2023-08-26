@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Freaky Styley part of
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-Wet Sand
-Me and My Friends
-Go Robot
-Californication
-Sick Love
-Don't Forget Me
-Watching the Wheels part of JOSH
-The Getaway
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Freaky Styley part of
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Wet Sand
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Don't Forget Me
+12. Watching the Wheels part of JOSH
+13. The Getaway
+14. Higher Ground
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

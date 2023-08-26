@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Sick Love
-Aeroplane
-Go Robot
-Californication
-The Getaway
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Je Suis Venu Te Dire Que Je M'en Vais part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Sick Love
+9. Aeroplane
+10. Go Robot
+11. Californication
+12. The Getaway
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Je Suis Venu Te Dire Que Je M'en Vais part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

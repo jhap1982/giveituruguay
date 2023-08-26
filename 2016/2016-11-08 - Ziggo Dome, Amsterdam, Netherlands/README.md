@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Pea
-Wet Sand
-Go Robot
-She's Only 18
-Factory of Faith
-Californication
-Sick Love
-The Power of Equality
-Encore tease
-Goodbye Angels
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Pea
+7. Wet Sand
+8. Go  Robot
+9. She's Only 18
+10. Factory of Faith
+11. Californication
+12. Sick Love
+13. The Power of Equality
+14. Encore tease
+15. Goodbye Angels
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Dreams of a Samurai
+20. Give It Away
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Go Robot
-Emit Remmus
-Californication
-Feasting on the Flowers
-Aeroplane
-Freaky Styley tease
-Catholic School Girls Rule tease
-Sick Love
-Higher Ground
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Go Robot
+8. Emit Remmus
+9. Californication
+10. Feasting on the Flowers
+11. Aeroplane
+12. Freaky Styley tease
+13. Catholic School Girls Rule tease
+14. Sick Love
+15. Higher Ground
+16. I Could Have Lied
+17. By the Way
+<br> ENCORE BREAK
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

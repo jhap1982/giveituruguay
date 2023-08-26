@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Hey
-Look Around
-Go Robot
-Parallel Universe
-Sick Love
-Aeroplane
-Goodbye Angels
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Look Around
+8. Go Robot
+9. Parallel Universe
+10. Sick Love
+11. Aeroplane
+12. Goodbye Angels
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Dreams of a Samurai
+18. Give It Away
 
 ## Notes
 
