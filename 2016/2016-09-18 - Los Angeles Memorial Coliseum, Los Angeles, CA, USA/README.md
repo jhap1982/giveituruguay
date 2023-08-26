@@ -2,8 +2,8 @@
 
 ## Setlist
 
-Can't Stop
-Dark Necessities
+1. Can't Stop
+2. Dark Necessities
 
 ## Notes
 

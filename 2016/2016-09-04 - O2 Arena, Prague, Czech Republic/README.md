@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Suck My Kiss
-Scar Tissue
-Dark Necessities
-Parallel Universe
-Nobody Weird Like Me
-Snow ((Hey Oh))
-Go Robot
-Californication
-What Is Soul? jam
-Factory of Faith
-Goodbye Angels
-This Is Where I Belong part of JOSH
-Under the Bridge
-Sick Love
-By the Way
-Jam
-ENCORE BREAK
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Suck My Kiss
+4. Scar Tissue
+5. Dark Necessities
+6. Parallel Universe
+7. Nobody Weird Like Me
+8. Snow ((Hey Oh))
+9. Go Robot
+10. Californication
+11. What Is Soul? jam
+12. Factory of Faith
+13. Goodbye Angels
+14. This Is Where I Belong part of JOSH
+15. Under the Bridge
+16. Sick Love
+17. By the Way
+18. Jam
+<br> ENCORE BREAK
+19. Dreams of a Samurai
+20. Give It Away
 
 ## Notes
 

@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Dark Necessities
-Otherside
-Tell Me Baby
-The Getaway
-Snow ((Hey Oh))
-Go Robot
-Californication
-Look Around
-Soul to Squeeze
-Sick Love
-By the Way
-ENCORE BREAK
-Lust for Life tease
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Dark Necessities
+5. Otherside
+6. Tell Me Baby
+7. The Getaway
+8. Snow ((Hey Oh))
+9. Go Robot
+10. Californication
+11. Look Around
+12. Soul to Squeeze
+13. Sick Love
+14. By the Way
+<br> ENCORE BREAK
+15. Lust for Life tease
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 

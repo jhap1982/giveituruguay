@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Nobody Weird Like Me
-Strangers part of JOSH
-Otherside
-Look Around
-The Getaway
-Suck My Kiss
-Go Robot
-Californication
-Under the Bridge
-Detroit
-By the Way
-ENCORE BREAK
-Jam
-Soul to Squeeze
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Nobody Weird Like Me
+7. Strangers part of JOSH
+8. Otherside
+9. Look Around
+10. The Getaway
+11. Suck My Kiss
+12. Go Robot
+13. Californication
+14. Under the Bridge
+15. Detroit
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Soul to Squeeze
+19. Give It Away
 
 ## Notes
 

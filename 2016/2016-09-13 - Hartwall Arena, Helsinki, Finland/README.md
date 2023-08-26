@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Sick Love
-Snow ((Hey Oh))
-Parallel Universe
-Go Robot
-Hybrid Moments part of JOSH
-Did I Let You Know
-Californication
-Soul to Squeeze
-Suck My Kiss
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Scar Tissue
+4. Dark Necessities
+5. The Adventures of Rain Dance Maggie
+6. Nobody Weird Like Me
+7. Sick Love
+8. Snow ((Hey Oh))
+9. Parallel Universe
+10. Go Robot
+11. Hybrid Moments part of JOSH
+12. Did I Let You Know
+13. Californication
+14. Soul to Squeeze
+15. Suck My Kiss
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

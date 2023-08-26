@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-We Turn Red
-Snow ((Hey Oh))
-Ethiopia
-Nobody Weird Like Me
-Rain part of JOSH
-Dark Necessities
-She's Only 18
-Tell Me Baby
-The Getaway
-Californication
-By the Way
-ENCORE BREAK
-Tonight part of JOSH
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. We Turn Red
+6. Snow ((Hey Oh))
+7. Ethiopia
+8. Nobody Weird Like Me
+9. Rain part of JOSH
+10. Dark Necessities
+11. She's Only 18
+12. Tell Me Baby
+13. The Getaway
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Tonight part of JOSH
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

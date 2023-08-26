@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-If You Have to Ask
-Hardcore Jollies tease
-Nobody Weird Like Me
-Otherside
-The Getaway
-Californication
-Ethiopia
-Go Robot
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Nobody Weird Like Me
+9. Otherside
+10. The Getaway
+11. Californication
+12. Ethiopia
+13. Go Robot
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Tell Me Baby
-Otherside
-Atmosphere part of JOSH
-The Getaway
-Go Robot
-Californication
-Under the Bridge
-Detroit
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Tell Me Baby
+9. Otherside
+10. Atmosphere part of JOSH
+11. The Getaway
+12. Go Robot
+13. Californication
+14. Under the Bridge
+15. Detroit
+16. By the Way
+<br> ENCORE BREAK
+17. Soul to Squeeze
+18. Give It Away
 
 ## Notes
 

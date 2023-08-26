@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Dark Necessities
-She's Only 18
-Search and Destroy
-Blood Sugar Sex Magik
-Show of Strength tease
-Go Robot
-Californication
-The Getaway
-Look Around
-Try Again part of JOSH
-Under the Bridge
-Sick Love
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. She's Only 18
+7. Search and Destroy
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Go Robot
+11. Californication
+12. The Getaway
+13. Look Around
+14. Try Again part of JOSH
+15. Under the Bridge
+16. Sick Love
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-She's Only 18
-Me and My Friends
-Goodbye Angels
-Parallel Universe
-Go Robot
-The Adventures of Rain Dance Maggie
-Under the Bridge
-I'm So Tired part of JOSH
-Detroit
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. She's Only 18
+7. Me and My Friends
+8. Goodbye Angels
+9. Parallel Universe
+10. Go Robot
+11. The Adventures of Rain Dance Maggie
+12. Under the Bridge
+13. I'm So Tired part of JOSH
+14. Detroit
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Dreams of a Samurai
+19. Give It Away
 
 ## Notes
 

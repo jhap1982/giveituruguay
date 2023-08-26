@@ -2,30 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Snow ((Hey Oh))
-Look Around
-The Getaway
-Otherside
-Suck My Kiss
-Go Robot
-Californication
-Parallel Universe
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Snow ((Hey Oh))
+7. Look Around
+8. The Getaway
+9. Otherside
+10. Suck My Kiss
+11. Go Robot
+12. Californication
+13. Parallel Universe
+14. Under the Bridge
+15. By the Way
+<br>ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 
 **Attendance**: 37,255 / 37,255 (100%)
-
 
 ## Media 
 

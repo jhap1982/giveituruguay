@@ -2,16 +2,16 @@
 
 ## Setlist
 
-Dark Necessities
-Give It Away
-SET TWO
-We Turn Red
-The Longest Wave
-Nobody Weird Like Me
-The Getaway
-Go Robot
-By the Way
-
+<br>**SET ONE**
+1. Dark Necessities
+2. Give It Away
+<br>**SET TWO**
+1. We Turn Red
+2. The Longest Wave
+3. Nobody Weird Like Me
+4. The Getaway
+5. Go Robot
+6. By the Way
 
 ## Notes
 

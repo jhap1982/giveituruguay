@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Blood Sugar Sex Magik
-Show of Strength tease
-Cry Baby Cry part of JOSH
-Me and My Friends
-The Longest Wave
-Look Around
-Californication
-What Is Soul? jam
-Go Robot
-Aeroplane
-Detroit
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Blood Sugar Sex Magik
+7. Show of Strength tease
+8. Cry Baby Cry part of JOSH
+9. Me and My Friends
+10. The Longest Wave
+11. Look Around
+12. Californication
+13. What Is Soul? jam
+14. Go Robot
+15. Aeroplane
+16. Detroit
+17. Under the Bridge
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Dreams of a Samurai
+21. Give It Away
 
 ## Notes
 

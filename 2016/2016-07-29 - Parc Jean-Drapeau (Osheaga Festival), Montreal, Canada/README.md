@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Chelsea Hotel #2 part of JOSH
-Snow ((Hey Oh))
-Look Around
-Otherside
-The Getaway
-Californication
-Tell Me Baby
-Go Robot
-Parallel Universe
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Break on Through (to the Other Side) tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Chelsea Hotel #2 part of JOSH
+7. Snow ((Hey Oh))
+8. Look Around
+9. Otherside
+10. The Getaway
+11. Californication
+12. Tell Me Baby
+13. Go Robot
+14. Parallel Universe
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Break on Through (to the Other Side) tease
+19. Give It Away
 
 ## Notes
 

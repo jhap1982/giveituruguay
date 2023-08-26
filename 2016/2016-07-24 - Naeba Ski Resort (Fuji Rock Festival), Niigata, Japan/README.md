@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Intro Jam
-Goodbye Angels
-Dani California
-Scar Tissue
-Dark Necessities
-Parallel Universe
-Otherside
-Look Around
-The Getaway
-Californication
-Go Robot
-Under the Bridge
-Detroit
-By the Way
-ENCORE BREAK
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Goodbye Angels
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Parallel Universe
+7. Otherside
+8. Look Around
+9. The Getaway
+10. Californication
+11. Go Robot
+12. Under the Bridge
+13. Detroit
+14. By the Way
+<br> ENCORE BREAK
+15. Dreams of a Samurai
+16. Give It Away
 
 ## Notes
 

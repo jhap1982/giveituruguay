@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-If You Have to Ask
-Hardcore Jollies tease
-Right on Time
-The Getaway
-Ethiopia
-Californication
-Go Robot
-D'yer Mak'er tease
-Suck My Kiss
-Sick Love
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Right on Time
+9. The Getaway
+10. Ethiopia
+11. Californication
+12. Go Robot
+13. D'yer Mak'er tease
+14. Suck My Kiss
+15. Sick Love
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

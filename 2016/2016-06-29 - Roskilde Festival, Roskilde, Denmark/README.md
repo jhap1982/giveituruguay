@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-We Turn Red
-This Is Where I Belong part of JOSH
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Right on Time
-Dark Necessities
-Tell Me Baby
-The Getaway
-Californication
-Detroit
-By the Way
-ENCORE BREAK
-Jam
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. We Turn Red
+6. This Is Where I Belong part of JOSH
+7. Snow ((Hey Oh))
+8. The Adventures of Rain Dance Maggie
+9. Right on Time
+10. Dark Necessities
+11. Tell Me Baby
+12. The Getaway
+13. Californication
+14. Detroit
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

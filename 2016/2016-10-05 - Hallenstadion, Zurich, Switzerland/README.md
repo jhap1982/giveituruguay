@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hard to Concentrate
-Nobody Weird Like Me
-Sick Love
-Ethiopia
-Go Robot
-Californication
-The Getaway
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Across the Universe part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hard to Concentrate
+7. Nobody Weird Like Me
+8. Sick Love
+9. Ethiopia
+10. Go Robot
+11. Californication
+12. The Getaway
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Across the Universe part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

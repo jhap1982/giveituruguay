@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Sick Love
-Otherside
-Me and My Friends
-Wet Sand
-Dark Necessities
-Blood Sugar Sex Magik
-Show of Strength tease
-Go Robot
-Californication
-The Longest Wave
-Higher Ground
-I'm on Fire part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Sick Love
+5. Otherside
+6. Me and My Friends
+7. Wet Sand
+8. Dark Necessities
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. Go Robot
+12. Californication
+13. The Longest Wave
+14. Higher Ground
+15. I'm on Fire part of JOSH
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Dreams of a Samurai
+20. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-We Turn Red
-Scar Tissue
-Right on Time
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Aeroplane
-Go Robot
-Californication
-Detroit
-Under the Bridge
-By the Way
-ENCORE BREAK
-Your Eyes Girl jam
-The Getaway
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. We Turn Red
+5. Scar Tissue
+6. Right on Time
+7. Snow ((Hey Oh))
+8. Dark Necessities
+9. The Adventures of Rain Dance Maggie
+10. Aeroplane
+11. Go Robot
+12. Californication
+13. Detroit
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Your Eyes Girl jam
+17. The Getaway
+18. Give It Away
 
 ## Notes
 

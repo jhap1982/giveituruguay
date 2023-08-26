@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Blood Sugar Sex Magik
-Show of Strength tease
-Right on Time
-Wet Sand
-Factory of Faith
-The Getaway
-Californication
-Go Robot
-Strangers part of JOSH
-Under the Bridge
-Detroit
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Blood Sugar Sex Magik
+7. Show of Strength tease
+8. Right on Time
+9. Wet Sand
+10. Factory of Faith
+11. The Getaway
+12. Californication
+13. Go Robot
+14. Strangers part of JOSH
+15. Under the Bridge
+16. Detroit
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Around the World
+20. Give It Away
 
 ## Notes
 

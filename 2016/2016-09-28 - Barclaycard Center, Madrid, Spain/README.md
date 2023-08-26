@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Parallel Universe
-Nobody Weird Like Me
-Sick Love
-Look Around
-Californication
-Go Robot
-Sir Psycho Sexy
-They're Red Hot
-This Ticonderoga
-Until Then part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Parallel Universe
+7. Nobody Weird Like Me
+8. Sick Love
+9. Look Around
+10. Californication
+11. Go Robot
+12. Sir Psycho Sexy
+13. They're Red Hot
+14. This Ticonderoga
+15. Until Then part of JOSH
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Dreams of a Samurai
+20. Give It Away
 
 ## Notes
 

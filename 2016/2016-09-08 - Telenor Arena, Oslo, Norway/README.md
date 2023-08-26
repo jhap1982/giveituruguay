@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Dark Necessities
-Dani California
-Scar Tissue
-The Adventures of Rain Dance Maggie
-Right on Time
-Parallel Universe
-Feasting on the Flowers
-Snow ((Hey Oh))
-Sir Psycho Sexy
-They're Red Hot
-Wild World part of JOSH
-Go Robot
-Californication
-Under the Bridge
-Sick Love
-By the Way
-ENCORE BREAK
-What Is Soul? jam
-Dreams of a Samurai
-Give It Away
+1. Intro Jam
+2. Dark Necessities
+3. Dani California
+4. Scar Tissue
+5. The Adventures of Rain Dance Maggie
+6. Right on Time
+7. Parallel Universe
+8. Feasting on the Flowers
+9. Snow ((Hey Oh))
+10. Sir Psycho Sexy
+11. They're Red Hot
+12. Wild World part of JOSH
+13. Go Robot
+14. Californication
+15. Under the Bridge
+16. Sick Love
+17. By the Way
+<br> ENCORE BREAK
+18. What Is Soul? jam
+19. Dreams of a Samurai
+20. Give It Away
 
 ## Notes
 

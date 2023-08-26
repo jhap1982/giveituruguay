@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-We Turn Red
-Otherside
-Nobody Weird Like Me
-Snow ((Hey Oh))
-Dark Necessities
-Magic Johnson tease
-She's Only 18
-Go Robot
-Californication
-Close My Eyes part of JOSH
-Around the World
-Detroit
-I Wanna Be Your Dog part of
-By the Way
-ENCORE BREAK
-Warszawa part of JOSH
-The Getaway
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. We Turn Red
+5. Otherside
+6. Nobody Weird Like Me
+7. Snow ((Hey Oh))
+8. Dark Necessities
+9. Magic Johnson tease
+10. She's Only 18
+11. Go Robot
+12. Californication
+13. Close My Eyes part of JOSH
+14. Around the World
+15. Detroit
+16. I Wanna Be Your Dog part of
+17. By the Way
+<br> ENCORE BREAK
+18. Warszawa part of JOSH
+19. The Getaway
+20. Give It Away
 
 ## Notes
 

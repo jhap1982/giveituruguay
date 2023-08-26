@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Dani California
-Otherside
-Dark Necessities
-Universally Speaking
-Right on Time
-Snow ((Hey Oh))
-Go Robot
-Californication
-We Turn Red
-Look Around
-Blackbird tease JOSH
-I Want to Hold Your Hand part of JOSH
-Under the Bridge
-She's Lost Control tease
-Sick Love
-Around the World
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. By the Way
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. Universally Speaking
+7. Right on Time
+8. Snow ((Hey Oh))
+9. Go Robot
+10. Californication
+11. We Turn Red
+12. Look Around
+13. Blackbird tease JOSH
+14. I Want to Hold Your Hand part of JOSH
+15. Under the Bridge
+16. She's Lost Control tease
+17. Sick Love
+18. Around the World
+<br> ENCORE BREAK
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

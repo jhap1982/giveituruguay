@@ -2,16 +2,16 @@
 
 ## Setlist
 
-By the Way
-Dark Necessities
-Close My Eyes part of JOSH
-Otherside
-Parallel Universe
-Sick Love
-Mommy Where's Daddy?
-Goodbye Angels
-Californication
-Around the World
+1. By the Way
+2. Dark Necessities
+3. Close My Eyes part of JOSH
+4. Otherside
+5. Parallel Universe
+6. Sick Love
+7. Mommy Where's Daddy?
+8. Goodbye Angels
+9. Californication
+10. Around the World
 
 ## Notes
 
