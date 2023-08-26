@@ -5162,6 +5162,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2018</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -5169,6 +5170,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td title="jhap1982 whas here! ;)">2018-03-16 - Hipodromo de San Isidro (Lollapalooza Festival), Buenos Aires, Argentina</td>
@@ -5205,64 +5207,89 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2019-01-09 - Microsoft Theater, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][541 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-01-13 - Hollywood Palladium, Los Angeles, CA, USA</td>
+                            <td>[AUD #1][FLAC][503 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-02-10 - Staples Center (Grammy Awards), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>[PRO #1][YT][MP4][152 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-02-19 - Qudos Bank Arena, Sydney, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][199 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-02-23 - Hope Estate, Pokolbin, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][201 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-02-25 - Brisbane Entertainment Centre, Brisbane, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][216 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-02-26 - Brisbane Entertainment Centre, Brisbane, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][198 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-28 - Rod Laver Arena, Melbourne, Australia</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][205 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-03-02 - Mt Duneed Estate, Geelong, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][207 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-03-03 - Victoria Park (Superloop Adelaide 500), Adelaide, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][195 MB]</td>
                         </tr>
                         
                         <tr>
                             <td>2019-03-05 - HBF Park, Perth, Australia</td>
-                            <td>[SBD][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD][LiveChiliPeppers][MP3][200 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-03-15 - Giza Pyramid Complex, Giza, Egypt</td>
-                            <td>[PRO #1][YT][MKV]</td>
+                            <td>[PRO #1][YT][MKV][2,73 GB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-08-16 - Maishima Sonic Park (Summer Sonic Festival), Osaka, Japan</td>
+                            <td>[MTX #1][MP3][147 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2019-08-17 - Zozo Marine Stadium (Summer Sonic Festival), Tokyo, Japan</td>
-                            <td>[PRO #1][1080p][TS]</td>
+                            <td>
+                                [PRO #1][1080p][TS][689 MB]<br/>
+                                [MTX #1][MP3][206 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-09-04 - Du Arena at Yas Island, Abu Dhabi, United Arab Emirates</td>
+                            <td>
+                                [AUD #1][MP3][173 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2019-10-03 - Parque Olímpico Cidade do Rock (Rock in Rio Festival), Rio De Janeiro, Brazil</td>
                             <td>
-                                [PRO #1][HDTV][MKV] <br/>
-                                [PRO #2][WEB][MKV]
+                                [PRO #1][HDTV][1080p][MKV][7,94 GB] <br/>
+                                [PRO #2][WEB][720p][MKV][1,63 GB]
                             </td>
                         </tr>
                     </tbody>

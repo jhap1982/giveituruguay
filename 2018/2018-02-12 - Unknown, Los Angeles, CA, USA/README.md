@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Anthony and Josh performed a 3-song acoustic set at Ellen’s 60th private birthday party.
+> Anthony and Josh performed a 3-song acoustic set at Ellen's 60th private birthday party.
 
 ## Media 
 
@@ -26,4 +26,4 @@
 
 ## Links:
 
-* Ellen DeGeneres IG: https://www.instagram.com/ellendegeneres
+* Ellen DeGeneres IG: https://www.instagram.com/ellendegeneresv 
