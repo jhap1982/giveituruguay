@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Otherside 
+
 ## Notes
 
 ## Media 
@@ -23,3 +25,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD

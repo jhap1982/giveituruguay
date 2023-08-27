@@ -1136,6 +1136,11 @@ const WhatIHave = ({ onBack }) => {
                     </thead>
 
                     <tbody>
+
+                        <tr>
+                            <td>1996-02-08 - Fleet Center, Boston, MA, USA</td>
+                            <td>[PRO #1][DVD][205 MB]</td>
+                        </tr>
                         <tr>
                             <td>1996-02-09 - Madison Square Garden, New York, NY, USA</td>
                             <td>
@@ -1153,7 +1158,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1996-02-13 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA</td>
-                            <td>[PRO #1][MPG][74,5 MB]</td>
+                            <td>
+                                [PRO #1][DVD][277 MB] <br />
+                                [PRO #1][MPG][74,5 MB]
+                            </td>
                         </tr> 
 
                         <tr>
@@ -1914,6 +1922,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-11-30 - Shrine Auditorium (VH1 Music Awards), Los Angeles, CA, USA</td>
                             <td>
+                                [PRO #1][DVD][159 MB] <br />
                                 [PRO #1][MPG][44,8 MB]
                             </td>
                         </tr>
