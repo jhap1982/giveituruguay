@@ -1,0 +1,63 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+November 21, 1989
+Phantasy Theater
+Lakewood, OH
+
+
+TRACKS:
+01. Out In L.A.
+02. Higher Ground
+03. Hollywood
+04. [Anthony #1]
+05. Knock Me Down
+06. Magic Johnson
+07. Subterranean Homesick Blues
+08. [Anthony #2]
+09. Subway To Venus
+10. Jam
+11. Castles Made Of Sand
+12. Me And My Friends
+13. Nevermind
+
+LENGTH:
+36:10
+
+SOURCE (SBD #3):
+Soundboard > unknown recorder
+
+TRANSFER:
+Sony TC-252 > Sony Sound Forge > Adobe Audition 1.5 > CD Wave 1.97 > Trader's Little Helper 2.2.2 (Build 152)
+
+GENERATION:
+REEL(Master) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This comes straight from a Westwood One pre-FM master reel (High Voltage, Show #91-06, Reel #1) which also featured a set by Suicidal Tendencies (not included here). The broadcast was to be aired the week of February 4th 1991. It doesn't feature the complete concert though, just a couple of songs were included, along with some spoken words about the RHCP by Anthony. Any commercials, which initially were on the reel as well have been entirely removed. Scans of the broadcast's cue sheet are also included. There are other sources from the same performance which feature tracks not included here and vise versa, all being post-FM recordings.
+
+MD5 FINGERPRINTS:
+d36b8f5b0449d3882a53bd2c8edd298d *RHCP_1989-11-21_PRE-FM_t01.flac
+0e0b1fa67cc9461398c9135a1bb4d23d *RHCP_1989-11-21_PRE-FM_t02.flac
+ac42b0cf0036b02b6e33125bb1e3579d *RHCP_1989-11-21_PRE-FM_t03.flac
+121239e24f828adbcfef0570c32951b7 *RHCP_1989-11-21_PRE-FM_t04.flac
+f6abcc40285e2a072d89349b614aa5da *RHCP_1989-11-21_PRE-FM_t05.flac
+d0229c7f61e61940ffcc7b27afa2c8c6 *RHCP_1989-11-21_PRE-FM_t06.flac
+e96884ffe1b3c2bca8dd37908df62373 *RHCP_1989-11-21_PRE-FM_t07.flac
+28d9d5ae1e7637f512e8b45f813e8ae6 *RHCP_1989-11-21_PRE-FM_t08.flac
+1ae7a5e30b3692ec88c930487bbbe2b5 *RHCP_1989-11-21_PRE-FM_t09.flac
+095e1b8c99d17a976eb2c3996dc58c82 *RHCP_1989-11-21_PRE-FM_t10.flac
+e55e8dfd95d85950505a8be3e114186c *RHCP_1989-11-21_PRE-FM_t11.flac
+f72bc7e7df9b477e73d943a1d5d4d1c1 *RHCP_1989-11-21_PRE-FM_t12.flac
+071975530e84a7eb24291e0d3e10a1db *RHCP_1989-11-21_PRE-FM_t13.flac
+
+TRANSFERRED BY:
+Tappy
+
+COMPILED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
+
