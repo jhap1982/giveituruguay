@@ -1,0 +1,78 @@
+Red Hot Chili Peppers
+
+October 28, 1992 - Mt. Smart Supertop, Auckland, New Zealand
+
+
+LENGTH: 84:01
+-----------------
+01. Give It Away
+02. Backwoods
+03. Bullet Proof [George Clinton cover]
+04. My Automobile [Flea: Parliament cover]
+05. Suck My Kiss
+06. Nobody Weird Like Me
+07. Improv.
+08. If You Have To Ask
+09. My Lovely Man
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Higher Ground [Stevie Wonder cover]
+13. Magic Johnson
+14. Under The Bridge
+15. Gimme Gimme Gimme [Black Flag cover]
+16. Fopp [Ohio Players cover]
+17. Party On Your Pussy
+18. Red Hot Mama [Funkadelic cover]
+19. The Needle And The Damage Done [Flea: Neil Young cover]
+20. Me And My Friends
+ENCORE
+21. Mommy, Where's Daddy
+22. Crosstown Traffic [Jimi Hendrix cover] (cuts out after the song)
+
+
+GENERATION
+-----------------
+VHS(1) > DVD-R > WAV [44.1kHz] > FLAC [Level 8]
+
+
+SOURCE (Pro-Shot)
+-----------------
+TV > unknown video recorder // VHS > Toshiba D-R1 DVD Recorder > DVD-R 
+
+[DVD Audio Coding mode: LPCM (48kHz, 16-bit, 2Ch)]
+
+
+TRANSFER
+-----------------
+SONY DVD RW DW-G120A > DVD Audio Extractor 3.4.1 > Adobe Audition 1.5 > Trader's Little Helper 1.1.0
+
+
+FLAC FINGERPRINTS
+-----------------
+rhcp1992-10-28t01.flac:bafddd98b1867caace3921c77762f907
+rhcp1992-10-28t02.flac:e60d903f4e4131a5fbe46a7ec3852384
+rhcp1992-10-28t03.flac:bfd50dca528e1db1d80aa10ab0d672ba
+rhcp1992-10-28t04.flac:46b5caf3ada661b1c08e5564a6e500b2
+rhcp1992-10-28t05.flac:398c08dcb1045b6ccb5079c59f0f36aa
+rhcp1992-10-28t06.flac:f16008aa0020bdb366ba0693b48c667d
+rhcp1992-10-28t07.flac:152bc2b125fe6c3791eaa50766244570
+rhcp1992-10-28t08.flac:db9bf977343d2c8688d5b8380ccf11fc
+rhcp1992-10-28t09.flac:3d73304f0a7050c90e82ec67b9852176
+rhcp1992-10-28t10.flac:90abc2240aafb44a290a4d96e53f9ff4
+rhcp1992-10-28t11.flac:7fa451af5aeaf047ab4946ac69b12e45
+rhcp1992-10-28t12.flac:a69dd3e5c886e5158ad37483e1b2e809
+rhcp1992-10-28t13.flac:abc91490da954db6b824f14b76ec06b9
+rhcp1992-10-28t14.flac:b1fde2c9d23124c8b183be55df445dd3
+rhcp1992-10-28t15.flac:90e9b01c5d44891fa7df1826ad6d405c
+rhcp1992-10-28t16.flac:fffea41bbc9ab0c33a59d76753bb80fb
+rhcp1992-10-28t17.flac:40851c4dbe6c37f7281e4ae04eb95baa
+rhcp1992-10-28t18.flac:d6da900b09d7b003fd98f34918a1d260
+rhcp1992-10-28t19.flac:4cbfbd3ec7fbde4bb51c71665599bc27
+rhcp1992-10-28t20.flac:30d43ca76c5b67a10c6934b6520ba568
+rhcp1992-10-28t21.flac:e726e4fc4441b8658efbaa853a095a00
+rhcp1992-10-28t22.flac:0c2d73a6dcbc13894ccddf4966aa4f81
+
+
+DVD converted by Sikamikanico Jan. 4, 2007, first seed at TTD Jan. 4, 2007
+- PLEASE DO NOT ENCODE TO MP3 OR SELL!
+- DO NOT REMASTER without notifing me: sikamikanico83[at]yahoo[dot]de

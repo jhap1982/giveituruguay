@@ -1,0 +1,80 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+August 7, 1992
+Great Woods Performing Arts Cener (Lollapalooza)
+Mansfield, MA
+
+
+TRACKS:
+01. Intro
+02. Give It Away
+03. Organic Anti-Beat Box Band
+04. Bullet Proof
+05. My Automobile (Flea)
+06. Suck My Kiss
+07. Subterranean Homesick Blues
+08. Funky Crime
+09. Nobody Weird Like Me
+10. Good God
+11. If You Have To Ask
+12. Stone Cold Bush
+13. Blood Sugar Sex Magik
+14. Higher Ground
+15. Magic Johnson
+16. Under The Bridge
+17. Fopp (cuts)
+18. Party On Your Pussy
+19. Red Hot Mama
+20. The Needle And The Damage Done (Flea)
+21. Me And My Friends
+ ENCORE
+22. Mommy Where's Daddy
+23. Crosstown Traffic
+
+LENGTH:
+77:50
+
+SOURCE (AUD #2):
+unknown mic > unknown recorder
+
+TRANSFER:
+TEAC V-680 > Adobe Audition 1.5 > CD Wave 1.96.1 > Trader's Little Helper 1.1.1 (Build 90)
+
+GENERATION:
+ANA(4) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+"Fopp" cuts due to the tape flip. There is a drop out in "Blood Sugar Sex Magik". This comes form a 4th gen. tape and therefore suffers from hiss.
+
+MD5 FINGERPRINTS:
+d271452c7d0fb8b51025e2b1b4eefdbd *RHCP_1992-08-07_AUD_t01.flac
+31d9ed4e9f9dd361ccdc75692be382d2 *RHCP_1992-08-07_AUD_t02.flac
+f3ba4965c82d1614e769e9a1801e854c *RHCP_1992-08-07_AUD_t03.flac
+1af1d18da34d589f56232211f133283c *RHCP_1992-08-07_AUD_t04.flac
+817183aa45d5c97622cef90558c91c33 *RHCP_1992-08-07_AUD_t05.flac
+459a0db6edf64462d61201f4d19c5b3e *RHCP_1992-08-07_AUD_t06.flac
+42cb5e6142be2b17dc3ed3797dca32eb *RHCP_1992-08-07_AUD_t07.flac
+087e2fcfdce2d6ecf8f8e849438ef354 *RHCP_1992-08-07_AUD_t08.flac
+88091873c4f24b9da352cd09b230fd28 *RHCP_1992-08-07_AUD_t09.flac
+0241191fe7292a0316ce32b43ef4b850 *RHCP_1992-08-07_AUD_t10.flac
+12f60622dae9de1e1fb5736ef5d3b2ee *RHCP_1992-08-07_AUD_t11.flac
+773c883420cfa9e1872b1543767810bf *RHCP_1992-08-07_AUD_t12.flac
+a2ae03c740c0493cdd2278ccdfdb7b24 *RHCP_1992-08-07_AUD_t13.flac
+f6ad71568367f27e4526dbbb88b2f3c1 *RHCP_1992-08-07_AUD_t14.flac
+506cc3c1870a06d5cd97fdb050f14298 *RHCP_1992-08-07_AUD_t15.flac
+bd8dc87e51eeb3afbea41f07eaecdeb6 *RHCP_1992-08-07_AUD_t16.flac
+df6e90e551e5ff82d02cdd395b20f89e *RHCP_1992-08-07_AUD_t17.flac
+53223705dfcc37bfa9ba8a248027efa2 *RHCP_1992-08-07_AUD_t18.flac
+e6ac938f0680542b0ed2d4125390acf4 *RHCP_1992-08-07_AUD_t19.flac
+f4d63c51f6e9309d706fb339d89c1244 *RHCP_1992-08-07_AUD_t20.flac
+184b0c700f8f73a62f19de282843896f *RHCP_1992-08-07_AUD_t21.flac
+7d292ae3755b01acaa62a3858100f5a4 *RHCP_1992-08-07_AUD_t22.flac
+655feac952f4c53d1573efcc325b54c7 *RHCP_1992-08-07_AUD_t23.flac
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---

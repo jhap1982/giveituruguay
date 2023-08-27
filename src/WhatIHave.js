@@ -796,7 +796,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1992-02-11 - Ahoy, Rotterdam, Netherlands</td>
-                            <td>[SBD #1][Under The Bridge][MP3][58,1 MB]</td>
+                            <td>
+                                [SBD #1][Under The Bridge][MP3][58,1 MB]
+                                [SBD #1][FLAC][164 MB]
+                            </td>
                         </tr>
 
                         <tr>
@@ -959,7 +962,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1992-10-28 - Mount Smart Super Top. Auckland, New Zealand</td>
                             <td>
-                                [PRO #1][DVD][3,92 GB]
+                                [PRO #1][DVD][3,92 GB]<br/>
+                                [TV-DVD-A][FLAC][364 MB]
                             </td>
                         </tr>
                     </tbody>
