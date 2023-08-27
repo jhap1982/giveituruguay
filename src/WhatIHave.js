@@ -755,6 +755,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][MPG][255 MB]<br />
                                 [SBD #1][MP3][32,2 MB]
+                                [PRO #1][MTV 91-92][DVD][642 MB]
                             </td>
                         </tr>
 
@@ -769,7 +770,6 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1991-12-31 - Cow Palace, Daly City, CA, USA</td>
                             <td>
-                                [PRO #1][DVD][642 MB]<br />
                                 [AUD #1][FLAC][1,10 GB]
                             </td>
                         </tr>
