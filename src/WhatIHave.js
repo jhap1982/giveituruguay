@@ -11,6 +11,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1982</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -26,6 +27,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1983</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -33,6 +35,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1983-05-30 - China Club, Hollywood, CA, USA</td>
@@ -41,6 +44,7 @@ const WhatIHave = ({ onBack }) => {
                                 [SBD #1][MP3][52,4 MB]
                             </td>
                         </tr>
+
                         <tr>
                             <td>1983-07-18 - Club Lingerie , Hollywood, CA, USA</td>
                             <td>[AUD #1][FLAC][99,7 MB]</td>
@@ -51,6 +55,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1984</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -58,6 +63,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1984-03-16 - KTTV Studios (Ticke of the Night), Los Angeles, CA, USA</td>
@@ -92,6 +98,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1985-01-06 - Club Culture, Santa Cruz, CA, USA</td>
@@ -424,6 +431,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead> 
+
                     <tbody>
                         <tr>
                             <td>1989-03-16 - The Visage, Orlando, FL, USA</td>
@@ -552,6 +560,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1990</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -559,6 +568,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1990-01-10 - Chelsea Television Studios (Michelob Presents Night Music), New York, NY, USA</td>
@@ -1238,6 +1248,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1997</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1320,6 +1331,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>1999</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1327,6 +1339,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>1999-05-29 - PSInet Stadium (HFStival), Baltimore, MD, USA</td>
@@ -1600,6 +1613,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2000</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -1607,6 +1621,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2000-01-08 - Nippon Budokan, Tokyo, Japan</td>
@@ -2017,6 +2032,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2002-04-13 - Universal Amphitheatre (ESPN Awards), Los Angeles, CA, USA</td>
@@ -2330,6 +2346,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2003</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -2340,272 +2357,272 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2003-01-25 - Pavilhão Atlântico, Lisbon, Portugal</td>
-                            <td>[AUD #1][MP3]</td>
+                            <td>[AUD #1][MP3][24,6 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2003-01-27 - Palacio Vistalegre, Madrid, Spain</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][555 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2003-01-28 - Palacio Vistalegre, Madrid, Spain</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][610 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2003-01-30 - Fila Forum di Assago, Milan, Italy</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][659 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2003-01-31 - Fila Forum di Assago, Milan, Italy</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #2][FLAC]
+                                [AMT #1][DVD][3,69 GB] <br />
+                                [AUD #2][FLAC][644 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-02 - Palaeur, Rome, Italy</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #2][FLAC]
+                                [AMT #1][DVD][2,32 GB] <br />
+                                [AUD #1][FLAC][568 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-05 - Palamalaguti, Bologna, Italy</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][3,39 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-07 - Westfalenhalle, Dortmund, Germany</td>
                             <td>
-                                [SBD #1][MP3] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][OGG][94,2 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][686 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-09 - Messehalle 1, Dresden, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][490 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-10 - Velodrom, Berlin, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][555 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-12 - Palais Omnisport de Paris Bercy, Paris, France</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][591 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-13 - Palais Omnisport de Paris Bercy, Paris, France</td>
                             <td>
-                                [AUD #2][FLAC] <br />
-                                [SBD #1][MP3]
+                                [AUD #2][FLAC][632 MB] <br />
+                                [SBD #1][MP3][252 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-02-15 - International Congress Centrum (Echo Awards), Germany</td>
                             <td>
-                                [PRO #1][MPG]
+                                [PRO #1][MPG][45,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-03-06 - Scottish Exhibition & Conference Centre, Glasgow, Scotland</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][332 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-03-12 - Manchester Evening News Arena, Manchester, England</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][92,6 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-03-16 - Hallenstadion, Zurich, Switzerland</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][130 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-03-19 - Ahoy, Rotterdam, Netherlands</td>
                             <td>
-                                [AUD #2][MP3]
+                                [AUD #2][MP3][136 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-04-27 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][2,20 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-05-02 - Alliant Energy Center, Madison, WI, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][466 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-05-15 - Centre Bell, Montreal, Canada</td>
                             <td>
-                                [AMT #1][MP4]
+                                [AMT #1][MP4][785 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-05-17 - Pepsi Arena, Albany, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][545 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-05-19 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][42,3 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-05-20 - Madison Square Garden, New York City, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][623 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-03 - TD Waterhouse Centre, Orlando, FL, USA</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [MIX #1][DVD]
+                                [AMT #1][DVD][2,90 GB] <br />
+                                [MIX #1][DVD][6,07 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-05 - Alltel Pavilion, Raleigh, NC, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][698 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-06 - Verizon Wireless Amphitheatre. Charlotte, NC, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][627 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-13 - Verizon Wireless Amphitheatre, Selma, TX, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][411 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-20 - Fiddlers Green Amphitheater, Englewood, CO, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][592 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-06-21 - Journal Pavilion, Albuquerque, NM, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][581 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-08-13 - Hanns-Martin-Schleyer-Halle, Stuttgart, Germany</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][FLAC][333 MB] <br />
+                                [AUD #2][FLAC][536 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-08-17 - Hylands Park (V Festival), Chelmsford, England</td>
                             <td>
-                                [SBD #2][MP3]
+                                [SBD #2][MP3][13,9 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-08-21 - Landschaftspark Nord, Duisburg, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][529 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-08-23 - Slane Castle Grounds (Slane Festival), County Meath, Ireland</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][664 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-08-24 - Glasgow Green, Glasgow, Scotland</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][116 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-09-06 - Nissan Pavilion at Stone Ridge, Bristow, VA, USA</td>
                             <td>
-                                [AUD #2][FLAC]
+                                [AUD #2][FLAC][615 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-09-07 - PNC Bank Arts Center, Holmdel, NJ, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][615 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-10-08 - Mandalay Bay Events Center, Las Vegas, NV, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][445 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-10-11 - Great Western Forum, Inglewood, CA, USA</td>
                             <td>
-                                [MIX #1][DVD]
+                                [MIX #1][DVD][3,50 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2003-10-21 - KeyArena at Seattle Center, Seattle, WA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][487 MB]
                             </td>
                         </tr>
                     </tbody>
