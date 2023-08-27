@@ -1,0 +1,37 @@
+Red Hot Chili Peppers
+Pinkpop Festival 
+Landgraaf 
+The Netherlands 
+1988-05-23 (23 May 1988) 
+
+
+01 Fight like a brave
+02 Funky crime
+03 Backwoods
+04 Special secret song inside (I want to party on your pussy)
+05 Mommy, where's daddy? (fades out)
+06 Bulletproof
+07 - unknown -
+08 Crosstown traffic
+09 - unknown -
+10 - unknown -
+11 Love song
+12 No chump love sucker
+
+
+Compilation of two partial radio recordings (tracks 01-08 and tracks 09-12), recorded at the massive Pinkpop festival. I'm not sure what the original song order is, but Crosstown traffic sounds like the last song or an encore.
+
+Help with the setlist is appreciated!
+
+Acts on the bill that day, in order of appearance: Rainbirds, The Godfathers, Aswad, Herman Brood & His Wild Romance, Red Hot Chili Peppers, The Pogues, The Christians, Sinead O'Connor, Joe Cocker. 
+
+
+Lineage tracks 01-08: FM (master) > Audacity (wav, normalize, track splitting) > xACT (flac) > you 
+Likely lineage tracks 09-12: TV (mono, master) > Audacity (wav, normalize, track splitting) > xACT (flac) > you 
+
+
+I'm digitizing my tape collection, mostly recorded from Dutch radio in the 80s and early 90s. The original tapes will be binned and after seeding I will not keep the original flac sets, so unfortunately I will not be able to reseed them in the future. 
+
+Enjoy, 
+
+frankvink

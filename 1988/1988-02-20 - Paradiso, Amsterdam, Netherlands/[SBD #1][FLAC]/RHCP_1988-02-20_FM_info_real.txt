@@ -1,0 +1,67 @@
+Here's the real info file:
+--------------------------------------------------------
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+February 20, 1988
+Paradiso
+Amsterdam, Netherlands
+
+
+TRACKS:
+01. [Intro]
+02. D. Boon
+03. Me And My Friends
+04. We Got The Biggest Cocks
+05. Fight Like A Brave
+06. Blackeyed Blonde
+07. Anthony's Story
+08. Love Trilogy
+09. Green Heaven
+10. Police Helicopter
+11. Party On Your Pussy
+12. No Chump Love Sucker
+13. Fire
+14. Skinny Sweaty Man
+15. Hollywood
+16. [Outro]
+
+LENGTH:
+36:09
+
+SOURCE (SBD #1):
+unknown recorder
+
+TRANSFER:
+TEAC V-680 > Adobe Audition 1.5 > CD Wave 1.95.2 > Trader's Little Helper 1.1.0
+
+GENERATION:
+ANA(x) > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+A VPRO radio broacast. On the "Intro" a Dutch radio woman introduces the RHCP to the radio listeners, the introduction also includes a few sentenses spoken by Anthony. This show was most likely aired a few times on the radio in the Netherlands, so there could be other sources with a different set for this as well.
+
+MD5 FINGERPRINTS:
+68bee0a8ae7454a2212a19c6f2d9bebf *RHCP_1988-02-20_FM_t01.flac
+42c2d52d36b3f39a5bd4e8a51813af64 *RHCP_1988-02-20_FM_t02.flac
+d35c8f95f8bfab2297929f5a51e958ef *RHCP_1988-02-20_FM_t03.flac
+906ef596c7fd5975a4a5c90e9156e2b0 *RHCP_1988-02-20_FM_t04.flac
+bdfbf364ece6dd560ef6ee74ae3224ef *RHCP_1988-02-20_FM_t05.flac
+13d11f2bdf82cde21f290fdfd5571384 *RHCP_1988-02-20_FM_t06.flac
+e25c2ef05345e81efe5619929664db93 *RHCP_1988-02-20_FM_t07.flac
+ba97e97163d1369167675f3f0990142d *RHCP_1988-02-20_FM_t08.flac
+52c05d252f15fbd2f41c15a9408b30d8 *RHCP_1988-02-20_FM_t09.flac
+07a64e0ec440c4df618d661a871682a6 *RHCP_1988-02-20_FM_t10.flac
+55ad9f92396e8855fd0c1289b8e37577 *RHCP_1988-02-20_FM_t11.flac
+569767205795307f6f18cb2c516e3a25 *RHCP_1988-02-20_FM_t12.flac
+b55f58d8448944666e8c1102b5edf8b5 *RHCP_1988-02-20_FM_t13.flac
+0f8620fcd8efcf92670d7babb3fb39ec *RHCP_1988-02-20_FM_t14.flac
+b93b22303318027403ee17558bbeb426 *RHCP_1988-02-20_FM_t15.flac
+7c4824ab3f1aa146fb5de4f80ce66e96 *RHCP_1988-02-20_FM_t16.flac
+
+TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
