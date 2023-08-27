@@ -1157,6 +1157,14 @@ const WhatIHave = ({ onBack }) => {
                         </tr> 
 
                         <tr>
+                            <td>1996-03-01 - NBC Studios (The Tonight Show with Jay Leno), Burbank, CA, USA</td>
+                            <td>
+                                [PRO #1][YT][MP4][64,3 MB] <br />
+                                [PRO #1][DVD][307 MB]
+                            </td>
+                        </tr> 
+
+                        <tr>
                             <td>1996-03-06 - United Center, Chicago, IL, USA</td>
                             <td>[AUD #1][FLAC][459 MB]</td>
                         </tr>
