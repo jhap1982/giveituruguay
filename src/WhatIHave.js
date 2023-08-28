@@ -876,6 +876,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1992-07-27 - Riverport Amphitheater (Lollapalooza Festival), Maryland Heights, MO, USA</td>
+                            <td>[AMT #1][DVD][2,83 GB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1992-08-02 - World Music Theater (Lollapalooza  Festival), Tinley Park, IL, USA</td>
                             <td>[AUD #1][FLAC][506 MB]</td>
                         </tr>
