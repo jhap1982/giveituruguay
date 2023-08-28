@@ -813,6 +813,14 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1992-02-15 - Brielpoort, Deinze, Belgium</td>
+                            <td>
+                                [AMT #1][AVI][336 MB] <br/ >
+                                [AMT #1][DVD][5,87 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1992-02-16 - Le Zenith, Paris, France</td>
                             <td>[AUD #1][FLAC][364 MB]</td>
                         </tr>
