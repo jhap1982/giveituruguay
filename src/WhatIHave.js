@@ -5383,6 +5383,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2022-03-29 - NBC Studio 6B at Rockefeller Center (The Tonight Show Starring Jimmy Fallon), New Yourk City, NY, USA</td>
                             <td>
+                                [PRO #1][720p][MKV][848 MB] <br/>
                                 [PRO #1][HDTV][1080i][TS][718 MB]<br />
                                 [PRO #1][YT][Jimmy Fallon][1080p][MP4][95,8 MB]
                             </td>
@@ -5619,16 +5620,19 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2023-02-19 - Tokyo Dome, Tokyo, Japan</td>
                             <td>
-                                [PRO #1][HDTV][WOWOW][TS] <br />
-                                [PRO #1][WOWOW][MP4] <br />
-                                [AUD #1][thosi][FLAC] <br />
-                                [AUD #1][WOWOW][MP3]
+                                [PRO #1][HDTV][WOWOW][1080i][TS][16,1 GB] <br />
+                                [PRO #1][RHCP-IG][1080p][MP4][375 MB] <br />
+                                [PRO #1][720p][MP4][1,91 GB] <br />
+                                [PRO #1][LaOzPedia][4K][MP4][16,1 GB] <br />
+                                [PRO #1][LaOzPedia][1080p][MP4][9,19 GB] <br />
+                                [AUD #1][FLAC][589 MB] <br />
+                                [AUD #1][WOWOW][MP3][196 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-02-21 - Osaka-Jo Hall, Osaka, Japan</td>
-                            <td>[AUD #1][toshi][FLAC]</td>
+                            <td>[AUD #1][FLAC]</td>
                         </tr>
 
                         <tr>
