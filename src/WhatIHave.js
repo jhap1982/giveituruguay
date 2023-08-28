@@ -2942,356 +2942,363 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-05-06 - NBC Studio 8H at Rockefeller Center (Saturday Night Live), New York, NY, USA</td>
                             <td>
                                 [PRO #1][HDTV][1080i][TS][584 MB] <br />
-                                [PRO #1][SNL + Ross][DVD] <br />
-                                [PRO #1][MPG]
+                                [PRO #1][SNL + Ross][DVD][1,23 GB] <br />
+                                [PRO #1][MPG][159 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-09 - Fuse 7th Avenue Studio, New York, NY, USA</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][WMV] <br />
-                                [Bootleg][DVD-A][FLAC] <br />
-                                [Bootleg][DVD-A][WMA]
+                                [PRO #1][DVD][3,26 GB] <br />
+                                [PRO #1][WMV][105 MB] <br />
+                                [Bootleg][DVD-A][FLAC][219 MB] <br />
+                                [Bootleg][DVD-A][WMA][33,6 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-13 - Verizon Wireless Amphitheatre (KROQ Weenie Roast), Irvine, CA, USA</td>
                             <td>
-                                [Bootleg][MP3]
+                                [Bootleg][MP3][83,4 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-20 - Lowe's Motor Speedway, Concord, NC, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][110 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-30 - Palau Sant Jordi, Barcelona, Spain</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][MP3]
+                                [AMT #1][DVD][2,77 GB] <br />
+                                [AUD #1][MP3][111 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-31 - Palau Sant Jordi, Barcelona, Spain</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][107 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-00 - Pinkpop Necessities</td>
                             <td>
-                                [PRO #1][TS]
+                                [PRO #1][576i][TS][1,87 GB]
+                                [PRO #1][ASF][300 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-02 - Palacio de Deportes de la Comunidad, Madrid, Spain</td>
                             <td>
-                                [AUD #3][MP3]
+                                [AUD #3][MP3][123 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-03 - Parque da Bela Vista (Rock In Rio Lisboa II), Lisbon, Portugal</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][Lisboa+Rosss][DVD] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][DVD][3,18 GB] <br />
+                                [PRO #1][Lisboa+Rosss][DVD][4,31 GB] <br />
+                                [SBD #1][MP3][90,8 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-05 - Megaland (PinkPop Festival), Landgraaf, Netherlands</td>
                             <td>
-                                [PRO #1][Broken!][DVD] <br />
-                                [PRO #1][Broken!][M4V] <br />
+                                [PRO #1][Broken!][DVD][3,61 GB] <br />
+                                [PRO #1][Broken!][M4V][1,72 GB] <br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-06 - Halle Tony Garnier, Lyon, France</td>
                             <td>
-                                [AUD #1][rhcpla][FLAC]
+                                [AUD #1][rhcpla][FLAC][661 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-08 - Palais Omnisport de Paris Bercy, Paris, France</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #2][MP3]
+                                [AMT #1][DVD][3,84 GB] <br />
+                                [AUD #2][MP3][566 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-15 - Parkbühne Wuhlheide, Berlin, Germany</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #2][FLAC]
+                                [AMT #1][DVD][2,45 GB] <br />
+                                [AUD #2][FLAC][653 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][YT][MP4]
-                            </td>
-                        </tr>
-
-                        <tr>
-                            <td>2006-06-30 - Portman Road, Ipswich, England</td>
-                            <td>
-                                [AUD #1][MP3]
+                                [PRO #1][DVD][497 MB] <br />
+                                [PRO #1][YT][MP4][1,40 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-02 - Ricoh Arena, Coventry, England</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][144 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-03 - Madejski Stadium, Reading, England</td>
+                            <td>
+                                [AMT #1][AVI][240 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-05 - Pride Park, Derby, England</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][24,5 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-09 - Punchestown Racecourse (Oxegen Festival), Kildare, Ireland</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][FLAC][658 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-12 - Manchester Evening News Arena, Manchester, England</td>
                             <td>
-                                [SBD #1][FLAC]
+                                [SBD #1][MP3][76,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-14 - Earls Court Exhibition Centre, London, England</td>
                             <td>
-                                [AUD #1][MP3] <br/>
-                                [AUD #2][rhcpla][FLAC]
+                                [AUD #1][MP3][134 MB] <br/>
+                                [AUD #2][rhcpla][MP3][134 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-15 - Earls Court Exhibition Centre, London, England</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][699 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-17 - Earls Court Exhibition Centre, London, England</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][591 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-07-28 - TV Asahi Studios (Music Station), Tokyo, Japan</td>
+                            <td>
+                                [PRO #1][AVI][52,2 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-07-29 - Naeba Ski Resort (Fuji Rock Festival), Niigata, Japan</td>
                             <td>
-                                [PRO #1a][Fuji][Grammy][Brit Awards][DVD] <br />
-                                [PRO #1b][DVD] <br />
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][FLAC]
+                                [PRO #1a][Fuji][Grammy][Brit Awards][DVD][3,47 GB] <br />
+                                [PRO #1b][DVD][1,28 GB] <br />
+                                [AUD #1][FLAC][682 MB] <br />
+                                [SBD #1][FLAC][434 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-08-06 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
                             <td>
-                                [PRO #1][YT][MP4]
+                                [PRO #1][YT][1080p][MP4][2,39 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-08-12 - White River Amphitheater (Endfest), Auburn, WA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][566 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-08-22 - iPay One Center, San Diego, CA, USA</td>
                             <td>
-                                [AUD #1][rhcpla][MP3]
+                                [AUD #1][rhcpla][MP3][84,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-01 - The Forum, Inglewood, CA, USA</td>
                             <td>
-                                [SBD #1][MP3]
+                                [SBD #1][MP3][282 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-16 - AB, Penngrowth Saddledome, Calgary, Canada</td>
                             <td>
-                                [SBD #1][MP3] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC]
+                                [SBD #1][MP3][201 MB] <br />
+                                [SBD #1][LiveChiliPeppers][FLAC][708 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-17 - Rexall Place, Edmonton, Canada</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][654 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-25 - Air Canada Center, Toronto, Canada</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][186 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-28 - Centre Bell, Montreal, Canada</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][696 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-09-29 - Scotiabank Place, Ottawa, Canada</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][403 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-02 - TD Banknorth Garden, Boston, MA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][140 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-17 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
                             <td>
-                                [MIX #1][DVD] <br />
-                                [AUD #3][MP3]
+                                [MIX #1][DVD][3,99 GB] <br />
+                                [AUD #3][MP3][101 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-18 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][740 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-20 - TD Banknorth Garden, Boston, MA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][607 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-21 - Pepsi Arena, Albany, NY, USA</td>
                             <td>
-                                [AUD #1][2 CDs][FLAC] <br />
-                                [AUD #1][rhcpla][FLAC]
+                                [AUD #1][2 CDs][FLAC][678 MB] <br />
+                                [AUD #1][rhcpla][FLAC][607 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-28 - City Park (Voodoo Music Experience Festival), New Orleands, LA, USA</td>
                             <td>
-                                [AUD #1][rhcpla][FLAC]
+                                [AUD #1][rhcpla][FLAC][813 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-30 - Schottenstein Center, Columbus, OH, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][680 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-10-31 - Quicken Loans Arena, Cleveland, OH, USA</td>
                             <td>
-                                [AMT #1][DVD]<br/>
-                                [AUD #1][rhcpla][FLAC]
+                                [AMT #1][DVD][3,22 GB] <br/>
+                                [AUD #1][rhcpla][FLAC][568 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-11-20 - Abbey Road Studios, London, England</td>
                             <td>
-                                [PRO #1][DVD] <br/>
-                                [PRO #1][MP4] <br />
-                                [PRO #1][TS]
+                                [PRO #1][DVD][1,26 GB] <br/>
+                                [PRO #1][MP4][166 MB] <br />
+                                [PRO #1][1080i][TS][1,59 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-11-21 - BBC TV Studios (Later... with Jools Holland), London, England</td>
                             <td>
-                                [PRO #1][1080i][TS] <br/>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][TS] <br />
-                                [PRO #1][MP4]
+                                [PRO #1][1080i][TS][730 MB] <br/>
+                                [PRO #1][DVD][1,19 GB] <br />
+                                [PRO #1][MP4][293 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-11-27 - Hanns-Martin-Schleyer-Halle, Stuttgart, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][672 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-11-29 - Datch Forum di Assago, Milan, Italy</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][135 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-12-07 - Wiener Stadthalle, Vienna, Austria</td>
                             <td>
-                                [MIX #1][DVD] <br />
-                                [AUD #1][rhcpla][FLAC]
+                                [MIX #1][DVD][8,09 GB] <br />
+                                [AUD #1][rhcpla][FLAC][608 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-12-09 - Forum, Copenhagen, Denmark</td>
                             <td>
-                                [AUD #1][2CDs][FLAC] <br />
-                                [AUD #1][rhcpla][FLAC]
+                                [AUD #1][2CDs][FLAC][770 MB] <br />
+                                [AUD #1][rhcpla][FLAC][770 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-12-11 - Stockholm Globe Arena, Stockholm, Sweden</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [MIX #1][DVD]
+                                [AUD #1][MP3][84,3 MB] <br />
+                                [MIX #1][DVD][8,07 GB]
                             </td>
                         </tr>
                     </tbody>
