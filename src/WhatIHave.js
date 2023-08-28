@@ -5632,111 +5632,111 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-02-21 - Osaka-Jo Hall, Osaka, Japan</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][589 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-03-29 - BC Palace Stadium, Vancouver, Canada</td>
-                            <td>[AUD #1][Levon Lundgren][M4A]</td>
+                            <td>[AUD #1][M4A][49,7 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-04-01 - Allegiant Stadium, Las Vegas, NV, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][485 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-04-06 - FargoDome, Fargo, ND, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][586 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-04-08 - U.S. Bank Stadium, Minneapolis, MN, USA</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][462 MB] <br />
+                                [SBD #1][MP3][219 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-04-14 - JMA Wireless Dome, Syracuse, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][MP3]
+                                [AUD #1][FLAC][577 MB] <br />
+                                [SBD #1][MP3][238 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-05-12 - Snapdragon Stadium, San Diego, CA, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][245 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-05-25 - Minute Maid Park, Houston, TX, USA</td>
-                            <td>[AUD #1][MP3]</td>
+                            <td>[AUD #1][MP3][136 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-06-18 - Magaland (Pinkpop Festival), Landgraaf, Netherlands</td>
                             <td>
-                                [PRO #1][1080i][TS] <br />
-                                [PRO #1][VK][MP4] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][1080i][TS][2,95 GB] <br />
+                                [PRO #1][VK][1080p][MP4][2,91 GB] <br />
+                                [SBD #1][MP3][119 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-06-26 - Maimarktgelände, Mannheim, Germany</td>
                             <td>
-                                [AUD #1][pompor][FLAC] <br />
-                                [AUD #2][Pehjott][FLAC] <br />
-                                [AUD #3][toshi][FLAC]
+                                [AUD #1][FLAC][388 MB] <br />
+                                [AUD #2][FLAC][557 MB] <br />
+                                [AUD #3][FLAC][563 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-06-30 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][VK][MP4] <br />
-                                [PRO #1][YT][MP4] <br />
-                                [AUD #1][FLAC] <br />
-                                [SBD #1][FLAC] <br />
-                                [SBD #1][M4A] <br />
+                                [PRO #1][VK][720p][MP4][1,40 GB] <br />
+                                [PRO #1][YT][MP4][2,34 GB] <br />
+                                [AUD #1][FLAC][443 MB] <br />
+                                [SBD #1][FLAC][619 MB] <br />
+                                [SBD #1][M4A][79,7 MB] <br />
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-07-02 - Ippodromo Snai (I-Days Festival), Milan, Italy</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][302 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-07-06 - Passeio Marítimo de Algés (NOS Alive Festival), Lisbon, Portugal</td>
                             <td>
-                                [PRO #1][60fps][YT][MP4] <br />
-                                [PRO #1][1080p][MP4] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][1080p@60fps][YT][MP4][2,61 GB] <br />
+                                [PRO #1][1080p][MP4][1,27 GB] <br />
+                                [SBD #1][MP3][79,3 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2023-07-11 - Groupama Stadium, Lyon, France</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][620 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-07-17 - Kerampuilh (Les Vieilles Charrues Festival), Carhaix-Polouguer, France</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][540 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-07-21 - Tottenham Hotspur Stadium, London, England</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][359 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2023-07-23 - Hampden Park, Glasgow, Scotland</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][392 MB]</td>
                         </tr>
                     </tbody>
                 </table>
