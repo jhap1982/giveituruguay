@@ -2,16 +2,16 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Subway to Venus
-Magic Johnson
-Castles Made of Sand
-Subterranean Homesick Blues
-Good Time Boys
-Jean-Pierre tease
-Mommy Where's Daddy?
-Bullet Proof
+1. Out in L.A.
+2. Backwoods
+3. Subway to Venus
+4. Magic Johnson
+5. Castles Made of Sand
+6. Subterranean Homesick Blues
+7. Good Time Boys
+8. Jean-Pierre tease
+9. Mommy Where's Daddy?
+10. Bullet Proof
 
 ## Notes
 

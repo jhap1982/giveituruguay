@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Police Helicopter
-If You Got Funk, You Got Style part of
-Funky Crime
-My Michelle tease
-Good Time Boys
-Sex Rap
-Skinny Sweaty Man
-Organic Anti-Beat Box Band
-Punk Rock Classic
-Stone Cold Bush
-Anarchy in the U.K. part of FLEA
-Special Secret Song Inside
-Me and My Friends
-Mommy Where's Daddy?
-Magic Johnson tease
-Subway to Venus
-Get Up and Jump
-Pretty Little Ditty
-Nevermind
-ENCORE BREAK
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Police Helicopter
+4. If You Got Funk, You Got Style part of
+5. Funky Crime
+6. My Michelle tease
+7. Good Time Boys
+8. Sex Rap
+9. Skinny Sweaty Man
+10. Organic Anti-Beat Box Band
+11. Punk Rock Classic
+12. Stone Cold Bush
+13. Anarchy in the U.K. part of FLEA
+14. Special Secret Song Inside
+15. Me and My Friends
+16. Mommy Where's Daddy?
+17. Magic Johnson tease
+18. Subway to Venus
+19. Get Up and Jump
+20. Pretty Little Ditty
+21. Nevermind
+<br> ENCORE BREAK
+22. Crosstown Traffic
 
 ## Notes
 

@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Knock Me Down
-Subway to Venus
-Pretty Little Ditty
-SETLIST INCOMPLETE
+1. Knock Me Down
+2. Subway to Venus
+3. Pretty Little Ditty
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

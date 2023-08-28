@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Good Time Boys
-Magic Johnson
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Skinny Sweaty Man
-Sexy Mexican Maid
-Me and My Friends
-Nevermind
-SETLIST INCOMPLETE
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Good Time Boys
+8. Magic Johnson
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Pretty Little Ditty
+12. Higher Ground
+13. Hollywood (Africa)
+14. Knock Me Down
+15. Skinny Sweaty Man
+16. Sexy Mexican Maid
+17. Me and My Friends
+18. Nevermind
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

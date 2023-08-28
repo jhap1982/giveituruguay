@@ -2,17 +2,17 @@
 
 ## Setlist
 
-Stone Cold Bush
-Good Time Boys
-Sexy Mexican Maid
-Magic Johnson
-Pretty Little Ditty
-Knock Me Down
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Subway to Venus
-Nevermind
-SETLIST INCOMPLETE
+1. Stone Cold Bush
+2. Good Time Boys
+3. Sexy Mexican Maid
+4. Magic Johnson
+5. Pretty Little Ditty
+6. Knock Me Down
+7. Boyz-N-the-Hood part of
+8. Special Secret Song Inside
+9. Subway to Venus
+10. Nevermind
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

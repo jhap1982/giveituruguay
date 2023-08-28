@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Fela's Cock part of
-Under the Bridge
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Not Great Men tease
-History Lesson – Part II tease
-Me and My Friends
-ENCORE BREAK
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Crosstown Traffic
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Fela's Cock part of
+13. Under the Bridge
+14. Yertle the Turtle
+15. Freaky Styley
+16. Cosmic Slop tease
+17. Not Great Men tease
+18. History Lesson – Part II tease
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Fopp part of
+21. Special Secret Song Inside
+22. Red Hot Mama part of
+23. Crosstown Traffic
 
 ## Notes
 

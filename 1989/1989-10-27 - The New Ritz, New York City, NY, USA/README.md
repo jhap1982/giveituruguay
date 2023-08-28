@@ -2,35 +2,35 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Whole Lotta Love tease
-Subway to Venus
-Inca Roads part of JOHN
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Good Time Boys
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Bemsha Swing tease
-Subterranean Homesick Blues
-Sexy Mexican Maid
-Back in Black tease
-Stone Cold Bush
-Castles Made of Sand
-Me and My Friends
-Magic Johnson
-Nevermind
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Whole Lotta Love tease
+6. Subway to Venus
+7. Inca Roads part of JOHN
+8. Boyz-N-the-Hood part of
+9. Special Secret Song Inside
+10. Good Time Boys
+11. Pretty Little Ditty
+12. Higher Ground
+13. Hollywood (Africa)
+14. Bemsha Swing tease
+15. Subterranean Homesick Blues
+16. Sexy Mexican Maid
+17. Back in Black tease
+18. Stone Cold Bush
+19. Castles Made of Sand
+20. Me and My Friends
+21. Magic Johnson
+22. Nevermind
+<br> ENCORE BREAK
+23. Yertle the Turtle
+24. Freaky Styley
+25. Cosmic Slop tease
+26. Atomic Dog tease
+27. Don't Touch That Stereo tease
+28. Crosstown Traffic
 
 ## Notes
 

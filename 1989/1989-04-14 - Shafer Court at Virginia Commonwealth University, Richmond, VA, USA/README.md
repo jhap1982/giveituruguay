@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Funky Crime
-Magic Johnson tease
-Johnny, Kick a Hole in the Sky part of
-Good Time Boys
-Skinny Sweaty Man
-Organic Anti-Beat Box Band
-SETLIST INCOMPLETE
+1. Funky Crime
+2. Magic Johnson tease
+3. Johnny, Kick a Hole in the Sky part of
+4. Good Time Boys
+5. Skinny Sweaty Man
+6. Organic Anti-Beat Box Band
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

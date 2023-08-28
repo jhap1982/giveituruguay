@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Funky Crime
-Good Time Boys
-Skinny Sweaty Man
-Organic Anti-Beat Box Band
-Punk Rock Classic
-Stone Cold Bush
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Me and My Friends
-Mommy Where's Daddy?
-Subway to Venus
-Get Up and Jump
-Nevermind
+1. Out in L.A.
+2. Backwoods
+3. Funky Crime
+4. Good Time Boys
+5. Skinny Sweaty Man
+6. Organic Anti-Beat Box Band
+7. Punk Rock Classic
+8. Stone Cold Bush
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Me and My Friends
+12. Mommy Where's Daddy?
+13. Subway to Venus
+14. Get Up and Jump
+15. Nevermind
 
 ## Notes
 

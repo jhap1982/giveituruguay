@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Good Time Boys
-Punk Rock Classic
-Subway to Venus
-Nobody Weird Like Me
+1. Good Time Boys
+2. Punk Rock Classic
+3. Subway to Venus
+4. Nobody Weird Like Me
 
 ## Notes
 

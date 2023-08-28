@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Good Time Boys
-Cold Sweat jam
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Subway to Venus
-Jean-Pierre tease
-Hollywood (Africa)
-Inca Roads part of JOHN
-Subterranean Homesick Blues
-Mommy Where's Daddy?
-Red Hot Mama part of
-Blackeyed Blonde
-Castles Made of Sand
-Me and My Friends
-Nevermind
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Good Time Boys
+8. Cold Sweat jam
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Pretty Little Ditty
+12. Subway to Venus
+13. Jean-Pierre tease
+14. Hollywood (Africa)
+15. Inca Roads part of JOHN
+16. Subterranean Homesick Blues
+17. Mommy Where's Daddy?
+18. Red Hot Mama part of
+19. Blackeyed Blonde
+20. Castles Made of Sand
+21. Me and My Friends
+22. Nevermind
+<br> ENCORE BREAK
+23. Yertle the Turtle
+24. Freaky Styley
+25. Cosmic Slop tease
+26. Don't Touch That Stereo tease
+27. Crosstown Traffic
 
 ## Notes
 

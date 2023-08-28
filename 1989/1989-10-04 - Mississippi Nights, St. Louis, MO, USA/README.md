@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Support: Raging Slab
+**Support**: Raging Slab
 
 ## Media 
 

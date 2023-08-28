@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Jean-Pierre tease
-Funky Crime
-Good Time Boys
-If You Got Funk, You Got Style part of
-Skinny Sweaty Man
-Anarchy in the U.K. part of FLEA
-Organic Anti-Beat Box Band
-Magic Johnson tease
-Taste the Pain tease
-Punk Rock Classic
-Stone Cold Bush
-Mommy Where's Daddy?
-Pretty Little Ditty
-Me and My Friends
-Special Secret Song Inside
-Inca Roads part of JOHN
-Nevermind
-ENCORE BREAK
-Crosstown Traffic
-My Michelle tease
-Get Up and Jump
+1. Out in L.A.
+2. Backwoods
+3. Jean-Pierre tease
+4. Funky Crime
+5. Good Time Boys
+6. If You Got Funk, You Got Style part of
+7. Skinny Sweaty Man
+8. Anarchy in the U.K. part of FLEA
+9. Organic Anti-Beat Box Band
+10. Magic Johnson tease
+11. Taste the Pain tease
+12. Punk Rock Classic
+13. Stone Cold Bush
+14. Mommy Where's Daddy?
+15. Pretty Little Ditty
+16. Me and My Friends
+17. Special Secret Song Inside
+18. Inca Roads part of JOHN
+19. Nevermind
+<br> ENCORE BREAK
+20. Crosstown Traffic
+21. My Michelle tease
+22. Get Up and Jump
 
 ## Notes
 

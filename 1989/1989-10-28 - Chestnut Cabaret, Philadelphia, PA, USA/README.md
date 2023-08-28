@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Thank You (Falettinme Be Mice Elf Agin) tease
-Stone Cold Bush
-Green Heaven
-Police Helicopter
-Cold Sweat jam
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Them Changes part of FLEA
-Skinny Sweaty Man
-Pretty Little Ditty
-Knock Me Down
-Blackeyed Blonde
-Sexy Mexican Maid
-Back in Black tease
-Anarchy in the U.K. part of FLEA
-Organic Anti-Beat Box Band
-Castles Made of Sand
-Nevermind
-I Wanna Be Your Dog tease
-ENCORE BREAK
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Thank You (Falettinme Be Mice Elf Agin) tease
+6. Stone Cold Bush
+7. Green Heaven
+8. Police Helicopter
+9. Cold Sweat jam
+10. Boyz-N-the-Hood part of
+11. Special Secret Song Inside
+12. Them Changes part of FLEA
+13. Skinny Sweaty Man
+14. Pretty Little Ditty
+15. Knock Me Down
+16. Blackeyed Blonde
+17. Sexy Mexican Maid
+18. Back in Black tease
+19. Anarchy in the U.K. part of FLEA
+20. Organic Anti-Beat Box Band
+21. Castles Made of Sand
+22. Nevermind
+23. I Wanna Be Your Dog tease
+<br> ENCORE BREAK
+24. Crosstown Traffic
 
 ## Notes
 

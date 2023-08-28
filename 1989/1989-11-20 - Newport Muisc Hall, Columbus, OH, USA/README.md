@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Organic Anti-Beat Box Band
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Subterranean Homesick Blues
-Sexy Mexican Maid
-Blackeyed Blonde
-Castles Made of Sand
-Me and My Friends
-Nevermind
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Organic Anti-Beat Box Band
+8. Special Secret Song Inside
+9. Pretty Little Ditty
+10. Higher Ground
+11. Hollywood (Africa)
+12. Knock Me Down
+13. Magic Johnson
+14. Subterranean Homesick Blues
+15. Sexy Mexican Maid
+16. Blackeyed Blonde
+17. Castles Made of Sand
+18. Me and My Friends
+19. Nevermind
 
 ## Notes
 

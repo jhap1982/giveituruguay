@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Cold Sweat jam
-Nobody Weird Like Me
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Skinny Sweaty Man
-Subway to Venus
-Castles Made of Sand
-Me and My Friends
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Cold Sweat jam
+7. Nobody Weird Like Me
+8. Boyz-N-the-Hood part of
+9. Special Secret Song Inside
+10. Pretty Little Ditty
+11. Higher Ground
+12. Hollywood (Africa)
+13. Knock Me Down
+14. Magic Johnson
+15. Skinny Sweaty Man
+16. Subway to Venus
+17. Castles Made of Sand
+18. Me and My Friends
 
 ## Notes
 

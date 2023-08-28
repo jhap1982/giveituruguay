@@ -2,27 +2,26 @@
 
 ## Setlist
 
-Setlist
-Out in L.A.
-Backwoods
-Funky Crime
-Magic Johnson tease
-Good Time Boys
-Skinny Sweaty Man
-Organic Anti-Beat Box Band
-Pretty Little Ditty
-Punk Rock Classic
-Stone Cold Bush
-Special Secret Song Inside
-Me and My Friends
-Mommy Where's Daddy?
-Cold Sweat jam
-Jean-Pierre tease
-Subway to Venus
-Get Up and Jump
-Inca Roads part of JOHN
-Nevermind
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Funky Crime
+4. Magic Johnson tease
+5. Good Time Boys
+6. Skinny Sweaty Man
+7. Organic Anti-Beat Box Band
+8. Pretty Little Ditty
+9. Punk Rock Classic
+10. Stone Cold Bush
+11. Special Secret Song Inside
+12. Me and My Friends
+13. Mommy Where's Daddy?
+14. Cold Sweat jam
+15. Jean-Pierre tease
+16. Subway to Venus
+17. Get Up and Jump
+18. Inca Roads part of JOHN
+19. Nevermind
+20. Crosstown Traffic
 
 ## Notes
 

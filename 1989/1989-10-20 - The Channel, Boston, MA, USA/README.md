@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Hit It and Quit It tease
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Jean-Pierre tease
-Hollywood (Africa)
-Magic Johnson
-Knock Me Down
-Inca Roads part of JOHN
-Blackeyed Blonde
-Anarchy in the U.K. part of FLEA
-Organic Anti-Beat Box Band
-Mommy Where's Daddy?
-Castles Made of Sand
-Nevermind
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Hit It and Quit It tease
+7. Boyz-N-the-Hood part of
+8. Special Secret Song Inside
+9. Pretty Little Ditty
+10. Higher Ground
+11. Jean-Pierre tease
+12. Hollywood (Africa)
+13. Magic Johnson
+14. Knock Me Down
+15. Inca Roads part of JOHN
+16. Blackeyed Blonde
+17. Anarchy in the U.K. part of FLEA
+18. Organic Anti-Beat Box Band
+19. Mommy Where's Daddy?
+20. Castles Made of Sand
+21. Nevermind
+<br> ENCORE BREAK
+22. Yertle the Turtle
+23. Freaky Styley
+24. Cosmic Slop tease
+25. Atomic Dog tease
+26. Don't Touch That Stereo tease
+27. Crosstown Traffic
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Hit It and Quit It tease
-Good Time Boys
-Cold Sweat jam
-Love Trilogy
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Organic Anti-Beat Box Band
-Castles Made of Sand
-Get Up and Jump
-Nevermind
-ENCORE BREAK
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Hit It and Quit It tease
+6. Good Time Boys
+7. Cold Sweat jam
+8. Love Trilogy
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Pretty Little Ditty
+12. Hollywood (Africa)
+13. Knock Me Down
+14. Magic Johnson
+15. Organic Anti-Beat Box Band
+16. Castles Made of Sand
+17. Get Up and Jump
+18. Nevermind
+<br> ENCORE BREAK
+19. Crosstown Traffic
 
 ## Notes
 

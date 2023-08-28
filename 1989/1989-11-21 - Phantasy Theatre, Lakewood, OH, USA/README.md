@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Subterranean Homesick Blues
-Subway to Venus
-Castles Made of Sand
-Me and My Friends
-Nevermind
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Boyz-N-the-Hood part of
+8. Special Secret Song Inside
+9. Pretty Little Ditty
+10. Higher Ground
+11. Hollywood (Africa)
+12. Knock Me Down
+13. Magic Johnson
+14. Subterranean Homesick Blues
+15. Subway to Venus
+16. Castles Made of Sand
+17. Me and My Friends
+18. Nevermind
+<br>ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Don't Touch That Stereo tease
+24. Crosstown Traffic
 
 ## Notes
 

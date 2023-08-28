@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Organic Anti-Beat Box Band
-Magic Johnson
-Subway to Venus
-Cold Sweat jam
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Sexy Mexican Maid
-Back in Black tease
-Castles Made of Sand
-Nevermind
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Organic Anti-Beat Box Band
+8. Magic Johnson
+9. Subway to Venus
+10. Cold Sweat jam
+11. Boyz-N-the-Hood part of
+12. Special Secret Song Inside
+13. Pretty Little Ditty
+14. Higher Ground
+15. Hollywood (Africa)
+16. Knock Me Down
+17. Sexy Mexican Maid
+18. Back in Black tease
+19. Castles Made of Sand
+20. Nevermind
+<br>ENCORE BREAK
+21. Yertle the Turtle
+22. Freaky Styley
+23. Cosmic Slop tease
+24. Don't Touch That Stereo tease
+25. Crosstown Traffic
 
 ## Notes
 

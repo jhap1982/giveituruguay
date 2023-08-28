@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Sex Rap
-Stone Cold Bush
-Green Heaven
-Police Helicopter
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Knock Me Down
-Skinny Sweaty Man
-Jean-Pierre tease
-Good Time Boys
-Mommy Where's Daddy?
-Subway to Venus
-Castles Made of Sand
-Bullet Proof
-Nevermind
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Sex Rap
+6. Stone Cold Bush
+7. Green Heaven
+8. Police Helicopter
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Pretty Little Ditty
+12. Knock Me Down
+13. Skinny Sweaty Man
+14. Jean-Pierre tease
+15. Good Time Boys
+16. Mommy Where's Daddy?
+17. Subway to Venus
+18. Castles Made of Sand
+19. Bullet Proof
+20. Nevermind
 
 ## Notes
 

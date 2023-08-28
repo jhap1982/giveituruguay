@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Good Time Boys
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Subway to Venus
-Hollywood (Africa)
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Don't Touch That Stereo tease
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+8. Standing on the Verge of Getting It on
+9. Good Time Boys
+10. Boyz-N-the-Hood part of
+11. Special Secret Song Inside
+12. Pretty Little Ditty
+13. Subway to Venus
+14. Hollywood (Africa)
+<br>ENCORE BREAK
+15. Yertle the Turtle
+16. Freaky Styley
+17. Cosmic Slop tease
+18. Don't Touch That Stereo tease
+19. Crosstown Traffic
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

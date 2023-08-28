@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Out in L.A.
-If You Got Funk, You Got Style part of
-Funky Crime
-Dr. Funkenstein
-Backwoods
-Blackeyed Blonde
-Cold Sweat jam
-Good Time Boys
-Skinny Sweaty Man
-Inca Roads part of JOHN
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Knock Me Down
-Bullet Proof
-Magic Johnson
-Baby Appeal
-Nobody Weird Like Me
-Organic Anti-Beat Box Band
-Castles Made of Sand
-Mommy Where's Daddy?
-Nevermind
-ENCORE BREAK
-Subway to Venus
-Fire
+1. Out in L.A.
+2. If You Got Funk, You Got Style part of
+3. Funky Crime
+4. Dr. Funkenstein
+5. Backwoods
+6. Blackeyed Blonde
+7. Cold Sweat jam
+8. Good Time Boys
+9. Skinny Sweaty Man
+10. Inca Roads part of JOHN
+11. Boyz-N-the-Hood part of
+12. Special Secret Song Inside
+13. Pretty Little Ditty
+14. Knock Me Down
+15. Bullet Proof
+16. Magic Johnson
+17. Baby Appeal
+18. Nobody Weird Like Me
+19. Organic Anti-Beat Box Band
+20. Castles Made of Sand
+21. Mommy Where's Daddy?
+22. Nevermind
+<br>ENCORE BREAK
+23. Subway to Venus
+24. Fire
 
 ## Notes
 

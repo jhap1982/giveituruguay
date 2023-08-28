@@ -2,11 +2,11 @@
 
 ## Setlist
 
-Good Time Boys
-Stone Cold Bush
-Pretty Little Ditty
-Subway to Venus
-SETLIST INCOMPLETE
+1. Good Time Boys
+2. Stone Cold Bush
+3. Pretty Little Ditty
+4. Subway to Venus
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

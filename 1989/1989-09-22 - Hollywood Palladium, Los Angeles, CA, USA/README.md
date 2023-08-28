@@ -2,26 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Hit It and Quit It tease
-Subway to Venus
-Special Secret Song Inside
-Cold Sweat jam
-Good Time Boys
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Me and My Friends
-Magic Johnson
-Organic Anti-Beat Box Band
-Castles Made of Sand
-Nobody Weird Like Me
-Nevermind
-
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Hit It and Quit It tease
+6. Subway to Venus
+7. Special Secret Song Inside
+8. Cold Sweat jam
+9. Good Time Boys
+10. Pretty Little Ditty
+11. Higher Ground
+12. Hollywood (Africa)
+13. Knock Me Down
+14. Me and My Friends
+15. Magic Johnson
+16. Organic Anti-Beat Box Band
+17. Castles Made of Sand
+18. Nobody Weird Like Me
+19. Nevermind
 
 ## Notes
 

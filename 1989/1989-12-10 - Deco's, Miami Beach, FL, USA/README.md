@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Anarchy in the U.K. part of FLEA
-Organic Anti-Beat Box Band
-Magic Johnson
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Hollywood (Africa)
-Knock Me Down
-Skinny Sweaty Man
-Sexy Mexican Maid
-Back in Black tease
-Blackeyed Blonde
-Castles Made of Sand
-Me and My Friends
-Cold Sweat jam
-Nevermind
-ENCORE BREAK
-Mommy Where's Daddy?
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Anarchy in the U.K. part of FLEA
+8. Organic Anti-Beat Box Band
+9. Magic Johnson
+10. Boyz-N-the-Hood part of
+11. Special Secret Song Inside
+12. Pretty Little Ditty
+13. Higher Ground
+14. Hollywood (Africa)
+15. Knock Me Down
+16. Skinny Sweaty Man
+17. Sexy Mexican Maid
+18. Back in Black tease
+19. Blackeyed Blonde
+20. Castles Made of Sand
+21. Me and My Friends
+22. Cold Sweat jam
+23. Nevermind
+<br>ENCORE BREAK
+24. Mommy Where's Daddy?
+25. Crosstown Traffic
 
 ## Notes
 
