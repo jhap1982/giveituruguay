@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> Anthony, Flea and John attended the Rack'n'Roll Pool Tournament at the Amsterdam Billiard Club. A jam session followed at the China Club and they all eventually hopped on stage.
 
 ## Media 
 
@@ -21,8 +21,6 @@
 
 * Anthony Kiedis
 * Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 
