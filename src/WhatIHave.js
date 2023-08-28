@@ -996,6 +996,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>1993-01-26 - Estadio Obras Sanitarias, Buenos Aires, Argentina</td>
                             <td>
                                 [PRO #1][DVD][3,69 GB]<br/>
+                                [PRO #1d][MKV][528 MB] <br/>
                                 [SBD #1][FLAC][516 MB]
                             </td>
                         </tr>
