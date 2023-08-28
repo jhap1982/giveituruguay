@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Out in L.A.
+Backwoods
+Police Helicopter
+If You Got Funk, You Got Style part of
+Funky Crime
+My Michelle tease
+Good Time Boys
+Sex Rap
+Skinny Sweaty Man
+Organic Anti-Beat Box Band
+Punk Rock Classic
+Stone Cold Bush
+Anarchy in the U.K. part of FLEA
+Special Secret Song Inside
+Me and My Friends
+Mommy Where's Daddy?
+Magic Johnson tease
+Subway to Venus
+Get Up and Jump
+Pretty Little Ditty
+Nevermind
+ENCORE BREAK
+Crosstown Traffic
+
 ## Notes
+
+**Support**: Murphy's Law
 
 ## Media 
 
@@ -25,5 +51,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown
 
 ## Links

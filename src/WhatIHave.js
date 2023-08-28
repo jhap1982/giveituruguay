@@ -554,6 +554,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>1989-12-10 - Deco's, Miami Beach, FL, USA</td>
                             <td>[AUD #1][RHCPLA][FLAC][488 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>1989-12-30 - Long Beach Arena, Long Beach, CA, USA</td>
+                            <td>[PRO #1][PSLFH][MP4][2,81 GB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>

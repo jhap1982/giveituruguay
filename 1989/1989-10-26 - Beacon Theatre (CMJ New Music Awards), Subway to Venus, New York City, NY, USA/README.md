@@ -2,7 +2,11 @@
 
 ## Setlist
 
+1. Subway to Venus
+
 ## Notes
+
+> 1989 College Music Journal's (CMJ) New Music Awards.
 
 ## Media 
 
@@ -25,5 +29,8 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder "The 1989 New Music Awards" CD > FLAC Taken from a CMJ radio 1990 promo CD.
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > MP4
 
 ## Links

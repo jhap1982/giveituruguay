@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Out in L.A.
+Backwoods
+Dr. Funkenstein
+Funky Crime
+Stone Cold Bush
+Standing on the Verge of Getting It on
+Organic Anti-Beat Box Band
+Special Secret Song Inside
+Pretty Little Ditty
+Higher Ground
+Hollywood (Africa)
+Knock Me Down
+Magic Johnson
+Subterranean Homesick Blues
+Sexy Mexican Maid
+Blackeyed Blonde
+Castles Made of Sand
+Me and My Friends
+Nevermind
+
 ## Notes
+
+> Setlist might be missing the encore.
 
 ## Media 
 
@@ -23,6 +45,10 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
 
 ## Recordings / Footage
 

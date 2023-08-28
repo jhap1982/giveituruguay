@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: The Black Crowes
+
 ## Media 
 
 <details>
@@ -23,6 +25,11 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
+
 
 ## Recordings / Footage
 

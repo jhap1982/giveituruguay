@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Skeletones, Smoketaks
+
 ## Media 
 
 <details>

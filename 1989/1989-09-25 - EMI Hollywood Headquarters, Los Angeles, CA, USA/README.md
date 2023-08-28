@@ -2,7 +2,13 @@
 
 ## Setlist
 
+1. Out in L.A.
+2. Mommy Where's Daddy?
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
+
+> Album release party at EMI's offices parking lot. Setlist is incomplete.
 
 ## Media 
 
@@ -24,6 +30,10 @@
 
 ### Additional Musicians
 
+* Kristen Vigard
+
 ## Recordings / Footage
+
+* AMT #1 amateur videobuilt-in > unknown camera VHS(x) > DVD recorded by Richard White (aka raw420) **NOT CIRCULATING**
 
 ## Links

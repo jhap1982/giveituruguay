@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Slack
+
 ## Media 
 
 <details>

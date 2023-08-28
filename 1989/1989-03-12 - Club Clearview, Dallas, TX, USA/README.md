@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Last Rites, Loco Gringos
+
 ## Media 
 
 <details>

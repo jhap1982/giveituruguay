@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Raging Slab
+
 ## Media 
 
 <details>
@@ -23,6 +25,10 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
 
 ## Recordings / Footage
 

@@ -24,6 +24,10 @@
 
 ### Additional Musicians
 
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
+
 ## Recordings / Footage
 
 ## Links

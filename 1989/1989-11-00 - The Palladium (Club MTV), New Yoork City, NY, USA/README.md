@@ -2,7 +2,12 @@
 
 ## Setlist
 
+1. Higher Ground
+
 ## Notes
+
+> This performance was lip-synched.
+
 
 ## Media 
 
@@ -25,5 +30,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links

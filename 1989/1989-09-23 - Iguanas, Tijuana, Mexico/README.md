@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Mary's Danish, Butthole Surfers
+
 ## Media 
 
 <details>
@@ -24,6 +26,12 @@
 
 ### Additional Musicians
 
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
+
 ## Recordings / Footage
+
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown **NOT CIRCULATING**
 
 ## Links

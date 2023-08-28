@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Bucketpets, Pocket Fishrmen
+
 ## Media 
 
 <details>

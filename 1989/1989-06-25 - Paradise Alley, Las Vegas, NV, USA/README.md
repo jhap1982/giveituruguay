@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Seems the show was originally scheduled for the 11th.
+
 ## Media 
 
 <details>

@@ -4,6 +4,8 @@
 
 ## Notes
 
+> In 1989 the whole festival was cancelled after the two headliners cancelled their appearances a few weeks before the event.
+
 ## Media 
 
 <details>
@@ -16,11 +18,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

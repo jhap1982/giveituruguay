@@ -2,7 +2,12 @@
 
 ## Setlist
 
+Castles Made of Sand
+SETLIST INCOMPLETE
+
 ## Notes
+
+> Benefit gig for the Father's Rights foundation.
 
 ## Media 
 
@@ -25,5 +30,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(M) > FLAC recorded by gladeye **NOT CIRCULATING**
 
 ## Links

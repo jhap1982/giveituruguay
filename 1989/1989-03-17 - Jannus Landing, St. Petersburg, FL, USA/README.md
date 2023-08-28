@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Setlist
+Out in L.A.
+Backwoods
+Funky Crime
+Magic Johnson tease
+Good Time Boys
+Skinny Sweaty Man
+Organic Anti-Beat Box Band
+Pretty Little Ditty
+Punk Rock Classic
+Stone Cold Bush
+Special Secret Song Inside
+Me and My Friends
+Mommy Where's Daddy?
+Cold Sweat jam
+Jean-Pierre tease
+Subway to Venus
+Get Up and Jump
+Inca Roads part of JOHN
+Nevermind
+Crosstown Traffic
+
 ## Notes
+
+**Support**: Murphy's Law
 
 ## Media 
 
@@ -25,5 +49,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+*AUD #1 audience audio: unknown mic > Sony WM-D3 ANA(M) > DAT(M) > FLAC recorded by Frank
 
 ## Links

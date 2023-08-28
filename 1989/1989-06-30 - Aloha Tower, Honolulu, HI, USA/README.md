@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Broken Man, M.U.G.
+
 ## Media 
 
 <details>
@@ -25,5 +27,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* AMT #1 amateur video: built-in > unknown camera ? recorded by unknown. Someone is seen taping the show on stage in the pictures below. **NOT CIRCULATING**
 
 ## Links

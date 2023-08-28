@@ -2,7 +2,21 @@
 
 ## Setlist
 
+Stone Cold Bush
+Good Time Boys
+Sexy Mexican Maid
+Magic Johnson
+Pretty Little Ditty
+Knock Me Down
+Boyz-N-the-Hood part of
+Special Secret Song Inside
+Subway to Venus
+Nevermind
+SETLIST INCOMPLETE
+
 ## Notes
+
+> Officially released on the VHS video "Psychedelic Sexfunk Live from Heaven".
 
 ## Media 
 
@@ -24,6 +38,12 @@
 
 ### Additional Musicians
 
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
+
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown "Psychedelic Sexfunk Live From Heaven" VHS > DVD
 
 ## Links

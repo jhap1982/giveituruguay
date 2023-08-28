@@ -4,6 +4,10 @@
 
 ## Notes
 
+**UNCONFIRMED PERFORMANCE**
+
+> KRBE FM party.
+
 ## Media 
 
 <details>
@@ -23,6 +27,10 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
 
 ## Recordings / Footage
 

@@ -2,7 +2,14 @@
 
 ## Setlist
 
+Knock Me Down
+Subway to Venus
+Pretty Little Ditty
+SETLIST INCOMPLETE
+
 ## Notes
+
+**Support**: Raging Slab, Goo Goo Dolls
 
 ## Media 
 
@@ -23,6 +30,10 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry  
+* Kristen Vigard  
+* Vicky Calhoun
 
 ## Recordings / Footage
 

@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Other Acts**: Killing Joke
+
 ## Media 
 
 <details>
