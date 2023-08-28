@@ -2811,6 +2811,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2006</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -2818,110 +2819,129 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2006-02-11 - Diane Von Furstenberg, Los Angeles, CA, USA</td>
-                            <td>[AUD #1][MP3]</td>
+                            <td>[AUD #1][MP3][55,2 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2006-03-20 - The Mansion (Yahoo! Music), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>[PRO #1][YT][MP4][15,8 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2006-03-27 - The Mansion (iTunes Originals), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][YT][MP4]</td>
+                            <td>
+                                [PRO #1][ATW][rutracker][MP4][59,4 MB] <br />
+                                [PRO #1][AVI][58,3 MB]
+                                [PRO #1][YT][MP4][198 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2006-03-28 - Laurel Canyon (AOL Sessions), Los Angeles, CA, USA</td>
-                            <td>[PRO #1][AOL 02][AOL 06][DVD]</td>
+                            <td>
+                                [PRO #1][AOL 02][AOL 06][DVD][1,90 GB] <br />
+                                [PRO #1][AOL 06][DVD][MPG][1,27 GB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-11 - T4 Studios (T4 Music Presents), London, England</td>
-                            <td>[PRO #1][DVD]</td>
+                            <td>
+                                [PRO #1][AVI][155 MB] <br />
+                                [PRO #1][DVD][446 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-13 - BBC Television Centre (Friday Night with Jonathan Ross), London, England</td>
-                            <td>[PRO #1][AVI]</td>
+                            <td>
+                                [PRO #1][AVI][302 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-14 - Canvas Club, London, England</td>
-                            <td>[SBD #1][MP3]</td>
+                            <td>[SBD #1][MP3][86,2 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2006-04-15 - BBC Television Centre (Top of the Pops), London, England</td>
                             <td>
-                                [PRO #1][1080p][YT][MP4] <br />
-                                [PRO #1][DVD]
+                                [PRO #1][1080p][YT][MP4][1,04 GB] <br />
+                                [PRO #1][AVI][389 MB] <br />
+                                [PRO #1][DVD][1,36 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-18 - Guggenheim Museum, Bilbao, Spain</td>
                             <td>
-                                [PRO #1][40][DVD] <br />
-                                [PRO #1][Canal+][DVD] <br />
-                                [AUD #1][FLAC]
+                                [PRO #1][40][DVD][2,33 GB] <br />
+                                [PRO #1][Canal+][DVD][2,91 GB] <br />
+                                [AUD #1][FLAC][491 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-20 - La Cigale, Paris, France</td>
                             <td>
-                                [AUD #1][OGG]
+                                [AUD #1][OGG][205 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-21 - Studio 129 (Taratata), Paris, France</td>
                             <td>
-                                [PRO #1][La Cigale + Taratata][DVD]
+                                [PRO #1][+Xtras][AVI][292 MB] <br />
+                                [PRO #1][La Cigale + Taratata][DVD][3,66 GB] <br />
+                                [PRO #1][YT][My Taratata][1080p][MP4][219 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-23 - Den Grå Hal, Copenhagen, Denmark</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [SBD #1][FLAC] <br />
-                                [AUD #1][MP3]
+                                [PRO #1][DVD][1,00 GB] <br />
+                                [PRO #1][AVI][227 MB] <br ></br>
+                                [SBD #1][FLAC][324 MB] <br />
+                                [AUD #1][MP3][74,4 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-24 - Fliegende Bauten, Hamburg, Germany</td>
                             <td>
-                                [PRO #1][YT][MP4] <br />
-                                [SBD #1][rhcpla][FLAC] <br />
-                                [SBD #2][rhcpla][FLAC]
+                                [PRO #1][YT][WB][480p][MP4][42,9 MB] <br />
+                                [SBD #1][rhcpla][FLAC][373 MB] <br />
+                                [SBD #2][rhcpla][77,5 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-26 - TV Total Studios (TV Total), Cologne, Germany</td>
                             <td>
-                                [PRO #1][TOTP+Tv Total][DVD] <br />
-                                [PRO #1][MPG]
+                                [PRO #1][TOTP+Tv Total][DVD][3,91 GB] <br />
+                                [PRO #1][MPG][52,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-04-29 - Alcatraz, Milan, Italy</td>
                             <td>
-                                [PRO #1b][DVD]
+                                [PRO #1][1080p][BDMV][11,3 GB] <br />
+                                [PRO #1][MHD][DVD][2,88 GB] <br />
+                                [PRO #1][TMF][AVI][350 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2006-05-06 - NBC Studio 8H at Rockefeller Center (Saturday Night Live), New York, NY, USA</td>
                             <td>
-                                [PRO #1][HDTV][TS] <br />
+                                [PRO #1][HDTV][1080i][TS][584 MB] <br />
                                 [PRO #1][SNL + Ross][DVD] <br />
                                 [PRO #1][MPG]
                             </td>
