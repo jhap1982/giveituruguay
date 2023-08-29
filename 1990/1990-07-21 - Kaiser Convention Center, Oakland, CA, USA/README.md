@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Dr. Funkenstein
-Inca Roads part of JOHN
-Funky Crime
-Stone Cold Bush
-Cold Sweat jam
-Nobody Weird Like Me
-Anarchy in the U.K. part of FLEA
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Higher Ground
-Mommy Where's Daddy?
-Knock Me Down
-Magic Johnson
-Skinny Sweaty Man
-Castles Made of Sand
-Me and My Friends
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Dr. Funkenstein
+4. Inca Roads part of JOHN
+5. Funky Crime
+6. Stone Cold Bush
+7. Cold Sweat jam
+8. Nobody Weird Like Me
+9. Anarchy in the U.K. part of FLEA
+10. Boyz-N-the-Hood part of
+11. Special Secret Song Inside
+12. Red Hot Mama part of
+13. Pretty Little Ditty
+14. Higher Ground
+15. Mommy Where's Daddy?
+16. Knock Me Down
+17. Magic Johnson
+18. Skinny Sweaty Man
+19. Castles Made of Sand
+20. Me and My Friends
 
 ## Notes
 

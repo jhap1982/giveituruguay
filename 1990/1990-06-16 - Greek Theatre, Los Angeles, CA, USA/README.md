@@ -2,37 +2,37 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Inca Roads part of JOHN
-Funky Crime
-Stone Cold Bush
-If You Got Funk, You Got Style part of
-Nobody Weird Like Me
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Superstar tease
-Higher Ground
-Mommy Where's Daddy?
-Knock Me Down
-Magic Johnson
-Sir Psycho Sexy tease
-Subterranean Homesick Blues
-Castles Made of Sand
-Subway to Venus
-Tiny Dancer part of JOHN
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Cholly (Funk Get Ready to Roll!) tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Inca Roads part of JOHN
+5. Funky Crime
+6. Stone Cold Bush
+7. If You Got Funk, You Got Style part of
+8. Nobody Weird Like Me
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Red Hot Mama part of
+12. Pretty Little Ditty
+13. Superstar tease
+14. Higher Ground
+15. Mommy Where's Daddy?
+16. Knock Me Down
+17. Magic Johnson
+18. Sir Psycho Sexy tease
+19. Subterranean Homesick Blues
+20. Castles Made of Sand
+21. Subway to Venus
+22. Tiny Dancer part of JOHN
+23. Me and My Friends
+<br> ENCORE BREAK
+24. Yertle the Turtle
+25. Freaky Styley
+26. Cosmic Slop tease
+27. Atomic Dog tease
+28. Don't Touch That Stereo tease
+29. Cholly (Funk Get Ready to Roll!) tease
+30. Crosstown Traffic
 
 ## Notes
 

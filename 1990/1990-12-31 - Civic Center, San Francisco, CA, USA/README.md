@@ -2,25 +2,25 @@
 
 ## Setlist
 
-The Greeting Song jam
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Inca Roads part of JOHN
-Stone Cold Bush
-Nobody Weird Like Me
-No Head No Backstage Pass part of
-Higher Ground
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Naked in the Rain
-Subway to Venus
-Magic Johnson
-Sir Psycho Sexy tease
-Mommy Where's Daddy?
-SETLIST INCOMPLETE
+1. The Greeting Song jam
+2. Out in L.A.
+3. Backwoods
+4. Dr. Funkenstein
+5. Funky Crime
+6. Inca Roads part of JOHN
+7. Stone Cold Bush
+8. Nobody Weird Like Me
+9. No Head No Backstage Pass part of
+10. Higher Ground
+11. Boyz-N-the-Hood part of
+12. Special Secret Song Inside
+13. Red Hot Mama part of
+14. Naked in the Rain
+15. Subway to Venus
+16. Magic Johnson
+17. Sir Psycho Sexy tease
+18. Mommy Where's Daddy?
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
