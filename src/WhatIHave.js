@@ -1244,6 +1244,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1996-06-15 - Irvine Meadows Amphitheatre (KROQ Weenie Roast), Irvine, CA, USA</td>
+                            <td>[SBD #1][FLAC][197 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1996-06-28 - Sittertobel (OpenAir St. Gallen), St. Gallen, Switzerland</td>
                             <td>[SBD #1][FLAC][572 MB]</td>
                         </tr>
@@ -1264,6 +1269,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1996-07-05 - Peninsula of Lake Malsaucy (Eurockeennes de Belfort Festival), Belfort, France</td>
                             <td>[AUD #1][FLAC][395 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1996-07-09 - Palais Omnisport de Paris Bercy, Paris, France</td>
+                            <td>[SBD #1][FLAC][171 MB]</td>
                         </tr>
                     </tbody>
                 </table>

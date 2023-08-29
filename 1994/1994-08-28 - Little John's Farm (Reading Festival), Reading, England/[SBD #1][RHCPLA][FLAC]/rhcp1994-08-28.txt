@@ -1,24 +1,42 @@
+DISC INFO
+
 Red Hot Chili Peppers
-August 28, 1994
-Little John's Farm (Reading Festival)
-Reading, England
 
-01. Grand Pappy du Plenty [part of] > Give It Away
-02. Suck My Kiss
-03. Warped
-04. Stone Cold Bush
-05. If You Have to Ask
-06. Backwoods
-07. Hollywood (Africa) [part of]
-08. Aeroplane
-09. Blood Sugar Sex Magik
-10. Pea
-11. Cornucipia [tease] > Higher Ground
-12. My Lovely Man
-13. Under the Bridge
-14. Me and My Friends
+08/28/94 - Reading Festival; London, England (1 CD)
 
-Source: SBD #1 - soundboard audio
-Equipment: soundboard > unknown recorder
-Lineage: FM > ? > FLAC
-Notes: missing "The Power of Equality" and "Nobody Weird Like Me".
+Most likely an FM recording.
+
+---------------------------------
+DISC TOTAL:               [65:12]
+---------------------------------
+01. Give It Away          [07:39]
+02. Suck My Kiss          [04:20]
+03. Warped                [06:47]
+04. Stone Cold Bush       [04:02]
+05. If You Have To Ask*   [05:35]
+06. Backwoods             [04:15]
+07. Hollywood (Africa)**  [01:21]
+08. Aeroplane             [04:52]
+09. Blood Sugar Sex Magik [05:12]
+10. Pea                   [02:27]
+11. Higher Ground         [05:22]
+12. My Lovely Man         [05:16]
+13. Under The Bridge      [04:56]
+14. Me And My Friends     [03:08]
+---------------------------------
+
+ * with 'Walkabout' jam.
+** aborted.
+
+Anthony Kiedis 
+Dave Navarro
+Flea
+Chad Smith
+
+SOURCE: 
+
+"Reading" (liberated bootleg, KTS367) CD > EAC > SHN via MKWACT.
+
+Compiled by Dave Pecoraro (dave@pbfans.com) on 07/30/2003.
+
+Please spread it freely, and enjoy!
