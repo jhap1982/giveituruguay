@@ -26,6 +26,8 @@
 
 ### Additional Musicians
 
+* Keith Barry 
+
 ## Recordings / Footage
 
 ## Links

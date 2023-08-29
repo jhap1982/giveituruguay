@@ -4,7 +4,8 @@
 
 ## Notes
 
-**Support**: -
+> Cancelled for unknown reasons.
+
 
 ## Media 
 
@@ -18,11 +19,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

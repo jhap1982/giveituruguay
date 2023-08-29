@@ -2,9 +2,17 @@
 
 ## Setlist
 
+Higher Ground
+Cold Sweat jam
+Nobody Weird Like Me
+Anarchy in the U.K. part of FLEA
+Hollywood (Africa)
+Knock Me Down
+SETLIST INCOMPLETE
+
 ## Notes
 
-**Support**: -
+**Support**: Gaye Bykers on Acid
 
 ## Media 
 
@@ -26,6 +34,10 @@
 
 ### Additional Musicians
 
+* Keith Barry 
+
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ? > FLAC "Higher Ground", the "Cold Sweat" jam, "Nobody Weird Like Me", "Anarchy In The U.K.", "Hollywood (Africa)" and "Knock Me Down" were broadcasted on radio.
 
 ## Links

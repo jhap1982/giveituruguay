@@ -2,9 +2,11 @@
 
 ## Setlist
 
+1. Foxy Lady
+
 ## Notes
 
-**Support**: -
+> For some reason, Chad and John didn't play and were replaced by the house band's guitar and keyboard players. The band insisted to perform naked, but were threatened with expulsion. Flea played bass suspended upside down by his feet.
 
 ## Media 
 
@@ -27,5 +29,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown VHS(x) > MP4
 
 ## Links

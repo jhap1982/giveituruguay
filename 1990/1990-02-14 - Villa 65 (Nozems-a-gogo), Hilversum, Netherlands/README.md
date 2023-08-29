@@ -2,6 +2,15 @@
 
 ## Setlist
 
+Subway to Venus
+Stone Cold Bush
+Yertle the Turtle
+Freaky Styley
+Cosmic Slop tease
+Atomic Dog tease
+Don't Touch That Stereo tease
+Crosstown Traffic
+
 ## Notes
 
 **Support**: -
@@ -26,6 +35,11 @@
 
 ### Additional Musicians
 
+* Keith Barry
+
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > MP3
+* PRO #1 professional video: soundboard > unknown TV > VHS(2) > DVD
 
 ## Links

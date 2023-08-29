@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: The Oriental Love Ring, The Beats, Dana Lynn
 
 ## Media 
 
@@ -25,6 +25,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

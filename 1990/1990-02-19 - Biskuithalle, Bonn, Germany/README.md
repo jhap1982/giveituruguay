@@ -2,9 +2,13 @@
 
 ## Setlist
 
-## Notes
+Out in L.A.
+Funky Crime
+Stone Cold Bush
+Special Secret Song Inside
+SETLIST INCOMPLETE
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -25,6 +29,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

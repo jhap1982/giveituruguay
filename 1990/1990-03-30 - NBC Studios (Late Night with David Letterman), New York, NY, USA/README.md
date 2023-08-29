@@ -2,9 +2,9 @@
 
 ## Setlist
 
-## Notes
+1. Higher Ground
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -27,5 +27,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links

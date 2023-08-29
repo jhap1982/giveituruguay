@@ -2,6 +2,10 @@
 
 ## Setlist
 
+1. Subway to Venus
+2. Sexy Mexican Maid
+20 Back in Black tease
+
 ## Notes
 
 **Support**: -
@@ -26,6 +30,10 @@
 
 ### Additional Musicians
 
+* Keith Barry
+
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(1) > DVD
 
 ## Links

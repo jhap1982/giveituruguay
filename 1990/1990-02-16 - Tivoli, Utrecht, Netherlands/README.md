@@ -8,6 +8,8 @@ Stone Cold Bush
 
 ## Notes
 
+**Support**: Tree Funk Concept
+
 ## Media 
 
 <details>
@@ -21,6 +23,10 @@ Stone Cold Bush
 * Flea
 * John Frusciante
 * Chad Smith
+
+### Additional Musicians
+
+* Keith Barry
 
 ## Recordings
 

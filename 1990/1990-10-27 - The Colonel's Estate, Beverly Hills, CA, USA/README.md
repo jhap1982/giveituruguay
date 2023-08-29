@@ -2,9 +2,11 @@
 
 ## Setlist
 
+1. Search and Destroy
+
 ## Notes
 
-**Support**: -
+> The band attended a private halloween party featuring a show by Jane's Addiction. At some point, they were asked to play and apparently did "Search and Destroy".
 
 ## Media 
 

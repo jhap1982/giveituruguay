@@ -26,6 +26,10 @@
 
 ### Additional Musicians
 
+* Keith Barry
+
 ## Recordings / Footage
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown **NOT CIRCULATING**
 
 ## Links

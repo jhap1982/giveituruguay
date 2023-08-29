@@ -2,9 +2,11 @@
 
 ## Setlist
 
+1. Knock Me Down
+
 ## Notes
 
-**Support**: -
+> They did a lip-synched performance. Near the end of the song they stopped and left the stage while the song kept playing. Some sources date this show on the 16th, although that is incorrect. After the 15th show at The Marriott, Flea and Chad were arrested for exposure and sexual battery while recording the MTV special the day before.
 
 ## Media 
 
@@ -27,5 +29,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links

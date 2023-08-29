@@ -2,9 +2,11 @@
 
 ## Setlist
 
+1. Show Me Your Soul
+
 ## Notes
 
-**Support**: -
+> Lyp-synched performance for "Save the Planet", a TV special to draw attention about global pollution and over-population crisis. Some sources date it on April 20th, but that's actually the broadcast date.
 
 ## Media 
 
@@ -27,5 +29,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links

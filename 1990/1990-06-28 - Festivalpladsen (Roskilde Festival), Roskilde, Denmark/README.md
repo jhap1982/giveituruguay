@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> The band was supposed to play there and was even advertised as part of the festival line-up, but negotiations regarding their contract were never finished and they changed their tour plans.
 
 ## Media 
 
@@ -18,11 +18,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

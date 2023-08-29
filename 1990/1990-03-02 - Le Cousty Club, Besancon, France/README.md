@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> Originally scheduled at Le Montjoye but later moved due to poor pre-sales.
 
 ## Media 
 
@@ -25,6 +25,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

@@ -2,9 +2,21 @@
 
 ## Setlist
 
+Dr. Funkenstein
+Funky Crime
+Inca Roads part of JOHN
+Stone Cold Bush
+Standing on the Verge of Getting It on
+Nobody Weird Like Me
+Boyz-N-the-Hood part of
+Special Secret Song Inside
+Bemsha Swing tease
+Knock Me Down
+SETLIST INCOMPLETE
+
 ## Notes
 
-**Support**: -
+**Support**: Fireboots
 
 ## Media 
 
@@ -26,6 +38,10 @@
 
 ### Additional Musicians
 
+* Keith Barry
+
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ANA(2) > FLAC 40 minutes were broadcasted on FM.
 
 ## Links

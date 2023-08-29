@@ -2,9 +2,14 @@
 
 ## Setlist
 
+Castles Made of Sand
+Crosstown Traffic
+Tiny Dancer part of JOHN
+SETLIST INCOMPLETE
+
 ## Notes
 
-**Support**: -
+**Other Acts**: Oingo Bongo
 
 ## Media 
 
@@ -25,6 +30,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

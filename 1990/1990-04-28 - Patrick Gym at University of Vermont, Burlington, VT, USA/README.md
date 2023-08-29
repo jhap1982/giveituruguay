@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> Opening for The Violent Femmes.
 
 ## Media 
 
@@ -25,6 +25,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

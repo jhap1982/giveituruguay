@@ -2,9 +2,17 @@
 
 ## Setlist
 
+Nobody Weird Like Me
+Knock Me Down
+Tiny Dancer part of JOHN
+Higher Ground
+ENCORE BREAK
+Crosstown Traffic
+SETLIST INCOMPLETE
+
 ## Notes
 
-**Support**: -
+**Support**: The Dead Milkmen, Too Free Stooges
 
 ## Media 
 
@@ -25,6 +33,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

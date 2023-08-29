@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: The Meat Puppets
 
 ## Media 
 
@@ -25,6 +25,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 

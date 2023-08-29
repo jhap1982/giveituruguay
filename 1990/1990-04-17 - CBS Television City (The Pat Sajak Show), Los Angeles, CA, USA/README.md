@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> The band was supposed to appear on the late show on April 17, but "The Pat Sajak Show" was cancelled on April 13. It's unknown if the performance was actually taped beforehand.
 
 ## Media 
 
@@ -18,11 +18,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

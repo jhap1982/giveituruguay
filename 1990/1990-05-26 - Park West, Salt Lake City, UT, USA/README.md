@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Other Acts**: Food for Feet, Oingo Boingo
 
 ## Media 
 
@@ -25,6 +25,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Keith Barry
 
 ## Recordings / Footage
 
