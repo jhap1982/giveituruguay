@@ -2518,7 +2518,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-04-27 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
                             <td>
-                                [AMT #1][DVD][2,20 GB]
+                                [AMT #1][DVD][2,20 GB] <br />
+                                [PRO #1][Coachella - The Film 2006][DVD][6,34 GB]
                             </td>
                         </tr>
 
