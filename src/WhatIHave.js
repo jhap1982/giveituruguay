@@ -1118,6 +1118,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1995-10-08 - Forest National, Brussels, Belgium</td>
+                            <td>
+                                [AMT #1][DVD][5,62 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1995-10-11 - Deutschlandhalle, Berlin, Germany</td>
                             <td>[AUD #1][FLAC][181 MB]</td>
                         </tr>
