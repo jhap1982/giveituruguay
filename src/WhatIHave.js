@@ -1992,14 +1992,19 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2001-01-21 - Parque Olimpico Cidade do Rock (Rock In Rio III), Rio de Janeiro, Brazil</td>
-                            <td>[PRO #1][DVD][2,82 GB]</td>
+                            <td>
+                                [PRO #1][DirecTV][AVI][697 MB] <br / >
+                                [PRO #1][DirecTV][DVD][3,78 GB] <br />
+                                [PRO #1][Multishow][DVD][2,82 GB] <br />
+                                [Bootleg][MP3][115 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>2001-01-24 - Estadio Jose Amalfitani, Buenos Aires, Argentina</td>
                             <td>
-                                [PRO #1][DVD][3,06 GB][5,35 GB]<br />
-                                [PRO #1][fruscisgod][DVD]<br/>
+                                [PRO #1][DVD][3,06 GB] <br />
+                                [PRO #1][fruscisgod][DVD][5,35 GB] <br/>
                                 [AUD #1][DVD][MP3][75,7 MB]
                             </td>
                         </tr>                        

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Give It Away
-Suck My Kiss
-Warped
-Waiting Room
-Walkabout
-Blood Sugar Sex Magik
-Pea
-Higher Ground
-Heroin part of DAVE
-Aeroplane
-Ca Plane Pour Moi part of FLEA
-One Big Mob
-Under the Bridge
-Coffee Shop
-Manic Depression tease
-ENCORE BREAK
-Deep Kick
-Police Helicopter
-Nevermind
-Spiritual part of FLEA
+1. Give It Away
+2. Suck My Kiss
+3. Warped
+4. Waiting Room
+5. Walkabout
+6. Blood Sugar Sex Magik
+7. Pea
+8. Higher Ground
+9. Heroin part of DAVE
+10. Aeroplane
+11. Ca Plane Pour Moi part of FLEA
+12. One Big Mob
+13. Under the Bridge
+14. Coffee Shop
+15. Manic Depression tease
+<br>ENCORE BREAK
+16. Deep Kick
+17. Police Helicopter
+18. Nevermind
+19. Spiritual part of FLEA
 
 ## Notes
 

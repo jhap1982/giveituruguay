@@ -2,14 +2,14 @@
 
 ## Setlist
 
-Subway to Venus
-Stone Cold Bush
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Crosstown Traffic
+1. Subway to Venus
+2. Stone Cold Bush
+3. Yertle the Turtle
+4. Freaky Styley
+5. Cosmic Slop tease
+6. Atomic Dog tease
+7. Don't Touch That Stereo tease
+8. Crosstown Traffic
 
 ## Notes
 

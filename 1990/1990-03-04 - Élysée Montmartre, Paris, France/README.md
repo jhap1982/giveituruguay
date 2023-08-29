@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Higher Ground
-Cold Sweat jam
-Nobody Weird Like Me
-Anarchy in the U.K. part of FLEA
-Hollywood (Africa)
-Knock Me Down
-SETLIST INCOMPLETE
+1. Higher Ground
+2. Cold Sweat jam
+3. Nobody Weird Like Me
+4. Anarchy in the U.K. part of FLEA
+5. Hollywood (Africa)
+6. Knock Me Down
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

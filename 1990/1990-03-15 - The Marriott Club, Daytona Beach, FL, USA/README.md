@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Nobody Weird Like Me
-Anarchy in the U.K. part of FLEA
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Cold Sweat jam
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Subway to Venus
-Castles Made of Sand
-Nevermind
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Nobody Weird Like Me
+8. Anarchy in the U.K. part of FLEA
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Pretty Little Ditty
+12. Higher Ground
+13. Cold Sweat jam
+14. Hollywood (Africa)
+15. Knock Me Down
+16. Magic Johnson
+17. Subway to Venus
+18. Castles Made of Sand
+19. Nevermind
 
 ## Notes
 

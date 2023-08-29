@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Castles Made of Sand
-Crosstown Traffic
-Tiny Dancer part of JOHN
-SETLIST INCOMPLETE
+1. Castles Made of Sand
+2. Crosstown Traffic
+3. Tiny Dancer part of JOHN
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

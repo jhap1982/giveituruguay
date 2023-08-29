@@ -2,11 +2,11 @@
 
 ## Setlist
 
-Out in L.A.
-Funky Crime
-Stone Cold Bush
-Special Secret Song Inside
-SETLIST INCOMPLETE
+1. Out in L.A.
+2. Funky Crime
+3. Stone Cold Bush
+4. Special Secret Song Inside
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

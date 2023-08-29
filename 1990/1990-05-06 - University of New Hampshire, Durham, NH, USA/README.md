@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Out in L.A.
-Good Time Boys
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Cold Sweat jam
-Nobody Weird Like Me
-Anarchy in the U.K. part of FLEA
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Higher Ground
-Mommy Where's Daddy?
-Knock Me Down
-Magic Johnson
-Sir Psycho Sexy tease
-Subterranean Homesick Blues
-Castles Made of Sand
-Bullet Proof
-Tiny Dancer part of JOHN
-Me and My Friends
-ENCORE BREAK
-Sexy Mexican Maid
-Back in Black tease
-Crosstown Traffic
+1. Out in L.A.
+2. Good Time Boys
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Cold Sweat jam
+7. Nobody Weird Like Me
+8. Anarchy in the U.K. part of FLEA
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Red Hot Mama part of
+12. Pretty Little Ditty
+13. Higher Ground
+14. Mommy Where's Daddy?
+15. Knock Me Down
+16. Magic Johnson
+17. Sir Psycho Sexy tease
+18. Subterranean Homesick Blues
+19. Castles Made of Sand
+20. Bullet Proof
+21. Tiny Dancer part of JOHN
+22. Me and My Friends
+<br>ENCORE BREAK
+23. Sexy Mexican Maid
+24. Back in Black tease
+25. Crosstown Traffic
 
 ## Notes
 

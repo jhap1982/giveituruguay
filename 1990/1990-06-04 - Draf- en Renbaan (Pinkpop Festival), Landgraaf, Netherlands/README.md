@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Inca Roads part of JOHN
-Funky Crime
-Anarchy in the U.K. part of FLEA
-Stone Cold Bush
-If You Got Funk, You Got Style part of
-Nobody Weird Like Me
-Tiny Dancer part of JOHN
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Higher Ground
-Mommy Where's Daddy?
-Knock Me Down
-Castles Made of Sand
-Me and My Friends
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Inca Roads part of JOHN
+5. Funky Crime
+6. Anarchy in the U.K. part of FLEA
+7. Stone Cold Bush
+8. If You Got Funk, You Got Style part of
+9. Nobody Weird Like Me
+10. Tiny Dancer part of JOHN
+11. Boyz-N-the-Hood part of
+12. Special Secret Song Inside
+13. Red Hot Mama part of
+14. Pretty Little Ditty
+15. Higher Ground
+16. Mommy Where's Daddy?
+17. Knock Me Down
+18. Castles Made of Sand
+19. Me and My Friends
 
 ## Notes
 

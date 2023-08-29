@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Nobody Weird Like Me
-Knock Me Down
-Tiny Dancer part of JOHN
-Higher Ground
-ENCORE BREAK
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Nobody Weird Like Me
+2. Knock Me Down
+3. Tiny Dancer part of JOHN
+4. Higher Ground
+<br>ENCORE BREAK
+5. Crosstown Traffic
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

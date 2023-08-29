@@ -2,17 +2,17 @@
 
 ## Setlist
 
-Dr. Funkenstein
-Funky Crime
-Inca Roads part of JOHN
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Nobody Weird Like Me
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Bemsha Swing tease
-Knock Me Down
-SETLIST INCOMPLETE
+1. Dr. Funkenstein
+2. Funky Crime
+3. Inca Roads part of JOHN
+4. Stone Cold Bush
+5. Standing on the Verge of Getting It on
+6. Nobody Weird Like Me
+7. Boyz-N-the-Hood part of
+8. Special Secret Song Inside
+9. Bemsha Swing tease
+10. Knock Me Down
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

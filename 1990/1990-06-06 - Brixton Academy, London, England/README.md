@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-If You Got Funk, You Got Style part of
-Stone Cold Bush
-Nobody Weird Like Me
-Anarchy in the U.K. part of FLEA
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Higher Ground
-Mommy Where's Daddy?
-Knock Me Down
-Subway to Venus
-Castles Made of Sand
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Don't Touch That Stereo tease
-Cholly (Funk Get Ready to Roll!) tease
-Crosstown Traffic
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. If You Got Funk, You Got Style part of
+6. Stone Cold Bush
+7. Nobody Weird Like Me
+8. Anarchy in the U.K. part of FLEA
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Red Hot Mama part of
+12. Pretty Little Ditty
+13. Higher Ground
+14. Mommy Where's Daddy?
+15. Knock Me Down
+16. Subway to Venus
+17. Castles Made of Sand
+18. Me and My Friends
+<br>ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Don't Touch That Stereo tease
+24. Cholly (Funk Get Ready to Roll!) tease
+25. Crosstown Traffic
 
 ## Notes
 

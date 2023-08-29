@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Inca Roads part of JOHN
-Stone Cold Bush
-Cold Sweat jam
-Nobody Weird Like Me
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Red Hot Mama part of
-Pretty Little Ditty
-Higher Ground
-Mommy Where's Daddy?
-What Is Soul? jam
-Knock Me Down
-Magic Johnson
-Sir Psycho Sexy tease
-Subway to Venus
-Castles Made of Sand
-Police Helicopter
-Your Song part of JOHN
-Me and My Friends
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Inca Roads part of JOHN
+6. Stone Cold Bush
+7. Cold Sweat jam
+8. Nobody Weird Like Me
+9. Boyz-N-the-Hood part of
+10. Special Secret Song Inside
+11. Red Hot Mama part of
+12. Pretty Little Ditty
+13. Higher Ground
+14. Mommy Where's Daddy?
+15. What Is Soul? jam
+16. Knock Me Down
+17. Magic Johnson
+18. Sir Psycho Sexy tease
+19. Subway to Venus
+20. Castles Made of Sand
+21. Police Helicopter
+22. Your Song part of JOHN
+23. Me and My Friends
 
 ## Notes
 

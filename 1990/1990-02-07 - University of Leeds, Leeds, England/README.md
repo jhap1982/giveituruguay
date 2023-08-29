@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Out in L.A.
-Backwoods
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Standing on the Verge of Getting It on
-Anarchy in the U.K. part of FLEA
-Subway to Venus
-Tiny Dancer part of JOHN
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Pretty Little Ditty
-Higher Ground
-Heaven on Their Minds tease
-Hollywood (Africa)
-Knock Me Down
-Magic Johnson
-Nobody Weird Like Me
-Bemsha Swing tease
-Nevermind
-ENCORE BREAK
-Mommy Where's Daddy?
-Fire
+1. Out in L.A.
+2. Backwoods
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Standing on the Verge of Getting It on
+7. Anarchy in the U.K. part of FLEA
+8. Subway to Venus
+9. Tiny Dancer part of JOHN
+10. Boyz-N-the-Hood part of
+11. Special Secret Song Inside
+12. Pretty Little Ditty
+13. Higher Ground
+14. Heaven on Their Minds tease
+15. Hollywood (Africa)
+16. Knock Me Down
+17. Magic Johnson
+18. Nobody Weird Like Me
+19. Bemsha Swing tease
+20. Nevermind
+<br>ENCORE BREAK
+21. Mommy Where's Daddy?
+22. Fire
 
 ## Notes
 
