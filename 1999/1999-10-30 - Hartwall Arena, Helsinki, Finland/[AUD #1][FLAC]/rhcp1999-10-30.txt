@@ -1,31 +1,81 @@
 Red Hot Chili Peppers
-October 30, 1999
-Hartwall Arena
-Helsinki, Finland
 
-01. Freaky Styley [jam]
-02. Around the World
+October 30, 1999 - Hartwall Arena, Helsinki, Finland
+
+CD#1
+01. Freaky Styley Jam
+02. Around The World
 03. Give It Away
-04. Your Pussy's Glued to a Building on Fire [John]
+04. Your Pussy's Glued To A Building On Fire
 05. Scar Tissue
 06. Suck My Kiss
 07. Pea
 08. Otherside
 09. Skinny Sweaty Man
-10. Soul to Squeeze
+10. Soul To Squeeze
 11. Blood Sugar Sex Magik
+CD#2
 12. I Like Dirt
-13. If You Have to Ask
+13. If You Have To Ask
 14. Easily
-15. Right on Time
-16. Under the Bridge
-17. Me and My Friends
-ENCORE
-18. Yertle the Turtle > Freaky Styley
-19. Cosmic Slop [tease] > Atomic Dog [tease] > Cholly [tease] > Not Great Men [tease] > Untitled #2 [tease]
-20. Search and Destroy
+15. Right On Time
+16. Under The Bridge
+17. Me And My Friends
+18. Yertle The Turtle > Freaky Styley
+19. Cosmic Slop
+20. Search And Destroy
 
-Source: AUD #1 - audience audio
-Equipment: unknown mic > unknown recorder
-Lineage: MD(M) > FLAC
-Taper: unknown
+LEN : 85:30
+REC : AUD
+GEN : CD-R > EAC > FLAC
+
+Second show in Helsinki.
+
+rhcp1999-10-30d1t01.wav:  successfully encoded to 'rhcp1999-10-30d1t01.flac'
+rhcp1999-10-30d1t02.wav:  successfully encoded to 'rhcp1999-10-30d1t02.flac'
+rhcp1999-10-30d1t03.wav:  successfully encoded to 'rhcp1999-10-30d1t03.flac'
+rhcp1999-10-30d1t04.wav:  successfully encoded to 'rhcp1999-10-30d1t04.flac'
+rhcp1999-10-30d1t05.wav:  successfully encoded to 'rhcp1999-10-30d1t05.flac'
+rhcp1999-10-30d1t06.wav:  successfully encoded to 'rhcp1999-10-30d1t06.flac'
+rhcp1999-10-30d1t07.wav:  successfully encoded to 'rhcp1999-10-30d1t07.flac'
+rhcp1999-10-30d1t08.wav:  successfully encoded to 'rhcp1999-10-30d1t08.flac'
+rhcp1999-10-30d1t09.wav:  successfully encoded to 'rhcp1999-10-30d1t09.flac'
+rhcp1999-10-30d1t10.wav:  successfully encoded to 'rhcp1999-10-30d1t10.flac'
+rhcp1999-10-30d1t11.wav:  successfully encoded to 'rhcp1999-10-30d1t11.flac'
+rhcp1999-10-30d2t01.wav:  successfully encoded to 'rhcp1999-10-30d2t01.flac'
+rhcp1999-10-30d2t02.wav:  successfully encoded to 'rhcp1999-10-30d2t02.flac'
+rhcp1999-10-30d2t03.wav:  successfully encoded to 'rhcp1999-10-30d2t03.flac'
+rhcp1999-10-30d2t04.wav:  successfully encoded to 'rhcp1999-10-30d2t04.flac'
+rhcp1999-10-30d2t05.wav:  successfully encoded to 'rhcp1999-10-30d2t05.flac'
+rhcp1999-10-30d2t06.wav:  successfully encoded to 'rhcp1999-10-30d2t06.flac'
+rhcp1999-10-30d2t07.wav:  successfully encoded to 'rhcp1999-10-30d2t07.flac'
+rhcp1999-10-30d2t08.wav:  successfully encoded to 'rhcp1999-10-30d2t08.flac'
+rhcp1999-10-30d2t09.wav:  successfully encoded to 'rhcp1999-10-30d2t09.flac'
+
+No errors occured.
+
+
+rhcp1999-10-30d1t01.flac:9a8523a4e5f87ca13a8de69187597a0b
+rhcp1999-10-30d1t02.flac:be0440b34d4d295242dca1f51ce591a9
+rhcp1999-10-30d1t03.flac:605eb60844d69821f74f08855d68cfd7
+rhcp1999-10-30d1t04.flac:6d29307d4d4bfed9aa3ea48ee7847e04
+rhcp1999-10-30d1t05.flac:f5e3cc078d6241b8895a1332249d3c68
+rhcp1999-10-30d1t06.flac:5f4f0589f97f7e913e4253264dcb311d
+rhcp1999-10-30d1t07.flac:7f6a5471a0e4894e33c9aeba9c98abd2
+rhcp1999-10-30d1t08.flac:36f879f7b52c1d2fda5643d5907598ce
+rhcp1999-10-30d1t09.flac:c413bf26f7e0ffc5d8f5034cce364488
+rhcp1999-10-30d1t10.flac:fbc4b4a6658d28a9c2b966b812f7a24c
+rhcp1999-10-30d1t11.flac:979070bd238fbdcaab3dad76778a84be
+rhcp1999-10-30d2t01.flac:06d6445259af3a849ac6c0b9477205b1
+rhcp1999-10-30d2t02.flac:bd0bbb54fb9016ab62454dabfbb0b9a7
+rhcp1999-10-30d2t03.flac:b28d5e9dd13da4902286133b98211775
+rhcp1999-10-30d2t04.flac:f405aae7721d6bb054be05aaea824a34
+rhcp1999-10-30d2t05.flac:a9358b1f5cdbec087d86bdc35099254a
+rhcp1999-10-30d2t06.flac:cfa63b72a05ca00814b56e0c77b878fc
+rhcp1999-10-30d2t07.flac:57e6462c8a8cee399b227f73e447dcdb
+rhcp1999-10-30d2t08.flac:96c57034bf0a6a4a1f0a1391dd7f391a
+rhcp1999-10-30d2t09.flac:f4cad20a793cf8e1ad2701afff82c5d5
+
+No errors occured.
+
+Checksum file saved to disk.
