@@ -1,0 +1,23 @@
+01. Freaky Styley (Jam).flac:b37e403968bd2314b7e59c2276ba9a07
+02. Around The World.flac:6818115495d446ddda0f5c0df88f6ba6
+03. Give It Away.flac:d59fc1d7f256403cbb572803c2b327ec
+04. Scar Tissue.flac:b393835d9693bb40b45dbd9b78c7c237
+05. My Lovely Man.flac:e6c31ca879d45c14d74d1b3749835171
+06. Jam.flac:8598412b541f2a2c8e3ad77ef91dc248
+07. Otherside.flac:4221565632d63cdc1d05a11342fef5a9
+08. Blood Sugar Sex Magik.flac:6a077d6cdc3f7a1a14845270589983c0
+09. I Could Have Lied.flac:7c09a072c0ecaabe4efbdf8ad10c9aea
+10. Organic Anti-Beat Box Band.flac:43f0eec8d8006e0370a4cc8da6faf5b0
+11. Blackeyed Blonde.flac:ebb5b7a782ece4d2362004ccaf643c67
+12. If You Have To Ask.flac:102fdff47c416409eb10d53417b60b34
+13. Easily.flac:8b6d44a9af74cc89b8aa6aabbdd24bd5
+14. Right On Time.flac:6502182176373f98acbc4999e3725043
+15. Under The Bridge.flac:df7183938e7c5c7f418e35f5d6042e24
+16. Me And My Friends.flac:773085dd5e83fb36a295a935cc04ff8c
+17. Tiny Dancer (John).flac:548ecb4636378c41c33b038bb07d13b1
+18. Soul To Squeeze.flac:ddf449611cbac5f7dfd3369a1ef28af7
+19. The Power Of Equality.flac:653dc2ba72104c9f6a29a68906fccf5d
+
+No errors occured.
+
+Create checksum file log saved to file.

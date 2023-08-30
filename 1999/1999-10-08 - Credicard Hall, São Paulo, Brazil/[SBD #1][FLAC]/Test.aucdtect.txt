@@ -1,0 +1,30 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Freaky Styley (Jam).wav:  track looks like CDDA with probability 100%.
+02. Around The World.wav:  track looks like CDDA with probability 100%.
+03. Give It Away.wav:  track looks like CDDA with probability 100%.
+04. Scar Tissue.wav:  track looks like CDDA with probability 100%.
+05. My Lovely Man.wav:  track looks like CDDA with probability 100%.
+06. Jam.wav:  track looks like CDDA with probability 100%.
+07. Otherside.wav:  track looks like CDDA with probability 100%.
+08. Blood Sugar Sex Magik.wav:  track looks like CDDA with probability 100%.
+09. I Could Have Lied.wav:  track looks like CDDA with probability 100%.
+10. Organic Anti-Beat Box Band.wav:  track looks like CDDA with probability 99%.
+11. Blackeyed Blonde.wav:  track looks like CDDA with probability 100%.
+12. If You Have To Ask.wav:  track looks like CDDA with probability 100%.
+13. Easily.wav:  track looks like CDDA with probability 99%.
+14. Right On Time.wav:  track looks like CDDA with probability 100%.
+15. Under The Bridge.wav:  track looks like CDDA with probability 100%.
+16. Me And My Friends.wav:  track looks like CDDA with probability 100%.
+17. Tiny Dancer (John).wav:  track looks like CDDA with probability 100%.
+18. Soul To Squeeze.wav:  track looks like CDDA with probability 100%.
+19. The Power Of Equality.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.
