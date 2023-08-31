@@ -2,9 +2,35 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Charlie
+Otherside
+Look Around
+Throw Away Your Television
+Wet Sand
+The Adventures of Rain Dance Maggie
+Dani California
+Happiness Loves Company
+Right on Time
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Freaky Styley
+Sir Psycho Sexy
+They're Red Hot
+Meet Me at the Corner
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+> Rescheduled from **January 30, 2012**.
+
+**Support**: Santigold
 
 ## Media 
 
@@ -21,6 +47,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 
 ## Links

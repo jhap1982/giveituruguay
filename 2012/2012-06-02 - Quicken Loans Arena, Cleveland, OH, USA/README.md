@@ -2,9 +2,30 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Charlie
+Scar Tissue
+Factory of Faith
+Hey
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Dani California
+Look Around
+Right on Time
+Under the Bridge
+Suck My Kiss
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Little Dragon
 
 ## Media 
 
@@ -21,6 +42,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

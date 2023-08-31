@@ -2,9 +2,19 @@
 
 ## Setlist
 
+Can't Stop
+Dani California
+Look Around
+The Adventures of Rain Dance Maggie
+Under the Bridge
+Around the World
+ENCORE BREAK
+Sir Psycho Sexy
+They're Red Hot
+
 ## Notes
 
-**Other Acts**: -
+> Fundraising event in support of Barack Obama.
 
 ## Media 
 
@@ -20,6 +30,10 @@
 * Flea
 * Josh Klinghoffer
 * Chad Smith
+
+### Additional Musicians:
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

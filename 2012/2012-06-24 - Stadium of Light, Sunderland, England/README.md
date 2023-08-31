@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Dani California
+Scar Tissue
+Look Around
+Universally Speaking
+I Like Dirt
+The Adventures of Rain Dance Maggie
+Right on Time
+If You Have to Ask
+Hardcore Jollies tease
+Ethiopia
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Soul to Squeeze
+Give It Away
+Encore jam
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Reverend and the Makers, The Wombats
 
 ## Media 
 
@@ -21,6 +45,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

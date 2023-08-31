@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Dani California
+Otherside
+Look Around
+Strip My Mind
+Can't Stop
+Hey
+The Adventures of Rain Dance Maggie
+Charlie
+Under the Bridge
+Higher Ground
+Californication
+Goodbye Hooray
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Ethiopia
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Little Dragon
 
 ## Media 
 
@@ -21,6 +43,14 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* AUD #1 audience audio: built-in > Zoom Q3HDAAC recorded by mikemara4444
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

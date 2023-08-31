@@ -26,9 +26,9 @@
 
 ## Notes
 
+> Rescheduled from **January 23, 2012**.
+
 **Support**: Santigold
-<br>
-**Other Acts**: -
 
 ## Media 
 
@@ -43,6 +43,11 @@
 * Flea
 * Josh Klinghoffer
 * Chad Smith
+
+## Additional Musicians
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 
