@@ -2,6 +2,29 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Dani California
+Otherside
+Factory of Faith
+Can't Stop
+Hard to Concentrate
+Look Around
+I Like Dirt
+The Adventures of Rain Dance Maggie
+Dreams of a Samurai jam
+Universally Speaking
+Under the Bridge
+Californication
+Goodbye Hooray
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Ethiopia
+Give It Away
+Outro Jam
+
 ## Notes
 
 **Other Acts**: -
@@ -21,6 +44,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

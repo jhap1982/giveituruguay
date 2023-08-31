@@ -2,9 +2,30 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Around the World
+Otherside
+Dani California
+Can't Stop
+Wet Sand
+Look Around
+Encore jam
+She's Only 18
+The Adventures of Rain Dance Maggie
+Right on Time
+Under the Bridge
+Factory of Faith
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Ethiopia
+Give It Away
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -21,6 +42,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

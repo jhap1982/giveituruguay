@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Otherside
+Look Around
+She's Only 18
+Can't Stop
+Dreams of a Samurai jam
+Soul to Squeeze
+The Adventures of Rain Dance Maggie
+Universally Speaking
+Right on Time
+Under the Bridge
+Goodbye Hooray
+Californication
+Pink as Floyd part of
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Ethiopia
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Rescheduled from **February 26, 2012**.
+
+**Support**: Off!
 
 ## Media 
 
@@ -21,6 +46,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

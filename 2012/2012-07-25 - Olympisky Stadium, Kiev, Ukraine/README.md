@@ -2,9 +2,31 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Around the World
+Dani California
+Otherside
+Look Around
+If You Have to Ask
+Hardcore Jollies tease
+Can't Stop
+Meet Me at the Corner
+The Adventures of Rain Dance Maggie
+I Like Dirt
+Quixoticelixer tease
+Under the Bridge
+Higher Ground
+Californication
+Goodbye Hooray
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Ethiopia
+Give It Away
+Outro Jam
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -21,6 +43,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

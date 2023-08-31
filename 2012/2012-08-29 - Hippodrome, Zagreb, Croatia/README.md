@@ -2,9 +2,37 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Otherside
+Look Around
+Throw Away Your Television
+Can't Stop
+Emit Remmus
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Universally Speaking
+Red Hot Mama jam
+Road Trippin' tease
+Under the Bridge
+Higher Ground
+Cosmic Slop tease
+Suck My Kiss
+By the Way
+ENCORE BREAK
+Jam
+Californication
+Factory of Faith
+Give It Away
+Encore jam
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+> Croatian duo "2Cellos" joined the band for "Californication" and the jam before the song.
+
+**Support**: 2Cellos
 
 ## Media 
 
@@ -21,6 +49,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links
