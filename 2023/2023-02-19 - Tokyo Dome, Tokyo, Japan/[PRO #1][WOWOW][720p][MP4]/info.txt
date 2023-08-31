@@ -1,0 +1,33 @@
+Red Hot Chili Peppers
+Date: 		2023.02.19
+Venue: 		Tokyo Dome, Tokyo, Japan
+Length: 	1h44m55s
+Taper:		afraid of lawyers
+Lineage: 	WOWOW Stream -> N_m3u8DL-RE -> .mp4 file
+Source		Pro#1
+Media:		720p
+Video info: 	h264 1280x720 2400kb/s(VBR) 29.970
+Audio info: 	AAC 128kb/s 48kHz
+Comment:	This is a perfect webrip. No better sources are available atm.
+More info:	https://rhcplivearchive.com/show/feb-19-2023-tokyo-japan-2171
+
+Setlist:
+Intro Jam
+01Can't Stop
+02The Zephyr Song
+03Here Ever After
+04Snow ((Hey Oh))
+05Eddie
+06Suck My Kiss
+07Reach Out
+08Soul to Squeeze
+09Nobody Weird Like Me
+10These Are the Ways
+11Tippa My Tongue
+12Californication
+13Carry Me Home
+14Black Summer
+15By the Way
+ENCORE BREAK
+16Under the Bridge
+17Give It Away

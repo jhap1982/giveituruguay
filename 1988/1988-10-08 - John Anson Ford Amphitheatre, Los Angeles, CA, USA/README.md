@@ -54,5 +54,5 @@
 
 * AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown 
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by Louis Elovitz
-* AMT #2 amateur video: built-in > unknown camera VHS(x) > DVD recorded by Richard White (aka raw420)Missing "Love Trilogy", "Green Heaven", "Police Helicopter", the "Subway To Venus" jam, "Party On Your Pussy" and "Bullet Proof". 
+* AMT #2 amateur video: built-in > unknown camera VHS(x) > DVD recorded by Richard White (aka raw420) Missing "Love Trilogy", "Green Heaven", "Police Helicopter", the "Subway To Venus" jam, "Party On Your Pussy" and "Bullet Proof". 
 * MIX #1 mixed video: built-in > unknown cameras VHS(x) > DVD Mix of both amateur shots.

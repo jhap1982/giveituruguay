@@ -5685,11 +5685,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][HDTV][WOWOW][1080i][TS][16,1 GB] <br />
                                 [PRO #1][RHCP-IG][1080p][MP4][375 MB] <br />
-                                [PRO #1][720p][MP4][1,91 GB] <br />
+                                [PRO #1][WOWOW][720p][MP4][1,83 GB] <br />
                                 [PRO #1][LaOzPedia][4K][MP4][16,1 GB] <br />
                                 [PRO #1][LaOzPedia][1080p][MP4][9,19 GB] <br />
                                 [AUD #1][FLAC][589 MB] <br />
-                                [AUD #1][WOWOW][MP3][196 MB]
+                                [SBD #1][WOWOW][MP3][196 MB]
                             </td>
                         </tr>
 
