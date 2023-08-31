@@ -2,9 +2,30 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Otherside
+Look Around
+She's Only 18
+Can't Stop
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Right on Time
+Universally Speaking
+Renaissance tease
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Meet Me at the Corner
+Give It Away
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -21,6 +42,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

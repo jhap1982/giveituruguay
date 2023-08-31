@@ -2,9 +2,32 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Otherside
+Look Around
+Blood Sugar Sex Magik
+Show of Strength tease
+Can't Stop
+Throw Away Your Television
+Orange Claw Hammer part of FLEA
+The Adventures of Rain Dance Maggie
+Right on Time
+Wet Sand
+Gong Li tease
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Factory of Faith
+Soul to Squeeze
+Give It Away
+Outro Jam
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -21,6 +44,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

@@ -2,9 +2,26 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Can't Stop
+Scar Tissue
+Look Around
+Snow ((Hey Oh))
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+I Like Dirt
+Ethiopia
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Special gig for Dreamforce 2012.
 
 ## Media 
 
@@ -21,6 +38,11 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+# Links

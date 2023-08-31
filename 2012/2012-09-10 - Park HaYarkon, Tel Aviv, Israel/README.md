@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Otherside
+Look Around
+Universally Speaking
+Can't Stop
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Did I Let You Know
+Behind the Sun tease
+Under the Bridge
+My Lovely Man part of
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+The Power of Equality
+Meet Me at the Corner
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Avishai Cohen played trumpet on "Did I Let You Know" and "The Power Of Equality".
+
+**Support**: Riff Cohen
 
 ## Media 
 
@@ -21,6 +46,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

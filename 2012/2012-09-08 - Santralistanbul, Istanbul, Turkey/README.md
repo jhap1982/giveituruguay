@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Can't Stop
+Scar Tissue
+Look Around
+If You Have to Ask
+Hardcore Jollies tease
+Charlie
+Hard to Concentrate
+The Adventures of Rain Dance Maggie
+I Like Dirt
+Did I Let You Know
+Dosed tease
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Soul to Squeeze
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Athena
 
 ## Media 
 
@@ -21,6 +45,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links
