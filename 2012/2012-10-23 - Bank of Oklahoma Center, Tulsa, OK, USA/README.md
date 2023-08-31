@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Can't Stop
+Look Around
+Wet Sand
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Right on Time
+If You Have to Ask
+Hardcore Jollies tease
+Under the Bridge
+Ethiopia
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Soul to Squeeze
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Rescheduled from **March 13, 2012**.
+
+**Support**: Janelle Monae, Thundercat
 
 ## Media 
 
@@ -21,6 +46,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

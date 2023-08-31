@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Otherside
+Look Around
+Can't Stop
+If You Have to Ask
+Hardcore Jollies tease
+Tell Me Baby
+I Could Have Lied
+The Adventures of Rain Dance Maggie
+Right on Time
+Did I Let You Know
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+Everybody Knows This Is Nowhere
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+> Chadrick Honoré from the Rebirth Brass Band played trumpet on "Did I Let You Know" and the whole band joined later for "Give It Away".
+
+**Support**: Rebirth Brass Band
 
 ## Media 
 
@@ -21,6 +46,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

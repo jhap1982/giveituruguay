@@ -2,9 +2,26 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Dani California
+Can't Stop
+Otherside
+Look Around
+Snow ((Hey Oh))
+Soul to Squeeze
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Auld Lang Syne part of
+Universally Speaking
+Ethiopia
+Suck My Kiss
+Under the Bridge
+By the Way
+ENCORE BREAK
+Around the World
+Give It Away
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -20,6 +37,11 @@
 * Flea
 * Josh Klinghoffer
 * Chad Smith
+
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

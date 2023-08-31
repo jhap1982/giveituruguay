@@ -3,34 +3,23 @@
 ## Setlist
 
 Monarchy of Roses
-Dani California
-Scar Tissue
-Can't Stop
-She's Only 18
-Look Around
-Blood Sugar Sex Magik
-Show of Strength tease
-Tell Me Baby
-The Adventures of Rain Dance Maggie
-Renaissance tease
-Me and My Friends
-Under the Bridge
 Factory of Faith
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
+Brendan's Death Song
+Ethiopia
+Annie Wants a Baby
+Look Around
+The Adventures of Rain Dance Maggie
+Did I Let You Know
+Goodbye Hooray
+Happiness Loves Company
+Police Station
+Even You Brutus?
 Meet Me at the Corner
-Give It Away
-Outro Jam
+Dance, Dance, Dance
 
 ## Notes
 
-> Rescheduled from **March 16, 2012**.
-
-**Support**: Janelle Monae, Thundercat
+> They played "I'm with You" for Nigel Godrich's "From the Basement" show.
 
 ## Media 
 
@@ -54,6 +43,6 @@ Outro Jam
 
 ## Recordings
 
-* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+* PRO #1 professional video: soundboard > unknown HDTV > MKV [1080i] Missing "Brendan's Death Song", "Annie Wants A Baby", "Happiness Loves Company", "Even You Brutus?" and "Dance, Dance, Dance".
 
-# Links
+## Links

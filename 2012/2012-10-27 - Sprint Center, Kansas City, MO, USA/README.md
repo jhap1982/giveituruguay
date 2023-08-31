@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Can't Stop
+Otherside
+Look Around
+Breaking the Girl
+The Adventures of Rain Dance Maggie
+I Like Dirt
+Universally Speaking
+My Friends tease
+Under the Bridge
+Ethiopia
+Suck My Kiss
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Higher Ground
+I Could Have Lied
+Give It Away
+Encore jam
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Janelle Monae, Thundercat
 
 ## Media 
 
@@ -21,6 +45,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

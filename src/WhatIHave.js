@@ -4405,7 +4405,7 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>2012-10-19 - Henson Recording Studio (From the Basement), Los Angeles, CA, USA</td>
+                            <td>2012-10-18 - Henson Recording Studio (From the Basement), Los Angeles, CA, USA</td>
                             <td>
                                 [PRO #1][1080p][MKV][3,45 GB] <br />
                                 [PRO #1][IPTVRip][720p][MKV][4,14 GB]

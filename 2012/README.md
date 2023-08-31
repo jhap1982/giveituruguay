@@ -93,7 +93,7 @@
 * 2012-10-04 - New Orleans Arena, New Orleans, LA, USA
 * 2012-10-14 - Zilker Park (Austin City Limits Music Festival), Austin, TX, USA
 * 2012-10-16 - Flea's House, Los Angeles, CA, USA
-* 2012-10-19 - Henson Recording Studio (From the Basement), Los Angeles, CA, USA
+* 2012-10-18 - Henson Recording Studio (From the Basement), Los Angeles, CA, USA
 * 2012-10-20 - Toyota Center, Houston, TX, USA
 * 2012-10-22 - Chesapeake Energy Arena, Oklahoma City, OK, USA
 * 2012-10-23 - Bank of Oklahoma Center, Tulsa, OK, USA

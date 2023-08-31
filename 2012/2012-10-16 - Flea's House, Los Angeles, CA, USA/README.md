@@ -2,9 +2,19 @@
 
 ## Setlist
 
+Can't Stop
+Snow ((Hey Oh))
+Monarchy of Roses
+Soul to Squeeze
+The Adventures of Rain Dance Maggie
+Right on Time
+Everybody Knows This Is Nowhere
+Give It Away
+By the Way
+
 ## Notes
 
-**Other Acts**: -
+> Acoustic performance at the Silverlake Conservatory of Music annual fundraising gala, also celebrating Flea's birthday.
 
 ## Media 
 
@@ -21,6 +31,11 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+# Links

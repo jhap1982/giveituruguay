@@ -2,9 +2,26 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Look Around
+Can't Stop
+Soul to Squeeze
+Throw Away Your Television
+She's Only 18
+The Adventures of Rain Dance Maggie
+Suck My Kiss
+Under the Bridge
+Californication
+By the Way
+ENCORE BREAK
+Higher Ground
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Private gig at a UFC Party.
 
 ## Media 
 
@@ -20,6 +37,11 @@
 * Flea
 * Josh Klinghoffer
 * Chad Smith
+
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

@@ -2,9 +2,28 @@
 
 ## Setlist
 
-## Notes
+Monarchy of Roses
+Dani California
+Can't Stop
+Otherside
+Look Around
+She's Only 18
+Snow ((Hey Oh))
+Throw Away Your Television
+Tell Me Baby
+The Adventures of Rain Dance Maggie
+Right on Time
+Suck My Kiss
+Under the Bridge
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Give It Away
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -21,6 +40,14 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+* PRO #1 professional video: soundboard > unknown WEB > FLV > TS [720p] Streamed live on YouTube.
+
+# Links

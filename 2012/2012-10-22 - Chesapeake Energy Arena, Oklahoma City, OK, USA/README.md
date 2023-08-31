@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Can't Stop
+Otherside
+Look Around
+She's Only 18
+Soul to Squeeze
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Parallel Universe
+Under the Bridge
+Suck My Kiss
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Higher Ground
+Everybody Knows This Is Nowhere
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+> Rescheduled from **March 15, 2012**.
+
+**Support**: Janelle Monae, Thundercat
 
 ## Media 
 
@@ -21,6 +43,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

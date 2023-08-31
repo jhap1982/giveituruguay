@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Around the World
+Snow ((Hey Oh))
+Scar Tissue
+Look Around
+Can't Stop
+Hard to Concentrate
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+I Like Dirt
+Goodbye Hooray
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Suck My Kiss
+I Could Have Lied
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Rebirth Brass Band
 
 ## Media 
 
@@ -21,6 +43,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links

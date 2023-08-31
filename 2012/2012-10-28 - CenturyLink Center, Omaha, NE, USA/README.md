@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Scar Tissue
+Can't Stop
+She's Only 18
+Look Around
+Breaking the Girl
+Tell Me Baby
+The Adventures of Rain Dance Maggie
+Right on Time
+Under the Bridge
+Goodbye Hooray
+Suck My Kiss
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Soul to Squeeze
+Give It Away
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Janelle Monae, Thundercat
 
 ## Media 
 
@@ -21,6 +43,13 @@
 * Josh Klinghoffer
 * Chad Smith
 
+### Additional Musicians:
+
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+
+# Links
