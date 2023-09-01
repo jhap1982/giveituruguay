@@ -16,6 +16,7 @@ Sources:
 * RHCP France: https://www.rhcpfrance.com
 * RHCP Brazil: https://www.redhotchilipeppers.com.br
 * Rhrsandse: https://vk.com/rhrsandse
+* RHCPLive: http://www.rhcplive.com
 * La OzPedia Peppers: https://laozpediapeppers.com
 * RHCP Sessions: https://www.rhcpsessions.com
 * The Trader's Den: http://www.thetradersden.org
