@@ -883,7 +883,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1992-08-02 - World Music Theater (Lollapalooza  Festival), Tinley Park, IL, USA</td>
-                            <td>[AUD #1][FLAC][506 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][506 MB] <br />
+                                [AMT #1][MKV][375 MB]
+                            </td>
                         </tr>
 
                         <tr>
