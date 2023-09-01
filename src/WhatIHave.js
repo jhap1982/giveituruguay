@@ -1447,7 +1447,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-07-22 - Yonge Street, Toronto, Canada</td>
                             <td>
-                                [AUD #1][MP3][57,6 MB]
+                                [AUD #1][MP3][57,6 MB] <br />
+                                [PRO #1][DVD][802 MB]
                             </td>
                         </tr>
 
@@ -4194,7 +4195,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2012-07-07 - Ciudad del Rock de Arganda del Rey (Rock In Rio Madrid III), Madrid, Spain</td>
                             <td>
                                 [PRO #1a][TS][2,55 GB] <br />
-                                [PRO #1b][DVD][2,44 GB] <br />
+                                [PRO #1b][TS][2,44 GB] <br />
                                 [PRO #3][neox][DVD][2,31 GB] <br />
                                 [SBD #1][LiveChiliPeppers][FLAC][732 MB]
                             </td>
