@@ -1753,6 +1753,13 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][FLAC][322 MB]
                             </td>
                         </tr>
+
+                        <tr>
+                            <td>2000-04-28 - Hearnes Center, Columbia, MO, USA</td>
+                            <td>
+                                [AUD #1][FLAC][436 MB]
+                            </td>
+                        </tr>
                         
                         <tr>
                             <td>2000-05-08 - Norfolk Scope, Norfolk, VA, USA</td>
