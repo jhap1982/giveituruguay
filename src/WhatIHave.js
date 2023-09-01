@@ -2033,7 +2033,7 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][DirecTV][AVI][697 MB] <br / >
                                 [PRO #1][DirecTV][DVD][3,78 GB] <br />
                                 [PRO #1][Multishow][DVD][2,82 GB] <br />
-                                [Bootleg][MP3][115 MB]
+                                [SBD #1][TV][FLAC][442 MB]
                             </td>
                         </tr>
 

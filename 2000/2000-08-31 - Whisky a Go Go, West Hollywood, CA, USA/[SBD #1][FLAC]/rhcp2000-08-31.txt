@@ -1,15 +1,19 @@
 Red Hot Chili Peppers
-August 31, 2000
-Whiskey a Go Go
-West Hollywood, CA
+2000-08-31
+Whiskey-A-Go-Go: Hollywood, CA
 
-01. Pinhead
-02. Scar Tissue
-03. Around the World
-04. Otherside
-05. Californication
-06. London Calling [tease] > Right on Time
+FM (KROQ-FM Los Angeles) > Sony TCD-D8 > DAT(M) > DiO 2496 >
+   Soundforge (dEDIT) > CD-R(M) > Rubyripper > flac (level 8)
 
-Source: SBD #1 - soundboard audio
-Equipment: soundboard > unknown recorder
-Lineage: FM > FLAC
+Note: KROQ's "Breakfast with Kevin & Bean" show
+
+Intro
+Pinhead (The Ramones)
+Scar Tissue
+Interview 1
+Around The World
+Otherside
+Interview 2
+Californication
+Right On Time
+Outtro

@@ -2,7 +2,17 @@
 
 ## Setlist
 
+1. Pinhead
+2. Scar Tissue
+3. Around the World
+4. Otherside
+5. Californication
+6. London Calling tease
+7. Right on Time
+
 ## Notes
+
+> Special gig for KROQ Radio.
 
 ## Media 
 
@@ -23,3 +33,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC Broadcasted by "KROQ" radio.
