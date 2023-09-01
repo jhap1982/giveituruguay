@@ -398,6 +398,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][DVD][1,07 GB]<br />
                                 [SBD #1][FLAC][212 MB]<br />
+                                [SBD #1][FLAC][FM][206 MB]<br />
                                 [SBD #1][M4A][34,2 MB]
                             </td>
                         </tr>
@@ -1711,6 +1712,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-01-30 - RAS Showgrounds (Big Day Out Festival), Melbourne, Australia</td>
+                            <td>
+                                [SBD #1][FM][FLAC][328 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-02-01 - Melbourne Entertainment Center, Melbourne, Australia</td>
                             <td>
                                 [AUD #1][FLAC][530 MB]
@@ -1738,7 +1746,14 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][FLAC][574 MB]
                             </td>
                         </tr>
-
+                        
+                        <tr>
+                            <td>2000-04-26 - Carver-Hawkeye Arena, Iowa City, IA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][322 MB]
+                            </td>
+                        </tr>
+                        
                         <tr>
                             <td>2000-05-08 - Norfolk Scope, Norfolk, VA, USA</td>
                             <td>
