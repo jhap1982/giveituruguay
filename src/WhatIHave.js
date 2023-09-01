@@ -1799,6 +1799,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-06-15 - TD Waterhouse Centre, Orlando, FL, USA</td>
+                            <td>
+                                [AUD #1][FLAC][558 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-06-23 - Memorial Stadium (Experience Music Project), Seattle, WA, USA</td>
                             <td>
                                 [PRO #1][MPG-DVD][699 MB] <br />
