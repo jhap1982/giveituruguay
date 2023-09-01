@@ -2538,7 +2538,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-03-16 - Hallenstadion, Zurich, Switzerland</td>
                             <td>
-                                [AUD #1][MP3][130 MB]
+                                [AUD #1][FLAC][689 MB]
                             </td>
                         </tr>
 
@@ -2546,6 +2546,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2003-03-19 - Ahoy, Rotterdam, Netherlands</td>
                             <td>
                                 [AUD #2][MP3][136 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2003-03-24 - Hartwall Arena, Helsinki, Finland</td>
+                            <td>
+                                [AUD #1][FLAC][647 MB]
                             </td>
                         </tr>
 
@@ -2682,6 +2689,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2003-09-07 - PNC Bank Arts Center, Holmdel, NJ, USA</td>
                             <td>
                                 [AUD #1][FLAC][615 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2003-09-19 - Tweeter Center, Tinley Park, IL, USA</td>
+                            <td>
+                                [AUD #1][FLAC][564 MB]
                             </td>
                         </tr>
 
