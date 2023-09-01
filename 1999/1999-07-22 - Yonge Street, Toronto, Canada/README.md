@@ -43,4 +43,3 @@
 * AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLAC recorded by unknown
 * AMT #1 amateur video: built-in > unknown camera VHS(X)recorded by unknown **NOT CIRCULATING**
 * PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD Much Music broadcasted "Give It Away", "Scar Tissue", "Right on Time" and "Me and My Friends".
-
