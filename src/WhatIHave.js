@@ -2042,7 +2042,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][DVD][3,06 GB] <br />
                                 [PRO #1][fruscisgod][DVD][5,35 GB] <br/>
-                                [AUD #1][DVD][MP3][75,7 MB]
+                                [AUD #1][DVD][MP3][75,7 MB] <br />
+                                [SBD #1a][FLAC][511 MB]
                             </td>
                         </tr>                        
 
@@ -2058,7 +2059,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2001-08-01 - Hammerstein Ballroom (MTV 20 Live & Almost Legal), New York, NY, USA</td>
-                            <td>[PRO #1][MPG][53,6 MB]</td>
+                            <td>
+                                [PRO #1][MPG][53,6 MB] <br />
+                                [SBD][TV][FLAC][33,8 MB]
+                            </td>
                         </tr>
 
                         <tr>

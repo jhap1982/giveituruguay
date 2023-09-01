@@ -48,7 +48,8 @@
 
 ## Recordings
 
-* SBD #1 soundboard audio: soundboard > unknown recorder FM > ANA(X) > FLAC Broadcasted by FM Rock & Pop.  
-* SBD #2 soundboard audio: soundboard > unknown recorder DAT(M) > FLAC Direct capture of the soundboard feed. Missing "Hello, Hello, I'm Back Again" and all banter between songs.  
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ANA(X) > FLAC Broadcasted by FM Rock & Pop.
+* SBD #2 soundboard audio: soundboard > unknown recorder DAT(M) > FLAC Direct capture of the soundboard feed. Missing "Hello, Hello, I'm Back Again" and all banter between songs.
 * PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD Broadcasted by Volver.
+
 ## Links
