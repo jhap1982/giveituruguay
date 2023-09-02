@@ -22,9 +22,9 @@
 ### Additional Musicians:
 * Chris Warren
 
-# Recordings
+## Recordings
 
 * AMT #1 amateur video: unknown mic > unknown camera VHS(X) > ? recorded by unknown. Just a few seconds of this footage are seen on the "Sex, Drugs, Design: Warriors of the Discotheque" documentary about The Starck Club, but it has never surfaced. **NOT CIRCULATING**
 
-# Links
+## Links
 

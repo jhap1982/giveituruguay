@@ -8,11 +8,11 @@
 4. Under the Bridge
 5. Californication
 6. Give It Away
-7. Outro Jam
+7. Win
 
 ## Notes
 
-> Surprise show at the grand opening of the playground. Jay Rock joined the band for the outro jam.
+> Surprise show at the grand opening event of the playground. Jay Rock joined the band for a cover of his song "Win".
 
 ## Media 
 

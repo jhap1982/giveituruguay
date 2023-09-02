@@ -5762,7 +5762,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-04-06 - FargoDome, Fargo, ND, USA</td>
-                            <td>[AUD #1][FLAC][586 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][586 MB]
+                                [SBD #1][MP3][240 MB]
+                            </td>
                         </tr>
 
                         <tr>
@@ -5784,6 +5787,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2023-05-12 - Snapdragon Stadium, San Diego, CA, USA</td>
                             <td>[AUD #1][FLAC][245 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-05-14 - State Farm Stadium, Glendale, AZ, USA</td>
+                            <td>[AUD #1][FLAC][583 MB]</td>
                         </tr>
 
                         <tr>
@@ -5838,6 +5846,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2023-07-11 - Groupama Stadium, Lyon, France</td>
                             <td>[AUD #1][FLAC][620 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-07-14 - Ernst Happel Stadium, Vienna, Austria</td>
+                            <td>[AUD #1][FLAC][547 MB]</td>
                         </tr>
 
                         <tr>

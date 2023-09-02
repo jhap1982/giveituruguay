@@ -34,7 +34,6 @@
   <img alt="Instagram" title="Instagram" src="IG_Setlist_Frank_Zappa.jpg" height="200" />
 </details>
 
-
 ## Line Up
 
 * Anthony Kiedis
@@ -45,7 +44,7 @@
 ### Additional Musicians
 * Chris Warren
 
-# Recordings
+## Recordings
 
 * AUD #1 audience audio: SP-CMC-8 > SP-SPSB-10 > Roland R-07 WAV > FLAC recorded by toshi 
 * SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC Broadcasted by Studio Brussel. 
