@@ -1182,9 +1182,17 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
 
                         <tr>
+                            <td>1996-02-06 - CoreStates Spectrum, Philadelphia, PA, USA</td>
+                            <td>
+                                [AMT #1][DVD][3,37 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1996-02-08 - Fleet Center, Boston, MA, USA</td>
                             <td>[PRO #1][DVD][205 MB]</td>
                         </tr>
+
                         <tr>
                             <td>1996-02-09 - Madison Square Garden, New York, NY, USA</td>
                             <td>
