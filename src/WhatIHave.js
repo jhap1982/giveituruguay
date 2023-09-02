@@ -2814,7 +2814,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2004-09-12 - Avalon Hollywood (Ramones 30th Anniversary Show), Los Angeles, CA, USA</td>
-                            <td>[SBD #1][MP3][20,2 MB]</td>
+                            <td>
+                                [PRO #1][DVD-VOB][MPG][119 MB] <br />
+                                [SBD #1][MP3][20,2 MB]
+                            </td>
                         </tr>
 
                         <tr>
