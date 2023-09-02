@@ -5432,6 +5432,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2019-08-17 - Zozo Marine Stadium (Summer Sonic Festival), Tokyo, Japan</td>
                             <td>
                                 [PRO #1][1080p][TS][689 MB]<br/>
+                                [PRO #2a][1080i][TS][3,82 GB]
                                 [MTX #1][MP3][206 MB]
                             </td>
                         </tr>
@@ -5794,6 +5795,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2023-06-18 - Magaland (Pinkpop Festival), Landgraaf, Netherlands</td>
                             <td>
                                 [PRO #1][1080i][TS][2,95 GB] <br />
+                                [PRO #1][Eddie & UTD][1080p][MP4][304 MB] <br />
                                 [PRO #1][VK][1080p][MP4][2,91 GB] <br />
                                 [SBD #1][MP3][119 MB]
                             </td>
