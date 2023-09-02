@@ -2840,10 +2840,14 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2005-02-11 - Hollywood Palladium (MusiCares Person of the Year Award), Los Angeles, CA, USA</td>
-                            <td>[AUD #1][FLAC][1,14 MB]</td>
+                            <td>
+                                [SBD #1][MP3] <br />
+                                [PRO #1][MKV][204 MB]
+                            </td>
                         </tr>
 
                         <tr>
