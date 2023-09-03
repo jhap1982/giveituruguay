@@ -1486,10 +1486,10 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-08-14 - Red Square, Moscow, Russia</td>
                             <td>
-                                [PRO #1][DVD][2,44 GB] <br />
+                                [PRO #1][TMF][DVD][2,44 GB] <br />
                                 [PRO #1][MKV][797 MB] <br />
-                                [PRO #1][SL][DVD][797 MB] <br />
-                                [PRO #2][DVD][797 MB] <br />
+                                [PRO #1][SL][DVD][1,47 GB] <br />
+                                [PRO #2][DVD][3,25 GB] <br />
                                 [SBD #1][MP3][45,6 MB]
                             </td>
                         </tr>
