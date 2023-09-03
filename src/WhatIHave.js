@@ -1397,7 +1397,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>1999-05-29 - PSInet Stadium (HFStival), Baltimore, MD, USA</td>
                             <td>
                                 [AMT #1][DVD][2,58 GB] <br />
-                                [AUD #1][MP3][55,6 MB]
+                                [AUD #1][MP3][55,6 MB] <br />
+                                [PRO #1][YT][MP4][62,6 MB]
                             </td>
                         </tr>
 
@@ -1420,7 +1421,10 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-06-04 - Södra Teatern, Stockholm, Sweden</td>
                             <td>
+                                [PRO #1][MPG][651 MB]<br />
                                 [PRO #1][redhotlive][DVD][3,10 GB] <br />
+                                [PRO #1][TMF - Weekend Special][YT][MP4][938 MB] <br />
+                                [PRO #1][YT][TMF][MP4][665 MB]
                                 [PRO #1][TO][DVD][2,03 GB] <br />
                                 [SBD #1] [FLAC][385 MB]
                             </td>
@@ -1429,14 +1433,31 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-06-09 - Studio Canal+ (Nulle Part Ailleurs), Paris, France</td>
                             <td>
+                                [PRO #1][AVI][52,2 MB] <br />
                                 [PRO #1][MPG][55,4 MB] <br />
-                                [SBD #1][MP3][6,87 MB] <br />
+                                [SBD #1][MP3][6,87 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-06-10 - BBC Television Centre (Top Of The Pops), London, England</td>
+                            <td>
+                                [PRO #1][YT][1080p][MP4][416 MB] <br />
+                                [PRO #1][YT][480p][MP4][31,0 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-06-11 - TFI Friday, London, England</td>
+                            <td>
+                                [PRO #1][YT][MP4][30,4 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-06-14 - Spazio Antologico (MTV Sashimi), Milan, Italy</td>
                             <td>
+                                [PRO #1a][AVI][78,3 MB] <br />
                                 [PRO #1a][DVD][3,78 GB] <br />
                                 [SBD #1][Milafornication][FLAC][515 MB] <br />
                             </td>
@@ -1445,7 +1466,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-06-18 - Shoreline Amphitheatre (Big Friggin' Day Festival), Mountain View, CA, USA</td>
                             <td>
-                                [AUD #1][MP3][47,4 MB]
+                                [AUD #1][MP3][47,4 MB] <br/>
+                                [PRO #1][YT][MusicVault][MP4][366 MB]
                             </td>
                         </tr>
 
@@ -1467,10 +1489,15 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-07-25 - Griffiss Air Force Base (Woodstock 1999), Rome, NY, USA</td>
                             <td>
+                                [PRO #1][AVI][50,0 MB] <br />
                                 [PRO #1][DVD][2,57 GB] <br />
+                                [PRO #1][MPG][739 MB] <br />
                                 [PRO #1][Reauthor][DVD][3,31 GB] <br />
+                                [PRO #1][TMF][AVI][851 MB]
                                 [PRO #1][Uncensored][DVD][4,21 GB] <br />
                                 [PRO #1][WT][DVD][4,21 GB] <br />
+                                [PRO #1][YT][MusicVault][MP4][546 MB] <br />
+                                [SBD #1][Milafornication - Woodstock][MP3][66,5 MB]            
                                 [SBD #1][MP3][71,2 MB]
                             </td>
                         </tr>
@@ -1479,28 +1506,32 @@ const WhatIHave = ({ onBack }) => {
                             <td>1999-08-10 - Blue Line, Toronto, Canada</td>
                             <td>
                                 [SBD #1][Give The Dart Away][MP3][117 MB] <br />
-                                [PRO #1][DVD][1,51 GB]
+                                [PRO #1][DVD][1,51 GB] <br />
+                                [PRO #1][YT][MP4][328 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-14 - Red Square, Moscow, Russia</td>
                             <td>
-                                [PRO #1][TMF][DVD][2,44 GB] <br />
                                 [PRO #1][MKV][797 MB] <br />
                                 [PRO #1][SL][DVD][1,47 GB] <br />
+                                [PRO #1][TMF][DVD][2,44 GB] <br />
                                 [PRO #2][DVD][3,25 GB] <br />
-                                [SBD #1][MP3][45,6 MB]
+                                [SBD #1][MP3][45,6 MB] <br />
+                                [SBD #1][MTV][MP3][36,7 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>1999-08-20 - Buzweiler Hof (Bizarre Festival), Cologne, Germany</td>
                             <td>
+                                [PRO #1][AVI][652 MB]
                                 [PRO #1][DVD][45,6 MB] <br />
                                 [PRO #1][DigUpg][DVD][3,01 GB] <br />
                                 [PRO #1][DigUpg][TS][3,89 GB] <br />
-                                [PRO #1][TPB][TS][6,51 GB]
+                                [PRO #1][TPB][TS][6,51 GB] <br />
+                                [Bootleg][Red Hot And Bizarre][MP3][94,3 MB]
                             </td>
                         </tr>
 
@@ -1520,9 +1551,19 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1999-08-27 - Pukkelpop Festival, Hasselt, Belgium</td>
+                            <td>
+                                [AMT #1][YT][MP4][413 MB] <br />
+                                [AMT #1][YT][TheSteved111][MP4][186 MB] <br />
+                                [SBD #1][Pukkelpop 99][MP3][65,7 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1999-08-29 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
-                                [SBD #1][MP3][101 MB]
+                                [SBD #1][MP3][101 MB] <br />
+                                [AMT #1][YT][MP4][280 MB]
                             </td>
                         </tr>
 
@@ -1535,8 +1576,16 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1999-09-04 - Festival Bar TV, Verona, Italy</td>
-                            <td title="This is a mpg vob extracted from other DVD">
-                                [PRO #1][DVD][MPG][269 MB]
+                            <td>
+                                [PRO #1][DVD][MPG][269 MB] <br />
+                                [PRO #1][DVD][MPG][82,9 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-09-23 - Bell Media Queen Street (MuchMusic Video Awards), Toronto, Canada</td>
+                            <td>
+                                [PRO #1][YT][MP4][119 MB]
                             </td>
                         </tr>
 
@@ -1547,13 +1596,15 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][MPG][43,3 MB] <br />
                                 [PRO #1][Chris Rock Show][1080p][MKV][0,99 GB]
                             </td>
-                        </tr>   
+                        </tr>
 
                         <tr>
                             <td>1999-10-02 - Centro Cultural Estación Mapocho, Santiago de Chile, Chile</td>
                             <td>
                                 [PRO #1][Via X][DVD][1,38 GB] <br />
+                                [AMT #1][AVI][324 MB] <br />
                                 [AMT #1][WMV][258 MB] <br />
+                                [Bootleg][MP3][58,9 MB] <br />
                                 [SBD #1][MP3][56,3 MB] <br />
                             </td>
                         </tr>   
@@ -1568,8 +1619,10 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-10-05 - Luna Park, Buenos Aires, Argentina</td>
                             <td>
+                                [PRO #1][AVI][43,5 MB]
                                 [PRO #1][DVD][605 MB] <br />
-                                [PRO #1][much][DVD][991 MB]
+                                [PRO #1][much][DVD][991 MB] <br />
+                                [Bootleg][FLAC][123 MB]
                             </td>
                         </tr>
 
@@ -1577,6 +1630,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>1999-10-06 - Luna Park, Buenos Aires, Argentina</td>
                             <td>
                                 [PRO #1][HQ][DVD][2,94 GB] <br />
+                                [PRO #1][MPG][774 MB]
                                 [SBD #1][Argenfornication][FLAC][496 MB]
                             </td>
                         </tr>
@@ -1614,7 +1668,29 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1999-11-04 - Alsterdorfer Sporthalle, Hamburg, Germany</td>
                             <td>
-                                [AMT #1][DVD][2,44 GB]
+                                [AMT #1][DVD][2,44 GB] <br />
+                                [AMT #1][AVI][413 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-11-06 - Wembley Arena, London, England</td>
+                            <td>
+                                [AMT #1][YT][MP4][313 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-11-11 - Sporthalle, Böblingen, Germany</td>
+                            <td>
+                                [AUD #1][FLAC][446 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-11-10 - Statenhal, Den Hagg, Netherlands</td>
+                            <td>
+                                [AUD #1][FLAC][196 MB]
                             </td>
                         </tr>
 
@@ -1641,9 +1717,31 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1999-11-19 - Palau Municipal d'Esports de Badalona, Barcelona, Spain</td>
+                            <td>
+                                [AUD #1][FLAC][391 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-11-21 - Plaza de Toros La Cubierta, Madrid, Spain</td>
+                            <td>
+                                [AUD #1][FLAC][502 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>1999-12-08 - MGM Grand Garden Arena (Billboard Music Awards), Paradise, NV, USA</td>
                             <td>
+                                [PRO #1][FOX][YT][MP4][61,2 MB] <br />
                                 [PRO #1][Lethal Productions][MPG][52,5 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>1999-12-26 - Cox Arena, San Diego, CA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][225 MB]
                             </td>
                         </tr>
 
@@ -1653,11 +1751,11 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][MP3][191 MB]
                             </td>
                         </tr>
-
+                        
                         <tr>
                             <td>1999-12-31 - Great Western Forum, Inglewood, CA, USA</td>
                             <td>
-                                [AUD #1][MP3][191 MB]
+                                [AUD #1][FLAC][459 MB]
                             </td>
                         </tr>
                     </tbody>
