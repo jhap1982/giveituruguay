@@ -2,7 +2,12 @@
 
 ## Setlist
 
+1. Scar Tissue
+2. Red Hot Mama part of
+
 ## Notes
+
+> Snoop Dog joined the band for the "Red Hot Mama" jam.
 
 ## Media 
 
@@ -23,3 +28,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD

@@ -2,6 +2,9 @@
 
 ## Setlist
 
+1. Scar Tissue
+2. Around the World
+
 ## Notes
 
 ## Media 
@@ -23,3 +26,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > MKV [1080p] Best version in circulation comes from a 2021 re-broadcast. Although available in high definition, it's an upscale of the original standard definition broadcast.

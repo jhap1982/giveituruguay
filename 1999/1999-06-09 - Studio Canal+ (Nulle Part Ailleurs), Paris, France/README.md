@@ -2,6 +2,9 @@
 
 ## Setlist
 
+1. Scar Tissue
+2. Around the World
+
 ## Notes
 
 ## Media 
@@ -23,3 +26,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD For some reason "Around The World" is in black and white.

@@ -2,6 +2,19 @@
 
 ## Setlist
 
+Emit Remmus
+Give It Away
+Scar Tissue
+If You Have to Ask
+Around the World
+Soul to Squeeze
+Suck My Kiss
+Right on Time
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+The Power of Equality
+
 ## Notes
 
 ## Media 
@@ -23,3 +36,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown ? > VHS(x) > DVD Anthony is mute on "Around The World". We're not sure if this comes from a TV broadcast.

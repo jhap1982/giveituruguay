@@ -2,6 +2,20 @@
 
 ## Setlist
 
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. Savior
+5. I Like Dirt
+6. I Could Have Lied
+7. If You Have to Ask
+8. My Lovely Man
+9. Me and My Friends
+<br> ENCORE BREAK
+10. Suck My Kiss
+11. London Calling tease
+12. Right on Time
+
 ## Notes
 
 ## Media 
@@ -23,3 +37,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD Broadcasted by "MuchMusic".

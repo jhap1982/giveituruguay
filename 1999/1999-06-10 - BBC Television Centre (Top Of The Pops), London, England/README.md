@@ -2,7 +2,10 @@
 
 ## Setlist
 
+1. Scar Tissue
+
 ## Notes
+
 
 ## Media 
 
@@ -23,3 +26,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown WEB > MP4 [1080p] Best version in circulation comes from a re-broadcast of the episode on the BBC iPlayer. Although available in high definition, it's an upscale of the original standard definition broadcast.
