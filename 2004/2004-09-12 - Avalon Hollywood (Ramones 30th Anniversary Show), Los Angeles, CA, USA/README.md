@@ -15,9 +15,7 @@
 
 <details>
   <summary>Pictures</summary>
-  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />
-  <img alt="Clipping" title="Clipping" src="_.jpg" height="200" />
-  <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />-->
+  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />-->
 </details>
 
 ## Line Up
@@ -32,3 +30,5 @@
 ## Recordings
 
 * PRO #1 professional video: soundboard > unknown recorder "Too Tough To Die" DVD All the songs except "It's A Long Way Back" have band member interviews blended in, but they are still listenable in the background.
+
+## Links

@@ -2848,6 +2848,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2004-06-05 - Nurburgring (Rock Am Ring), Nurburg, Germany</td>
                             <td>
                                 [PRO #1][guitars101][DVD][4,97 GB]<br />
+                                [PRO #1][MPG][228 MB] <br />
                                 [PRO #1a][MiniEpic][DVD][3,91 GB]<br />
                                 [PRO #1b][DVD][1,20 GB]
                             </td>
@@ -2864,14 +2865,14 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2004-06-10 - Civitas Nova (Aerodrome Festival), Wiener Neustadt, Austria</td>
-                            <td>[AUD #1][MP3]</td>
+                            <td>[AUD #1][MP3][144 MB]</td>
                         </tr>
 
                         <tr>
                             <td>2004-06-12 - Phoenix Park, Dublin, Ireland</td>
                             <td>
                                 [AUD #1][FLAC][605 MB] <br />
-                                [SBD #1][MP3][605 MB]
+                                [SBD #1][MP3][226 MB]
                             </td>
                         </tr>
 
@@ -2884,7 +2885,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2004-06-15 - Parc Des Princes, Paris, France</td>
-                            <td>[AMT #1][+RockAmRing][DVD][4,35 GB]</td>
+                            <td>
+                                [AMT #1][+RockAmRing][DVD][4,35 GB] <br />
+                                [AUD #1][FLAC][735 MB]
+                            </td>
                         </tr>
 
                         <tr>
@@ -2898,10 +2902,22 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2004-06-18 - City of Manchester Stadium, Manchester, England</td>
+                            <td>[AUD #1][MP3][121 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2004-06-19 - Hyde Park, London, England</td>
+                            <td>
+                                [PRO #1][YT][MP4][14,6 MB] <br />
+                                [SBD #1][FLAC][384 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2004-06-23 - Millennium Stadium, Cardiff, Wales</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers.com][MP3][384 MB] <br />
-                                [SBD #1][LiveChiliPeppers][FLAC][191 MB]
+                                [SBD #1][LiveChiliPeppers.com][FLAC][662 MB]
                             </td>
                         </tr>
 
@@ -2911,11 +2927,20 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2004-07-24 - Kyocera Dome (Rock Odyssey Festival), Osaka, Japan</td>
+                            <td>
+                                [AUD #2][FLAC][709 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2004-07-25 - International Stadium Yokohama (Rock Odyssey Festival), Yokohama, Japan</td>
                             <td>
+                                [AMT #1][AVI][698 MB] <br />
                                 [AMT #1][DVD][191 MB] <br />
                                 [PRO #1][DVD][3,81 GB] <br />
-                                [PRO #1][rutracker][DVD][3,25 GB ]
+                                [PRO #1][rutracker][DVD][3,25 GB ] <br />
+                                [AUD #1][FLAC][657 MB]
                             </td>
                         </tr>
 
@@ -2935,7 +2960,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2004-10-24 - Shoreline Amphitheatre (Bridge School Benefit), Mountain View, CA, USA</td>
-                            <td>[AUD #1][FLAC][185 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][185 MB]
+                                [SBD #1][MP3][14,4 MB]
+                            </td>
                         </tr>
                     </tbody>
                 </table>

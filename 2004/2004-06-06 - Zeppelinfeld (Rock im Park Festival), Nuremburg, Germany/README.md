@@ -5,20 +5,19 @@
 Intro Jam
 Can't Stop
 Around the World
-Maybe part of JOHN
+Hard Headed Woman part of JOHN
 Scar Tissue
 By the Way
-Fortune Faded
+Brandy (You're a Fine Girl)
 Otherside
-I Feel Love part of JOHN
 Easily
 Universally Speaking
 Get on Top
-Brandy (You're a Fine Girl)
+Mini-Epic (Kill for Your Country)
 Don't Forget Me
-Purple Stain
-Rolling Sly Stone
+I Like Dirt
 Californication
+Red Hot Mama part of
 Transmission tease
 Right on Time
 Parallel Universe
@@ -30,10 +29,6 @@ Give It Away
 Outro Jam
 
 ## Notes
-
-**Attendance**: 86,000 / 86,000 (100%)
-<br>
-**Support**: Chicks on Speed, James Brown
 
 ## Media 
 
@@ -52,5 +47,7 @@ Outro Jam
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Sennheiser MKE-2002 > Sony TCD-D8 DAT(M) > FLAC recorded by Sebastian Sobotta Heavily distorted recording.
 
 ## Links
