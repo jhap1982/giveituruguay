@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+> Rescheduled to **August 13, 2003** due to voice problems for Anthony.
 
 ## Media 
 
@@ -14,11 +14,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

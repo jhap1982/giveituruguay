@@ -2,9 +2,9 @@
 
 ## Setlist
 
-## Notes
+1. Can't Stop
 
-**Other Acts**: -
+## Notes
 
 ## Media 
 
@@ -23,6 +23,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
 
 ## Links
 

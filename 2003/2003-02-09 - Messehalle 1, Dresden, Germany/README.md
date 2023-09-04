@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+The Zephyr Song abandoned
+The Zephyr Song
+Suck My Kiss
+Purple Stain
+Latest Disgrace tease
+Parallel Universe
+Otherside
+Minor Thing
+Don't Forget Me
+London Calling tease
+Right on Time
+Soul to Squeeze
+Can't Stop
+Warm Tape
+Californication
+Give It Away
+ENCORE BREAK
+Love Gun part of JOHN
+Under the Bridge
+Fire
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Toilet Boys
 
 ## Media 
 
@@ -23,6 +48,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: DPA 4061 > Sony TCD-D100 DAT(M) > FLAC recorded by Dirk Stelzer
 
 ## Links
 

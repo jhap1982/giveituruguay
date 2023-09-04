@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Universally Speaking
+Latest Disgrace tease
+Parallel Universe
+See Emily Play part of JOHN
+The Zephyr Song
+Havana Affair
+Throw Away Your Television
+Otherside
+Don't Forget Me
+London Calling tease
+Right on Time
+If You Have to Ask
+Warm Tape
+Can't Stop
+Venice Queen
+Give It Away
+ENCORE BREAK
+Under the Bridge
+The Power of Equality
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Mars Volta
 
 ## Media 
 

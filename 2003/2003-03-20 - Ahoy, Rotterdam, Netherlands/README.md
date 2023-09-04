@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Maybe part of JOHN
+Universally Speaking
+Latest Disgrace tease
+Parallel Universe
+The Zephyr Song
+Havana Affair
+Throw Away Your Television
+Otherside
+Don't Forget Me
+London Calling tease
+Right on Time
+If You Have to Ask
+I Could Have Lied
+Can't Stop
+Venice Queen
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Fire
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -23,6 +47,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Aiwa CM-DS5 > Sony MZ-R700 MD(M) > FLAC recorded by ReNo
 
 ## Links
 

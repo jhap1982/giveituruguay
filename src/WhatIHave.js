@@ -2654,6 +2654,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-03-19 - Ahoy, Rotterdam, Netherlands</td>
                             <td>
+                                [AUD #1][FLAC][560 MB] <br/>
                                 [AUD #2][MP3][136 MB]
                             </td>
                         </tr>

@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Maybe part of JOHN
+The Zephyr Song
+Suck My Kiss
+Otherside
+Latest Disgrace tease
+Parallel Universe
+Havana Affair
+Don't Forget Me
+London Calling tease
+Right on Time
+Warm Tape
+Soul to Squeeze
+Can't Stop
+Californication
+Venice Queen
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Search and Destroy
+Outro Jam
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Mars Volta
 
 ## Media 
 

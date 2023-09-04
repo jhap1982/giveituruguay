@@ -54,4 +54,3 @@ Fire
 * AUD #2 audience audio: unknown mic > unknown recorder ANA(M) > FLAC recorded by Ervin Trofimovs
 
 ## Links
-
