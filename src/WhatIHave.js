@@ -3495,6 +3495,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2007</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -3502,6 +3503,7 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2007-01-17 - Gaylord Entertainment Center, Nashville, TN, USA</td>
@@ -3658,7 +3660,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2007-07-01 - AOL Arena, Hamburg, Germany</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][2,21 GB] <br />
+                                [AUD #1][FLAC][703 MB]
                             </td>
                         </tr>
 

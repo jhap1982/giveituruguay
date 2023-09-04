@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Charlie
+Throw Away Your Television
+Don't You Ever Leave jam
+Snow ((Hey Oh))
+Get on Top
+Emit Remmus
+Don't Forget Me
+So Much I
+She's Only 18
+London Calling tease
+Right on Time
+Californication
+By the Way
+ENCORE BREAK
+C'mon Girl
+Give It Away
+Outro Jam
+
 ## Notes
 
 ## Media 
@@ -21,6 +43,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Josh Klinghoffer
 
 ## Recordings
 

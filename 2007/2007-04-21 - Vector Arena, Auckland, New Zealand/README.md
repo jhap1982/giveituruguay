@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+This Velvet Glove
+Readymade
+Throw Away Your Television
+Don't You Ever Leave jam
+She's Only 18
+Songbird JOHN
+Snow ((Hey Oh))
+Nobody Weird Like Me
+Strip My Mind
+Suck My Kiss
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+The Zephyr Song tease
+Higher Ground
+Outro Jam
+
 ## Notes
+
+**Support**: Har Mar Superstar
 
 ## Media 
 
@@ -21,6 +48,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Josh Klinghoffer
 
 ## Recordings
 

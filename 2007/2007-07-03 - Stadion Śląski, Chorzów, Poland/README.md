@@ -47,6 +47,7 @@
 * Chad Smith
 
 ### Additional Musicians:
+
 * Chris Warren  
 * Josh Klinghoffer
 

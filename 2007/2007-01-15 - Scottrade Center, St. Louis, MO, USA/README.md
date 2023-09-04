@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Charlie
+Fortune Faded
+Readymade
+Get on Top
+Nobody Weird Like Me
+Snow ((Hey Oh))
+Don't Forget Me
+Shadow Dancing part of JOHN
+C'mon Girl
+Californication
+London Calling tease
+Right on Time
+Hey
+By the Way
+ENCORE BREAK
+I Could Have Lied
+Give It Away
+Outro Jam
+
 ## Notes
+
+**Attendance**: 10,524 / 13,000 (81%)
+<br>
+**Support**: Gnarls Barkley
 
 ## Media 
 
@@ -21,6 +48,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings
 

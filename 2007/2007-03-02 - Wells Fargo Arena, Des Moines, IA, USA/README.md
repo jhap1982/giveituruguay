@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Havana Affair
+Tell Me Baby
+Songbird JOHN
+Throw Away Your Television
+Don't You Ever Leave jam
+Blood Sugar Sex Magik
+Show of Strength tease
+Snow ((Hey Oh))
+Me and My Friends
+C'mon Girl
+Don't Forget Me
+London Calling tease
+Right on Time
+Californication
+By the Way
+ENCORE BREAK
+Soul to Squeeze
+Give It Away
+Outro Jam
+
 ## Notes
+
+**Support**: Gnarls Barkley
 
 ## Media 
 
@@ -21,6 +48,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings
 

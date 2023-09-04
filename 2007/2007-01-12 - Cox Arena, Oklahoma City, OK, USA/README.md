@@ -4,6 +4,9 @@
 
 ## Notes
 
+> Rescheduled to *March 12, 2007* due to a huge ice storm in the area.
+
+
 ## Media 
 
 <details>
@@ -14,11 +17,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

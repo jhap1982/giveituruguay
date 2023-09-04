@@ -2,7 +2,36 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Havana Affair
+Tell Me Baby
+Parallel Universe
+Blood Sugar Sex Magik
+Show of Strength tease
+Maybe part of JOHN
+Snow ((Hey Oh))
+Nobody Weird Like Me
+Wet Sand
+London Calling tease
+Right on Time
+C'mon Girl
+Californication
+By the Way
+ENCORE BREAK
+Jam
+I Could Have Lied
+Give It Away
+Outro Jam
+
 ## Notes
+
+> Rescheduled from **January 12, 2007**.
+
+**Support**: Mickey Avalon
 
 ## Media 
 
@@ -22,6 +51,9 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings
+
 
 

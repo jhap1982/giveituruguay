@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Originally a Chad Smith clinic, Flea, John and Josh joined unannounced for a jam session.
+
 ## Media 
 
 <details>
@@ -15,7 +17,6 @@
 
 ## Line Up
 
-* Anthony Kiedis
 * Flea
 * John Frusciante
 * Chad Smith

@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Snow ((Hey Oh))
+
 ## Notes
 
 ## Media 
@@ -22,6 +24,8 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings
 
-
+* PRO #1 professional video: soundboard > unknown HDTV > TS [1080i]

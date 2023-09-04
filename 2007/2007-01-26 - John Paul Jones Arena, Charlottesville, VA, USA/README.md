@@ -2,7 +2,35 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Charlie
+Readymade
+Parallel Universe
+Warlocks
+Maybe part of JOHN
+Snow ((Hey Oh))
+Jugband Blues part of JOHN
+Get on Top
+Sir Psycho Sexy
+They're Red Hot
+C'mon Girl
+Me and My Friends
+Strip My Mind
+Californication
+By the Way
+ENCORE BREAK
+Under the Bridge
+Give It Away
+Outro Jam
+
 ## Notes
+
+**Attendance**: 12,812 / 12,812 (100%)
+<br>
+**Support**: Gnarls Barkley
 
 ## Media 
 
@@ -22,6 +50,10 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings
+
+* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by unknownFeatures the intro jam, "Can't Stop", "Dani California", "Otherside", "Warlocks", "Maybe", "Snow ((Hey Oh))", "Jugband Blues", "Get on Top", "Sir Psycho Sexy", "They're Red Hot" and "C'mon Girl".
 
 

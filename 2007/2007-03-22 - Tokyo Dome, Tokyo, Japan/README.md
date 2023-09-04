@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **June 5, 2007** due to Anthony having bronchial pneumonia.
+
 ## Media 
 
 <details>
@@ -14,11 +16,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

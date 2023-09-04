@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Readymade
+Throw Away Your Television
+Don't You Ever Leave jam
+Snow ((Hey Oh))
+S.O.S. part of JOHN
+Higher Ground
+She's Only 18
+London Calling tease
+Right on Time
+Don't Forget Me
+Californication
+By the Way
+ENCORE BREAK
+Give It Away
+
 ## Notes
+
+> The festival took place on a field around 1km from the city Indjija. The handwritten setlist featured both "Under The Bridge" and "C'mon Girl" on the encore, but were ommited due to the bad weather and John feeling ill.
 
 ## Media 
 
@@ -22,6 +44,13 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Josh Klinghoffer
+
 ## Recordings
+
+* AUD #1 audience audio: built-in > unknown recorder MP3 recorded by unknownRecorded in 128kbps, very bad quality.  
+* SBD #1 soundboard audio: soundboard > unknown recorder ? > FLAC Comes from the master recording of the TV station that aired the show, hence it's missing the same songs as the video.  
+* PRO #1 professional video: soundboard > unknown ? > DVD Missing "Throw Away Your Television", "Snow" and "Don't Forget Me". There are various transfers sourced from the TV broadcast, but the best one comes from a DVD copy handed out directly by the TV station to a fan.
 
 

@@ -2,6 +2,12 @@
 
 ## Setlist
 
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. So Much I
+5. By the Way
+
 ## Notes
 
 ## Media 
@@ -22,6 +28,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Josh Klinghoffer
+
 ## Recordings
 
-
+* PRO #1a professional video: soundboard > unknown HDTV > TS [1080i]
+* PRO #1b professional video: soundboard > unknown HDTV > TS [1080i] Missing the intro jam and "So Much I".

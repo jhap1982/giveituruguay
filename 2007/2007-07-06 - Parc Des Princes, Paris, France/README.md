@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Havana Affair
+Readymade
+Throw Away Your Television
+Don't You Ever Leave jam
+S.O.S. part of JOHN
+Snow ((Hey Oh))
+This Velvet Glove
+Emit Remmus
+So Much I
+She's Only 18
+Don't Forget Me
+Californication
+Sunny part of FLEA
+By the Way
+ENCORE BREAK
+Take It as It Comes part of JOHN
+C'mon Girl
+The Power of Equality
+
 ## Notes
+
+**Support**: Dirty Pretty Things, Jet
 
 ## Media 
 
@@ -22,6 +47,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Josh Klinghoffer
+
 ## Recordings
 
-
+* AUD #1 audience audio: Soundman OKMII Pop > A3 > Sony MZ-RH10 Hi-MD(M) > FLAC recorded by Inconnu  
+* AUD #2 audience audio: SP-CMC-2A > SP-SPSB-10S > Sony MZ-NH1 Hi-MD(M) > FLAC recorded by Franco Fenoglio

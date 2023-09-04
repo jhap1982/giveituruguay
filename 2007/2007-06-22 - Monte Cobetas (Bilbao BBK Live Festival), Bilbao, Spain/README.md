@@ -2,6 +2,25 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Readymade
+Throw Away Your Television
+Don't You Ever Leave jam
+S.O.S. part of JOHN
+Snow ((Hey Oh))
+Higher Ground
+She's Only 18
+So Much I
+By the Way
+ENCORE BREAK
+C'mon Girl
+Give It Away
+Outro Jam
+
 ## Notes
 
 ## Media 
@@ -22,6 +41,12 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Josh Klinghoffer
+
 ## Recordings
+
+* AUD #1 audience audio: SP-CMC-2A > SP-SPSB-10S > Sony MZ-NH1 Hi-MD(M) > FLACrecorded by Franco Fenoglio **NOT CIRCULATING**
+* AUD #2 audience audio: unknown mic > unknown recorder ? > FLAC recorded by Satanic Pig **NOT CIRCULATING**
 
 

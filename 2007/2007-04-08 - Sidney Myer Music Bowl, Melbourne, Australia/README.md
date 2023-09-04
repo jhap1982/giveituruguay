@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Havana Affair
+Warlocks
+Parallel Universe
+This Velvet Glove
+Songbird JOHN
+Snow ((Hey Oh))
+Get on Top
+C'mon Girl
+Hump de Bump
+London Calling tease
+Right on Time
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Give It Away
+Outro Jam
+
 ## Notes
+
+**Support**: Har Mar Superstar
 
 ## Media 
 
@@ -21,6 +46,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Josh Klinghoffer
 
 ## Recordings
 

@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Charlie
+This Velvet Glove
+21st Century
+Throw Away Your Television
+Don't You Ever Leave jam
+She's Only 18
+For Emily, Whenever I May Find Her JOHN
+Snow ((Hey Oh))
+Me and My Friends
+Strip My Mind
+Sunny part of FLEA
+Get on Top
+Hump de Bump
+Stadium Arcadium
+By the Way
+ENCORE BREAK
+Jam
+Under the Bridge
+Give It Away
+Outro Jam
+
 ## Notes
+
+**Support**: Har Mar Superstar
 
 ## Media 
 
@@ -21,6 +48,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Josh Klinghoffer
 
 ## Recordings
 
