@@ -2,6 +2,30 @@
 
 ## Setlist
 
+Around the World
+You're Gonna Get Yours tease
+Give It Away
+Your Pussy's Glued to a Building on Fire JOHN
+Scar Tissue
+My Lovely Man
+If You Have to Ask
+Otherside
+Blackeyed Blonde
+I Could Have Lied
+Blood Sugar Sex Magik
+I Like Dirt
+Californication
+Easily
+London Calling tease
+Right on Time
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Tiny Dancer part of JOHN
+Soul to Squeeze
+Fire
+Outro Jam
+
 ## Notes
 
 ## Media 
@@ -23,3 +47,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLAC

@@ -1842,10 +1842,24 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-02-04 - RAS Showgrounds (Big Day Out Festival), Adelaide. Australia</td>
+                            <td>
+                                [AUD #1][FLAC][530 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-03-24 - Target Center, Minneapolis, MN, USA</td>
                             <td>
                                 [AMT #1][DVD][3,56 GB] <br />
                                 [AUD #2][FLAC][434 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2000-03-28 - Assembly Hall, Champaign, IL, USA</td>
+                            <td>
+                                [AUD #2][FLAC][417 MB]
                             </td>
                         </tr>
 

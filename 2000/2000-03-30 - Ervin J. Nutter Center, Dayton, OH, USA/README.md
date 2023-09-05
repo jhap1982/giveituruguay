@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Around the World
+You're Gonna Get Yours tease
+Give It Away
+Your Pussy's Glued to a Building on Fire JOHN
+Scar Tissue
+My Lovely Man
+If You Have to Ask
+Otherside
+I Could Have Lied
+Easily
+I Like Dirt
+London Calling tease
+Right on Time
+Californication
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Soul to Squeeze
+Search and Destroy
+Outro Jam
+
 ## Notes
+
+> There could be one or two songs missing on the setlist.
+
+**Support**: Muse, Foo Fighters
 
 ## Media 
 
@@ -23,3 +48,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Countryman Isomax II(Hyper) > Rolls PB-224 > Sony TCD-D8 DAT(M) > FLAC recorded by unknownThis recording runs for about 35 minutes. **NOT CIRCULATING**

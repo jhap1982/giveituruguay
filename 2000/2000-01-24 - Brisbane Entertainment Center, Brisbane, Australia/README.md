@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Around the World
+Give It Away
+Your Pussy's Glued to a Building on Fire JOHN
+Scar Tissue
+My Lovely Man
+If You Have to Ask
+Otherside
+Skinny Sweaty Man
+I Could Have Lied
+Easily
+I Like Dirt
+Californication
+London Calling tease
+Right on Time
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Sir Psycho Sexy
+Fire
+Search and Destroy
+Outro Jam
+
 ## Notes
 
 ## Media 
@@ -23,3 +45,6 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown Missing the encore.
+* SBD #1 soundboard audio: soundboard > unknown recorder "Californication" CD > FLAC The outro jam was released on the first "Californication" CD single.
