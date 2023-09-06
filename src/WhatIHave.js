@@ -2343,6 +2343,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2002-06-22 - Flugplatz (Southside Festival), Neuhausen ob Eck, Germany</td>
+                            <td>
+                                [AUD #1][FLAC][640 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2002-06-26 - London Arena, London, England</td>
                             <td>
                                 [SBD #1][FLAC][315 MB]
@@ -2406,6 +2413,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][mcm Videos][DVD][2,16 GB] <br />
                                 [PRO #1][Muchmusic][DVD][266 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-09-29 - Foro Sol, Mexico City, Mexico</td>
+                            <td>
+                                [AUD #1][WMA][76,2 MB]
                             </td>
                         </tr>
 
@@ -2497,6 +2511,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2002-11-13 - Nagoya Rainbow Hall, Nagoya, Japan</td>
                             <td>
                                 [AUD #1][FLAC][254 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2002-11-22 - QE2 Stadium, Christchurch, New Zealand</td>
+                            <td>
+                                [AUD #1][FLAC][500 MB]                            
                             </td>
                         </tr>
 

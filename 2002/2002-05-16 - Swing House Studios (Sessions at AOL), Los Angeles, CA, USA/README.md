@@ -2,6 +2,11 @@
 
 ## Setlist
 
+1. By the Way
+2. Right on Time
+3. Don't Forget Me
+4. Californication
+
 ## Notes
 
 ## Media 
@@ -24,5 +29,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder CD-R > FLAC From a promo CD-R sent to radio stations.
+* PRO #1 professional video: soundboard > unknown WEB > VCD > MPG Transfer in circulation was sourced from a webcast, then encoded into a VCD.
 
 ## Links

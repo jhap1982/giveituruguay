@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Can't Stop
+
 ## Notes
 
 ## Media 
@@ -24,5 +26,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(1) > DVD
 
 ## Links

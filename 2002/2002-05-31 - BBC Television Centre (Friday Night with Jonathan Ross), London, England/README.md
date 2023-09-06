@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Cabron
+
 ## Notes
 
 ## Media 
@@ -24,5 +26,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > ? > AVI Transfer in circulation is a very bad quality AVI file. Unfortunately, there's no DVD transfer out there.
 
 ## Links

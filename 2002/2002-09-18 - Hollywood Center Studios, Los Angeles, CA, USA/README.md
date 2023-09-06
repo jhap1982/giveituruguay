@@ -2,6 +2,10 @@
 
 ## Setlist
 
+Can't Stop
+Don't Forget Me
+The Zephyr Song
+
 ## Notes
 
 ## Media 
@@ -24,5 +28,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1a professional video: soundboard > unknown TV > DVD French TV network "MCM" broadcasted "Don't Forget Me" and "The Zephyr Song".
+* PRO #1b professional video: soundboard > unknown TV > VHS(x) > DVD "Can't Stop" was broadcasted by "MuchMusic", the transfer in circulation was aired with the album version over the video, but broadcasts with live audio also exist.
 
 ## Links

@@ -47,7 +47,7 @@
 
 ## Recordings
 
-* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC.
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown Missing "Suck My Kiss" and "Don't Forget Me", some songs also cut out. 
 * PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD Broadcasted by Canal 13, missing "Universally Speaking", "Throw Away Your Television", "Don't Forget Me", "I Could Have Lied" and "Me and My Friends". Some songs are in the wrong order.
 

@@ -42,7 +42,7 @@
 * 2002-10-06 - Valle del Pop, Caracas, Venezuela
 * 2002-10-09 - Pista Atlética del Estadio Nacional, Santiago de Chile, Chile
 * 2002-10-11 - ATL Hall, Rio de Janeiro, Brazil
-* 2002-10-12 - Estádio do Pacaembu, São Paulo, Brazil
+* 2002-10-12 - Estádio Municipal Paulo Machado de Carvalho, São Paulo, Brazil
 * 2002-10-14 - Ginásio Gigantinho, Porto Alegre, Brazil
 * 2002-10-16 - River Plate Stadium, Buenos Aires, Argentina
 * 2002-10-26 - The Wiltern (KROQ Halloween Costume Ball), Los Angeles, CA, USA
@@ -62,6 +62,7 @@
 * 2002-12-03 - Adelaide Entertainment Centre, Adelaide, Australia
 * 2002-12-05 - Nova FM Studios, Perth, Australia
 * 2002-12-06 - Perth Dome, Perth, Australia
+* 2002-12-08 - Ultra Open Field, Manila, Philippines
 * 2002-12-08 - Singapore Indoor Stadium, Singapore City, Singapore
 * 2002-12-10 - Arena at Impact Muang Thong Thani, Bangkok, Thailand
 * 2002-12-14 - Garuda Wisnu Kencana, Bali, Indonesia

@@ -2,6 +2,27 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Universally Speaking
+Otherside
+Give It Away
+Soul to Squeeze
+Latest Disgrace tease
+Parallel Universe
+Right on Time
+Fox on the Run part of JOHN
+Don't Forget Me
+I Could Have Lied
+Californication
+Can't Stop
+Me and My Friends
+ENCORE BREAK
+Under the Bridge
+The Power of Equality
+
 ## Notes
 
 ## Media 
@@ -24,5 +45,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Dynamic Audio Binaurals > Sony TCD-D7 DAT(M) > FLAC recorded by mikeyh **NOT CIRCULATING**
+* PRO #1 professional video: soundboard > unknown WEB > ASF Sourced from a webcast. There's no sound on "Universally Speaking".
 
 ## Links

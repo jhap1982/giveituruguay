@@ -2,7 +2,17 @@
 
 ## Setlist
 
+1. By the Way
+2. Don't Forget Me
+3. Universally Speaking
+4. Dig a Pony tease
+5. I Could Die for You
+6. Californication
+7. Me and My Friends
+
 ## Notes
+
+> This performance is usually misdated as July 13, 2002 as that was the broadcast date.
 
 ## Media 
 
@@ -24,5 +34,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1a professional video: soundboard > unknown TV > VHS(x) > DVD Missing "Me and My Friends".
+* PRO #1b professional video: soundboard > unknown TV > ? > MP4 "Me and My Friends" was broadcasted at a later date.
 
 ## Links

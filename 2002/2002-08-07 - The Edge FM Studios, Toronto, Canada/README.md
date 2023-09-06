@@ -2,7 +2,18 @@
 
 ## Setlist
 
+Intro Jam
+Cabron
+Otherside
+Dig a Pony tease
+I Could Die for You
+Maybe part of JOHN
+By the Way
+Red Tape
+
 ## Notes
+
+> Acoustic performance.
 
 ## Media 
 
@@ -24,5 +35,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ANA(M) > FLAC
+* SBD #2 soundboard audio: soundboard > unknown recorder "Universally Speaking" CD > FLAC "By The Way" was officially released on the first "Universally Speaking" CD single.
 
 ## Links

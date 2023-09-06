@@ -2,6 +2,10 @@
 
 ## Setlist
 
+1. By the Way
+2. Universally Speaking
+3. Otherside
+
 ## Notes
 
 ## Media 
@@ -24,5 +28,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > MP4 [1080p] "By the Way" and "Universally Speaking" were broadcasted on TV. Best version in circulation comes from a 2022 re-broadcast. Although available in high definition, it's an upscale of the original standard definition broadcast.
 
 ## Links

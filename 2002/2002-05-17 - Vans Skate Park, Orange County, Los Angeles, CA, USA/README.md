@@ -2,15 +2,15 @@
 
 ## Setlist
 
-Give It Away
-Scar Tissue
-By the Way
-Otherside
-Don't Forget Me
-Around the World
-Venice Queen
-I Could Have Lied
-Minor Thing
+1. Give It Away
+2. Scar Tissue
+3. By the Way
+4. Otherside
+5. Don't Forget Me
+6. Around the World
+7. Venice Queen
+8. I Could Have Lied
+9. Minor Thing
 
 ## Notes
 

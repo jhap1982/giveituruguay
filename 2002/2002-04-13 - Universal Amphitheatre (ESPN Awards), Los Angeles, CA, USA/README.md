@@ -2,6 +2,10 @@
 
 ## Setlist
 
+1. Latest Disgrace tease
+2. Parallel Universe
+3. Give It Away
+
 ## Notes
 
 ## Media 
@@ -24,5 +28,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > MKV Includes "Parallel Universe" and only the first 30 seconds of "Give It Away".
 
 ## Links

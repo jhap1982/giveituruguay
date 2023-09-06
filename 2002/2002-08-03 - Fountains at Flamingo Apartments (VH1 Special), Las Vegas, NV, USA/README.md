@@ -2,6 +2,14 @@
 
 ## Setlist
 
+By the Way
+Around the World
+Latest Disgrace tease
+Parallel Universe
+The Zephyr Song
+Can't Stop
+Give It Away
+
 ## Notes
 
 ## Media 
@@ -24,5 +32,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD
 
 ## Links

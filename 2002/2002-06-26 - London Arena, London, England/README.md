@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Universally Speaking
+Otherside
+Give It Away
+Soul to Squeeze
+Latest Disgrace tease
+Parallel Universe
+Right on Time
+Fox on the Run part of JOHN
+Don't Forget Me
+I Could Have Lied
+Californication
+Can't Stop
+Me and My Friends
+ENCORE BREAK
+Under the Bridge
+Search and Destroy
+Outro Jam
+
 ## Notes
 
 ## Media 
@@ -24,5 +46,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown  
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC 40 minutes were broadcasted on radio.
 
 ## Links

@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. By the Way
+
 ## Notes
 
 ## Media 
@@ -24,5 +26,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ? > MP3 There's no lossless transfer circulating of this recording.
 
 ## Links
