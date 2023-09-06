@@ -1,0 +1,92 @@
+HdMania:
+Red Hot Chili Peppers - Rock in Rio 2017-09-24 MULTISHOWHD 1080i HDTV DD5.1 H.264 CELOBRAZiL-HDMania.ts
+
+RuTracker:
+Red Hot Chili Peppers • Rock in Rio [2017, Alternative Rock, Funk Rock, HDTV, 1080i]
+
+Genre : Alternative Rock, Funk Rock
+Duration : 01:36:39
+Release Year : 2017
+Quality : HDTV
+Video Resolution/Scanning : 1080i
+Container : TS
+Video Codec : H.264
+Audio Codec : AC3
+Video : MPEG4 Video (H264) 1920x1080 29.97fps 12.5 Mb/s
+Audio : Dolby AC3 48000Hz 6ch 384kbps
+
+Tracklist
+Intro Jam
+Can't Stop
+Snow (Hey Oh)
+The Zephyr Song
+Dark Necessities
+Did I Let You Know
+I Wanna Be Your Dog (The Stooges cover)
+Right on Time
+Go Robot
+Californication
+Tell Me Baby
+Sir Psycho Sexy
+They're Red Hot (Robert Johnson cover)
+The Power of Equality
+Under the Bridge (with snippet of Menina Mulher da Pele Preta by Jorge Ben on the beginning.)
+By the Way
+
+Encore:
+Goodbye Angels
+Give It Away
+
+MediInfo / BdInfo Report
+General 
+ID : 1 (0x1) 
+Complete name : H:\Rock in Rio 2017\Red Hot Chili Peppers - Rock in Rio 2017.ts 
+Format : MPEG-TS 
+File size : 9.18 GiB 
+Duration : 1 h 36 min 
+Overall bit rate mode : Variable 
+Overall bit rate : 13.6 Mb/s
+
+Video 
+ID : 1328 (0x530) 
+Menu ID : 1336 (0x538) 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4 
+Format settings, CABAC : Yes 
+Format settings, RefFrames : 4 frames 
+Codec ID : 27 
+Duration : 1 h 36 min 
+Bit rate : 12.5 Mb/s 
+Width : 1 920 pixels 
+Height : 1 080 pixels 
+Display aspect ratio : 16:9 
+Frame rate : 29.970 (30000/1001) FPS 
+Color space : YUV
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : MBAFF 
+Scan type, store method : Interleaved fields 
+Scan order : Top Field First 
+Bits/(Pixel*Frame) : 0.202 
+Stream size : 8.47 GiB (92%)
+
+Audio 
+ID : 1329 (0x531) 
+Menu ID : 1336 (0x538) 
+Format : AC-3 
+Format/Info : Audio Coding 3 
+Format settings, Endianness : Big 
+Codec ID : 129 
+Duration : 1 h 36 min 
+Bit rate mode : Constant 
+Bit rate : 384 kb/s 
+Channel(s) : 6 channels 
+Channel positions : Front: LCR, Side: LR, LFE 
+Sampling rate : 48.0 kHz 
+Frame rate : 31.250 FPS (1536 SPF) 
+Bit depth : 16 bits
+Compression mode : Lossy 
+Stream size : 265 MiB (3%) 
+Language : English 
+Service kind : Complete Main
