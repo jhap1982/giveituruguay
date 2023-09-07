@@ -1,0 +1,92 @@
+Red Hot Chili Peppers - Summer Sonic Tokyo Englisch 2019 1080p AAC HDTV AVC - Dorian
+
+Red Hot Chili Peppers - Summer Sonic Tokyo
+
+Cover / Picture included in the download!
+
+Content
+
+Summer Sonic Tokyo
+Marine Stage
+Makuhari Messe
+Chiba, Japan
+17. August 2019
+
+Tracks:
+
+Intro Jam
+Can't Stop
+scar Tissue
+Dark Necessities
+Otherside
+Hey
+
+Media Info´s
+
+AllgemeinUniqueID/String                          : 55834830905098444462030283617632184643 (0x2A0165B402B20D4ACD439CF7AD72E943)
+Vollständiger Name                       : Red Hot Chili Peppers - Chiba 2019.mkv
+Format                                   : Matroska
+Format-Version                           : Version 4
+Dateigröße                               : 633 MiB
+Dauer                                    : 31 min 37s
+Gesamte Bitrate                          : 2 798 kb/s
+Kodierungs-Datum                         : UTC 2019-08-19 11:24:53
+Kodierendes Programm                     : mkvmerge v36.0.0 ('Is That Jazz?') 64-bit
+verwendete Encoder-Bibliothek            : libebml v1.3.9 + libmatroska v1.5.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format-Profil                            : High@L4
+Format-Einstellungen                     : CABAC / 1 Ref Frames
+Format-Einstellungen für CABAC           : Ja
+Format-Einstellungen für RefFrames       : 1 frame
+Codec-ID                                 : V_MPEG4/ISO/AVC
+Dauer                                    : 31 min 33s
+Bitrate                                  : 2 676 kb/s
+Breite                                   : 1 920 Pixel
+Höhe                                     : 1 080 Pixel
+Bildseitenverhältnis                     : 16:9
+Modus der Bildwiederholungsrate          : konstant
+Bildwiederholungsrate                    : 29,970 FPS
+ColorSpace                               : YUV
+ChromaSubsampling/String                 : 4:2:0
+BitDepth/String                          : 8 bits
+Scantyp                                  : progressiv
+Bits/(Pixel*Frame)                       : 0.043
+Stream-Größe                             : 604 MiB (95%)
+Default                                  : Ja
+Forced                                   : Nein
+colour_range                             : Limited
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec-ID                                 : A_AAC-2
+Dauer                                    : 31 min 37s
+Bitrate                                  : 125 kb/s
+Kanäle                                   : 2 Kanäle
+ChannelLayout                            : L R
+Samplingrate                             : 48,0 kHz
+Bildwiederholungsrate                    : 46,875 FPS (1024 SPF)
+Video Verzögerung                        : -4s 59 ms
+Stream-Größe                             : 28,4 MiB (4%)
+Default                                  : Ja
+Forced                                   : Nein
+
+
+Darsteller: Red Hot Chili Peppers
+MPEG 4, AVC, 16 : 9, 1920 x 1080p, Englisch AAC/2
+Sprache: Englisch
+Bildseitenformat: 16 : 9
+Datenträger: 1 MKV - File (s)
+Studio: pro shot
+Erscheinungsjahr: 2019
+Produktionsjahr: 2019
+Laufzeit: ca. 31 Minuten
+Größe ca. 634 Megabyte

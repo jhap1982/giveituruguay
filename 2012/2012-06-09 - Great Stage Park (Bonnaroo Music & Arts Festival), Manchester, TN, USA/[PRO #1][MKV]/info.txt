@@ -1,0 +1,100 @@
+Red Hot Chili Peppers - Live at Bonnaroo Festival 2012 [2012, Funk Rock, HDTVRip 720p]
+
+Red Hot Chili Peppers - Live at Bonnaroo Festival 2012
+picGenre : Funk Rock
+Duration : 02:14:49
+Release year : 2012
+Description : Live at the Bonnaroo Festival at Great Stage Park, Manchester, TN on June 9, 2012.
+
+Tracklist :
+01. Monarchy of Roses
+02. Can't Stop
+03. Dani California
+04. Scar Tissue
+05. Look Around
+06. Throw Away Your Television
+07. Charlie
+08. The Adventures of Rain Dance Maggie
+09. Right on Time
+10. If You Have to Ask
+11. Factory of Faith
+12. Under the Bridge
+13. Higher Ground (Stevie Wonder cover)
+14. Californication
+15. By the Way
+Encore:
+16. Chad & Mauro & Josh Jam
+17. Suck My Kiss
+18. Ethiopia
+19 Give It Away
+20. Final Jam
+Quality : HDTVRip 720p
+Container : MKV
+Video codec : H.264
+Audio codec : MP2
+Video : 1276x720 (16:9), 4642 Kbps, 29,970 fps
+Audio : MP2, 384 Kbps, 2.0 ch, 48.0 KHz
+
+
+General 
+Unique ID : 176389723003400768948781462658439404325 (0x84B36CC8F65BECAD9CA084D087D35B25) 
+Complete name : D:\Red Hot Chilli Peppers Live At Bonnaroo 2012 HDTVRip 720p.mkv 
+Format : Matroska 
+For mat version : Version 4 / Version 2 
+File size : 4.83 GiB 
+Duration : 2h 14mn 
+Overall bit rate : 5 128 Kbps 
+Encoded date : UTC 2013-05-16 17:29:23 
+Writing application : mkvmerge v6.1.0 ('Old Devil') built on Mar 2 2013 14:32:37
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 9 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 2h 14mn 
+Bit rate : 4 642 Kbps 
+Width : 1 276 pixels 
+Height : 720 pixels 
+Display aspect ratio : 16:9 
+Frame rate mode : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.169
+Stream size                              : 4.37 GiB (91%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=9 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.05 / mixed_ref=1 / me_range =24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint= 300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=0 / crf=19.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=25000 / vbv_bufsize=31250 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00 
+Language : English
+Default : Yes 
+Forced : No 
+Color primaries : BT.709 
+Transfer characteristics : BT.709 
+Matrix coefficients : BT.709
+
+Audio 
+ID : 2 
+Format : MPEG Audio 
+Format version : Version 1 
+Format profile : Layer 2 
+Mode extension : Intensity Stereo + MS Stereo 
+Codec ID : A_MPEG/L2 
+Codec ID/Hint : MP2 
+Duration : 2h 14mn 
+Bit rate mode : Constant 
+Bit rate : 384 Kbps 
+Channel(s) : 2 channels 
+Sampling rate : 48.0 KHz 
+Compression mode : Lossy
+Delay relative to video                  : 20ms
+Stream size                              : 370 MiB (7%)
+Title                                    : MP2 2.0
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

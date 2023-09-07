@@ -5613,7 +5613,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2019-08-17 - Zozo Marine Stadium (Summer Sonic Festival), Tokyo, Japan</td>
                             <td>
                                 [PRO #1][1080p][TS][689 MB]<br/>
-                                [PRO #2a][1080i][TS][3,82 GB]
+                                [PRO #2a][1080i][TS][3,82 GB] <br />
+                                [PRO #1][1080p][MKV][632 MB] <br />
                                 [MTX #1][MP3][206 MB]
                             </td>
                         </tr>
