@@ -3735,8 +3735,8 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][FLAC] <br />
                                 [AUD #2][FLAC] <br />
                                 [SBD #1][FLAC] <br />
-                                [PRO #1][DVD] <br />
-                                [PRO #2][DVD]
+                                [AMT #1][DVD] <br />
+                                [PRO #1][DVD]
                             </td>
                         </tr>
 

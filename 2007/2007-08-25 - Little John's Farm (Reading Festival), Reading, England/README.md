@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-21st Century
-Parallel Universe
-Snow ((Hey Oh))
-Songbird JOHN
-This Velvet Glove
-Wet Sand
-Emit Remmus
-Don't Forget Me
-Warlocks
-She's Only 18
-Californication
-By the Way
-ENCORE BREAK
-C'mon Girl
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. 21st Century
+6. Parallel Universe
+7. Snow ((Hey Oh))
+8. Songbird JOHN
+9. This Velvet Glove
+10. Wet Sand
+11. Emit Remmus
+12. Don't Forget Me
+13. Warlocks
+14. She's Only 18
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. C'mon Girl
+18. Give It Away
+19. Outro Jam
 
 ## Notes
 
