@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Around the World
-Maybe part of JOHN
-Scar Tissue
-By the Way
-Brandy (You're a Fine Girl)
-Otherside
-My Lovely Man
-The Zephyr Song
-Get on Top
-The Guns of Brixton tease
-Mini-Epic (Kill for Your Country)
-I Like Dirt
-Throw Away Your Television
-Don't You Ever Leave jam
-Californication
-Transmission tease
-Right on Time
-Remember (Walking in the Sand) part of JOHN
-Parallel Universe
-ENCORE BREAK
-Jam
-Under the Bridge
-Black Cross
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Around the World
+4. Maybe part of JOHN
+5. Scar Tissue
+6. By the Way
+7. Brandy (You're a Fine Girl)
+8. Otherside
+9. My Lovely Man
+10. The Zephyr Song
+11. Get on Top
+12. The Guns of Brixton tease
+13. Mini-Epic (Kill for Your Country)
+14. I Like Dirt
+15. Throw Away Your Television
+16. Don't You Ever Leave jam
+17. Californication
+18. Transmission tease
+19. Right on Time
+20. Remember (Walking in the Sand) part of JOHN
+21. Parallel Universe
+<br> ENCORE BREAK
+22. Jam
+23. Under the Bridge
+24. Black Cross
+25. Give It Away
+26. Outro Jam
 
 ## Notes
 

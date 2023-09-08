@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Can't Stop
-Emit Remmus
-Around the World
-Hard Headed Woman part of JOHN
-Scar Tissue
-By the Way
-Brandy (You're a Fine Girl)
-Tiny Dancer part of JOHN
-Otherside
-The Guns of Brixton tease
-My Lovely Man
-The Zephyr Song
-Get on Top
-Mini-Epic (Kill for Your Country)
-Throw Away Your Television
-Don't You Ever Leave jam
-Californication
-Transmission tease
-Right on Time
-Parallel Universe
-ENCORE BREAK
-Jam
-Under the Bridge
-Black Cross
-Give It Away
-Outro Jam
+1. Can't Stop
+2. Emit Remmus
+3. Around the World
+4. Hard Headed Woman part of JOHN
+5. Scar Tissue
+6. By the Way
+7. Brandy (You're a Fine Girl)
+8. Tiny Dancer part of JOHN
+9. Otherside
+10. The Guns of Brixton tease
+11. My Lovely Man
+12. The Zephyr Song
+13. Get on Top
+14. Mini-Epic (Kill for Your Country)
+15. Throw Away Your Television
+16. Don't You Ever Leave jam
+17. Californication
+18. Transmission tease
+19. Right on Time
+20. Parallel Universe
+<br>ENCORE BREAK
+21. Jam
+22. Under the Bridge
+23. Black Cross
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 

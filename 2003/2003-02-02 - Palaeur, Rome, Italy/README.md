@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-If You Have to Ask
-Hardcore Jollies tease
-Suck My Kiss
-The Zephyr Song
-Otherside
-Fox on the Run part of JOHN
-This Is the Place
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. If You Have to Ask
+8. Hardcore Jollies tease
+9. Suck My Kiss
+10. The Zephyr Song
+11. Otherside
+12. Fox on the Run part of JOHN
+13. This Is the Place
+14. Latest Disgrace tease
+15. Parallel Universe
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. I Could Have Lied
+20. Can't Stop
+21. Venice Queen
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Fire
 
 ## Notes
 
