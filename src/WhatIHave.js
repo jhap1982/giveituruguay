@@ -3949,12 +3949,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
-                            <td>2011-09-25 - Parque Olímpico Cidade do Rock (Rock In Rio IV), Rio de Janeiro, Brazil</td>
+                            <td>2011-09-24 - Parque Olímpico Cidade do Rock (Rock In Rio IV), Rio de Janeiro, Brazil</td>
                             <td>
-                                [PRO #1][720p][MKV] <br />
-                                [PRO #1][Globo][MKV] <br />
-                                [PRO #1][multishow HD][MKV] <br />
-                                [SBD #1][BootsLive][FLAC]
+                                [PRO #1][Globo VA][720p][MKV][7,22 GB]
+                                [PRO #1][Globo][MKV][2,97 GB] <br />
+                                [PRO #1][multishow HD][1080i][MKV][8,02 GB] <br />
+                                [PRO #1][multishow][MKV][695 MB] <br />
+                                [SBD #1][BootsLive][FLAC][466 MB]
                             </td>
                         </tr>
 

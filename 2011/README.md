@@ -21,7 +21,7 @@
 * 2011-09-16 - Estadio Monumental, Santiago de Chile, Chile
 * 2011-09-18 - Estadio Monumental Antonio Vespucio Liberti (Pepsi Music Festival), Buenos Aires, Argentina
 * 2011-09-21 - Anhembi Arena, Sao Paulo, Brazil
-* 2011-09-25 - Parque Olímpico Cidade do Rock (Rock In Rio IV), Rio de Janeiro, Brazil
+* 2011-09-24 - Parque Olímpico Cidade do Rock (Rock In Rio IV), Rio de Janeiro, Brazil
 * 2011-10-07 - Lanxess Arena, Cologne, Germany
 * 2011-10-08 - Veltins Arena (TV Total Stock Car Crash Challenge), Gelsenkirchen, Germany
 * 2011-10-09 - O2 World Hamburg, Hamburg, Germany
