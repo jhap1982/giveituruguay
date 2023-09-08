@@ -6,8 +6,7 @@
 
 ## Notes
 
-> Notes
-Annual MusiCares dinner with a tribute to Neil Young. First show since the departure of John Frusciante and first with Josh Klinghoffer as lead guitarist although no official announcements regarding this fact had been done yet.
+> Annual MusiCares dinner with a tribute to Neil Young. First show since the departure of John Frusciante and first with Josh Klinghoffer as lead guitarist although no official announcements regarding this fact had been done yet.
 
 ## Media 
 
