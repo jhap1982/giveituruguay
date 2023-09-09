@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-If You Have to Ask
-Can't Stop
-Venice Queen
-Otherside
-Don't Forget Me
-I Could Have Lied
-Latest Disgrace tease
-Parallel Universe
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-Rock and Roll tease
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Suck My Kiss
+8. The Zephyr Song
+9. If You Have to Ask
+10. Can't Stop
+11. Venice Queen
+12. Otherside
+13. Don't Forget Me
+14. I Could Have Lied
+15. Latest Disgrace tease
+16. Parallel Universe
+17. Californication
+18. What Is Soul? jam
+19. Give It Away
+<br> ENCORE BREAK
+20. Rock and Roll tease
+21. Under the Bridge
+22. Me and My Friends
 
 ## Notes
 

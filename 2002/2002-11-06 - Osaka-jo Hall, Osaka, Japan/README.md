@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Tiny Dancer part of JOHN
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-Otherside
-Blood Sugar Sex Magik
-Show of Strength tease
-Can't Stop
-Havana Affair
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Tiny Dancer part of JOHN
+6. Universally Speaking
+7. Suck My Kiss
+8. The Zephyr Song
+9. Otherside
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Can't Stop
+13. Havana Affair
+14. Latest Disgrace tease
+15. Parallel Universe
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. I Could Have Lied
+20. Californication
+21. What Is Soul? jam
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. The Power of Equality
+25. Outro Jam
 
 ## Notes
 

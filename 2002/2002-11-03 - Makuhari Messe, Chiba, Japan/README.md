@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-Havana Affair
-Otherside
-Can't Stop
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-Rapper's Delight jam
-London Calling tease
-Right on Time
-I Could Have Lied
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-The Righteous & the Wicked tease
-Under the Bridge
-The Brothers Cup tease
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Suck My Kiss
+7. The Zephyr Song
+8. Havana Affair
+9. Otherside
+10. Can't Stop
+11. Soul to Squeeze
+12. Latest Disgrace tease
+13. Parallel Universe
+14. Don't Forget Me
+15. Rapper's Delight jam
+16. London Calling tease
+17. Right on Time
+18. I Could Have Lied
+19. Californication
+20. What Is Soul? jam
+21. Give It Away
+<br> ENCORE BREAK
+22. The Righteous & the Wicked tease
+23. Under the Bridge
+24. The Brothers Cup tease
+25. Search and Destroy
+26. Outro Jam
 
 ## Notes
 

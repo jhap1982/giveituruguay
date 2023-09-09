@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-Otherside
-Time
-Can't Stop
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Californication
-Give It Away
-ENCORE BREAK
-Fox on the Run part of JOHN
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Suck My Kiss
+7. The Zephyr Song
+8. Otherside
+9. Time
+10. Can't Stop
+11. Soul to Squeeze
+12. Latest Disgrace tease
+13. Parallel Universe
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. I Could Have Lied
+18. Californication
+19. Give It Away
+<br> ENCORE BREAK
+20. Fox on the Run part of JOHN
+21. Under the Bridge
+22. Me and My Friends
 
 ## Notes
 

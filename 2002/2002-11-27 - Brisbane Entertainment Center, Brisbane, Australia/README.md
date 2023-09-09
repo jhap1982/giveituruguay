@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-Blood Sugar Sex Magik
-Show of Strength tease
-If You Have to Ask
-Can't Stop
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-I Could Have Lied
-London Calling tease
-Right on Time
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Suck My Kiss
+7. The Zephyr Song
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. If You Have to Ask
+11. Can't Stop
+12. Latest Disgrace tease
+13. Parallel Universe
+14. Don't Forget Me
+15. I Could Have Lied
+16. London Calling tease
+17. Right on Time
+18. Californication
+19. What Is Soul? jam
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. Me and My Friends
 
 ## Notes
 
