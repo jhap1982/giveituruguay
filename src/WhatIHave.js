@@ -168,7 +168,7 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1985-10-23 - The Patio, Indianapolis, IN, USA</td>
-                            <td>
+                            <td title='Never Be Normal Presents...'>
                                 [AMT #1][BONG][DVD][4,04 GB]<br />
                                 [AMT #1][RHL][DVD][2,60 GB]<br />
                                 [AUD #1][FLAC][376 MB]
@@ -177,7 +177,11 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1985-11-29 - Roosters, Nashville, TN, USA</td>
-                            <td>[AUD #1][FLAC][282 MB]</td>
+                            <td>
+                                <span title='...is the wildest extravaganza on the road today...'>
+                                    [AUD #1][FLAC][282 MB]
+                                </span>
+                            </td>
                         </tr>                        
                     </tbody>
                 </table>
@@ -196,17 +200,23 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1986-01-18 - The Catalyst, Santa Cruz, CA, USA</td>
-                            <td>[MTX #1][FLAC][330 MB]</td>
+                            <td>
+                                <span title='Thirty Dirty Birds'>
+                                    [MTX #1][FLAC][330 MB]
+                                </span>
+                            </td>
                         </tr>    
 
                         <tr>
                             <td>1986-02-07 - Fender's Ballroom, Long Beach, CA, USA</td>
-                            <td>[AUD #1][FLAC][166 MB]</td>
+                            <td title='Bob Forrest sang some lines of "Whole Lotta Love" while the band jammed on the song'>
+                                [AUD #1][FLAC][166 MB]
+                            </td>
                         </tr>    
 
                         <tr>
                             <td>1986-05-02 - Astor Park Club, Seattle, WA, USA</td>
-                            <td>
+                            <td title='KJET welcomes RHCP'>
                                 [SBD #1][APE][437 MB]<br />
                                 [SBD #1][FLAC][416 MB]<br />
                                 [SBD #1][MP3][162 MB]<br/>
@@ -215,17 +225,21 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1986-05-26 - The Roxy, Hollywood, CA, USA</td>
-                            <td>[PRO #1][Jimi Hendrix Tribute][DVD][1,45 GB]</td>
+                            <td title='This show was a tribute to Jimi Hendrix'>
+                                [PRO #1][Jimi Hendrix Tribute][DVD][1,45 GB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1986-11-22 - The Ritz, Austin, TX, USA</td>
-                            <td title="Thanks vell43!!">[AMT #1][RHL][DVD][3,79 GB]</td>
+                            <td title="Music Blitz: a show not to miss (Thanks vell43!!)">
+                                [AMT #1][RHL][DVD][3,79 GB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1986-11-24 - Mississippi Nights, St. Louis, MO, USA</td>
-                            <td>
+                            <td title='Mississippi Nights!'>
                                 [PRO #1][BONG][DVD][4,35 GB]<br/>
                                 [PRO #1][RHL][DVD][1,94 GB]
                             </td>
@@ -233,17 +247,23 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1986-11-29 - Hoosier Ballroom, Indianapolis, IN, USA</td>
-                            <td>[AMT #1][SCB][DVD][3,80 GB]</td>
+                            <td title='Nervous Breakdown'>
+                                [AMT #1][SCB][DVD][3,80 GB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1986-12-01 - First Avenue, Minneapolis, MN, USA</td>
-                            <td>[AUD #1][FLAC][302 MB]</td>
+                            <td title='3 Great L.A. Bands'>
+                                [AUD #1][FLAC][302 MB]
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1986-12-03 - Lee's Palace, Toronto, ON, Canada</td>
-                            <td>[PRO #1][DVD][3,51 GB]</td>
+                            <td title="Lee's Downstairs">
+                                [PRO #1][DVD][3,51 GB]
+                            </td>
                         </tr>
                     </tbody>
                 </table>
