@@ -40,14 +40,19 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1983-05-30 - China Club, Hollywood, CA, USA</td>
                             <td>
-                                [SBD #1][FLAC][79,7 MB] <br />
-                                [SBD #1][MP3][52,4 MB]
+                                <span title='From a tape sold by James Slovak.'>
+                                    [SBD #1][FLAC][79,7 MB]
+                                </span>
                             </td>
                         </tr>
 
                         <tr>
                             <td>1983-07-18 - Club Lingerie , Hollywood, CA, USA</td>
-                            <td>[AUD #1][FLAC][99,7 MB]</td>
+                            <td>
+                                <span title='Four white boys that sound like Captain Beefheart playing James Brown'>
+                                    [AUD #1][FLAC][99,7 MB]    
+                                </span>                                
+                            </td>
                         </tr>
                     </tbody>
                 </table>
@@ -67,22 +72,38 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1984-03-16 - KTTV Studios (Ticke of the Night), Los Angeles, CA, USA</td>
-                            <td title="Thanks Leni!!">[PRO #1][DVD][585 MB]</td>
+                            <td>
+                                <span title='First TV appearance ever (Thanks Leni!!)'>
+                                    [PRO #1][DVD][585 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1984-08-11 - Club Lingerie, Los Angeles, CA, USA</td>
-                            <td>[SBD #1][FLAC][182 MB]</td>
+                            <td>
+                                <span title='Hillel Slovak and Jack Irons reunited with the band for the first time since late 1983 for the encore'>
+                                    [SBD #1][FLAC][182 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1984-11-15 - Stache and Little Brother's, Columbus, OH, USA</td>
-                            <td>[AUD #1][FLAC][127 MB]</td>
+                            <td>
+                                <span title='Chili Peppers are spicy, bizarre'>
+                                    [AUD #1][FLAC][127 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1984-12-16 - The Bowery, Oklahoma City, OK, USA</td>
-                            <td>[AUD #1][FLAC][337 MB]</td>
+                            <td>
+                                <span title='...with dance music by The Red Hot Chili Peppers'>
+                                    [AUD #1][FLAC][337 MB]
+                                </span>                                
+                            </td>
                         </tr>
                     </tbody>
                 </table>
@@ -102,22 +123,34 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1985-01-06 - Club Culture, Santa Cruz, CA, USA</td>
-                            <td>[AUD #1][FLAC][191 MB]</td>
+                            <td>
+                                <span title='Oom Chucka Willy!'>
+                                    [AUD #1][FLAC][191 MB]    
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1985-06-28 - Mason Jar, Phoenix, AZ, USA</td>
-                            <td>[AUD #1][FLAC][361 MB]</td>                            
+                            <td>
+                                <span title='...music as hot as the band name here when the Red Hot Chili Peppers present...'>
+                                    [AUD #1][FLAC][361 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1985-07-06 - The Keystone, Palo Alto, CA, USA</td>
-                            <td>[AUD #1][SCB][FLAC][361 MB]</td>
+                            <td>
+                                <span title='Support bands: Calm, Dot Three, Fishbone'>
+                                    [AUD #1][SCB][FLAC][361 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
                             <td>1985-08-17 - Freilichtbuhne Loreley (Loreley Open Air), St. Goarshausen, Germany</td>
-                            <td>
+                            <td title='The first show ever outside the United States. George Clinton also joined!'>
                                 [PRO #1][George Clinton][DVD][2,88 GB]<br/>
                                 [PRO #1][RHL][DVD][3,43 GB] <br />
                                 [PRO #1][Europe2Tv][DVD][1,79 GB]
@@ -126,7 +159,11 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1985-10-12 - The Keystone, Palo Alto, CA, USA</td>
-                            <td>[AUD #1][FLAC][402 MB]</td>
+                            <td>
+                                <span title='Walkin on Down the Road...'>
+                                    [AUD #1][FLAC][402 MB]
+                                </span>                                
+                            </td>
                         </tr>
 
                         <tr>
@@ -847,6 +884,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [AMT #1][DVD][3,76 GB]<br />
                                 [PRO #1b][DVD][2,28 GB]<br />
+                                [PRO #1b][MKV][1,15 GB]<br />
                                 [AUD #1][FLAC][401 MB]<br/>
                             </td>
                         </tr>
@@ -1006,13 +1044,17 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>1993-01-22 - Praça da Apoteose (Hollywood Rock Festival), Rio de Janeiro, Brazil</td>
-                            <td>[PRO #1][DVD][4,07 GB]</td>
+                            <td>
+                                [PRO #1][Multishow][DVD][4,07 GB] <br />
+                                [PRO #1][Multishow][MKV][1,37 GB]
+                            </td>
                         </tr>
                         
                         <tr>
                             <td>1993-01-26 - Estadio Obras Sanitarias, Buenos Aires, Argentina</td>
                             <td>
                                 [PRO #1][DVD][3,69 GB]<br/>
+                                [PRO #1][MPG][553 MB] <br />
                                 [PRO #1d][MKV][528 MB] <br/>
                                 [SBD #1][FLAC][516 MB]
                             </td>
@@ -1781,7 +1823,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2000-01-09 - Nippon Budokan, Tokyo, Japan</td>
-                            <td>[PRO #1b][DVD][4,12 GB]</td>
+                            <td title='Organic Anti-Beat Box Band!'>
+                                [PRO #1a][DVD][4,08 GB]
+                                [PRO #1b][DVD][4,12 GB]
+                            </td>
                         </tr>
 
                         <tr>

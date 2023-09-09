@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Organic Anti-Beat Box Band
-Religion II part of
-I Like Dirt
-Californication
-My Lovely Man
-The Guns of Brixton tease
-Right on Time
-Under the Bridge
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
+1. Around the World
+2. Give It Away
+3. Tiny Dancer part of JOHN
+4. Scar Tissue
+5. Suck My Kiss
+6. If You Have to Ask
+7. Otherside
+8. Blackeyed Blonde
+9. I Could Have Lied
+10. Organic Anti-Beat Box Band
+11. Religion II part of
+12. I Like Dirt
+13. Californication
+14. My Lovely Man
+15. The Guns of Brixton tease
+16. Right on Time
+17. Under the Bridge
+<br>ENCORE BREAK
+18. Sir Psycho Sexy
+19. Fire
 
 ## Notes
 

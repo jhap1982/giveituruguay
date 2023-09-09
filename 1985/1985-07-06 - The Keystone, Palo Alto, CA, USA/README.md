@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+**Support**: Calm, Dot Three, Fishbone
 
 ## Media 
 
