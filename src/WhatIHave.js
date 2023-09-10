@@ -2130,8 +2130,10 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-09-07 - Radio City Music Hall (MTV Video Music Awards), New York, NY, USA</td>
                             <td>
-                                [PRO #1][MTV][VMA Performances][DVD][4,35 GB] <br />
-                                [PRO #1][MPG][41,4 MB]
+                                [PRO #1][Jumbotron Cartoon][MP4][32,0 MB] <br />
+                                [PRO #1][MPG][41,4 MB] <br />
+                                [PRO #1][MTV BR][MP4][38,7 MB] <br />
+                                [PRO #1][MTV][VMA Performances][DVD][4,35 GB]
                             </td>
                         </tr>
 
@@ -2317,9 +2319,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2002-05-17 - Vans Skate Park, Orange County, Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][MTV][DVD][1,22 GB] <br />
+                                [PRO #1][MTV Jammed JP][MPG][441 MB] <br />
+                                [PRO #1][MTV][DVD][1,23 GB] <br />
                                 [PRO #1][Skate87+02][DVD][2,33 GB] <br />
-                                [PRO #1b][MTV2][MPG][563 MB]
+                                [PRO #2][MTV2 Jammed LongVer][MPG][408 MB] <br />
+                                [PRO #2][MTV2 Jammed ShortVer][MPG][155 MB]
                             </td>
                         </tr>
 
@@ -2887,6 +2891,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-08-23 - Slane Castle Grounds (Slane Festival), County Meath, Ireland</td>
                             <td>
+                                [PRO #1][RedBull TV][1080i][MKV][3,95 GB] <br />
                                 [AUD #1][FLAC][664 MB]
                             </td>
                         </tr>
@@ -3287,6 +3292,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-05-13 - Verizon Wireless Amphitheatre (KROQ Weenie Roast), Irvine, CA, USA</td>
                             <td>
+                                [PRO #1][YT][MP4][204 MB] <br />
                                 [Bootleg][MP3][83,4 MB]
                             </td>
                         </tr>
@@ -3809,11 +3815,12 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2007-07-03 - Stadion Śląski, Chorzów, Poland</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #2][FLAC] <br />
-                                [SBD #1][FLAC] <br />
-                                [AMT #1][DVD] <br />
-                                [PRO #1][DVD]
+                                [AUD #1][FLAC][648 MB] <br />
+                                [AUD #2][FLAC][589 MB] <br />
+                                [SBD #1][FLAC][615 MB] <br />
+                                [AMT #1][DVD][4,10 GB] <br />
+                                [PRO #1][DVD][6,65 GB] <br />
+                                [PRO #2][WMV][490 MB]
                             </td>
                         </tr>
 
@@ -5131,6 +5138,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>2015-01-10 - Montage Hotel (JP Haitian Relief Organization Benefit Show), Beverly Hills, CA, USA</td>
                             <td>[AMT #1][MP4][7,48 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2015-10-17 - Warehouse, Los Angeles, CA, USA</td>
+                            <td>[AMT #1][MP4][10,8 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
@@ -5302,7 +5314,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2016-09-18 - Los Angeles Memorial Coliseum, Los Angeles, CA, USA</td>
                             <td>
-                                [PRO #1][YT][MP4][200 MB]
+                                [PRO #1][720p][MP4][358 MB]
                             </td>
                         </tr>
 
