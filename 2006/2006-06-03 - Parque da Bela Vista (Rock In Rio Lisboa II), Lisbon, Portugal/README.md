@@ -56,7 +56,7 @@
 
 ## Recordings / Footage
 
-* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLACB roadcasted by "Mega" radio.
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC Broadcasted by "Mega" radio.
 * PRO #1 professional video: soundboard > unknown TV > DVD
 
 ## Links

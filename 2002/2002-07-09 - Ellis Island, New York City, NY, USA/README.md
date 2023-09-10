@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Don't Forget Me
-Right on Time
-Dig a Pony tease
-I Could Die for You
-Latest Disgrace tease
-Parallel Universe
-Can't Stop
-Californication
-Venice Queen
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Don't Forget Me
+8. Right on Time
+9. Dig a Pony tease
+10. I Could Die for You
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Can't Stop
+14. Californication
+15. Venice Queen
+16. Me and My Friends
+<br>  ENCORE BREAK
+17. Under the Bridge
+18. The Power of Equality
 
 ## Notes
 

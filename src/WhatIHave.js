@@ -2403,6 +2403,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2002-06-19 - Palais Nikaïa, Nice, France</td>
+                            <td>
+                                [AUD #1][MP3][72,7 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2002-06-20 - Halle Tony Garnier, Lyon, France</td>
                             <td>
                                 [AUD #1][MP3][86,3 MB]
@@ -2440,6 +2447,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2002-07-09 - Ellis Island, New York City, NY, USA</td>
                             <td>
+                                [AUD #1][MP3][71,6 MB] <br />
                                 [SBD #1][FLAC][342 MB] <br />
                                 [SBD #1][SHN][401 MB]
                             </td>
@@ -3851,6 +3859,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2007-08-25 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
                                 [PRO #1b][DVD] <br/ >
+                                [PRO #1b][DVD5] <br/ >
                                 [PRO #1b][MPG]
                             </td>
                         </tr>
