@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Around the World
-Subterranean Homesick Blues
-Scar Tissue
-My Lovely Man
-Parallel Universe
-Otherside
-Skinny Sweaty Man
-Blood Sugar Sex Magik
-Soul to Squeeze
-I Like Dirt
-Pea
-Californication
-Easily
-Night of the Thumpasorus Peoples tease
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-Untitled #2 tease
-Search and Destroy
-Outro Jam
+1. Around the World
+2. Subterranean Homesick Blues
+3. Scar Tissue
+4. My Lovely Man
+5. Parallel Universe
+6. Otherside
+7. Skinny Sweaty Man
+8. Blood Sugar Sex Magik
+9. Soul to Squeeze
+10. I Like Dirt
+11. Pea
+12. Californication
+13. Easily
+14. Night of the Thumpasorus Peoples tease
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br>ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Cholly (Funk Get Ready to Roll!) tease
+24. Not Great Men tease
+25. Untitled #2 tease
+26. Search and Destroy
+27. Outro Jam
 
 ## Notes
 
