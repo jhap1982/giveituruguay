@@ -3339,7 +3339,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][DVD][3,18 GB] <br />
                                 [PRO #1][Lisboa+Rosss][DVD][4,31 GB] <br />
-                                [SBD #1][MP3][90,8 MB]
+                                [SBD #1][FLAC][658 MB]
                             </td>
                         </tr>
 
