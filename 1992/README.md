@@ -26,6 +26,7 @@
 * 1992-03-02 - Le Transbordeur, Lyon, France
 * 1992-03-04 - The Hummingbird, Birmingham, England
 * 1992-03-05 - Royal Court Theatre, Liverpool, England
+* 1992-03-07 - SFX City Theatre, Dublin, Ireland
 * 1992-03-08 - Ulster Hall, Belfast, North Ireland
 * 1992-03-10 - Barrowland Ballroom, Glasgow, Scotland
 * 1992-03-11 - BBC Television Centre (Top of the Pops), London, England

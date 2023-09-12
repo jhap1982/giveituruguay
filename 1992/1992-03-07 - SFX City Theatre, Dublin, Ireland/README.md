@@ -2,9 +2,10 @@
 
 ## Setlist
 
-Subterranean Homesick Blues
-Give It Away
-Blood Sugar Sex Magik
+Organic Anti-Beat Box Band
+Blackeyed Blonde
+Under the Bridge
+Crosstown Traffic
 SETLIST INCOMPLETE
 
 ## Notes
@@ -30,3 +31,5 @@ SETLIST INCOMPLETE
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknownOnly features "Organic Anti-Beat Box Band", "Blackeyed Blonde", "Under The Bridge" and "Crosstown Traffic". We don't know if a complete source exists.

@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Setlist
-Give It Away
-Organic Anti-Beat Box Band
-Bullet Proof
-My Automobile part of FLEA
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Nobody Weird Like Me
-Cold Sweat jam
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Higher Ground
-Magic Johnson
-Under the Bridge
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-The Needle and the Damage Done FLEA
-Me and My Friends
-ENCORE BREAK
-Mommy Where's Daddy?
-Crosstown Traffic
+1. Setlist
+2. Give It Away
+3. Organic Anti-Beat Box Band
+4. Bullet Proof
+5. My Automobile part of FLEA
+6. Suck My Kiss
+7. Subterranean Homesick Blues
+8. Funky Crime
+9. Nobody Weird Like Me
+10. Cold Sweat jam
+11. If You Have to Ask
+12. Stone Cold Bush
+13. Blood Sugar Sex Magik
+14. Higher Ground
+15. Magic Johnson
+16. Under the Bridge
+17. Fopp part of
+18. Special Secret Song Inside
+19. Red Hot Mama part of
+20. The Needle and the Damage Done FLEA
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Mommy Where's Daddy?
+23. Crosstown Traffic
 
 ## Notes
 

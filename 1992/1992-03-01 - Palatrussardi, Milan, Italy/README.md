@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Bullet Proof
-Pot Sharing Tots part of FLEA
-Suck My Kiss
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Magic Johnson
-I Could Have Lied
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-History Lesson – Part II tease
-Me and My Friends
-ENCORE BREAK
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Crosstown Traffic
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Pot Sharing Tots part of FLEA
+5. Suck My Kiss
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Magic Johnson
+13. I Could Have Lied
+14. Yertle the Turtle
+15. Freaky Styley
+16. Cosmic Slop tease
+17. Atomic Dog tease
+18. Cholly (Funk Get Ready to Roll!) tease
+19. Not Great Men tease
+20. History Lesson – Part II tease
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Fopp part of
+23. Special Secret Song Inside
+24. Red Hot Mama part of
+25. Crosstown Traffic
 
 ## Notes
 

@@ -2,19 +2,19 @@
 
 ## Setlist
 
-Organic Anti-Beat Box Band
-Suck My Kiss
-Funky Crime
-Blackeyed Blonde
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Crosstown Traffic
+1. Organic Anti-Beat Box Band
+2. Suck My Kiss
+3. Funky Crime
+4. Blackeyed Blonde
+5. Give It Away
+6. Nobody Weird Like Me
+7. If You Have to Ask
+8. Stone Cold Bush
+9. Blood Sugar Sex Magik
+10. Under the Bridge
+11. Me and My Friends
+<br>ENCORE BREAK
+12. Crosstown Traffic
 <br>**SETLIST INCOMPLETE**
 
 ## Notes
