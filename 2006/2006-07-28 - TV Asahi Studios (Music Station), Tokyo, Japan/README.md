@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Dani California
+
 ## Notes
 
 **Support**: -
@@ -27,5 +29,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > DVD
 
 ## Links

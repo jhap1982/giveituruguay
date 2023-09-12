@@ -3459,7 +3459,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-08-06 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
                             <td>
-                                [PRO #1][YT][1080p][MP4][2,39 GB]
+                                [PRO #1][YT][1080p][MP4][2,39 GB] <br />
+                                [AUD #1][FLAC][474 MB]
                             </td>
                         </tr>
 
@@ -3558,6 +3559,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2006-10-26 - The Arena at Gwinnett Center, Atlanta, GA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][677 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2006-10-28 - City Park (Voodoo Music Experience Festival), New Orleands, LA, USA</td>
                             <td>
                                 [AUD #1][rhcpla][FLAC][813 MB]
@@ -3615,7 +3623,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-12-07 - Wiener Stadthalle, Vienna, Austria</td>
                             <td>
                                 [MIX #1][DVD][8,09 GB] <br />
-                                [AUD #1][rhcpla][FLAC][608 MB]
+                                [AUD #1][FLAC][608 MB]
+                                [AUD #2][FLAC][672 MB]
                             </td>
                         </tr>
 

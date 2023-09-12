@@ -2,9 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Desecration Smile
+Parallel Universe
+Snow ((Hey Oh))
+Blue Sunday JOHN
+21st Century
+Blood Sugar Sex Magik
+Show of Strength tease
+Me and My Friends
+Don't Forget Me
+C'mon Girl
+Californication
+ENCORE BREAK
+I'm Eighteen part of JOHN
+Soul to Squeeze
+Sir Psycho Sexy
+They're Red Hot
+
 ## Notes
 
-**Support**: -
+**Support**: Mike Watt and the Missingmen
 
 ## Media 
 
@@ -26,6 +49,11 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings / Footage
+
+* AUD #1 audience audio: MM-HLSC-2 cardioids > MM-Mint-box > iRiver h120 WAV(M) > FLAC recorded by Arnie99
+* AUD #2 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910 Hi-MD(M) > FLAC recorded by Henrik
 
 ## Links
