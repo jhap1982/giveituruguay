@@ -52,4 +52,4 @@ Outro Jam
 
 * AUD #1 audience audio: Aiwa CM-DS5 > Sony MZ-R700 MD(M) > FLAC recorded by ReNo
 * AUD #2 audience audio: Sony ECM-719 > Sony MZ-RH1 Hi-MD(M) > FLAC recorded by a_doubtMissing the encore jam, otherwise complete.  
-* AUD #3 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910 Hi-MD(M) > FLAC > MP3recorded by Henrik There's no lossless transfer circulating of this recording.
+* AUD #3 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910 Hi-MD(M) > FLAC > MP3 recorded by Henrik There's no lossless transfer circulating of this recording.

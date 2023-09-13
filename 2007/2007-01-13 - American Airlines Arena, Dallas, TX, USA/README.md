@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Hump de Bump
-Blood Sugar Sex Magik
-Show of Strength tease
-Songbird JOHN
-Snow ((Hey Oh))
-Throw Away Your Television
-Don't You Ever Leave jam
-Warlocks
-Me and My Friends
-Stadium Arcadium
-London Calling tease
-Right on Time
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Hump de Bump
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Songbird JOHN
+11. Snow ((Hey Oh))
+12. Throw Away Your Television
+13. Don't You Ever Leave jam
+14. Warlocks
+15. Me and My Friends
+16. Stadium Arcadium
+17. London Calling tease
+18. Right on Time
+19. C'mon Girl
+20. Californication
+21. By the Way
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 
@@ -53,5 +53,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-

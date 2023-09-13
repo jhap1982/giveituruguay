@@ -3661,12 +3661,12 @@ const WhatIHave = ({ onBack }) => {
                     <tbody>
                         <tr>
                             <td>2007-01-17 - Gaylord Entertainment Center, Nashville, TN, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][2,23 GB]</td>
                         </tr>
 
                         <tr>
                             <td>2007-01-23 - Charlotte Bobcats Arena, Charlotte, NC, USA</td>
-                            <td>[AUD #1][FLAC]</td>
+                            <td>[AUD #1][FLAC][601 MB]</td>
                         </tr>
 
                         <tr>
@@ -3683,134 +3683,134 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2007-02-14 - Earls Court Exhibition Centre (Brit Awards), London, England</td>
                             <td>
-                                [PRO #1][MP4]
+                                [PRO #1][MP4][98,0 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-03-03 - Assembly Hall, Champaign, IL, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][647 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-03-06 - AT&T Center, San Antonio, TX, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][564 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-03-10 - Foro Sol, Mexico City, Mexico</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][426 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-07 - Adelaide Entertainment Centre, Adelaide, Australia</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][3,71 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-11 - Federation Square, Melbourne, Australia</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [PRO #1][SCB][DVD]
+                                [PRO #1][DVD][1,15 GB] <br />
+                                [PRO #1][SCB][DVD][1,73 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-14 - Brisbane Entertainment Center, Brisbane, Australia</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][FLAC][600 MB] <br />
+                                [AUD #2][FLAC][668 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-17 - Acer Arena, Sydney, Australia</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][MP3][151 MB] <br />
+                                [AUD #2][FLAC][680 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-19 - Acer Arena, Sydney, Australia</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][159 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-22 - Vector Arena, Auckland, New Zealand</td>
                             <td>
-                                [AUD #1][MP3]
+                                [AUD #1][MP3][148 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-04-28 - Empire Polo Fields (Coachella Vally Music And Arts Festival), Indio, CA, USA</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][545 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-05 - Tokyo Dome, Tokyo, Japan</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [MTX #1][FLAC]
+                                [AUD #1][MP3][157 MB] <br />
+                                [MTX #1][FLAC][834 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-06 - Tokyo Dome, Tokyo, Japan</td>
                             <td>
-                                [AUD #1][MP3] <br />
-                                [MTX #1][FLAC]
+                                [AUD #1][MP3][141 MB] <br />
+                                [MTX #1][FLAC][632 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-08 - Kyosera Dome, Osaka, Japan</td>
                             <td>
-                                [AMT #1][DVD]
+                                [AMT #1][DVD][1,52 GB] <br />
+                                [AUD #2][FLAC][704 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-24 - Goffertpark, Nijmegen, Netherlands</td>
                             <td>
-                                [AUD #1][2cds][FLAC] <br />
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][638 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-26 - Field (Tuborg GreenFest), Indjija, Serbia</td>
                             <td>
-                                [PRO #1][DVD] <br />
-                                [SBD #1][MP3]
+                                [PRO #1][DVD][4,07 GB] <br />
+                                [SBD #1][MP3][60,1 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-28 - Stadio Friuli, Udine, Italy</td>
                             <td>
-                                [AMT #1][DVD] <br />
-                                [AUD #1][FLAC]
+                                [AMT #1][DVD][1,77 GB] <br />
+                                [AUD #1][FLAC][538 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-06-29 - Olympiastadion, Munich, Germany</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][610 MB]
                             </td>
                         </tr>
 
@@ -3837,47 +3837,48 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2007-07-04 - Festwiese Ostragehege, Dresden, Germany</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][FLAC][504 MB] <br />
+                                [AUD #2][FLAC][562 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-07-06 - Parc Des Princes, Paris, France</td>
                             <td>
-                                [AUD #1][FLAC] <br />
-                                [AUD #2][FLAC]
+                                [AUD #1][FLAC][476 MB] <br />
+                                [AUD #2][FLAC][525 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-07-07 - Festivalpladsen, (Roskilde Festival), Roskilde, Denmark</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][554 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-07-07 - Wembley Stadium (Live Earth), London, England</td>
                             <td>
-                                [PRO #1a][1080i][Take I Music][TS] <br />
-                                [PRO #1][DVD]
+                                [PRO #1][CTV][AVI][233 MB] <br />
+                                [PRO #1a][1080i][Take I Music][TS][2,65 GB] <br />
+                                [PRO #1][DVD][3,69 GB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-08-23 - Hampden Park, Glasgow, Scotland</td>
                             <td>
-                                [AUD #1][FLAC]
+                                [AUD #1][FLAC][384 MB]
                             </td>
                         </tr>
 
                         <tr>
                             <td>2007-08-25 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
-                                [PRO #1b][DVD] <br/ >
-                                [PRO #1b][DVD5] <br/ >
-                                [PRO #1b][MPG]
+                                [PRO #1b][DVD][1,86 GB] <br/ >
+                                [PRO #1b][DVD5][3,30 GB] <br/ >
+                                [PRO #1b][MPG][537 MB]
                             </td>
                         </tr>
                     </tbody>

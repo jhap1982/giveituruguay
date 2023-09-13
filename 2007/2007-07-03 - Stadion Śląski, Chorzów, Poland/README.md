@@ -58,7 +58,7 @@
 * AUD #3 audience audio: Sony ECM-719 > Sony MZ-NH700Hi-MD(M) > FLAC recorded by SNSik  
 * AUD #4 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910Hi-MD(M) > FLAC > MP3 recorded by HenrikThere's no lossless transfer circulating of this recording.
 * SBD #1 soundboard audio: soundboard > unknown recorder DBC(M) > FLAC Sourced from the master digital Betacam tapes used for the TV broadcast of the show.
-* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by WojteksMissing the intro jam, "Can't Stop", "Dani California", "Havana Affair", "Readymade", "Throw Away Your Television", "Songbird" and "This Velvet Glove". 
+* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by Wojteks Missing the intro jam, "Can't Stop", "Dani California", "Havana Affair", "Readymade", "Throw Away Your Television", "Songbird" and "This Velvet Glove". 
 * AMT #2 amateur video: built-in > Sony DCR-HC19E MiniDV(M) > DVD recorded by unknown 
 * PRO #1 professional video: soundboard > unknown DBC(M) > DVD Sourced from the master digital Betacam tapes. 
 * PRO #2 professional video: soundboard > unknown TV > DVD Polish TV network "TVN" aired an hour of the show. Although it's sourced from the same tapes PRO #1 is, features some alternate camera shots.
