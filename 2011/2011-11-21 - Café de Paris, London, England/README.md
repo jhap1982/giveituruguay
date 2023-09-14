@@ -2,9 +2,12 @@
 
 ## Setlist
 
+1. Californication
+2. By the Way
+
 ## Notes
 
-**Support**: -
+> Benefit gig for the Hoping Variety foundation.
 
 ## Media 
 
@@ -22,6 +25,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

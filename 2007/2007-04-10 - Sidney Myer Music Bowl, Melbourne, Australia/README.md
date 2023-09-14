@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Fortune Faded
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-She's Only 18
-Maybe part of JOHN
-Snow ((Hey Oh))
-Me and My Friends
-This Velvet Glove
-Sunny part of FLEA
-Don't Forget Me
-Warlocks
-Stadium Arcadium
-By the Way
-ENCORE BREAK
-Jam
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. She's Only 18
+11. Maybe part of JOHN
+12. Snow ((Hey Oh))
+13. Me and My Friends
+14. This Velvet Glove
+15. Sunny part of FLEA
+16. Don't Forget Me
+17. Warlocks
+18. Stadium Arcadium
+19. By the Way
+<br> ENCORE BREAK
+20. Jam
+21. I Could Have Lied
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 

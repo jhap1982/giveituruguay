@@ -2,18 +2,18 @@
 
 ## Setlist
 
-Intro Jam
-Dani California
-Scar Tissue
-Charlie
-Readymade
-How Can I Tell You JOHN
-This Velvet Glove
-She's Only 18
-Catholic School Girls Rule
-Don't Forget Me
-Hey
-By the Way
+1. Intro Jam
+2. Dani California
+3. Scar Tissue
+4. Charlie
+5. Readymade
+6. How Can I Tell You JOHN
+7. This Velvet Glove
+8. She's Only 18
+9. Catholic School Girls Rule
+10. Don't Forget Me
+11. Hey
+12. By the Way
 
 ## Notes
 
@@ -41,5 +41,3 @@ By the Way
 * Josh Klinghoffer
 
 ## Recordings
-
-

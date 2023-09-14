@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Baby Appeal tease
-Songbird JOHN
-Snow ((Hey Oh))
-Get on Top
-Sunny part of FLEA
-She's Only 18
-Higher Ground
-I Feel Love part of JOHN
-This Velvet Glove
-Don't Forget Me
-Give It Away
-C'mon Girl
-Under the Bridge
-By the Way
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Readymade
+6. Throw Away Your Television
+7. Don't You Ever Leave jam
+8. Baby Appeal tease
+9. Songbird JOHN
+10. Snow ((Hey Oh))
+11. Get on Top
+12. Sunny part of FLEA
+13. She's Only 18
+14. Higher Ground
+15. I Feel Love part of JOHN
+16. This Velvet Glove
+17. Don't Forget Me
+18. Give It Away
+19. C'mon Girl
+20. Under the Bridge
+21. By the Way
 
 ## Notes
 

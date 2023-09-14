@@ -2,9 +2,17 @@
 
 ## Setlist
 
+D-7 tease
+Backwoods tease
+Blood Sugar Sex Magik tease
+Skinny Sweaty Man tease
+Whole Lotta Love tease
+Give It Away
+The Adventures of Rain Dance Maggie
+
 ## Notes
 
-**Support**: -
+> "The Adventures of Rain Dance Maggie" videoshoot. They played a couple songs and teases in between recording takes for the video.
 
 ## Media 
 

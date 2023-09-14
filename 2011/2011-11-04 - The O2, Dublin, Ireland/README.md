@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Charlie
+Look Around
+Scar Tissue
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Can't Stop
+Emit Remmus
+Me and My Friends
+Factory of Faith
+Under the Bridge
+Right on Time
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Around the World
+Everybody Knows This Is Nowhere
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Fool's Gold
 
 ## Media 
 
@@ -23,6 +45,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AUD #1 audience audio: Church Audio CA-14 > SP Battery Box > Zoom H1 WAV > FLAC recorded by Celtic
 
 ## Links

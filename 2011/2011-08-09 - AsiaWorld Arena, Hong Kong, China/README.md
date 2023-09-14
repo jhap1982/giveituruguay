@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Setlist
+By the Way
+Charlie
+Can't Stop
+Scar Tissue
+Look Around
+Dani California
+I Like Dirt
+Otherside
+The Adventures of Rain Dance Maggie
+Throw Away Your Television
+Universally Speaking
+Right on Time
+Californication
+Higher Ground
+Under the Bridge
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Give It Away
+
 ## Notes
 
-**Support**: -
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -23,6 +45,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AUD #1 audience audio: built-in > Tascam DR-08 WAV > FLAC recorded by skyscaper
 
 ## Links

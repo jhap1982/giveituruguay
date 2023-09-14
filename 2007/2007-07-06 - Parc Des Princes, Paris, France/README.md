@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Havana Affair
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-S.O.S. part of JOHN
-Snow ((Hey Oh))
-This Velvet Glove
-Emit Remmus
-So Much I
-She's Only 18
-Don't Forget Me
-Californication
-Sunny part of FLEA
-By the Way
-ENCORE BREAK
-Take It as It Comes part of JOHN
-C'mon Girl
-The Power of Equality
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Havana Affair
+6. Readymade
+7. Throw Away Your Television
+8. Don't You Ever Leave jam
+9. S.O.S. part of JOHN
+10. Snow ((Hey Oh))
+11. This Velvet Glove
+12. Emit Remmus
+13. So Much I
+14. She's Only 18
+15. Don't Forget Me
+16. Californication
+17. Sunny part of FLEA
+18. By the Way
+<br> ENCORE BREAK
+19. Take It as It Comes part of JOHN
+20. C'mon Girl
+21. The Power of Equality
 
 ## Notes
 

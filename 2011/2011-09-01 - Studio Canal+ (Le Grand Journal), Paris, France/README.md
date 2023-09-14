@@ -2,9 +2,19 @@
 
 ## Setlist
 
+**SET ONE**<br>
+1. The Adventures of Rain Dance Maggie
+
+**SET TWO**<br>
+1. Can't Stop
+2. Meet Me at the Corner
+3. The Adventures of Rain Dance Maggie
+4. Californication
+5. Monarchy of Roses
+
 ## Notes
 
-**Support**: -
+> First set was recorded for TV broadcast and the second set was exclusively streamed on Le Grand Journal's website.
 
 ## Media 
 
@@ -23,6 +33,12 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > DVD First set. Sourced from a TV broadcast.
+* PRO #2 professional video: soundboard > unknown WEB > FLV > MKV Second set. Sourced from the original webstream.
 
 ## Links

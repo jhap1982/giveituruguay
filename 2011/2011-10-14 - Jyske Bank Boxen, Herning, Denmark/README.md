@@ -2,9 +2,32 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Charlie
+Emit Remmus
+Otherside
+Look Around
+Throw Away Your Television
+Pea
+The Adventures of Rain Dance Maggie
+Right on Time
+Under the Bridge
+Factory of Faith
+Dani California
+Hard to Concentrate
+Higher Ground
+By the Way
+ENCORE BREAK
+Jam
+Californication
+Everybody Knows This Is Nowhere
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Femi Kuti & the Positive Force
 
 ## Media 
 
@@ -22,6 +45,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

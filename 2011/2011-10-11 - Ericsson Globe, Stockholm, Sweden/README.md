@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Charlie
+Otherside
+Look Around
+Breaking the Girl
+The Adventures of Rain Dance Maggie
+Right on Time
+Throw Away Your Television
+Under the Bridge
+Did I Let You Know
+Pea
+Factory of Faith
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Freaky Styley
+Dani California
+Soul to Squeeze
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Femi Kuti & the Positive Force
 
 ## Media 
 
@@ -23,6 +47,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AUD #1 audience audio: built-in > Zoom H4n WAV > FLAC recorded by Sammun
 
 ## Links

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Warlocks
-Parallel Universe
-This Velvet Glove
-Songbird JOHN
-Snow ((Hey Oh))
-Get on Top
-C'mon Girl
-Hump de Bump
-London Calling tease
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Warlocks
+8. Parallel Universe
+9. This Velvet Glove
+10. Songbird JOHN
+11. Snow ((Hey Oh))
+12. Get on Top
+13. C'mon Girl
+14. Hump de Bump
+15. London Calling tease
+16. Right on Time
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
@@ -51,5 +51,3 @@ Outro Jam
 * Josh Klinghoffer
 
 ## Recordings
-
-

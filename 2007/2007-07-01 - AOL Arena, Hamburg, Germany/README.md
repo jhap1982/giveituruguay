@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-21st Century
-Parallel Universe
-Tiny Dancer part of JOHN
-Snow ((Hey Oh))
-Get on Top
-Emit Remmus
-Grand Pappy du Plenty tease
-So Much I
-She's Only 18
-London Calling tease
-Right on Time
-Hump de Bump
-By the Way
-ENCORE BREAK
-C'mon Girl
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. 21st Century
+6. Parallel Universe
+7. Tiny Dancer part of JOHN
+8. Snow ((Hey Oh))
+9. Get on Top
+10. Emit Remmus
+11. Grand Pappy du Plenty tease
+12. So Much I
+13. She's Only 18
+14. London Calling tease
+15. Right on Time
+16. Hump de Bump
+17. By the Way
+<br> ENCORE BREAK
+18. C'mon Girl
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

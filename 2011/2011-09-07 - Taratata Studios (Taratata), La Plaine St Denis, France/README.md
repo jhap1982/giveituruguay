@@ -2,6 +2,10 @@
 
 ## Setlist
 
+Look Around
+The Adventures of Rain Dance Maggie
+Everybody Knows This Is Nowhere
+
 ## Notes
 
 **Support**: -
@@ -23,6 +27,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > TS [1080i] Although broadcasted in HD, the signal was an upscaled SD source. "Look Around" was broadcasted as the last song in the set.
 
 ## Links

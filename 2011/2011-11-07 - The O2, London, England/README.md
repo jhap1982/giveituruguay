@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Can't Stop
+Scar Tissue
+Look Around
+Throw Away Your Television
+Otherside
+Emit Remmus
+Me and My Friends
+The Adventures of Rain Dance Maggie
+Under the Bridge
+Fire
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Around the World
+Don't Forget Me
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Fool's Gold
 
 ## Media 
 
@@ -23,6 +45,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 
 ## Links

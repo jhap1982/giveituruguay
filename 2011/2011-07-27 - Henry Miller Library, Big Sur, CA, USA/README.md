@@ -2,9 +2,25 @@
 
 ## Setlist
 
+Monarchy of Roses
+Charlie
+Ethiopia
+Universally Speaking
+Look Around
+Californication
+Factory of Faith
+Throw Away Your Television
+Meet Me at the Corner
+Parallel Universe
+The Adventures of Rain Dance Maggie
+By the Way
+ENCORE BREAK
+Don't Forget Me
+Give It Away
+
 ## Notes
 
-**Support**: -
+> The show was announced only three hours before the band took the stage, and it was free for the 300-400 lucky fans and friends who got an invite.
 
 ## Media 
 
@@ -23,6 +39,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by ezionretaw **NOT CIRCULATING**
 
 ## Links

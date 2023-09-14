@@ -2,9 +2,21 @@
 
 ## Setlist
 
+By the Way
+Dani California
+Can't Stop
+Scar Tissue
+The Adventures of Rain Dance Maggie
+Otherside
+Look Around
+Soul to Squeeze
+Californication
+Give It Away
+Louie Louie
+
 ## Notes
 
-**Support**: -
+> Private gig at Roman Abramovich's New Year's Eve Party. Toots Hibbert joined the band for "Louie Louie".
 
 ## Media 
 
@@ -22,6 +34,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Mauro Refosco
 
 ## Recordings
 

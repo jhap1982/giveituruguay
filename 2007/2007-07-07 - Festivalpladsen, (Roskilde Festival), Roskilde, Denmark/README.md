@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Charlie
-Havana Affair
-21st Century
-Parallel Universe
-Snow ((Hey Oh))
-Songbird JOHN
-She's Only 18
-London Calling tease
-Right on Time
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Jam
-C'mon Girl
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Charlie
+5. Havana Affair
+6. 21st Century
+7. Parallel Universe
+8. Snow ((Hey Oh))
+9. Songbird JOHN
+10. She's Only 18
+11. London Calling tease
+12. Right on Time
+13. Californication
+14. What Is Soul? jam
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. C'mon Girl
+18. Give It Away
+19. Outro Jam
 
 ## Notes
 
@@ -49,5 +49,3 @@ Outro Jam
 ## Recordings
 
 * AUD #1 audience audio: Core Sound Cardioids > Battery Box > iRriver H120 WAV > FLAC recorded by JTL
-
-

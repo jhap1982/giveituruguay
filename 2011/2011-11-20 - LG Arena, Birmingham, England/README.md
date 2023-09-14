@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Charlie
+Can't Stop
+The Adventures of Rain Dance Maggie
+Throw Away Your Television
+Otherside
+Look Around
+If You Have to Ask
+Hardcore Jollies tease
+Me and My Friends
+Did I Let You Know
+Under the Bridge
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Soul to Squeeze
+Give It Away
+Encore jam
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Fool's Gold
 
 ## Media 
 
@@ -23,6 +48,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 
 ## Links

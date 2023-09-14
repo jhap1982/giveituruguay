@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-21st Century
-Blood Sugar Sex Magik
-Show of Strength tease
-Maybe part of JOHN
-Snow ((Hey Oh))
-Get on Top
-Emit Remmus
-So Much I
-She's Only 18
-Me and My Friends
-Hump de Bump
-By the Way
-ENCORE BREAK
-C'mon Girl
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. 21st Century
+6. Blood Sugar Sex Magik
+7. Show of Strength tease
+8. Maybe part of JOHN
+9. Snow ((Hey Oh))
+10. Get on Top
+11. Emit Remmus
+12. So Much I
+13. She's Only 18
+14. Me and My Friends
+15. Hump de Bump
+16. By the Way
+<br> ENCORE BREAK
+17. C'mon Girl
+18. Sir Psycho Sexy
+19. They're Red Hot
 
 ## Notes
 

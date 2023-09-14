@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Monarchy of Roses
+Can't Stop
+Tell Me Baby
+Scar Tissue
+Look Around
+Otherside
+Ethiopia
+Parallel Universe
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Under the Bridge
+Blood Sugar Sex Magik
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Dani California
+Everybody Knows This Is Nowhere
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Femi Kuti & the Positive Force
 
 ## Media 
 
@@ -23,6 +45,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AMT #1 amateur video: built-in > Zoom Q3HD MOV [1080p] recorded by FunkyMonk
 
 ## Links

@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Monarchy of Roses
+Dani California
+Scar Tissue
+Can't Stop
+Ethiopia
+Otherside
+Throw Away Your Television
+The Adventures of Rain Dance Maggie
+Me and My Friends
+Under the Bridge
+Look Around
+Hard to Concentrate
+Higher Ground
+Californication
+By the Way
+ENCORE BREAK
+Jam
+Sir Psycho Sexy
+They're Red Hot
+Soul to Squeeze
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+> Femi Kuti joined the band for "Give It Away".
+
+**Support**: Femi Kuti & the Positive Force
 
 ## Media 
 
@@ -23,6 +48,14 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* AUD #1 audience audio: built-in > Zoom Q3HD WAV > FLAC recorded by Jeffrey Kramer  
+* AUD #2 audience audio: Aiwa CM-DS5 > Sony MZ-R700 MD(M) > FLAC recorded by ReNo
+* AUD #3 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910 Hi-MD(M) > FLAC recorded by Henrik **NOT CIRCULATING**
+* AMT #1 amateur video: built-in > Zoom Q3HD MOV [1080p] recorded by pepper dionOnly the audio track taken from the video is circulating. **NOT CIRCULATING**
 
 ## Links

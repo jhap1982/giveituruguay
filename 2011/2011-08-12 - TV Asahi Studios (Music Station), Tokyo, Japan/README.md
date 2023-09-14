@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. The Adventures of Rain Dance Maggie
+
 ## Notes
 
 **Support**: -
@@ -23,6 +25,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Mauro Refosco
+
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown HDTV > TS [1080i]
 
 ## Links

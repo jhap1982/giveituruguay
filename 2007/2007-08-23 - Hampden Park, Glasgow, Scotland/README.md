@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-The Metro part of JOHN
-Get on Top
-Emit Remmus
-Wet Sand
-So Much I
-She's Only 18
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-C'mon Girl
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Readymade
+6. Throw Away Your Television
+7. Don't You Ever Leave jam
+8. Snow ((Hey Oh))
+9. The Metro part of JOHN
+10. Get on Top
+11. Emit Remmus
+12. Wet Sand
+13. So Much I
+14. She's Only 18
+15. Right on Time
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. C'mon Girl
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
