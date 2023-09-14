@@ -2,25 +2,25 @@
 
 ## Setlist
 
-By the Way
-Monarchy of Roses
-Charlie
-Under the Bridge
-Ethiopia
-Can't Stop
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Otherside
-Factory of Faith
-Right on Time
-She's Only 18
-Look Around
-Californication
-Higher Ground
-ENCORE BREAK
-Jam
-Parallel Universe
-Give It Away
+1. By the Way
+2. Monarchy of Roses
+3. Charlie
+4. Under the Bridge
+5. Ethiopia
+6. Can't Stop
+7. The Adventures of Rain Dance Maggie
+8. Throw Away Your Television
+9. Otherside
+10. Factory of Faith
+11. Right on Time
+12. She's Only 18
+13. Look Around
+14. Californication
+15. Higher Ground
+<br> ENCORE BREAK
+16. Jam
+17. Parallel Universe
+19. Give It Away
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Tell Me Baby
-Scar Tissue
-Look Around
-Otherside
-Factory of Faith
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Under the Bridge
-Did I Let You Know
-Higher Ground
-Pea
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Dance, Dance, Dance
-Don't Forget Me
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Tell Me Baby
+4. Scar Tissue
+5. Look Around
+6. Otherside
+7. Factory of Faith
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Under the Bridge
+12. Did I Let You Know
+13. Higher Ground
+14. Pea
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Dance, Dance, Dance
+19. Don't Forget Me
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

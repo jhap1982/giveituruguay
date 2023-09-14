@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Otherside
-Look Around
-Dani California
-Under the Bridge
-Factory of Faith
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Right on Time
-Blood Sugar Sex Magik
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Otherside
+5. Look Around
+6. Dani California
+7. Under the Bridge
+8. Factory of Faith
+9. Throw Away Your Television
+10. The Adventures of Rain Dance Maggie
+11. Right on Time
+12. Blood Sugar Sex Magik
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Soul to Squeeze
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

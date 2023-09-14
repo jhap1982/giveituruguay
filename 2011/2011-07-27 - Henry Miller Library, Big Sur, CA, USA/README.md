@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Monarchy of Roses
-Charlie
-Ethiopia
-Universally Speaking
-Look Around
-Californication
-Factory of Faith
-Throw Away Your Television
-Meet Me at the Corner
-Parallel Universe
-The Adventures of Rain Dance Maggie
-By the Way
-ENCORE BREAK
-Don't Forget Me
-Give It Away
+1. Monarchy of Roses
+2. Charlie
+3. Ethiopia
+4. Universally Speaking
+5. Look Around
+6. Californication
+7. Factory of Faith
+8. Throw Away Your Television
+9. Meet Me at the Corner
+10. Parallel Universe
+11. The Adventures of Rain Dance Maggie
+12. By the Way
+<br> ENCORE BREAK
+13. Don't Forget Me
+14. Give It Away
 
 ## Notes
 

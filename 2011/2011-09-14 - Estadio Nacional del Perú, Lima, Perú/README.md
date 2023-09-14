@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Under the Bridge
-Ethiopia
-Dani California
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Grand Pappy du Plenty tease
-Around the World
-Factory of Faith
-Right on Time
-If You Have to Ask
-Look Around
-Californication
-Higher Ground
-By the Way
-ENCORE BREAK
-Jam
-Dance, Dance, Dance
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Under the Bridge
+5. Ethiopia
+6. Dani California
+7. The Adventures of Rain Dance Maggie
+8. Throw Away Your Television
+9. Grand Pappy du Plenty tease
+10. Around the World
+11. Factory of Faith
+12. Right on Time
+13. If You Have to Ask
+14. Look Around
+15. Californication
+16. Higher Ground
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Dance, Dance, Dance
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Give It Away
 
 ## Notes
 

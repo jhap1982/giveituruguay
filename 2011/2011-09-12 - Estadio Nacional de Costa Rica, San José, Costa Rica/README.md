@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Tell Me Baby
-Under the Bridge
-Goodbye Hooray
-Universally Speaking
-The Adventures of Rain Dance Maggie
-Otherside
-Factory of Faith
-I Like Dirt
-Soul to Squeeze
-Did I Let You Know
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Dance, Dance, Dance jam
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Tell Me Baby
+4. Under the Bridge
+5. Goodbye Hooray
+6. Universally Speaking
+7. The Adventures of Rain Dance Maggie
+8. Otherside
+9. Factory of Faith
+10. I Like Dirt
+11. Soul to Squeeze
+12. Did I Let You Know
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Dance, Dance, Dance jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Give It Away
 
 ## Notes
 

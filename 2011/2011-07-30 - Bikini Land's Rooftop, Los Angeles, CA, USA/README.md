@@ -2,13 +2,13 @@
 
 ## Setlist
 
-D-7 tease
-Backwoods tease
-Blood Sugar Sex Magik tease
-Skinny Sweaty Man tease
-Whole Lotta Love tease
-Give It Away
-The Adventures of Rain Dance Maggie
+1. D-7 tease
+2. Backwoods tease
+3. Blood Sugar Sex Magik tease
+4. Skinny Sweaty Man tease
+5. Whole Lotta Love tease
+6. Give It Away
+7. The Adventures of Rain Dance Maggie
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Ethiopia
-Charlie
-Meet Me at the Corner
-Factory of Faith
-Throw Away Your Television
-Everybody Knows This Is Nowhere
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Skinny Sweaty Man tease
-Look Around
-Californication
-Goodbye Hooray
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-She's Only 18
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Ethiopia
+4. Charlie
+5. Meet Me at the Corner
+6. Factory of Faith
+7. Throw Away Your Television
+8. Everybody Knows This Is Nowhere
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Skinny Sweaty Man tease
+12. Look Around
+13. Californication
+14. Goodbye Hooray
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. She's Only 18
+19. Give It Away
 
 ## Notes
 

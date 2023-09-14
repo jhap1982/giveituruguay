@@ -2,25 +2,25 @@
 
 ## Setlist
 
-By the Way
-Charlie
-Can't Stop
-Scar Tissue
-Look Around
-Parallel Universe
-I Like Dirt
-Otherside
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Ethiopia
-Right on Time
-Californication
-Higher Ground
-Under the Bridge
-ENCORE BREAK
-Jam
-Don't Forget Me
-Give It Away
+1. By the Way
+2. Charlie
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Parallel Universe
+7. I Like Dirt
+8. Otherside
+9. The Adventures of Rain Dance Maggie
+10. Throw Away Your Television
+11. Ethiopia
+12. Right on Time
+13. Californication
+14. Higher Ground
+15. Under the Bridge
+<br> ENCORE BREAK
+16. Jam
+17. Don't Forget Me
+18. Give It Away
 
 ## Notes
 

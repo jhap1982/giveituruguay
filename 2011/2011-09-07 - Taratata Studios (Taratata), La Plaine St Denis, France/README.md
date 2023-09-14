@@ -2,9 +2,9 @@
 
 ## Setlist
 
-Look Around
-The Adventures of Rain Dance Maggie
-Everybody Knows This Is Nowhere
+1. Look Around
+2. The Adventures of Rain Dance Maggie
+3. Everybody Knows This Is Nowhere
 
 ## Notes
 

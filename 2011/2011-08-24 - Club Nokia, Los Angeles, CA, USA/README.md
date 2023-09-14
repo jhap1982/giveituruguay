@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Ethiopia
-Meet Me at the Corner
-I Like Dirt
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Factory of Faith
-Right on Time
-Did I Let You Know
-Californication
-Look Around
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Ethiopia
+5. Meet Me at the Corner
+6. I Like Dirt
+7. The Adventures of Rain Dance Maggie
+8. Throw Away Your Television
+9. Factory of Faith
+10. Right on Time
+11. Did I Let You Know
+12. Californication
+13. Look Around
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Give It Away
 
 ## Notes
 
