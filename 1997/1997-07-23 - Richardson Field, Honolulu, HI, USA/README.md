@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **September 16, 1997** due to Anthony breaking his right wrist on a motorcycle accident.
+
 ## Media 
 
 <details>

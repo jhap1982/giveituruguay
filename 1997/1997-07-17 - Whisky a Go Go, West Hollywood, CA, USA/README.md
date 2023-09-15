@@ -4,6 +4,9 @@
 
 ## Notes
 
+> Surprise warm-up show for the Asian tour.
+Cancelled due to Anthony breaking his right wrist on a motorcycle accident four days before the show.
+
 ## Media 
 
 <details>

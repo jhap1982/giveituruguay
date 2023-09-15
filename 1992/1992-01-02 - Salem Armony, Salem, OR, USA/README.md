@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Magic Johnson
-I Could Have Lied
-Subway to Venus
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-SETLIST INCOMPLETE
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Magic Johnson
+13. I Could Have Lied
+14. Subway to Venus
+15. Fopp part of
+16. Special Secret Song Inside
+17. Red Hot Mama part of
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

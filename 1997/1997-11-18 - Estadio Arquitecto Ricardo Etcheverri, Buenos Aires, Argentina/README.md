@@ -4,7 +4,7 @@
 
 ## Notes
 
-> > Tentative dates for a Latin American tour. Due to the Jane's Addiction reunion tour featuring Dave and Flea scheduled for November 1997, the plan was abandoned.
+> Tentative dates for a Latin American tour. Due to the Jane's Addiction reunion tour featuring Dave and Flea scheduled for November 1997, the plan was abandoned.
 
 ## Media 
 

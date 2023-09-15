@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **December 29, 1997** due to Chad Smith dislocating his left shoulder on a motorcycle accident.
+
 ## Media 
 
 <details>

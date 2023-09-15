@@ -4,7 +4,7 @@
 
 ## Notes
 
-> > The whole Wild Tour, with the exception of the Fuji Rock Festival, was cancelled due Anthony breaking his right wrist on a motorcycle accident a few days before leaving for tour.
+> > The whole **Wild Tour**, with the exception of the **Fuji Rock Festival**, was cancelled due Anthony breaking his right wrist on a motorcycle accident a few days before leaving for tour.
  
 ## Media 
 

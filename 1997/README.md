@@ -1,6 +1,5 @@
 # Tour 1997
 
-* 1997-01-24 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA
 * ~~1997-03-02 - The Whiskey, Los Angeles, CA, USA~~
 * ~~1997-03-08 - Kilevat Stadium, Bangkok, Thailand~~
 * ~~1997-06-08 - Randalls Island (Tibetan Freedom Concert), New York City, NY, USA~~
