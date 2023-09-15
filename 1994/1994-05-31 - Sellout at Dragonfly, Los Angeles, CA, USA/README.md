@@ -2,12 +2,12 @@
 
 ## Setlist
 
-Warped
-Pea
-Aeroplane
-Walkabout
-Me and My Friends
-SETLIST INCOMPLETE
+1. Warped
+2. Pea
+3. Aeroplane
+4. Walkabout
+5. Me and My Friends
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

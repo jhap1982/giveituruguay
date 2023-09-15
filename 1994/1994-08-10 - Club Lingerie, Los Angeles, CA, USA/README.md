@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Warped
-Stone Cold Bush
-If You Have to Ask
-Organic Anti-Beat Box Band
-Pea
-Aeroplane
-My Lovely Man
-Blood Sugar Sex Magik
-Cornucopia tease
-Higher Ground
-Under the Bridge
-Me and My Friends
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Warped
+5. Stone Cold Bush
+6. If You Have to Ask
+7. Organic Anti-Beat Box Band
+8. Pea
+9. Aeroplane
+10. My Lovely Man
+11. Blood Sugar Sex Magik
+12. Cornucopia tease
+13. Higher Ground
+14. Under the Bridge
+15. Me and My Friends
 
 ## Notes
 
@@ -44,4 +44,3 @@ Me and My Friends
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > ? > MP4 recorded by unknown Surfaced in early 2016 on YouTube. Unfortunately, there's no DVD in circulation.
 
 ## Links
-

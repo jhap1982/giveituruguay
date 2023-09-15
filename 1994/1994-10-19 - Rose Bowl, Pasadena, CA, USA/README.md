@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Warped
-If You Have to Ask
-Backwoods
-Aeroplane
-Blood Sugar Sex Magik
-Pea
-Cornucopia tease
-Higher Ground
-Deep Kick tease
-Under the Bridge
-Me and My Friends
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Warped
+5. If You Have to Ask
+6. Backwoods
+7. Aeroplane
+8. Blood Sugar Sex Magik
+9. Pea
+10. Cornucopia tease
+11. Higher Ground
+12. Deep Kick tease
+13. Under the Bridge
+14. Me and My Friends
 
 ## Notes
 
@@ -45,4 +45,3 @@ Me and My Friends
 * AUD #2 audience audio: clip mic > Sony WM-D3 ANA(M) > FLAC recorded by unknown
 
 ## Links
-

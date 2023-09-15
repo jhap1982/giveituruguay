@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Give It Away
-Higher Ground
-Under the Bridge
-SETLIST INCOMPLETE
+1. Give It Away
+2. Higher Ground
+3. Under the Bridge
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

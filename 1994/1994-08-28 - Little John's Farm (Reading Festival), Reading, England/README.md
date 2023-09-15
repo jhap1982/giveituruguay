@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Warped
-Stone Cold Bush
-If You Have to Ask
-Walkabout part of
-Backwoods
-Hollywood (Africa) part of
-Aeroplane
-Blood Sugar Sex Magik
-Pea
-Cornucopia tease
-Higher Ground
-My Lovely Man
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
-Nobody Weird Like Me
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Warped
+5. Stone Cold Bush
+6. If You Have to Ask
+7. Walkabout part of
+8. Backwoods
+9. Hollywood (Africa) part of
+10. Aeroplane
+11. Blood Sugar Sex Magik
+12. Pea
+13. Cornucopia tease
+14. Higher Ground
+15. My Lovely Man
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. The Power of Equality
+19. Nobody Weird Like Me
 
 ## Notes
 

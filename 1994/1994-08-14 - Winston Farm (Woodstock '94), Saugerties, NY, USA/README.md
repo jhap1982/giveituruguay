@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Warped
-Stone Cold Bush
-If You Have to Ask
-Organic Anti-Beat Box Band
-Aeroplane
-Blood Sugar Sex Magik
-Pea
-My Lovely Man
-Cornucopia tease
-Higher Ground
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Warped
+5. Stone Cold Bush
+6. If You Have to Ask
+7. Organic Anti-Beat Box Band
+8. Aeroplane
+9. Blood Sugar Sex Magik
+10. Pea
+11. My Lovely Man
+12. Cornucopia tease
+13. Higher Ground
+14. Under the Bridge
+15. Me and My Friends
+<br> ENCORE BREAK
+16. The Power of Equality
 
 ## Notes
 
