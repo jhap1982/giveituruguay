@@ -43,8 +43,12 @@
 * Chad Smith
 
 ### Additional Musicians:
+
 * Chris Warren
 
 ## Recordings
 
+* AUD #1 audience audio: Core Sound Binaurals > battery box > Sony MZ-RH10 Hi-MD(M) > FLAC recorded by SMAK
+
 ## Links
+

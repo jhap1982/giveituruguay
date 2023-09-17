@@ -1,6 +1,28 @@
 # Info
 
+## Setlist
+
+Intro Jam
+Around the World
+The Zephyr Song
+Snow ((Hey Oh))
+Here Ever After
+Hard to Concentrate
+I Like Dirt
+Reach Out
+Don't Forget Me
+Eddie
+Tippa My Tongue
+Californication
+Black Summer
+By the Way
+ENCORE BREAK
+I Could Have Lied
+Give It Away
+
 ## Notes
+
+**Other Acts**: Sylvan Esso, Lism Gallagher
 
 ## Media 
 
@@ -11,4 +33,10 @@
 * John Frusciante
 * Chad Smith
 
-# Recordings
+### Additional Musicians
+
+* Chris Warren
+
+## Recordings
+
+## Links

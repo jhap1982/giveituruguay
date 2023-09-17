@@ -26,7 +26,6 @@
 
 **Other Acts**: [Skip the Use](https://skiptheuse.fr)
 
-
 ## Media
 
 <details>

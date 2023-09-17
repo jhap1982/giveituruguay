@@ -1,6 +1,30 @@
 # Info
 
+## Setlist
+
+Intro Jam
+Can't Stop
+Universally Speaking
+Dani California
+Aquatic Mouth Dance
+If You Have to Ask
+Hardcore Jollies tease
+London Calling tease
+Right on Time
+Soul to Squeeze
+Reach Out
+Hard to Concentrate
+Carry Me Home
+Californication
+Black Summer
+By the Way
+ENCORE BREAK
+Under the Bridge
+Give It Away
+
 ## Notes
+
+**Other Acts**: Folkeklubben, Dean Lewis, Benjamin Hav & Familien
 
 ## Media 
 
@@ -11,4 +35,10 @@
 * John Frusciante
 * Chad Smith
 
-# Recordings
+### Additional Musicians
+
+* Chris Warren
+
+## Recordings
+
+## Links
