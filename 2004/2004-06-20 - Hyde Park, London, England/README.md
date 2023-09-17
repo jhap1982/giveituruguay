@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Around the World
-Maybe part of JOHN
-Scar Tissue
-By the Way
-Fortune Faded
-Otherside
-I Feel Love part of JOHN
-Easily
-Universally Speaking
-Get on Top
-Brandy (You're a Fine Girl)
-Don't Forget Me
-Purple Stain
-Rolling Sly Stone
-Californication
-Transmission tease
-Right on Time
-Parallel Universe
-ENCORE BREAK
-Jam
-Under the Bridge
-Black Cross
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Around the World
+4. Maybe part of JOHN
+5. Scar Tissue
+6. By the Way
+7. Fortune Faded
+8. Otherside
+9. I Feel Love part of JOHN
+10. Easily
+11. Universally Speaking
+12. Get on Top
+13. Brandy (You're a Fine Girl)
+14. Don't Forget Me
+15. Purple Stain
+16. Rolling Sly Stone
+17. Californication
+18. Transmission tease
+19. Right on Time
+20. Parallel Universe
+<br> ENCORE BREAK
+21. Jam
+22. Under the Bridge
+23. Black Cross
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 

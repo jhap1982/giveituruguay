@@ -2,15 +2,15 @@
 
 ## Setlist
 
-By the Way
-Lotta Love
-Otherside
-Road Trippin'
-Parallel Universe
-Desecration Smile
-Brandy (You're a Fine Girl)
-Under the Bridge
-They're Red Hot
+1. By the Way
+2. Lotta Love
+3. Otherside
+4. Road Trippin'
+5. Parallel Universe
+6. Desecration Smile
+7. Brandy (You're a Fine Girl)
+8. Under the Bridge
+9. They're Red Hot
 
 ## Notes
 

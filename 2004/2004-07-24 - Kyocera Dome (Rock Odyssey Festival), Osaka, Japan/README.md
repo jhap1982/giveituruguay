@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Around the World
-I Feel Love part of JOHN
-Scar Tissue
-By the Way
-Fortune Faded
-Otherside
-My Lovely Man
-The Zephyr Song
-Get on Top
-Brandy (You're a Fine Girl)
-Don't Forget Me
-Rolling Sly Stone
-Throw Away Your Television
-Don't You Ever Leave jam
-Californication
-Red Hot Mama part of
-Transmission tease
-Right on Time
-Parallel Universe
-ENCORE BREAK
-Jam
-Under the Bridge
-Black Cross
+1. Intro Jam
+2. Can't Stop
+3. Around the World
+4. I Feel Love part of JOHN
+5. Scar Tissue
+6. By the Way
+7. Fortune Faded
+8. Otherside
+9. My Lovely Man
+10. The Zephyr Song
+11. Get on Top
+12. Brandy (You're a Fine Girl)
+13. Don't Forget Me
+14. Rolling Sly Stone
+15. Throw Away Your Television
+16. Don't You Ever Leave jam
+17. Californication
+18. Red Hot Mama part of
+19. Transmission tease
+20. Right on Time
+21. Parallel Universe
+<br> ENCORE BREAK
+22. Jam
+23. Under the Bridge
+24. Black Cross
 
 ## Notes
 

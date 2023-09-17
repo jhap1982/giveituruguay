@@ -2,15 +2,15 @@
 
 ## Setlist
 
-By the Way
-Lotta Love
-Otherside
-I Just Want to Have Something to Do
-Road Trippin'
-Parallel Universe
-Brandy (You're a Fine Girl)
-Under the Bridge
-They're Red Hot
+1. By the Way
+2. Lotta Love
+3. Otherside
+4. I Just Want to Have Something to Do
+5. Road Trippin'
+6. Parallel Universe
+7. Brandy (You're a Fine Girl)
+8. Under the Bridge
+9. They're Red Hot
 
 ## Notes
 

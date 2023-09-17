@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Around the World
-Fear is a Man's Best Friend part of JOHN
-Scar Tissue
-By the Way
-Fortune Faded
-Otherside
-Emit Remmus
-Universally Speaking
-Get on Top
-Brandy (You're a Fine Girl)
-Don't Forget Me
-I Like Dirt
-Rolling Sly Stone
-Californication
-Transmission tease
-Right on Time
-Parallel Universe
-ENCORE BREAK
-Jam
-Under the Bridge
-Black Cross
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Around the World
+4. Fear is a Man's Best Friend part of JOHN
+5. Scar Tissue
+6. By the Way
+7. Fortune Faded
+8. Otherside
+9. Emit Remmus
+10. Universally Speaking
+11. Get on Top
+12. Brandy (You're a Fine Girl)
+13. Don't Forget Me
+14. I Like Dirt
+15. Rolling Sly Stone
+16. Californication
+17. Transmission tease
+18. Right on Time
+19. Parallel Universe
+<br> ENCORE BREAK
+20. Jam
+21. Under the Bridge
+22. Black Cross
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

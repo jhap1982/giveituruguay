@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Can't Stop
-Scar Tissue
-I Feel Love part of JOHN
-By the Way
-Fortune Faded
-The Zephyr Song
-Throw Away Your Television
-Don't You Ever Leave jam
-Get on Top
-Brandy (You're a Fine Girl)
-Parallel Universe
-Mini-Epic (Kill for Your Country)
-Californication
-Black Cross
-Give It Away
+1. Can't Stop
+2. Scar Tissue
+3. I Feel Love part of JOHN
+4. By the Way
+5. Fortune Faded
+6. The Zephyr Song
+7. Throw Away Your Television
+8. Don't You Ever Leave jam
+9. Get on Top
+10. Brandy (You're a Fine Girl)
+11. Parallel Universe
+12. Mini-Epic (Kill for Your Country)
+13. Californication
+14. Black Cross
+15. Give It Away
 
 ## Notes
 

@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Out in L.A.
-I Wanna Be Sedated
-Tiny Dancer part of JOHN
-Around the World
-Don't Forget Me
-I Could Have Lied
-SETLIST INCOMPLETE
+1. Out in L.A.
+2. I Wanna Be Sedated
+3. Tiny Dancer part of JOHN
+4. Around the World
+5. Don't Forget Me
+6. I Could Have Lied
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
