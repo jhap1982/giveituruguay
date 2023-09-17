@@ -2,9 +2,28 @@
 
 ## Setlist
 
+Grand Pappy du Plenty part of
+Give It Away
+Suck My Kiss
+Aeroplane
+Warped
+Walkabout
+Come as You Are tease
+Backwoods
+My Friends
+Coffee Shop
+Higher Ground
+Transcending
+One Big Mob
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Deep Kick
+Suffragette City
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Flaming Lips, Moby
 
 ## Media 
 
@@ -21,6 +40,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Rob Rule  
+* Rain Phoenix
 
 ## Recordings
 

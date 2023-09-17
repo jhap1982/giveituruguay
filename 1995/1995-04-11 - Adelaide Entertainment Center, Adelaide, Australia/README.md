@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+> As the band was confirmed to play the three Alternative Nation festival dates in April 1995 an Australia/New Zealand leg was planned around those dates. Eventually, the festival dates were cancelled and plans were scrapped.
 
 ## Media 
 
@@ -14,11 +14,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Dave Navarro
-* Chad Smith
 
 ### Additional Musicians
 

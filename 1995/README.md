@@ -15,6 +15,7 @@
 * 1995-10-04 - Brixton Academy, London, England
 * 1995-10-06 - Manchester Apollo, Manchester, England
 * 1995-10-08 - Forest National, Brussels, Belgium
+* 1995-10-09 - Alsterdorfer Sporthalle , Hamburg, Germany
 * 1995-10-11 - Deutschlandhalle, Berlin, Germany
 * 1995-10-12 - Sporthalle, Cologne, Germany
 * 1995-10-14 - Stockholm Globe Arena, Stockholm, Sweden

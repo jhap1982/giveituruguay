@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+**Support**: The Flaming Lips, Moby
 
 ## Media 
 
@@ -21,6 +21,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Rob Rule  
+* Rain Phoenix
 
 ## Recordings
 

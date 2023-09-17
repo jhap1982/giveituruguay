@@ -2,9 +2,12 @@
 
 ## Setlist
 
+1. Suck My Kiss
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
 
-**Other Acts**: -
+**Support**: The Flaming Lips, Moby
 
 ## Media 
 
@@ -22,7 +25,12 @@
 
 ### Additional Musicians
 
+* Rob Rule  
+* Rain Phoenix
+
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD Only features "Suck My Kiss".
 
 ## Links
 

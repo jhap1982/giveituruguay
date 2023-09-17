@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+> Cancelled show. Originally meant to be rescheduled due to Chad breaking his left wrist playing baseball.
 
 ## Media 
 
@@ -14,11 +14,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Dave Navarro
-* Chad Smith
 
 ### Additional Musicians
 

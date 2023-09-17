@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+> The band's appearance on the show was cancelled due Chad breaking his left wrist playing baseball and therefore postponing the US tour.
 
 ## Media 
 
@@ -14,11 +14,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Dave Navarro
-* Chad Smith
 
 ### Additional Musicians
 

@@ -2,9 +2,11 @@
 
 ## Setlist
 
+1. My Friends
+
 ## Notes
 
-**Other Acts**: -
+> Chad played with a broken arm.
 
 ## Media 
 
@@ -22,7 +24,12 @@
 
 ### Additional Musicians
 
+* Rob Rule  
+* Rain Phoenix
+
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD
 
 ## Links
 

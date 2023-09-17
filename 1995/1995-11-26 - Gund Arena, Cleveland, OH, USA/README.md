@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Other Acts**: -
+> Rescheduled to **March 12, 1996** due to Chad breaking his left wrist playing baseball.
 
 ## Media 
 
@@ -14,11 +14,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* Dave Navarro
-* Chad Smith
 
 ### Additional Musicians
 
