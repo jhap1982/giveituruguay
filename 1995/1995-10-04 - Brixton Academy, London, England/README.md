@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Aeroplane
-Warped
-Walkabout
-Funky Crime
-Shallow Be thy Game
-My Friends
-Sound and Vision part of
-Higher Ground
-Transcending
-Pea
-One Big Mob
-Stretch tease
-Under the Bridge
-Orange Claw Hammer part of FLEA
-Me and My Friends
-ENCORE BREAK
-Bela Lugosi's Dead tease
-Deep Kick
-Suffragette City
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Aeroplane
+5. Warped
+6. Walkabout
+7. Funky Crime
+8. Shallow Be thy Game
+9. My Friends
+10. Sound and Vision part of
+11. Higher Ground
+12. Transcending
+13. Pea
+14. One Big Mob
+15. Stretch tease
+16. Under the Bridge
+17. Orange Claw Hammer part of FLEA
+18. Me and My Friends
+<br>ENCORE BREAK
+19. Bela Lugosi's Dead tease
+20. Deep Kick
+21. Suffragette City
 
 ## Notes
 

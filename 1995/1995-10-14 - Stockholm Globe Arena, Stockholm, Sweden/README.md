@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-"Pippi Longstocking" Theme Song tease
-Aeroplane
-Warped
-Walkabout
-Come as You Are tease
-Backwoods
-My Friends
-Coffee Shop
-Sound and Vision part of
-Higher Ground
-Transcending
-Pea
-One Big Mob
-Under the Bridge
-ENCORE BREAK
-The Power of Equality
-Deep Kick
-Me and My Friends
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. "Pippi Longstocking" Theme Song tease
+5. Aeroplane
+6. Warped
+7. Walkabout
+8. Come as You Are tease
+9. Backwoods
+10. My Friends
+11. Coffee Shop
+12. Sound and Vision part of
+13. Higher Ground
+14. Transcending
+15. Pea
+16. One Big Mob
+17. Under the Bridge
+<br>ENCORE BREAK
+18. The Power of Equality
+19. Deep Kick
+20. Me and My Friends
 
 ## Notes
 
@@ -53,4 +53,3 @@ Me and My Friends
 * AMT #1 amateur video: built-in > unknown camera Hi8(M) > DVD recorded by unknown Missing "Give It Away" and "Suck My Kiss".
 
 ## Links
-

@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Aeroplane
-Warped
-Walkabout
-Come as You Are tease
-Backwoods
-My Friends
-Coffee Shop
-Higher Ground
-Transcending
-One Big Mob
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Suffragette City
+1. Grand Pappy du Plenty part of
+2. Give It Away
+3. Suck My Kiss
+4. Aeroplane
+5. Warped
+6. Walkabout
+7. Come as You Are tease
+8. Backwoods
+9. My Friends
+10. Coffee Shop
+11. Higher Ground
+12. Transcending
+13. One Big Mob
+14. Under the Bridge
+15. Me and My Friends
+<br>ENCORE BREAK
+16. Deep Kick
+17. Suffragette City
 
 ## Notes
 
@@ -47,4 +47,3 @@ Suffragette City
 ## Recordings
 
 ## Links
-

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Sunday Bloody Sunday tease
-Grand Pappy du Plenty part of
-Give It Away
-Suck My Kiss
-Aeroplane
-Warped
-Walkabout
-Backwoods
-My Friends
-Coffee Shop
-Transcending
-Pea
-One Big Mob
-Under the Bridge
-Me and My Friends
-Sound and Vision part of
-Higher Ground
-ENCORE BREAK
-Deep Kick
-Suffragette City
+1. Sunday Bloody Sunday tease
+2. Grand Pappy du Plenty part of
+3. Give It Away
+4. Suck My Kiss
+5. Aeroplane
+6. Warped
+7. Walkabout
+8. Backwoods
+9. My Friends
+10. Coffee Shop
+11. Transcending
+12. Pea
+13. One Big Mob
+14. Under the Bridge
+15. Me and My Friends
+16. Sound and Vision part of
+17. Higher Ground
+<br> ENCORE BREAK
+18. Deep Kick
+19. Suffragette City
 
 ## Notes
 
@@ -54,4 +54,3 @@ Suffragette City
 * AMT #1 amateur video: built-in > unknown camera VHS(1) > MP4 recorded by unknown There's no DVD transfer circulating of this recording.
 
 ## Links
-
