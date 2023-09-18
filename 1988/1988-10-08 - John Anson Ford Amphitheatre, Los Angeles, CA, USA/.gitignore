@@ -1,13 +1,5 @@
-temp
-**/*.torrent
 **/*.flac
-**/*.mp3
-**/*.wav
-**/*.vob
-**/*.mpg
-**/*.mkv
-**/*.mp4
 **/*.m4a
 **/*.webm
-**/*.log
+**/*.mp3
 /\[MISC\]
