@@ -5565,10 +5565,298 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
+                            <td>2017-01-05 - AT&T Center, San Antonio, TX, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][646 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-07 - Toyota Center, Houston, TX, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][624 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-08 - American Airlines Arena, Dallas, TX, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][580 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-10 - Smoothie King Center, New Orleands, LA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][683 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-12 - FedEx Forum, Memphis, TN, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][619 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-14 - Bank of Oklahoma Center, Tulsa, OK, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][588 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-16 - Intrust Bank Arena, Wichita, KS, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][636 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-18 - Scottrade Center, St. Louis, MO, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC][594 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-01-20 - Pinnacle Bank Arena, Lincoln, NE, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-01-21 - Target Center, Minneapolis, MN, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-02-02 - Joe Louis Arena, Detroit, MI, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-02-04 - Air Canada Centre, Toronto, Canada</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-02-07 - TD Garden, Boston, MA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-02-08 - TD Garden, Boston, MA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-10 - KeyBank Center, Buffalo, NY, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-12 - Wells Fargo Arena, Philadelphia, PA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-13 - Wells Fargo Arena, Philadelphia, PA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-15 - Madison Square Garden, New York City, NY, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-17 - Madison Square Garden, New York City, NY, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-02-18 - Madison Square Garden, New York City, NY, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-07 - Staples Center, Los Angeles, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-08 - Staples Center, Los Angeles, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-10 - Staples Center, Los Angeles, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-12 - Oracle Arena, Oakland, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-15 - Moda Center, Portland, OR, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-17 - Key Arena, Seattle, WA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-18 - Rogers Arena, Vancouver, Canada</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-03-21 - Valley View Casino Center, San Diego, CA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-12 - Verizon Center, Washington, D.C., USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-14 - Phillips Arena, Atlanta, GA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-15 - PNC Arena, Raleigh, NC, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-17 - Spectrum Center, Charlotte, NC, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-19 - Colonial Life Arena, Columbia, SC, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-22 - Verizon Arena, North Little Rock, AR, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2017-04-24 - Jacksonville Veterans Memorial Arena, Jacksonville, FL, USA</td>
-                            <td>[SBD #1][LiveChiliPeppers][MP3]</td>
+                            <td>[SBD #1][LiveChiliPeppers][FLAC]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-26 - Amway Center, Orlando, FL, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-27 - Amelie Arena, Tampa, FL, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-04-29 - AmericanAirlines Arena, Miami, FL, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-05-11 - PPG Paints Arena, Pittsburgh, PA, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2017-05-13 - Quicken Loans Arena, Cleveland, OH, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-05-14 - Value City Arena at Jerome Schottenstein Center, Columbus, OH, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2017-05-16 - KFC Yum! Center, Louisville, KY, USA</td>
+                            <td>
+                                [SBD #1][LiveChiliPeppers][FLAC]
+                            </td>
                         </tr>
 
                         <tr>
