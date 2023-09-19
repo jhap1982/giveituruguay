@@ -1,0 +1,6 @@
+Original AMT DVD download from http://seven1963.org/RHCPVideo.htm (https://web.archive.org/web/20160828035832/http://seven1963.org/RHCPVideo.htm)
+
+contains a MD5 file (1998-09-20-stockton AMT1.md5) that fails verification:
+
+
+file 'VIDEO_TS\VTS_01_3.VOB' failed verification (checksum does not match).
