@@ -1,0 +1,2 @@
+dvd from seven1963 with error / checksum:
+Line 12: file 'VIDEO_TS\VTS_01_3.VOB' failed verification (checksum does not match).
