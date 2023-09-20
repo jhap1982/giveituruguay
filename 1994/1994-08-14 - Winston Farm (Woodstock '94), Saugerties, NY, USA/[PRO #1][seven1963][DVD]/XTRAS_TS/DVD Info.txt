@@ -1,0 +1,43 @@
+Artist: Red Hot Chili Peppers
+Date: 	1994-08-14
+City: 	Saugerties, NY
+Country:USA
+Venue: 	Woodstock II Festival
+
+Grand Pappy Du Plenty
+Give It Away
+Suck My Kiss
+Warped
+Stone Cold Bush
+If You Have To Ask
+Organic Anti-Beat Box Band
+Aeroplane
+Blood Sugar Sex Magik
+Pea
+My Lovely Man
+Higher Ground
+Under The Bridge
+Me And My Friends
+
+ENCORE
+The Power Of Equality
+
+DVD is a straight rip from tv to dvd. No menu or tracking.
+
+Video Attributes:
+  Video compression mode: MPEG-2
+  TV system: 525/60 (NTSC)
+  Aspect Ratio: 4:3
+  Display Mode: Only Pan&scan
+  Source picture resolution: 720x480 (525/60)
+  Frame Rate: 30.00
+  Source picture letterboxed: Not letterboxed
+  Bitrate: variable
+
+Audio Attributes: 
+  Audio Coding mode: Dolby Digital
+  Sampling Rate: 48kHz
+  Audio application mode: Not specified
+  Number of Audio channels: 2
+  Bitrate: 256 Kbps
+  Number of Audio streams: 1
