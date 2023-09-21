@@ -3212,7 +3212,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][1080p][YT][MP4][1,04 GB] <br />
                                 [PRO #1][AVI][389 MB] <br />
-                                [PRO #1][DVD][1,36 GB]
+                                [PRO #1][DVD][1,36 GB] <br />
+                                [PRO #1b][seven1963][DVD][2,00 GB]
                             </td>
                         </tr>
 
@@ -3246,6 +3247,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-04-23 - Den Grå Hal, Copenhagen, Denmark</td>
                             <td>
                                 [PRO #1][DVD][1,00 GB] <br />
+                                [PRO #1][seven1963][DVD][1,00 GB] <br />
                                 [PRO #1][AVI][227 MB] <br ></br>
                                 [SBD #1][FLAC][324 MB] <br />
                                 [AUD #1][MP3][74,4 MB]
@@ -3264,7 +3266,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-04-26 - TV Total Studios (TV Total), Cologne, Germany</td>
                             <td>
-                                [PRO #1][TOTP+Tv Total][DVD][3,91 GB] <br />
+                                [PRO #1][TOTP-Ross-TVTotal][DVD][3,91 GB] <br />
                                 [PRO #1][MPG][52,7 MB]
                             </td>
                         </tr>
@@ -3282,6 +3284,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-05-06 - NBC Studio 8H at Rockefeller Center (Saturday Night Live), New York, NY, USA</td>
                             <td>
                                 [PRO #1][HDTV][1080i][TS][584 MB] <br />
+                                [PRO #1][seven1963][DVD][274 MB] <br />
                                 [PRO #1][SNL + Ross][DVD][1,23 GB] <br />
                                 [PRO #1][MPG][159 MB]
                             </td>
@@ -3648,6 +3651,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-12-11 - Stockholm Globe Arena, Stockholm, Sweden</td>
                             <td>
                                 [AUD #1][MP3][84,3 MB] <br />
+                                [AMT #1][seven1963][DVD] <br />
                                 [MIX #1][DVD][8,07 GB]
                             </td>
                         </tr>
@@ -3870,7 +3874,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][CTV][AVI][233 MB] <br />
                                 [PRO #1a][1080i][Take I Music][TS][2,65 GB] <br />
-                                [PRO #1][DVD][3,69 GB]
+                                [PRO #1b][seven1963][DVD][3,69 GB]
                             </td>
                         </tr>
 
@@ -4049,7 +4053,7 @@ const WhatIHave = ({ onBack }) => {
                                 [MIX #1][DVD][4,02 GB] <br />
                                 [PRO #1][BR][1,99 GB] <br />
                                 [PRO #1][720p][MKV][984 MB] <br />
-                                [PRO #1][1080i][MTS][1,99 GB] <br />
+                                [PRO #1][1080i][M2TS][1,99 GB] <br />
                                 [SBD #1][MP3][90,4 MB]
                             </td>
                         </tr>

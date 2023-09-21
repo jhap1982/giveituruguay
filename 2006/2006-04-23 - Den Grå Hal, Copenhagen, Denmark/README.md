@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Charlie
+Scar Tissue
+Around the World
+Snow ((Hey Oh))
+Bicycle Song tease
+Me and My Friends
+I Feel Love part of JOHN
+Dani California
+Don't Forget Me
+Tell Me Baby
+Otherside
+Torture Me
+I Could Have Lied
+Right on Time
+By the Way
+ENCORE BREAK
+Soul to Squeeze
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
 **Support**: -
@@ -27,5 +49,8 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > FLAC Broadcasted by Swedish "P3" radio. Missing "Snow ((Hey Oh))", "Me and My Friends", "I Feel Love", "Otherside", "By the Way" and "Soul to Squeeze".
+* PRO #1 professional video: soundboard > unknown TV > DVD Swedish TV broadcasted "Around the World", "I Feel Love", "Dani California", "Tell Me Baby", "Don't Forget Me" and "Give It Away".
 
 ## Links

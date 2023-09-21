@@ -2,9 +2,14 @@
 
 ## Setlist
 
-## Notes
+1. Desecration Smile
+2. Come Together tease
+3. Dani California
+4. Hey Joe tease
+5. Snow ((Hey Oh))
+6. C'mon Girl
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -27,5 +32,8 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1a professional video: soundboard > unknown HDTV > TS [1080i] Features "Dani California", "Desecration Smile" and "Snow ((Hey Oh))". 
+* PRO #1b professional video: soundboard > unknownHDTV > TS [1080i] The full performance was finally broadcasted in 2015. Unfortunately, short clips were uploaded to YouTube but the complete transfer is not circulating. **NOT CIRCULATING**
 
 ## Links

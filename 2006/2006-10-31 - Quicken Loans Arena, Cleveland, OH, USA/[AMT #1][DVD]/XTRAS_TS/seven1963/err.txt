@@ -1,0 +1,12 @@
+Line 01: file 'VIDEO_TS.BUP' does not exist or cannot be opened.
+Line 02: file 'VIDEO_TS.IFO' failed verification (checksum does not match).
+Line 03: file 'VIDEO_TS.VOB' verified ok (checksum matches).
+Line 04: file 'VTS_01_0.BUP' does not exist or cannot be opened.
+Line 05: file 'VTS_01_0.IFO' verified ok (checksum matches).
+Line 06: file 'VTS_01_1.VOB' verified ok (checksum matches).
+Line 07: file 'VTS_01_2.VOB' verified ok (checksum matches).
+Line 08: file 'VTS_01_3.VOB' verified ok (checksum matches).
+Line 09: file 'VTS_02_0.BUP' does not exist or cannot be opened.
+Line 10: file 'VTS_02_0.IFO' verified ok (checksum matches).
+Line 11: file 'VTS_02_1.VOB' verified ok (checksum matches).
+

@@ -2,6 +2,22 @@
 
 ## Setlist
 
+By the Way
+Dani California
+Charlie
+Runaway part of JOHN
+Scar Tissue
+Californication
+Tell Me Baby
+Desecration Smile
+Snow ((Hey Oh))
+Can't Stop
+ENCORE BREAK
+Nervous Breakdown tease
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
 **Support**: -
@@ -27,5 +43,8 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1a professional video: soundboard > unknown TV > DVD > MKV Features "Dani California", "Scar Tissue", "Tell Me Baby", "Snow ((Hey Oh))", "Under The Bridge" and "Give It Away". 
+* PRO #1b professional video: soundboard > unknown TV > DVD Features "By The Way", "Dani California", "Charlie", "Desecration Smile", "Californication", "Under The Bridge" and "Give It Away".
 
 ## Links
