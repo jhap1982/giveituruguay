@@ -1,0 +1,78 @@
+Red Hot Chili Peppers2011-10-08 
+Veltins Arena
+Gelsenkirchen, GermanyDie große TV total Stock Car Crash Challenge 2011
+ProSieben (Pro7) TV broadcast 2011-10-08
+
+This is from a German TV show with TV total presenter Stefan Raab as a race driver, therefore the title "Die große TV total Stock Car Crash Challenge 2011". Fortunately the Red Hot Chili Peppers made a side trip between two tour dates in Germany to perform at the Veltins Arena (or "auf Schalke" as the Germans would say) and they played three songs at two different points in the show, therefore there are two .ts files in the folder.
+
+
+Lineage: 
+Satellite Astra 19.2 E > DVB-S receiver Elgato > EyeTV > MPEG Streamclip > MPEG transport stream
+
+Here is some info, taken with MPEG Streamclip:
+
+1) Format: MPEG transport stream
+Duration: 0:05:01
+File size: 213.10 MB
+Overall bit rate: 5.93 Mbps
+
+Video
+Format: MPEG-2
+Resolution: 720 × 576 px
+Aspect ratio: 16:9 anamorphic
+Frame rate: 25 fps
+Format: PAL
+Bit rate: 15.00 Mbps
+Scan order: Top Field First
+
+Audio #1
+Format: MP2
+Channels: 2 (stereo)
+Sampling rate: 48 kHz
+Bit rate: 192 kbps
+
+Audio #2
+Format: AC3 (Audio Coding 3) 
+Channels: 2 (stereo)
+Sampling rate: 48 kHz
+Bit rate: 384 kbps
+
+2) Format: MPEG transport stream
+Duration: 0:11:01
+File size: 454.06 MB
+Overall bit rate: 5.76 Mbps
+
+Video
+Format: MPEG-2
+Resolution: 720 × 576 px
+Aspect ratio: 16:9 anamorphic
+Frame rate: 25 fps
+Format: PAL
+Bit rate: 15.00 Mbps
+Scan order: Top Field First
+
+Audio #1
+Format: MP2
+Channels: 2 (stereo)
+Sampling rate: 48 kHz
+Bit rate: 192 kbps
+
+Audio #2
+Format: AC3 (Audio Coding 3) 
+Channels: 2 (stereo)
+Sampling rate: 48 kHz
+Bit rate: 384 kbps
+
+* * * * * * * * * * * * * * * * * * * * * * *
+
+Setlist:01 Can't Stop02 Monarchy Of Roses
+03 The Adventures Of Rain Dance MaggieDuration: 16 min 02 sec
+
+Performing for you:
+Anthony Kiedis • vocals
+Flea • bass, backing vocals
+Chad Smith • drums
+Josh Klinghoffer • guitar, backing vocals
+Mauro Refosco • percussion
+
+Enjoy!
