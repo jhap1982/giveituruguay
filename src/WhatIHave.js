@@ -1987,6 +1987,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-06-08 - Lakewood Amphitheatre, Atlanta, GA, USA</td>
+                            <td>
+                                [SBD #1][MP3][181 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-06-15 - TD Waterhouse Centre, Orlando, FL, USA</td>
                             <td>
                                 [AUD #1][FLAC][558 MB]
@@ -3221,7 +3228,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-04-20 - La Cigale, Paris, France</td>
                             <td>
-                                [AUD #1][OGG][205 MB]
+                                [AUD #1][OGG][205 MB] <br />
+                                [PRO #1][seven1963][La Cigale + Taratata][DVD][4,08 GB]
                             </td>
                         </tr>
 

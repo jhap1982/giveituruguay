@@ -2,6 +2,13 @@
 
 ## Setlist
 
+1. You're Gonna Get Yours tease
+2. Give It Away
+3. Dani California
+4. Tell Me Baby
+5. Can't Stop
+6. Havana Affair
+
 ## Notes
 
 **Support**: -
@@ -27,5 +34,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > DVD
 
 ## Links
