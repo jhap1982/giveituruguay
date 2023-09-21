@@ -2,23 +2,23 @@
 
 ## Setlist
 
-By the Way
-Scar Tissue
-Give It Away
-Universally Speaking
-Otherside
-Dig a Pony tease
-I Could Die for You
-Havana Affair
-You Always Sing the Same
-I Could Have Lied
-Fox on the Run part of JOHN
-Don't Forget Me
-Right on Time
-ENCORE BREAK
-Californication
-Search and Destroy
-Outro Jam
+1. By the Way
+2. Scar Tissue
+3. Give It Away
+4. Universally Speaking
+5. Otherside
+6. Dig a Pony tease
+7. I Could Die for You
+8. Havana Affair
+9. You Always Sing the Same
+10. I Could Have Lied
+11. Fox on the Run part of JOHN
+12. Don't Forget Me
+13. Right on Time
+<br> ENCORE BREAK
+14. Californication
+15. Search and Destroy
+16. Outro Jam
 
 ## Notes
 
