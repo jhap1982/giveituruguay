@@ -46,5 +46,5 @@ The Power of Equality
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder ? > MP3 Missing "Organic Anti-Beat Box Band ".
-* AMT #1 amateur videobuilt-in > unknown camera VHS(x) > DVD recorded by unknown Missing "Around The World", the first half of "Give It Away", "Otherside" and "Right On Time".
+* AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown Missing "Around The World", the first half of "Give It Away", "Otherside" and "Right On Time".
 * PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD Broadcasted by Chilean TV network "Via X". Includes "Around The World", "Give It Away" and "Scar Tissue".
