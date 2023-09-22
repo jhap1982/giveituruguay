@@ -2140,7 +2140,8 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][Jumbotron Cartoon][MP4][32,0 MB] <br />
                                 [PRO #1][MPG][41,4 MB] <br />
                                 [PRO #1][MTV BR][MP4][38,7 MB] <br />
-                                [PRO #1][MTV][VMA Performances][DVD][4,35 GB]
+                                [PRO #1][MTV][VMA Performances][DVD][4,35 GB] <br />
+                                [PRO #1][MTV][VMA Performances][MPG][141 MB]
                             </td>
                         </tr>
 
