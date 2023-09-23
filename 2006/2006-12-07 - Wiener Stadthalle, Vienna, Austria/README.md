@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Desecration Smile
-Parallel Universe
-Snow ((Hey Oh))
-Blue Sunday JOHN
-21st Century
-Blood Sugar Sex Magik
-Show of Strength tease
-Me and My Friends
-Don't Forget Me
-C'mon Girl
-Californication
-ENCORE BREAK
-I'm Eighteen part of JOHN
-Soul to Squeeze
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2 .Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Desecration Smile
+8. Parallel Universe
+9. Snow ((Hey Oh))
+10. Blue Sunday JOHN
+11. 21st Century
+12. Blood Sugar Sex Magik
+13. Show of Strength tease
+14. Me and My Friends
+15. Don't Forget Me
+16. C'mon Girl
+17. Californication
+<br> ENCORE BREAK
+18. I'm Eighteen part of JOHN
+19. Soul to Squeeze
+20. Sir Psycho Sexy
+21. They're Red Hot
 
 ## Notes
 

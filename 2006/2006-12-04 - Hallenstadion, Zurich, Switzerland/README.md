@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Desecration Smile
+Blood Sugar Sex Magik
+Show of Strength tease
+How Can I Tell You JOHN
+Snow ((Hey Oh))
+Don't Forget Me
+Hump de Bump
+London Calling tease
+Right on Time
+C'mon Girl
+Californication
+Tiny Dancer part of JOHN
+By the Way
+ENCORE BREAK
+I Could Have Lied
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
-**Support**: -
+**Support**: Mike Watt and the Missingmen
 
 ## Media 
 
@@ -25,6 +49,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings / Footage
 
