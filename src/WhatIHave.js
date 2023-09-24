@@ -6685,6 +6685,15 @@ const WhatIHave = ({ onBack }) => {
                             <td>2023-07-23 - Hampden Park, Glasgow, Scotland</td>
                             <td>[AUD #1][FLAC][392 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2023-09-23 - Central Park (Global Citizen Festival), New York City, NY, USA</td>
+                            <td>
+                                <span title='live YT streaming captured by jhap1982'>
+                                    [PRO #1][YT][1080p][MP4][1,09 GB]
+                                </span>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
