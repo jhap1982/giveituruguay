@@ -1,0 +1,55 @@
+Rutracker info:
+
+Red Hot Chili Peppers - Live Bizarre Festival, Koln Germany (20.08.1999)
+
+picYear of release : 1999
+Genre : Rock
+Duration : 01:09:20
+
+Cast : Anthony Kiedis - Vocals
+John Frusciante - guitar
+Michael Balzary (Flea) - Bass guitar
+Chad Smith - drums
+
+Description : Concert in Cologne
+Tracklist
+01. Introduction
+02. Around The World
+03. Give It Away
+04. Scar Tissue
+05. Suck My Kiss
+06. Soul To Squeeze
+07. I Like Dirt
+08. If You Have To Ask
+09. Organic Anti-Beat Box Band
+10. My Lovely Man >
+11. Right On Time
+12. Under The Bridge
+13. Me And My Friends
+Encores:
+14. Yertle The Turtle >
+15. Freaky Styley Medley >
+16. Cosmic Slop
+[collapse]
+Additional information :
+
+Quality : DVD5
+Format : DVD Video
+Video codec : MPEG2
+Audio codec : PCM
+Video : 6890 Kbps (7200 Kbps), 720*576 (4:3), at 25,000 fps, MPEG Video (PAL) (Version 2) (Main@Main )
+Audio : 1536 Kbps, 48.0 KHz, 2 channels, PCM (DVD-Video) (Big / Signed)
+DVDinfo
+Size: 4.34 Gb ( 4 546 164 KBytes ) - DVD-5
+Enabled regions: 1, 2, 3, 4, 5, 6, 7, 8
+
+VTS_01 :
+Play Length: 01:09:20
+Video: PAL 4:3 (720x576) VBR
+Audio:
+English (LinearPCM, 2 ch)
+
+Menu Video:
+PAL 4:3 (704x576) VBR
+Menu English Language Unit :
+Root Menu
