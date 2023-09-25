@@ -1889,7 +1889,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-01-30 - RAS Showgrounds (Big Day Out Festival), Melbourne, Australia</td>
                             <td>
-                                [SBD #1][FM][FLAC][328 MB]
+                                [SBD #1][FM][FLAC][328 MB] <br />
+                                [PRO #1][Big Day Out 2000][MKV][1,45 GB]
                             </td>
                         </tr>
 
