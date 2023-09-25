@@ -3392,7 +3392,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][DVD][497 MB] <br />
+                                [PRO #1][ShortVer][DVD][497 MB] <br />
                                 [PRO #1][YT][MP4][1,40 GB]
                             </td>
                         </tr>
