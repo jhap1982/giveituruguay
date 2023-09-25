@@ -6693,6 +6693,10 @@ const WhatIHave = ({ onBack }) => {
                                 <span title='live YT streaming captured by jhap1982'>
                                     [PRO #1][YT][1080p][MP4][1,09 GB]
                                 </span>
+                                <br />
+                                <span>
+                                    [PRO #1][YT][Global Citizen Festival Full][1080p][MP4][8,59 GB]
+                                </span>
                             </td>
                         </tr>
                     </tbody>
