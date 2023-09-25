@@ -3233,6 +3233,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-04-20 - La Cigale, Paris, France</td>
                             <td>
                                 [AUD #1][OGG][205 MB] <br />
+                                [PRO #1][MCM][DVD][3,16 GB] <br />
                                 [PRO #1][seven1963][La Cigale + Taratata][DVD][4,08 GB]
                             </td>
                         </tr>
@@ -3278,6 +3279,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-04-29 - Alcatraz, Milan, Italy</td>
                             <td>
                                 [PRO #1][1080p][BDMV][11,3 GB] <br />
+                                [PRO #1][DVD][2,58 GB]
                                 [PRO #1][MHD][DVD][2,88 GB] <br />
                                 [PRO #1][TMF][AVI][350 MB]
                             </td>
