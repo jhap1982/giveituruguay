@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Charlie
-Scar Tissue
-Around the World
-Snow ((Hey Oh))
-Bicycle Song tease
-Me and My Friends
-I Feel Love part of JOHN
-Dani California
-Don't Forget Me
-Tell Me Baby
-Otherside
-Torture Me
-I Could Have Lied
-Right on Time
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Charlie
+4. Scar Tissue
+5. Around the World
+6. Snow ((Hey Oh))
+7. Bicycle Song tease
+8. Me and My Friends
+9. I Feel Love part of JOHN
+10. Dani California
+11. Don't Forget Me
+12. Tell Me Baby
+13. Otherside
+14. Torture Me
+15. I Could Have Lied
+16. Right on Time
+17. By the Way
+<br> ENCORE BREAK
+18. Soul to Squeeze
+19. You're Gonna Get Yours tease
+20. Give It Away
 
 ## Notes
 

@@ -2,9 +2,12 @@
 
 ## Setlist
 
+1. Californication
+2. Under the Bridge
+
 ## Notes
 
-**Support**: -
+> Acoustic performance for the 48th Annual Grammy Awards-Salute to Industry Icons.
 
 ## Media 
 

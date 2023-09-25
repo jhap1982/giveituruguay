@@ -2,9 +2,13 @@
 
 ## Setlist
 
+1. Dani California
+2. Give It Away
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
 
-**Support**: -
+> It's unknown how many/if more songs were played on this performance.
 
 ## Media 
 

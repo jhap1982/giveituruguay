@@ -2,6 +2,12 @@
 
 ## Setlist
 
+1. Dani California
+2. Scar Tissue
+3. Tell Me Baby
+4. Desecration Smile
+5. Californication
+
 ## Notes
 
 **Support**: -
@@ -27,5 +33,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown WEB > MOV
 
 ## Links

@@ -3344,6 +3344,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-06-02 - Palacio de Deportes de la Comunidad, Madrid, Spain</td>
                             <td>
+                                [AUD #1][FLAC][690 MB] <br />
                                 [AUD #3][MP3][123 MB]
                             </td>
                         </tr>

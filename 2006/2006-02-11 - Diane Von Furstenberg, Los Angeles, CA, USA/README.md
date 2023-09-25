@@ -2,9 +2,15 @@
 
 ## Setlist
 
+1. Desecration Smile
+2. By the Way
+3. Dani California
+4. Under the Bridge
+5. Wet Sand
+
 ## Notes
 
-**Support**: -
+> Acoustic performance at the Silverlake Conservatory of Music fundraising gala. Chad didn't play at this show because he had a drum clinic.
 
 ## Media 
 
@@ -27,5 +33,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* AUD #1 audience audio: unknown mic > unknown recorder MP3 recorded by unknown It was recorded in mp3, therefore no lossless transfer exists.
 
 ## Links

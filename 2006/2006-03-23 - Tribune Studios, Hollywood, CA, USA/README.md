@@ -4,7 +4,7 @@
 
 ## Notes
 
-**Support**: -
+> This studio performance had to cancelled at last minute when John Frusciante's eye got infected with conjuntivitis and started swelling up. The other three members stuck around for an interview.
 
 ## Media 
 
@@ -18,11 +18,6 @@
 </details>
 
 ## Line Up
-
-* Anthony Kiedis
-* Flea
-* John Frusciante
-* Chad Smith
 
 ### Additional Musicians
 

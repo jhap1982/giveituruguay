@@ -2,6 +2,13 @@
 
 ## Setlist
 
+1. Can't Stop
+2. Dani California
+3. Around the World
+4. Charlie
+5. Under the Bridge
+6. Tell Me Baby
+
 ## Notes
 
 **Support**: -
@@ -27,5 +34,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown iTunes Store > MP4
 
 ## Links

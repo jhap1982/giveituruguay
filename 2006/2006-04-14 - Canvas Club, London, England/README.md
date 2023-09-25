@@ -2,28 +2,27 @@
 
 ## Setlist
 
-Setlist
-Intro Jam
-Can't Stop
-Charlie
-Scar Tissue
-Throw Away Your Television
-Don't You Ever Leave jam
-Dani California
-Me and My Friends
-Snow ((Hey Oh))
-Otherside
-21st Century
-For Emily, Whenever I May Find Her JOHN
-Don't Forget Me
-Tell Me Baby
-Right on Time
-Hard to Concentrate
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Charlie
+4. Scar Tissue
+5. Throw Away Your Television
+6. Don't You Ever Leave jam
+7. Dani California
+8. Me and My Friends
+9. Snow ((Hey Oh))
+10. Otherside
+11. 21st Century
+12. For Emily, Whenever I May Find Her JOHN
+13. Don't Forget Me
+14. Tell Me Baby
+15. Right on Time
+16. Hard to Concentrate
+17. By the Way
+<br> ENCORE BREAK
+18. Soul to Squeeze
+19. You're Gonna Get Yours tease
+20. Give It Away
 
 ## Notes
 

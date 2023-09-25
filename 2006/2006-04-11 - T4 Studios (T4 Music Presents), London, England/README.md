@@ -2,6 +2,12 @@
 
 ## Setlist
 
+1. Tell Me Baby
+2. Charlie
+3. Dani California
+4. Desecration Smile
+5. Under the Bridge
+
 ## Notes
 
 **Support**: -
@@ -27,5 +33,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > DVD
 
 ## Links

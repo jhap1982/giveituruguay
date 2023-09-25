@@ -2,9 +2,10 @@
 
 ## Setlist
 
-## Notes
+1. Dani California
+2. Give It Away
 
-**Support**: -
+## Notes
 
 ## Media 
 
@@ -27,5 +28,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown TV > DVD > MKV
 
 ## Links

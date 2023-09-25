@@ -2,21 +2,21 @@
 
 ## Setlist
 
-By the Way
-Dani California
-Charlie
-Runaway part of JOHN
-Scar Tissue
-Californication
-Tell Me Baby
-Desecration Smile
-Snow ((Hey Oh))
-Can't Stop
-ENCORE BREAK
-Nervous Breakdown tease
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
+1. By the Way
+2. Dani California
+3. Charlie
+4. Runaway part of JOHN
+5. Scar Tissue
+6. Californication
+7. Tell Me Baby
+8. Desecration Smile
+9. Snow ((Hey Oh))
+10. Can't Stop
+<br> ENCORE BREAK
+11. Nervous Breakdown tease
+12. Under the Bridge
+13. You're Gonna Get Yours tease
+14. Give It Away
 
 ## Notes
 
