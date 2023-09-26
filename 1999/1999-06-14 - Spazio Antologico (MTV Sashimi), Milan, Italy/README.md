@@ -46,6 +46,6 @@ The Power of Equality
 
 ## Recordings
 
-* SBD #1 soundboard audio: soundboard > unknown recorder "Around The World" CD > FLAC"Yertle The Turtle", "Freaky Styley" and part of "Cosmic Slop" were released as "Yertle Trilogy" on the second "Around The World" CD single.
+* SBD #1 soundboard audio: soundboard > unknown recorder "Around The World" CD > FLAC "Yertle The Turtle", "Freaky Styley" and part of "Cosmic Slop" were released as "Yertle Trilogy" on the second "Around The World" CD single.
 * PRO #1a professional video: soundboard > unknown TV > VHS(x) > VCD > DVD Broadcasted by MTV, missing "I Could Have Lied", "Californication" and "Easily". Transfer in circulation is sourced from a VCD.
 * PRO #1b professional video: soundboard > unknown TV > VHS(x) > DVD About 30 minutes long.

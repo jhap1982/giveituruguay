@@ -3665,8 +3665,15 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-12-11 - Stockholm Globe Arena, Stockholm, Sweden</td>
                             <td>
                                 [AUD #1][MP3][84,3 MB] <br />
-                                [AMT #1][seven1963][DVD] <br />
+                                [AMT #1][seven1963][DVD][2,50 GB] <br />
                                 [MIX #1][DVD][8,07 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-12-12 - Stockholm Globe Arena, Stockholm, Sweden</td>
+                            <td>
+                                [AMT #1][WMV][978 MB]
                             </td>
                         </tr>
                     </tbody>
