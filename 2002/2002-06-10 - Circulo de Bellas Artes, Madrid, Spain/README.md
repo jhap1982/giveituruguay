@@ -2,24 +2,24 @@
 
 ## Setlist
 
-By the Way
-Scar Tissue
-Can't Stop
-Otherside
-Universally Speaking
-Epic Problem part of JOHN
-Give It Away
-Fox on the Run part of JOHN
-Dig a Pony tease
-I Could Die for You
-Throw Away Your Television
-I Could Have Lied
-You Always Sing the Same
-Don't Forget Me
-Right on Time
-ENCORE BREAK
-Californication
-The Power of Equality
+1. By the Way
+2. Scar Tissue
+3. Can't Stop
+4. Otherside
+5. Universally Speaking
+6. Epic Problem part of JOHN
+7. Give It Away
+8. Fox on the Run part of JOHN
+9. Dig a Pony tease
+10. I Could Die for You
+11. Throw Away Your Television
+12. I Could Have Lied
+13. You Always Sing the Same
+14. Don't Forget Me
+15. Right on Time
+<br> ENCORE BREAK
+16. Californication
+17. The Power of Equality
 
 ## Notes
 

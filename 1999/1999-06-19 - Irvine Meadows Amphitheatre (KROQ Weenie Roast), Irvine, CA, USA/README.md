@@ -2,18 +2,18 @@
 
 ## Setlist
 
-Emit Remmus
-Give It Away
-Scar Tissue
-If You Have to Ask
-Around the World
-Soul to Squeeze
-Suck My Kiss
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Emit Remmus
+2. Give It Away
+3. Scar Tissue
+4. If You Have to Ask
+5. Around the World
+6. Soul to Squeeze
+7. Suck My Kiss
+8. Right on Time
+9. Under the Bridge
+10. Me and My Friends
+<br> ENCORE BREAK
+11. The Power of Equality
 
 ## Notes
 

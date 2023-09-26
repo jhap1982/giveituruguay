@@ -52,7 +52,7 @@
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ? > FLACrecorded by Rozy
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by Rozy
 * AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by Rozy 
 * PRO #1 professional video: soundboard > unknown TV > DVD An hour was broadcasted on Japanese TV.
 

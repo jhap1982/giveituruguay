@@ -3385,10 +3385,17 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2006-06-14 - Sazka Arena, Prague, Czech Republic</td>
+                            <td>
+                                [AMT #1][DVD][3,84 GB] <br />
+                                [AUD #2][MP3][566 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2006-06-15 - Parkbühne Wuhlheide, Berlin, Germany</td>
                             <td>
-                                [AMT #1][DVD][2,45 GB] <br />
-                                [AUD #2][FLAC][653 MB]
+                                [AMT #1][seven1963][AVI][700 MB]
                             </td>
                         </tr>
 
