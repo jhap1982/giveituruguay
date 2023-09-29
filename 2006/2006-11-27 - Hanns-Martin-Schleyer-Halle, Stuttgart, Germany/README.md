@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-21st Century
-Blood Sugar Sex Magik
-Show of Strength tease
-Songbird JOHN
-Snow ((Hey Oh))
-C'mon Girl
-Higher Ground
-Tell Me Baby
-Don't Forget Me
-London Calling tease
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Songbird JOHN
+11. Snow ((Hey Oh))
+12. C'mon Girl
+13. Higher Ground
+14. Tell Me Baby
+15. Don't Forget Me
+16. London Calling tease
+17. Right on Time
+18. Californication
+19. By the Way
+<br>ENCORE BREAK
+20. Under the Bridge
+21. You're Gonna Get Yours tease
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
