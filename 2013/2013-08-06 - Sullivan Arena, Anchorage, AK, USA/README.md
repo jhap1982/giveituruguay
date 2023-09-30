@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Scar Tissue
-Factory of Faith
-Can't Stop
-Throw Away Your Television
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Parallel Universe
-Under the Bridge
-Ethiopia
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-I Could Have Lied
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Factory of Faith
+5. Can't Stop
+6. Throw Away Your Television
+7. Snow ((Hey Oh))
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Parallel Universe
+11. Under the Bridge
+12. Ethiopia
+13 .Suck My Kiss
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. I Could Have Lied
+20. Give It Away
 
 ## Notes
 

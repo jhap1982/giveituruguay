@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Look Around
-Otherside
-Throw Away Your Television
-Can't Stop
-The Adventures of Rain Dance Maggie
-Breaking the Girl
-Me and My Friends
-(We Don't Need This) Fascist Groove Thang
-Ethiopia
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-Hard to Concentrate
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Look Around
+5. Otherside
+6. Throw Away Your Television
+7. Can't Stop
+8. The Adventures of Rain Dance Maggie
+9. Breaking the Girl
+10. Me and My Friends
+11. (We Don't Need This) Fascist Groove Thang
+12. Ethiopia
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. The Power of Equality
+19. Hard to Concentrate
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

@@ -1,0 +1,67 @@
+Red Hot Chili Peppers - I'm With You Tour
+November 17th, 2012 (Saturday)
+Rogers Arena
+Vancouver, British Columbia, Canada
+
+Stereo Matrix / 16 Bit 44.1 kHz / Audience 
+
+Taper:  Seth Meister
+Source 1:  CA-14 cards > CA-9100 > Zoom H4n XLR inputs (I) @ 24/48
+Source 2:  CA-11 omnis > CA-UGLY > Zoom H4n 1/8" input (M) @ 24/48
+Transfer:  PC via USB > iZotope RX9 > Wavepad Masters Edition > TLH FLAC8
+
+Setlist:  1:56:00
+00 intro
+01 Monarchy of Roses 
+02 Around the World 
+03 Snow ((Hey Oh)) 
+04 Scar Tissue 
+05 Can't Stop 
+06 Hey 
+07 Throw Away Your Television 
+08 She's Only 18 
+09 The Adventures of Rain Dance Maggie 
+10 Charlie 
+11 Did I Let You Know (with Chad from Rebirth Brass Band on trumpet)
+12 Under the Bridge 
+13 Look Around 
+14 Californication 
+15 By the Way
+16 encore
+17 Chad & Mauro & Josh Jam 
+18 Suck My Kiss 
+19 Soul to Squeeze 
+20 Give It Away 
+21 Final Jam 
+
+Taper notes:  
+Great show.  Full house.  Crowd went wild.  Guy to my left and girl one seat left of him sang, talked and yelled a bit but nothing outrageous.  
+
+I missed being able to record the opening band, Rebirth Brass Band due to the fact that they appeared to be trying a new "paperless ticket" at the door and it really, really slowed things down.  I did catch several of their songs and they were great!
+
+Mastering notes:
+A few snap-crackle-pops removed in post due to a microphone cable, as well as the most annoying claps from Seth's neighbour. 
+
+fingerprints:
+RHCP2012-11-17t00 - intro.flac:b4c3d644e9f51d82ca150d359e275284
+RHCP2012-11-17t01 - Monarchy of Roses.flac:9030d883dd1c1189a393d31f03732e96
+RHCP2012-11-17t02 - Around the World.flac:12d2f661048b17b135e2ef0e44188403
+RHCP2012-11-17t03 - Snow.flac:042d1827196e3b3da00820793bd6e976
+RHCP2012-11-17t04 - Scar Tissue.flac:dd59e341e9b5b26229128d4d14ba9417
+RHCP2012-11-17t05 - Can't Stop.flac:2ab54f2de6e20d136c8cf8744964ead9
+RHCP2012-11-17t06 - Hey.flac:08c7865528e7f6a5b4251587e880cc2b
+RHCP2012-11-17t07 - Throw Away Your TV.flac:cf2dc205bf8fcbe04a6703a6f3bf9424
+RHCP2012-11-17t08 - She's Only 18.flac:416ec03e22b168b4dc071e3e4feda437
+RHCP2012-11-17t09 - Adventures of Rain Dance Maggie.flac:f2ef5670df02af00403be93c03b2b636
+RHCP2012-11-17t10 - Charlie.flac:3dbf624a740a94be26e3e913c76b44d7
+RHCP2012-11-17t11 - Did I Let You Know.flac:00b5b0ce5b39f6d78cffb45140a487cf
+RHCP2012-11-17t12 - Under the Bridge.flac:acccf380383275595f8172c65041cea5
+RHCP2012-11-17t13 - Look Around.flac:8ef4f7847f3f47e464be62b6b20dc94f
+RHCP2012-11-17t14 - Californication.flac:f6eb0d96235442793ef5fa925ccf7505
+RHCP2012-11-17t15 - By the Way.flac:b6424a4740021cd305f097866fbceed9
+RHCP2012-11-17t16 - encore.flac:81c2340e6656f28432d042d726cde831
+RHCP2012-11-17t17 - Jam.flac:1ca4b727cb2d694ab401044f3b3eaa3e
+RHCP2012-11-17t18 - Suck My Kiss.flac:f29b383eda2edda6a3a11258fdd17981
+RHCP2012-11-17t19 - Soul to Squeeze.flac:f91ac3cf02b802574ec9727f6a3599bc
+RHCP2012-11-17t20 - Give It Away.flac:9f1ba672554dbe0b15106d2cce9d519d
+RHCP2012-11-17t21 - Jam.flac:117125431cce5b72b8e4e82c46041545

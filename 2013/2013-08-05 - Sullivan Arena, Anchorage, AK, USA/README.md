@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Can't Stop
-Look Around
-She's Only 18
-Brave from Afar tease
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Right on Time
-Universally Speaking
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Can't Stop
+5. Look Around
+6. She's Only 18
+7. Brave from Afar tease
+8. Snow ((Hey Oh))
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Universally Speaking
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br>ENCORE BREAK
+17. Jam
+18. Around the World
+19. Soul to Squeeze
+20. Give It Away
 
 ## Notes
 

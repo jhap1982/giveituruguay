@@ -53,4 +53,3 @@
 
 * SBD #1 soundboard audio: soundboard > unknown FM > FLAC Broadcasted by "Studio Brussel".  
 * PRO #1 professional video: soundboard > unknown WEB > TS [720p] Sourced from the festival's official webstream.
-

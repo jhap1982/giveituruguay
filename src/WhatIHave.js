@@ -4021,7 +4021,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2011-08-30 - E-Werk, Cologne, Germany</td>
                             <td>
                                 [PRO #1][DVD][4,04 GB] <br />
-                                [PRO #1][1080i][TS][12,3 GB]
+                                [PRO #1][1080i][TS][12,3 GB] <br />
+                                [SBD #3][FLAC][526 MB]
                             </td>
                         </tr>
 
@@ -4166,7 +4167,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2011-11-14 - Manchester Evening News Arena, Manchester, England</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC][789 MB]
+                                [SBD #1][LiveChiliPeppers][FLAC][789 MB] <br />
+                                [AUD #1][FLAC][676 MB]
                             </td>
                         </tr>
 
@@ -4846,7 +4848,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2012-11-17 - Rogers Arena, Vancouver, Canada</td>
                             <td>
-                                [SBD #1][LiveChiliPeppers][FLAC][756 MB]
+                                [SBD #1][LiveChiliPeppers][FLAC][756 MB] <br />
+                                [AUD #1][FLAC][606 MB]
                             </td>
                         </tr>
 
@@ -5255,7 +5258,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2016-07-02 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
-                                [PRO #1][720p][TS][1,10 GB]
+                                [PRO #1][720p][TS][1,10 GB] <br />
+                                [SBD #1][FLAC][602 MB]
                             </td>
                         </tr>
 
@@ -5324,7 +5328,8 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][YT][Set1][MP4][1,35 GB] <br />
                                 [PRO #1][YT][Set2][MP4][1,30 GB] <br />
                                 [PRO #2][360 VR][MP4][525 MB] <br />
-                                [SBD #1][FLAC][557 MB]
+                                [SBD #1][FLAC][557 MB] <br />
+                                [SBD #2][FLAC][217 MB]
                             </td>
                         </tr>
 

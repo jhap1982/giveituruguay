@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Can't Stop
-Hey
-Throw Away Your Television
-Encore jam
-She's Only 18
-The Adventures of Rain Dance Maggie
-Charlie
-Did I Let You Know
-Under the Bridge
-Look Around
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Can't Stop
+6. Hey
+7. Throw Away Your Television
+8. Encore jam
+9. She's Only 18
+10. The Adventures of Rain Dance Maggie
+11. Charlie
+12. Did I Let You Know
+13. Under the Bridge
+14. Look Around
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Soul to Squeeze
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
