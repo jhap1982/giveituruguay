@@ -71,6 +71,7 @@ const RepoList = ({ directories }) => {
                             <a target="_blank" rel="noopener noreferrer" href="http://theside.free.fr">[The Side Tour Story]</a>
                             <a target="_blank" rel="noopener noreferrer" href="https://www.rhcplivearchive.com">[Red Hot Live Archive]</a>
                             <a target="_blank" rel="noopener noreferrer" href="https://vk.com/rhrsandse">[Rhrsandse]</a>
+                            <a target="_blank" rel="noopener noreferrer" href="http://www.rhcplive.com">[RHCPLive]</a>
                             <a target="_blank" rel="noopener noreferrer" href="https://www.rhcpfrance.com">[RHCP France]</a>
                             <a target="_blank" rel="noopener noreferrer" href="https://www.rhcpsessions.com">[RHCP Sessions]</a>
                             <a target="_blank" rel="noopener noreferrer" href="https://www.redhotchilipeppers.com.br">[RHCP Brazil]</a>
