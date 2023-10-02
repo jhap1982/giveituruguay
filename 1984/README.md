@@ -52,6 +52,7 @@
 * 1984-10-12 - Heritage Room at University of California at Irivine, Irvine, CA, USA
 * 1984-10-13 - Casa De La Raza, Santa Barbara, CA, USA
 * 1984-10-14 - Rodeo, San Diego, CA, USA
+* 1984-10-20 - Student Union at University of Nevada Las Vegas, Las Vegas, NV, USA
 * 1984-10-22 - The Maxim, Murray, UT, USA
 * 1984-11-00 - Love Hall, Philadelphia, PA, USA
 * 1984-11-00 - The Metro, Cincinnati, OH, USA
