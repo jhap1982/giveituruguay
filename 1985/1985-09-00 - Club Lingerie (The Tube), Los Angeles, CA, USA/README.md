@@ -29,7 +29,6 @@
 
 ## Recordings
 
-PRO #1
-professional videosoundboard > unknownTV > VHS(x)Only seen in the official "Jungle Man" video. Full recording has never surfaced. NOT CIRCULATING
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) Only seen in the official "Jungle Man" video. Full recording has never surfaced. **NOT CIRCULATING**
 
 ## Links

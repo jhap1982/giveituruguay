@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Out in L.A.
-Buckle Down
-Thirty Dirty Birds
-American Ghost Dance
-Sex Rap tease
-Blackeyed Blonde
-Green Heaven
-Police Helicopter
-Hollywood (Africa)
-Catholic School Girls Rule
-Jungle Man
-True Men Don't Kill Coyotes
-Get Up and Jump
-Nevermind
-ENCORE BREAK
-Freaky Styley
-Fire
-ENCORE BREAK
-You Always Sing the Same
-Walkin' on Down the Road jam
-Organic Anti-Beat Box Band jam
+1. Out in L.A.
+2. Buckle Down
+3. Thirty Dirty Birds
+4. American Ghost Dance
+5. Sex Rap tease
+6. Blackeyed Blonde
+7. Green Heaven
+8. Police Helicopter
+9. Hollywood (Africa)
+10. Catholic School Girls Rule
+11. Jungle Man
+12. True Men Don't Kill Coyotes
+13. Get Up and Jump
+14. Nevermind
+<br> ENCORE BREAK
+15. Freaky Styley
+16. Fire
+<br> ENCORE BREAK
+17. You Always Sing the Same
+18. Walkin' on Down the Road jam
+19. Organic Anti-Beat Box Band jam
 
 ## Notes
 
@@ -47,6 +47,6 @@ Organic Anti-Beat Box Band jam
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorderANA(x) > FLAC recorded by unknown
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknown
 
 ## Links

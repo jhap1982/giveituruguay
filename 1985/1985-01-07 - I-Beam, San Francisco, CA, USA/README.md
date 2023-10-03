@@ -6,7 +6,7 @@
 2. Get Up and Jump
 3. Battleship
 4. Fire (Jimi Hendrix)
-<br>SETLIST INCOMPLETE
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

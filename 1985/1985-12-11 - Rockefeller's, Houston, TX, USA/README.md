@@ -3,7 +3,7 @@
 ## Setlist
 
 1. American Ghost Dance
-<br>SETLIST INCOMPLETE
+<br>**SETLIST INCOMPLETE--
 
 ## Notes
 
@@ -25,5 +25,4 @@
 
 ## Recordings
 
-## Links
 ## Links

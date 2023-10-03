@@ -8,7 +8,7 @@
 4. True Men Don't Kill Coyotes
 5. Get Up and Jump
 6. Lovin' and Touchin'
-<br>SETLIST INCOMPLETE
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
@@ -29,7 +29,6 @@
 * Cliff Martinez
 
 ## Recordings
-
 
 ## Reviews
 

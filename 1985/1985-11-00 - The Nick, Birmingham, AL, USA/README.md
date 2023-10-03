@@ -6,8 +6,6 @@
 
 **UNCONFIRMED PERFORMANCE**
 
-**Support**: -
-
 ## Media 
 
 <details>

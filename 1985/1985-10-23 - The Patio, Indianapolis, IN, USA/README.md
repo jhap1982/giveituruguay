@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Out in L.A.
-Buckle Down
-Baby Appeal
-Blackeyed Blonde
-Green Heaven
-Police Helicopter
-American Ghost Dance
-Catholic School Girls Rule
-Jungle Man
-True Men Don't Kill Coyotes
-Stranded
-Get Up and Jump
-Nevermind
-Why Don't You Love Me
-Fire
-ENCORE BREAK
-Mommy Where's Daddy?
-You Always Sing the Same
+1. Out in L.A.
+2. Buckle Down
+3. Baby Appeal
+4. Blackeyed Blonde
+5. Green Heaven
+6. Police Helicopter
+7. American Ghost Dance
+8. Catholic School Girls Rule
+9. Jungle Man
+10. True Men Don't Kill Coyotes
+11. Stranded
+12. Get Up and Jump
+13. Nevermind
+14. Why Don't You Love Me
+15. Fire
+<br> ENCORE BREAK
+16. Mommy Where's Daddy?
+17. You Always Sing the Same
 
 ## Notes
 
