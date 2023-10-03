@@ -1,6 +1,5 @@
 # Info
 
-
 ## Setlist
 
 1. Out in L.A.
