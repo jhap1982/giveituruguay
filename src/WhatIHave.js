@@ -6261,7 +6261,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2019-03-15 - Giza Pyramid Complex, Giza, Egypt</td>
-                            <td>[PRO #1][YT][MKV][2,73 GB]</td>
+                            <td>
+                                [PRO #1][YT][MKV][2,73 GB] <br />
+                                [PRO #1][DVD][5,73 GB]
+                            </td>
                         </tr>
 
                         <tr>
