@@ -27,7 +27,7 @@
 23. Get Up and Jump
 24. I Wanna Be Your Dog part of
 25. Mommy Where's Daddy?
-260 Nevermind
+26. Nevermind
 
 ## Notes
 

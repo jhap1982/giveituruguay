@@ -53,6 +53,6 @@
 
 ## Recordings
 
-* AMT #1: amateur videobuilt-in > unknown camera VHS(x) > DVD recorded by unknown Cuts at the end of "Freaky Styley".
+* AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown Cuts at the end of "Freaky Styley".
 
 ## Links
