@@ -6,7 +6,6 @@
 
 **Support**: T.S.O.L., Thelonious Monster
 
-
 ## Media 
 
 <details>

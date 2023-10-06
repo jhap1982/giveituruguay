@@ -6,7 +6,6 @@
 
 **Support**: The Beastie Boys, Trouble Funk
 
-
 ## Media 
 
 <details>

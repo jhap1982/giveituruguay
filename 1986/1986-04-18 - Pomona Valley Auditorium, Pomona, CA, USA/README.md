@@ -6,7 +6,6 @@
 
 > Opening for X.
 
-
 ## Media 
 
 <details>

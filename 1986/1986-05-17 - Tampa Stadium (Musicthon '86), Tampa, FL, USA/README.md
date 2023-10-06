@@ -6,7 +6,6 @@
 
 > The festival was rescheduled due to low ticket sales, and later cancelled after lack of payment.
 
-
 ## Media 
 
 <details>

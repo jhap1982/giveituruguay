@@ -6,7 +6,6 @@
 
 **Support**: Agent Orange, Flamethrowers, Desperation Squad
 
-
 ## Media 
 
 <details>

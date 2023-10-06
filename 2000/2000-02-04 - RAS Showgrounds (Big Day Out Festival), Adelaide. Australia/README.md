@@ -50,4 +50,4 @@ The Power of Equality
 
 * AUD #1 audience audio: unknown mic > Sony WM-D3 ANA(M) > FLACrecorded by tonsco
 * AMT #1 amateur video: built-in > Sanyo VM-PS12 8mm(M) > DVDR recorded by tonsco Missing everything after "My Lovely Man".
-* PRO #1 professional video: soundboard > unknownWEB > MKV [240p] "The Power of Equality" was featured on the ninth episode of the "Pacific Tour 2000" Z.com webisode series.
+* PRO #1 professional video: soundboard > unknown WEB > MKV [240p] "The Power of Equality" was featured on the ninth episode of the "Pacific Tour 2000" Z.com webisode series.

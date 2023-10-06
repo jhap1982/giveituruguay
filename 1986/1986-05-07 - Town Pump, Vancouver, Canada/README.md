@@ -18,11 +18,9 @@
 14. Nevermind
 <br>**SETLIST INCOMPLETE**
 
-
 ## Notes
 
 > Setlist is missing the encore.
-
 
 ## Media 
 
