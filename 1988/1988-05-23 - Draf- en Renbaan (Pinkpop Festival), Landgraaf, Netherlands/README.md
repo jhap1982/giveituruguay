@@ -47,6 +47,6 @@
 
 * SBD #1 soundboard audio: soundboard > unknown recorder FM > ANA(M) > FLAC Features "Fight Like a Brave", "Funky Crime", "Thirty Dirty Birds", "Backwoods", "Party on Your Pussy" and "Mommy Where's Daddy?".
 * SBD #2 soundboard audio: soundboard > unknown recorder FM > ANA(M) > FLAC Features "Baby Appeal", "Organic Anti-Beat Box Band", "Blackeyed Blonde", "Love Trilogy", "Green Heaven", "Fight Like a Brave" and "Funky Crime".
-* PRO #1a professional videos: oundboard > unknown TV > VHS(x) > DVD A 45-minute TV broadcast exists. The transfer in circulation is actually from a camera shooting an actual CRT TV, so the quality it's pretty terrible.
+* PRO #1a professional video: soundboard > unknown TV > VHS(x) > DVD A 45-minute TV broadcast exists. The transfer in circulation is actually from a camera shooting an actual CRT TV, so the quality it's pretty terrible.
 * PRO #1b professional video: soundboard > unknown TV > VHS(x) > DVD "Green Heaven", "Fight Like a Brave", "Mommy Where's Daddy?" and "No Chump Love Sucker" were broadcasted on Dutch MTV.
 * PRO #1c professional video: soundboard > unknown DVB-C > TS [576i] "Bullet Proof", "Get Up and Jump", "Crosstown Traffic" were originally broadcasted on "VPRO". Best transfer in circulation comes from a NPO Cultura re-broadcast in 2016.

@@ -7,9 +7,6 @@
 
 ## Notes
 
-**Attendance**: -
-**Support**: -
-
 ## Media 
 
 <details>

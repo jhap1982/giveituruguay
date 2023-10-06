@@ -2,7 +2,6 @@
 
 ## Setlist
 
-
 ## Notes
 
 > Rescheduled from **October 5, 1987**.

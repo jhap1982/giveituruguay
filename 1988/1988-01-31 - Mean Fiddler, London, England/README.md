@@ -2,11 +2,7 @@
 
 ## Setlist
 
-
 ## Notes
-
-**Attendance**: -
-**Support**: -
 
 ## Media 
 

@@ -30,7 +30,6 @@
 * Kristen Vigard  
 * Vicky Calhoun
 
-
 ## Recordings / Footage
 
 ## Links

@@ -2,7 +2,6 @@
 
 ## Setlist
 
-
 ## Notes
 
 > Rescheduled to **October 8, 1988** due to conflicts nearby the Hollywood Bowl. Several concerts around the area had to be postponed.
