@@ -4,7 +4,9 @@
 
 ## Notes
 
-**Support**: -
+> Opening for X.
+
+**Attendance**: 6,881 / 15,000 (46%)
 
 ## Media 
 
