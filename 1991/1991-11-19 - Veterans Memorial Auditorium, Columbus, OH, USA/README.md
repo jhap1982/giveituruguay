@@ -2,12 +2,12 @@
 
 ## Setlist
 
-No Head No Backstage Pass part of
-Give It Away
-Nobody Weird Like Me
-Stone Cold Bush
-Higher Ground
-SETLIST INCOMPLETE
+1. No Head No Backstage Pass part of
+2. Give It Away
+3. Nobody Weird Like Me
+4. Stone Cold Bush
+5. Higher Ground
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
@@ -36,4 +36,3 @@ SETLIST INCOMPLETE
 ## Recordings / Footage
 
 ## Links
-

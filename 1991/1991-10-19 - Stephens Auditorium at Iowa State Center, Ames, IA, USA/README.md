@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-After Hours part of JOHN
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Poptones tease
-Higher Ground
-Under the Bridge
-My Lovely Man
-Subway to Venus
-ENCORE BREAK
-Blood Sugar Sex Magik
-Fela's Cock part of
-Me and My Friends
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. After Hours part of JOHN
+12. Fopp part of
+13. Special Secret Song Inside
+14. Red Hot Mama part of
+15. Poptones tease
+16. Higher Ground
+17. Under the Bridge
+18. My Lovely Man
+19. Subway to Venus
+<br> ENCORE BREAK
+20. Blood Sugar Sex Magik
+21. Fela's Cock part of
+22. Me and My Friends
 
 ## Notes
 
@@ -55,4 +55,3 @@ Me and My Friends
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown
 
 ## Links
-

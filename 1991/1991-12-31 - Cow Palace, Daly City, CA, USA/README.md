@@ -2,40 +2,41 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Magic Johnson
-I Could Have Lied
-Subway to Venus
-Sexy Mexican Maid jam
-Fela's Cock part of
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-History Lesson – Part II tease
-After Hours part of JOHN
-Crosstown Traffic
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Magic Johnson
+13. I Could Have Lied
+14. Subway to Venus
+15. Sexy Mexican Maid jam
+16. Fela's Cock part of
+17. Fopp part of
+18. Special Secret Song Inside
+19. Red Hot Mama part of
+20. Me and My Friends
+<br> ENCORE BREAK
+21. Yertle the Turtle
+22. Freaky Styley
+23. Cosmic Slop tease
+24. Atomic Dog tease
+25. Cholly (Funk Get Ready to Roll!) tease
+26. Not Great Men tease
+27. History Lesson – Part II tease
+28. After Hours part of JOHN
+29. Crosstown Traffic
 
 ## Notes
 
 **Attendance**: 16,000 / 16,000 (100%)
+<br />
 **Support**: Pearl Jam, Nirvana
 
 ## Media 
@@ -60,7 +61,6 @@ Crosstown Traffic
 
 ## Recordings / Footage
 
-* AUD #1 audience audio: Nakamichi CM-300's > Sony WM-D6ANA(M) > FLAC recorded by unknown
+* AUD #1 audience audio: Nakamichi CM-300's > Sony WM-D6 ANA(M) > FLAC recorded by unknown
 
 ## Links
-

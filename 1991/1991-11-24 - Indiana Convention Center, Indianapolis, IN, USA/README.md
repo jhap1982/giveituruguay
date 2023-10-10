@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Nobody Weird Like Me
-Under the Bridge
-Organic Anti-Beat Box Band
-Higher Ground
-Give It Away
-If You Have to Ask
-SETLIST INCOMPLETE
+1. Nobody Weird Like Me
+2. Under the Bridge
+3. Organic Anti-Beat Box Band
+4. Higher Ground
+5. Give It Away
+6. If You Have to Ask
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
@@ -37,4 +37,3 @@ SETLIST INCOMPLETE
 ## Recordings / Footage
 
 ## Links
-

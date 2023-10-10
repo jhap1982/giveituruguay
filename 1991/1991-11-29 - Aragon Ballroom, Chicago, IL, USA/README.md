@@ -2,14 +2,14 @@
 
 ## Setlist
 
-Anarchy in the U.K. part of FLEA
-Give It Away
-Sweet Jane part of JOHN
-I Could Have Lied
-Higher Ground
-ENCORE BREAK
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Anarchy in the U.K. part of FLEA
+2. Give It Away
+3. Sweet Jane part of JOHN
+4. I Could Have Lied
+5. Higher Ground
+<br> ENCORE BREAK
+6. Crosstown Traffic
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

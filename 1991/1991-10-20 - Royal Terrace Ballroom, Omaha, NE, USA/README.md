@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-The Power of Equality
-Dazed and Confused tease
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Poptones part of
-Higher Ground
-Under the Bridge
-My Lovely Man
-Subway to Venus
-Search and Destroy
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. The Power of Equality
+4. Dazed and Confused tease
+5. Funky Crime
+6. Give It Away
+7. Nobody Weird Like Me
+8. If You Have to Ask
+9. Stone Cold Bush
+10. Fopp part of
+11. Special Secret Song Inside
+12. Red Hot Mama part of
+13. Poptones part of
+14. Higher Ground
+15. Under the Bridge
+16. My Lovely Man
+17. Subway to Venus
+18. Search and Destroy
 
 ## Notes
 
@@ -50,4 +50,3 @@ Search and Destroy
 * AUD #1 audience audio: AKG microphone > Marantz cassette deck ANA(M) > FLAC recorded by Jason Peterson
 
 ## Links
-

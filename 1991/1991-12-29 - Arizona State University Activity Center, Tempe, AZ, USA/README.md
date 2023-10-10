@@ -36,4 +36,3 @@
 * AUD #1 audience audio: built-in > unknown micro-cassette recorder ANA(M) > FLACrecorded by Aaron GilbreathOnly "Subterranean Homesick Blues", "Funky Crime" and "Give It Away" were taped.
 
 ## Links
-

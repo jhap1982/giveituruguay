@@ -2,15 +2,15 @@
 
 ## Setlist
 
-The Power of Equality
-Boyz-N-the-Hood part of
-Special Secret Song Inside
-Subway to Venus
-No Head No Backstage Pass part of
-Blood Sugar Sex Magik
-Castles Made of Sand
-Me and My Friends
-Stone Cold Bush
+1. The Power of Equality
+2. Boyz-N-the-Hood part of
+3. Special Secret Song Inside
+4. Subway to Venus
+5. No Head No Backstage Pass part of
+6. Blood Sugar Sex Magik
+7. Castles Made of Sand
+8. Me and My Friends
+9. Stone Cold Bush
 
 ## Notes
 

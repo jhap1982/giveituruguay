@@ -2,16 +2,16 @@
 
 ## Setlist
 
-Love Trilogy
-My Lovely Man
-Give It Away
-Search and Destroy abandoned
-After Hours part of JOHN
-I Could Have Lied tease
-Search and Destroy
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Love Trilogy
+2. My Lovely Man
+3. Give It Away
+4. Search and Destroy abandoned
+5. After Hours part of JOHN
+6. I Could Have Lied tease
+7. Search and Destroy
+<br> ENCORE BREAK
+8. Under the Bridge
+9. Me and My Friends
 
 ## Notes
 

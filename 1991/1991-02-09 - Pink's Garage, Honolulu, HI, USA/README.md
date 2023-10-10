@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Dr. Funkenstein
-Funky Crime
-Stone Cold Bush
-Special Secret Song Inside
-Nobody Weird Like Me
-No Head No Backstage Pass part of
-Subway to Venus
-Magic Johnson
-The Power of Equality
-Skinny Sweaty Man
-Backwoods
-Castles Made of Sand
-Me and My Friends
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Dr. Funkenstein
+4. Funky Crime
+5. Stone Cold Bush
+6. Special Secret Song Inside
+7. Nobody Weird Like Me
+8. No Head No Backstage Pass part of
+9. Subway to Venus
+10. Magic Johnson
+11. The Power of Equality
+12. Skinny Sweaty Man
+13. Backwoods
+14. Castles Made of Sand
+15. Me and My Friends
 
 ## Notes
 

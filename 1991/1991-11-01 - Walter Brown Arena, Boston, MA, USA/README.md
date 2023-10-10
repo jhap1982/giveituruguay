@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Sweet Jane part of JOHN
-Thirty Dirty Birds
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Higher Ground
-Under the Bridge
-Subterranean Homesick Blues
-Me and My Friends
-ENCORE BREAK
-Blood Sugar Sex Magik
-Rapper's Delight tease
-Search and Destroy
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Sweet Jane part of JOHN
+12. Thirty Dirty Birds
+13. Fopp part of
+14. Special Secret Song Inside
+15. Red Hot Mama part of
+16. Higher Ground
+17. Under the Bridge
+18. Subterranean Homesick Blues
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Blood Sugar Sex Magik
+21. Rapper's Delight tease
+22. Search and Destroy
 
 ## Notes
 

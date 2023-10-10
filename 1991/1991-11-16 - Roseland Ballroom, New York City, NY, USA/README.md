@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Suck My Kiss
-Give It Away
-Subway to Venus
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Blood Sugar Sex Magik
-Funky Monks
-Naked in the Rain
-My Lovely Man
-Anarchy in the U.K. part of FLEA
-Higher Ground
-They're Red Hot
-SETLIST INCOMPLETE
+1. Suck My Kiss
+2. Give It Away
+3. Subway to Venus
+4. Fopp part of
+5. Special Secret Song Inside
+6. Red Hot Mama part of
+7. Blood Sugar Sex Magik
+8. Funky Monks
+9. Naked in the Rain
+10. My Lovely Man
+11. Anarchy in the U.K. part of FLEA
+12. Higher Ground
+13. They're Red Hot
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

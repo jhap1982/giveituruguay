@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Poptones tease
-Higher Ground
-Under the Bridge
-My Lovely Man
-Me and My Friends
-ENCORE BREAK
-Blood Sugar Sex Magik
-Fela's Cock part of
-Search and Destroy
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Fopp part of
+12. Special Secret Song Inside
+13. Red Hot Mama part of
+14. Poptones tease
+15. Higher Ground
+16. Under the Bridge
+17. My Lovely Man
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Blood Sugar Sex Magik
+20. Fela's Cock part of
+21. Search and Destroy
 
 ## Notes
 
@@ -56,4 +56,3 @@ Search and Destroy
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown. Missing everything after "If You Have To Ask".
 
 ## Links
-

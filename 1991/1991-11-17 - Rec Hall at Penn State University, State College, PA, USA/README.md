@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Give It Away
-Nobody Weird Like Me
-Blood Sugar Sex Magik
-Anarchy in the U.K. part of FLEA
-Higher Ground
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Give It Away
+2. Nobody Weird Like Me
+3. Blood Sugar Sex Magik
+4. Anarchy in the U.K. part of FLEA
+5. Higher Ground
+6. Crosstown Traffic
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

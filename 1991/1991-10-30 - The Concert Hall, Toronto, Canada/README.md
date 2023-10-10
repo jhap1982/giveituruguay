@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Poptones tease
-Higher Ground
-Under the Bridge
-The Power of Equality
-Subway to Venus
-ENCORE BREAK
-Blood Sugar Sex Magik
-Fela's Cock part of
-Skinny Sweaty Man
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Fopp part of
+12. Special Secret Song Inside
+13. Red Hot Mama part of
+14. Poptones tease
+15. Higher Ground
+16. Under the Bridge
+17. The Power of Equality
+18. Subway to Venus
+19. ENCORE BREAK
+20. Blood Sugar Sex Magik
+21. Fela's Cock part of
+22. Skinny Sweaty Man
 
 ## Notes
 
@@ -55,4 +55,3 @@ Skinny Sweaty Man
 * AMT #1 amateur video: built-in > unknown camera VHS(M) > DVD recorded by oldTOtaper **NOT CIRCULATING**
 
 ## Links
-

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Get Up and Jump
-Funky Crime
-Fela's Cock part of
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Poptones tease
-Higher Ground
-My Lovely Man
-Under the Bridge
-Subway to Venus
-ENCORE BREAK
-Blood Sugar Sex Magik
-Catholic School Girls Rule
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Get Up and Jump
+6. Funky Crime
+7. Fela's Cock part of
+8. Give It Away
+9. Nobody Weird Like Me
+10. If You Have to Ask
+11. Stone Cold Bush
+12. Fopp part of
+13. Special Secret Song Inside
+14. Red Hot Mama part of
+15. Poptones tease
+16. Higher Ground
+17. My Lovely Man
+18. Under the Bridge
+19. Subway to Venus
+<br> ENCORE BREAK
+20. Blood Sugar Sex Magik
+21. Catholic School Girls Rule
 
 ## Notes
 
@@ -54,4 +54,3 @@ Catholic School Girls Rule
 * AUD #1 audience audio: unknown mic > unknown recorder ANA(3) > FLAC recorded by unknown
 
 ## Links
-

@@ -2,15 +2,15 @@
 
 ## Setlist
 
-The Power of Equality abandoned
-The Power of Equality
-Castles Made of Sand
-Subway to Venus
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
+1. The Power of Equality abandoned
+2. The Power of Equality
+3. Castles Made of Sand
+4. Subway to Venus
+5. Yertle the Turtle
+6. Freaky Styley
+7. Cosmic Slop tease
+8. Atomic Dog tease
+9. Cholly (Funk Get Ready to Roll!) tease
 
 ## Notes
 

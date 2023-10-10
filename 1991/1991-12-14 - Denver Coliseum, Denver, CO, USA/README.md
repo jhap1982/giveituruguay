@@ -2,18 +2,18 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Blackeyed Blonde
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-SETLIST INCOMPLETE
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Blackeyed Blonde
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 
@@ -42,4 +42,3 @@ SETLIST INCOMPLETE
 ## Recordings / Footage
 
 ## Links
-
