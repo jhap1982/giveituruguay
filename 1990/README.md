@@ -54,7 +54,7 @@
 * 1990-04-29 - Keaney Gym at University of Rhode Island, Kingston, RI, USA
 * 1990-05-01 - Orpheum Theatre, Boston, MA, USA
 * 1990-05-02 - Orpheum Theatre, Boston, MA, USA
-* 1990-05-04 - Palace Theater, Waterbury, CT; USA
+* 1990-05-04 - Palace Theater, Waterbury, CT, USA
 * 1990-05-05 - Gym at State University of New York at Albany, Albany, NY, USA
 * 1990-05-06 - University of New Hampshire, Durham, NH, USA
 * 1990-05-25 - Red Rocks Amphitheatre, Morrison, CO, USA

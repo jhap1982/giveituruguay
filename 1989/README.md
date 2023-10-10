@@ -71,7 +71,7 @@
 * 1989-10-22 - Gymnasium at Stony Brook University, Stony Brook, NY, USA
 * 1989-10-23 - Union Ballroom at State University of New York at Brockport, Brockport, NY, USA
 * 1989-10-24 - Student Union Social Hall at State University of New York, Buffalo, NY, USA
-* 1989-10-26 - Beacon Theatre (CMJ New Music Awards), Subway to Venus, New York City, NY, USA
+* 1989-10-26 - Beacon Theatre (CMJ New Music Awards), New York City, NY, USA
 * 1989-10-27 - The New Ritz, New York City, NY, USA
 * 1989-10-28 - Chestnut Cabaret, Philadelphia, PA, USA
 * 1989-11-00 - The Palladium (Club MTV), New Yoork City, NY, USA
