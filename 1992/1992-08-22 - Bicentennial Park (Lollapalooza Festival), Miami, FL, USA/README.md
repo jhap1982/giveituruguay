@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Give It Away
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Subterranean Homesick Blues
-My Lovely Man
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Higher Ground
-Magic Johnson
-Under the Bridge
-Special Secret Song Inside
-The Needle and the Damage Done FLEA
-Me and My Friends
-ENCORE BREAK
-Mommy Where's Daddy?
-Crosstown Traffic
+1. Give It Away
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. My Lovely Man
+7. Nobody Weird Like Me
+8. If You Have to Ask
+9. Stone Cold Bush
+10. Blood Sugar Sex Magik
+11. Higher Ground
+12. Magic Johnson
+13. Under the Bridge
+14. Special Secret Song Inside
+15. The Needle and the Damage Done FLEA
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Mommy Where's Daddy?
+18. Crosstown Traffic
 
 ## Notes
 

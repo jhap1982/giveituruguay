@@ -2,9 +2,9 @@
 
 ## Setlist
 
-> Rescheduled to **March 17, 1992** due to the band being offered to play on "Saturday Night Live" on February 22.
-
 ## Notes
+
+> Rescheduled to **March 17, 1992** due to the band being offered to play on "Saturday Night Live" on February 22.
 
 ## Media 
 

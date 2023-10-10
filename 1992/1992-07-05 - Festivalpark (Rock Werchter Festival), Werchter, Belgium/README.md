@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Give It Away
-Organic Anti-Beat Box Band
-Bullet Proof
-Pot Sharing Tots part of FLEA
-Suck My Kiss
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-My Automobile part of FLEA
-Blood Sugar Sex Magik
-Higher Ground
-Magic Johnson
-Under the Bridge
-Subway to Venus
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Me and My Friends
-ENCORE BREAK
-Mommy Where's Daddy?
-Crosstown Traffic
+1. Give It Away
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Pot Sharing Tots part of FLEA
+5. Suck My Kiss
+6. Nobody Weird Like Me
+7. If You Have to Ask
+8. Stone Cold Bush
+9. My Automobile part of FLEA
+10. Blood Sugar Sex Magik
+11. Higher Ground
+12. Magic Johnson
+13. Under the Bridge
+14. Subway to Venus
+15. Fopp part of
+16. Special Secret Song Inside
+17. Red Hot Mama part of
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Mommy Where's Daddy?
+20. Crosstown Traffic
 
 ## Notes
 

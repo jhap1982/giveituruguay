@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Give It Away
-Funky Crime
-Bullet Proof
-My Automobile part of FLEA
-Suck My Kiss
-Nobody Weird Like Me
-If You Have to Ask
-My Lovely Man
-Stone Cold Bush
-Blood Sugar Sex Magik
-Pot Sharing Tots part of FLEA
-Higher Ground
-Magic Johnson
-Under the Bridge
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Me and My Friends
-ENCORE BREAK
-The Needle and the Damage Done FLEA
-Crosstown Traffic
+1. Give It Away
+2. Funky Crime
+3. Bullet Proof
+4. My Automobile part of FLEA
+5. Suck My Kiss
+6. Nobody Weird Like Me
+7. If You Have to Ask
+8. My Lovely Man
+9. Stone Cold Bush
+10. Blood Sugar Sex Magik
+11. Pot Sharing Tots part of FLEA
+12. Higher Ground
+13. Magic Johnson
+14. Under the Bridge
+15. Yertle the Turtle
+16. Freaky Styley
+17. Cosmic Slop tease
+18. Atomic Dog tease
+19. Me and My Friends
+<br> ENCORE BREAK
+20. The Needle and the Damage Done FLEA
+21. Crosstown Traffic
 
 ## Notes
 

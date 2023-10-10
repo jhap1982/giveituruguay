@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Green Heaven
-Backwoods
-Bullet Proof
-Subterranean Homesick Blues
-Suck My Kiss
-Nobody Weird Like Me
-Give It Away
-Stone Cold Bush
-If You Have to Ask
-Magic Johnson
-Hollywood (Africa)
-Blood Sugar Sex Magik
-Skinny Sweaty Man
-Under the Bridge
-Me and My Friends
+1. Green Heaven
+2. Backwoods
+3. Bullet Proof
+4. Subterranean Homesick Blues
+5. Suck My Kiss
+6. Nobody Weird Like Me
+7. Give It Away
+8. Stone Cold Bush
+9. If You Have to Ask
+10. Magic Johnson
+11. Hollywood (Africa)
+12. Blood Sugar Sex Magik
+13. Skinny Sweaty Man
+14. Under the Bridge
+15. Me and My Friends
 
 ## Notes
 
