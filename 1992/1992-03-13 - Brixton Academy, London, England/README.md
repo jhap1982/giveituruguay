@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Out in L.A.
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Pot Sharing Tots part of FLEA
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Mommy Where's Daddy?
-Higher Ground
-Blood Sugar Sex Magik
-Magic Johnson
-I Could Have Lied
-My Lovely Man
-Me and My Friends
-ENCORE BREAK
-Fopp part of
-Special Secret Song Inside
-Red Hot Mama part of
-Fela's Cock part of
-Crosstown Traffic
+1. Intro Jam
+2. Out in L.A.
+3. Organic Anti-Beat Box Band
+4. Bullet Proof
+5. Suck My Kiss
+6. Pot Sharing Tots part of FLEA
+7. Funky Crime
+8. Give It Away
+9. Nobody Weird Like Me
+10. If You Have to Ask
+11. Stone Cold Bush
+12. Mommy Where's Daddy?
+13. Higher Ground
+14. Blood Sugar Sex Magik
+15. Magic Johnson
+16. I Could Have Lied
+17. My Lovely Man
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Fopp part of
+20. Special Secret Song Inside
+21. Red Hot Mama part of
+22. Fela's Cock part of
+23. Crosstown Traffic
 
 ## Notes
 

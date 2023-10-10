@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Cancelled due to John Frusciante quitting the band.
+> Rescheduled to **October 20, 1992** due to John Frusciante quitting the band.
 
 ## Media 
 

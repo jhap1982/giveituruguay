@@ -2,12 +2,12 @@
 
 ## Setlist
 
-Give It Away
-Subway to Venus
-Me and My Friends
-Yertle the Turtle
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Give It Away
+2. Subway to Venus
+3. Me and My Friends
+4. Yertle the Turtle
+5. Crosstown Traffic
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

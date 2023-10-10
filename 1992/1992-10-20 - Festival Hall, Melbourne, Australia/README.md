@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Give It Away
+Funky Crime
+Bullet Proof
+My Automobile part of FLEA
+Suck My Kiss
+Nobody Weird Like Me
+If You Have to Ask
+My Lovely Man
+Stone Cold Bush
+Blood Sugar Sex Magik
+Pot Sharing Tots part of FLEA
+Higher Ground
+Magic Johnson
+Under the Bridge
+Yertle the Turtle
+Freaky Styley
+Cosmic Slop tease
+Atomic Dog tease
+Me and My Friends
+ENCORE BREAK
+The Needle and the Damage Done FLEA
+Crosstown Traffic
+
 ## Notes
+
+> Rescheduled from **May 20, 1992**.
 
 ## Media 
 
@@ -23,3 +48,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(2) > FLAC

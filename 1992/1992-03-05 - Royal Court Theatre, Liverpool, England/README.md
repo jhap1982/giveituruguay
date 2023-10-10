@@ -2,10 +2,10 @@
 
 ## Setlist
 
-Subterranean Homesick Blues
-Give It Away
-Blood Sugar Sex Magik
-SETLIST INCOMPLETE
+1. Subterranean Homesick Blues
+2. Give It Away
+3. Blood Sugar Sex Magik
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

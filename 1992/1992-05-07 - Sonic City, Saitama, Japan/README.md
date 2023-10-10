@@ -2,7 +2,26 @@
 
 ## Setlist
 
+Green Heaven
+Backwoods
+Bullet Proof
+Subterranean Homesick Blues
+Suck My Kiss
+Nobody Weird Like Me
+Give It Away
+Stone Cold Bush
+If You Have to Ask
+Magic Johnson
+Hollywood (Africa)
+Blood Sugar Sex Magik
+Skinny Sweaty Man
+Under the Bridge
+Me and My Friends
+
 ## Notes
+
+> John quit the band just before this show but they convinced him to play regardless.
+Setlist is most likely missing the encore.
 
 ## Media 
 

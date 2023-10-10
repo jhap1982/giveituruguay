@@ -2,6 +2,29 @@
 
 ## Setlist
 
+Give It Away
+Organic Anti-Beat Box Band
+Bullet Proof
+My Automobile part of FLEA
+Suck My Kiss
+Subterranean Homesick Blues
+My Lovely Man
+Nobody Weird Like Me
+If You Have to Ask
+Stone Cold Bush
+Blood Sugar Sex Magik
+Higher Ground
+Magic Johnson
+Under the Bridge
+Fopp part of
+Special Secret Song Inside
+Red Hot Mama part of
+The Needle and the Damage Done FLEA
+Me and My Friends
+ENCORE BREAK
+Mommy Where's Daddy?
+Crosstown Traffic
+
 ## Notes
 
 ## Media 
@@ -23,3 +46,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown Missing everything before "Suck My Kiss".

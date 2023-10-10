@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Magic Johnson
-I Could Have Lied
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-Nervous Breakdown tease
-History Lesson – Part II tease
-Me and My Friends
-ENCORE BREAK
-Skinny Sweaty Man
-Green Heaven
-Skinny Sweaty Man
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Magic Johnson
+12. I Could Have Lied
+13. Yertle the Turtle
+14. Freaky Styley
+15. Cosmic Slop tease
+16. Atomic Dog tease
+17. Cholly (Funk Get Ready to Roll!) tease
+18. Not Great Men tease
+19. Nervous Breakdown tease
+20. History Lesson – Part II tease
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Skinny Sweaty Man
+23. Green Heaven
+24. Skinny Sweaty Man
 
 ## Notes
 

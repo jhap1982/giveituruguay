@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Give It Away
-Bullet Proof
-If You Have to Ask
-Blood Sugar Sex Magik
-Lovin' and Touchin'
-Subway to Venus
-Crosstown Traffic
+1. Give It Away
+2. Bullet Proof
+3. If You Have to Ask
+4. Blood Sugar Sex Magik
+5. Lovin' and Touchin'
+6. Subway to Venus
+7. Crosstown Traffic
 
 ## Notes
 

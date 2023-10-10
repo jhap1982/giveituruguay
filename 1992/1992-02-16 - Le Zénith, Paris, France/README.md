@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Love Trilogy
-Organic Anti-Beat Box Band
-No Head No Backstage Pass part of
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Magic Johnson
-I Could Have Lied
-Bullet Proof
-Sir Psycho Sexy
-They're Red Hot
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Not Great Men tease
-History Lesson – Part II tease
-Crosstown Traffic
+1. Love Trilogy
+2. Organic Anti-Beat Box Band
+3. No Head No Backstage Pass part of
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Magic Johnson
+13. I Could Have Lied
+14. Bullet Proof
+15. Sir Psycho Sexy
+16. They're Red Hot
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Yertle the Turtle
+19. Freaky Styley
+20. Cosmic Slop tease
+21. Atomic Dog tease
+22. Not Great Men tease
+23. History Lesson – Part II tease
+24. Crosstown Traffic
 
 ## Notes
 

@@ -1000,7 +1000,7 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>1992-08-29 - Alpine Valley Music Theatre (Lollapalooza Festival), East Troy, WI, USA</td>
-                            <td>[AUD #1][FLAC][519 MB]</td>
+                            <td>[AUD #2][FLAC][519 MB]</td>
                         </tr>
 
                         <tr>

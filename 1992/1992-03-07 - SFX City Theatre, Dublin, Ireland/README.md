@@ -2,11 +2,11 @@
 
 ## Setlist
 
-Organic Anti-Beat Box Band
-Blackeyed Blonde
-Under the Bridge
-Crosstown Traffic
-SETLIST INCOMPLETE
+1. Organic Anti-Beat Box Band
+2. Blackeyed Blonde
+3. Under the Bridge
+4. Crosstown Traffic
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

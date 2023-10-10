@@ -6,7 +6,6 @@
 
 > It seems only the opener (Rollins Band) played that night.
 
-
 ## Media 
 
 <details>

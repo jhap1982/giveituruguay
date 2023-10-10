@@ -6,7 +6,6 @@
 
 > Cancelled (even though it was sold out) because they agreed to perform for the TV show "Top of the Pops" and the taping was on the very same date.
 
-
 ## Media 
 
 <details>

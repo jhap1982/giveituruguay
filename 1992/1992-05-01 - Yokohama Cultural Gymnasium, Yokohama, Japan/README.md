@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Give It Away
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Magic Johnson
-Mommy Where's Daddy?
-My Lovely Man
-No Head No Backstage Pass part of
-Under the Bridge
-Me and My Friends
-SETLIST INCOMPLETE
+1. Give It Away
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Nobody Weird Like Me
+8. If You Have to Ask
+9. Stone Cold Bush
+10. Blood Sugar Sex Magik
+11. Magic Johnson
+12. Mommy Where's Daddy?
+13. My Lovely Man
+14. No Head No Backstage Pass part of
+15. Under the Bridge
+16. Me and My Friends
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

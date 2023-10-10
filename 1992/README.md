@@ -53,6 +53,7 @@
 * 1992-05-15 - Hodern Pavilion, Sydney, Australia
 * 1992-05-16 - Hodern Pavilion, Sydney, Australia
 * 1992-05-19 - Thebarton Theatre, Adelaide, Australia
+* 1992-05-20 - Festival Hall, Melbourne, Australia
 * 1992-05-23 - Mount Smart Super Top, Auckland, New Zealand
 * 1992-05-24 - Town Hall, Wellington, New Zealand
 * 1992-07-04 - Festivalpark (Rock Torhout Festival), Torhout, Belgium
@@ -106,3 +107,4 @@
 * 1992-10-21 - National Tennis Centre at Flinders Park, Melbourne, Australia
 * 1992-10-27 - Winter Show Buildings, Wellington, New Zealand
 * 1992-10-28 - Mount Smart Super Top, Auckland, New Zealand
+* 1992-12-31 - Cow Palace, San Francisco, CA, USA

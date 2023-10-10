@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Out in L.A.
-Organic Anti-Beat Box Band
-Bullet Proof
-Suck My Kiss
-Subterranean Homesick Blues
-Funky Crime
-Give It Away
-Nobody Weird Like Me
-If You Have to Ask
-Stone Cold Bush
-Blood Sugar Sex Magik
-Fela's Cock part of
-I Could Have Lied
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-The Greeting Song tease
-Cholly (Funk Get Ready to Roll!) tease
-History Lesson – Part II tease
-Me and My Friends
-ENCORE BREAK
-Search and Destroy
+1. Out in L.A.
+2. Organic Anti-Beat Box Band
+3. Bullet Proof
+4. Suck My Kiss
+5. Subterranean Homesick Blues
+6. Funky Crime
+7. Give It Away
+8. Nobody Weird Like Me
+9. If You Have to Ask
+10. Stone Cold Bush
+11. Blood Sugar Sex Magik
+12. Fela's Cock part of
+13. I Could Have Lied
+14. Yertle the Turtle
+15. Freaky Styley
+16. Cosmic Slop tease
+17. Atomic Dog tease
+18. The Greeting Song tease
+19. Cholly (Funk Get Ready to Roll!) tease
+20. History Lesson – Part II tease
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Search and Destroy
 
 ## Notes
 

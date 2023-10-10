@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Give It Away
+Organic Anti-Beat Box Band
+Bullet Proof
+Pot Sharing Tots part of FLEA
+Suck My Kiss
+Nobody Weird Like Me
+If You Have to Ask
+Stone Cold Bush
+My Automobile part of FLEA
+Blood Sugar Sex Magik
+Higher Ground
+Magic Johnson
+Under the Bridge
+Subway to Venus
+Fopp part of
+Special Secret Song Inside
+Red Hot Mama part of
+Me and My Friends
+ENCORE BREAK
+Mommy Where's Daddy?
+Crosstown Traffic
+
 ## Notes
 
 ## Media 
@@ -23,3 +45,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > MD(M) > FLAC recorded by unknown

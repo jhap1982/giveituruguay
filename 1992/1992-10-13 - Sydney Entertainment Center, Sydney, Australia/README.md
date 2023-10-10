@@ -2,6 +2,14 @@
 
 ## Setlist
 
+1. Give It Away
+2. Nobody Weird Like Me
+3. Stone Cold Bush
+4. Magic Johnson
+5. Under the Bridge
+6. Higher Ground
+<br>**SETLIST INCOMPLETE**
+
 ## Notes
 
 ## Media 

@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled from **May 15, 1992**.
+
 ## Media 
 
 <details>
