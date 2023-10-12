@@ -1,0 +1,70 @@
+# Info
+
+## Setlist
+
+1. I Like Dirt
+2. Under the Bridge
+3. Backwoods
+4. Bunker Hill
+5. If You Have to Ask
+6. Hardcore Jollies tease
+7. I Want You Back part of
+8. Fat Man FLEA
+9. Blackeyed Blonde
+10. Emit Remmus
+11. I Could Have Lied
+12. Give It Away
+13. Tiny Dancer part of JOHN
+14. Scar Tissue
+15. Me and My Friends
+16. Pea
+17. Soul to Squeeze
+18. The Power of Equality
+<br>ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Cholly (Funk Get Ready to Roll!) tease
+24. History Lesson – Part II tease
+25. Funky Monks tease
+26. Up on the Sun tease
+27. 1970
+
+## Notes
+
+**Support**: Ozomatli
+
+## Media 
+
+<details>
+  <summary>Pictures</summary>
+  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />-->
+</details>
+
+## Line Up
+
+* Anthony Kiedis
+* Flea
+* John Frusciante
+* Chad Smith
+
+### Additional Musicians
+
+## Recordings
+
+* AUD #1 audience audio: Sony ECM-12 > Sony TCD-D8 DAT(M) > FLAC recorded by Luke Freteluco
+
+## Links
+
+## Reviews 
+
+> **yokomofo**:
+<br>
+After landing in Las Vegas, and picking up a rental car (a new Dodge Stratus with a total of 2 miles on it) we decided to phone the Huntridge Theater for all of the typical questions; when do the gates open?... where are you located?...if I am on the guest list when I can I pick up my passes...? WHAT?!?! "Sorry, there is no guest list, no backstage, etc...." the 'I can't be bothered by your ridiculous inquiries' secretary responded. Fuckin' hell!!!, I thought, had we flown all the way out here only to be duped by some daft policy from some prehistoric 200 seater? Well, we decided to have a look at the place and hopefully rectify our little crisis at hand. You see, a Flea had promised to include me and my friend on the guest list for both gigs. At this point we knew that Flea would put us on the list, but if the venue had some policy that.... well, you get the dilemma. Finally, at about 5pm or so we arrived at the Huntridge Theater. Almost instantaneously, we were delighted to hear for the first time in ages, the beautiful and unique sound of Mr. Frusciante laying the signature downstroke on a 7th chord. The song was not familiar, but the sound was. I could barely hear Anthony repeat the line "I like dirt, I like dirt...." in syncopation with the band. This was a good sign, the band was here and there were only about zero other fans waiting. We sat through the entire soundcheck and figured that if for some reason we couldn't watch the show, at least we heard part of one.... Needless to say, we encountered the band as they approached the Hard Rock Cafe's clamor wagon and at this time we were reassured of our status as 'guests.' By the time they left a few fans had reached them to ask for things (autographs, pictures...) There was one guy in particular that I found most annoying... This guy was just a total fucking drag, he bugged me enough that I left the line and just watched does the other people with his reeking personality....
+Later that night, the crowd slowly dripped into the venue. Bare in mind that this place was really small, reminiscent of a high-school auditorium, I'm not really good with judging crowds but I think the capacity was about 400. The opening band was called the Ozömötley Crüe, I think???..... I don't really remember because I was really tired and actually slept through most of their set. They were an interesting band, just not what I am into though... Our seats we're the second row of seats, which was only about 30 feet (or so) from the stage. This was a great place to see the band, because unlike most places, the seating area was just a bit higher than the floor so, the people in the pit area didn't obstruct the view of those not so interested in physical participation...
+When the band finally rolled out on the stage, the audience erupted in an orgasmic like frenzy. For many the return of John Frusciante along side his band mates seemed so unlikely. But nobody ever doubted that the best replacement for John was in fact John. He is an irreplaceable element, and to see his silhouette metamorphose into him swaying across the stage wearing that sweater featuring a geometrically knitted pattern of varicolored diamonds in solid and outline shapes on a single background color with long hair flowing unyielding and smooth like the bare twigs of a dying vine tightly woven and reaching for both the lights and the floor as he approached some sort of 'Uncle Fester in a tanktop,' (apparently a guitar technician) handing him the vintage sunburst finished Stratocaster he would commence dumping the funk on, and it was clear that the transcendental process had indeed begun.
+The band opened with Dirt, a new composition in the uplift mofo tradition. The song is hard funk with a super catchy riff, not unlike what you would expect to hear from the boys. I was surprised that they followed this hard hitting jam with Under the Bridge, not because I don't like the song but it was a real drastic shift, and unexpected, which I soon found out was the theme for the evening. It was probably 'safe' to play Under the Bridge because all the people that are into the commercial accomplishments of the Peppers (the majority perhaps) were undoubtedly delighted... The band continued on with a brilliant set, strategically weaving the new songs amongst the hits and other perennial favorites. I have included the set list at the end of this entry for your obsessive pleasure. (I think I would be wasting your time to explicate the details of every subtle nuance that occurred on the stage; rather, I have chosen to present my observations of all things new)....uh huh.... My favorite new song they played was Emit Remmus (get it?) which started off with John solo arpeggiating some chords in such a beautiful pattern, before the band sneaks into the groove and just lays out the most original smoothest tune in their history. Emit Remmus is like the logical progression you would expect from a band that recorded Soul to Squeeze and Under the Bridge. Emit Remmus is the type of vibe we expected to hear on the album following Blood Sugar, instead of what we did hear. It was amazing to think that this was a song that nobody in the audience had ever heard, yet they were immediately encapsulated in it's aura (I am sure this proved to be very encouraging for the band as well)..... they also played Bunker Hill and Scar Tissue two other new tracks...(sorry, no notes... the title doesn't help me recall anything about this one... every tune was great though....) At the time I was under the impression that these we're possible cover tunes that I had never heard... (of course I was thinking 'damn, I need to get that record').
+The band definitely slapped a fast and bulbous gig right through the sensory glands of all in attendance at the Vegas gig. I think it's safe to say that we all have awaited this re-arrival of the vibe the Peppers used to sling, and I think everyone was quickly impressed with the new direction the band is heading. There was some people that weren't sure if John would fit back in, as his musings in the world of junk have been highly publicized. (Read William Burrough's 'Junkie' for the facts about Heroin, it's really not as detrimental as the media would like to have you believe.) John was all over the stage and he literally squeezed out the most beautiful sounds that I have ever heard him play. Although the crux of my interest was definitely John; Chad, Flea, and Anthony were also at their best. One of the more memorable moments was when Clara (Flea's daughter) came out and joined her father, with John on bass, for a number entitled Fat Man, replete with some truly original choreography. About midway through the show, Anthony begged for a little 'luck' and claimed that the luckiest item is a bloody tampon.... he asked for a donation.... he got one, and it was real (I asked later)... and it was quite lovely... don't know if it worked, but there was plenty of sauce.... The band wrapped up the evening with 1970 and I have to say that I have not seen the band 'look' so enthusiastic since the Mother's Milk Tour, and I have not heard them play so enthusiastically since whenever. It was really great to see the band mesmerized by their performance and extremely interested in providing the truly positive and enlightening music to their exclusive genre that has been nearly nonexistent since they released the record to Watt in 1991.
+After the gig we were able to go backstage and have a few quick words with the band. Almost immediately, I began to interrogate John, not really but I did have some questions for him... I first asked him whether or not he had thought about singing Inca Roads instead of Tiny Dancer, like he used to. His response was, "once, yeah I thought about it but only once..." We then discussed his solo releases and I learned a bit about them. I was very interested in learning more about Niandra because the record is one of the most amazing recordings available and it was never really covered by any of the major music magazines, which meant I had a lot to inquire about. Unfortunately, this discussion only lasted 10 minutes or so, but it was something I had anticipated for years. I also had a few words with Flea and had a picture taken, but he had his family there so I didn't want to interfere with their time together. Then, of course I found Chad (just look for the path of empty Heiny bottles...) and talked with him for a while before we left...
+Driving back from the gig was like listening to talk radio, Eddie and I had to recount every syllable John uttered, every note Flea slapped, etc... the next night it was much of the same, the only problem was: we had a plane to catch. So, I wanted to establish a time for us to leave, knowing it wouldn't be easy, but also knowing I didn't want to be stuck in Vegas all night. We were offered the night before by Flea's technician to view the gig from the stage. Now, this was something we didn't want to pass up, despite the fact that the mix from the stage isn't so good. If you're on Flea's side of the stage, all you'll hear is his bass and a little drums and a little vox. We were digging the show, from side-stage but it was hard not to think about the view/sound from the seats.... the set was different the second night but it was equally as excellent. The band came out in cowboy regalia, the big black cowboy hats with the '10% off' tags still intact looking like some sort of badge on the front facing area. John played Your Song (Elton John) which meant he wasn't taking requests for Inca Roads. The one difference I noticed was that the audience was a little more lethargic. Perhaps this was because the opening act was a DJ, which didn't elicit any reaction (positive or negative) from the audience. Or maybe it was because we were facing them instead of looking through them.... whatever the difference, the band rocked both nights and made it clear that they were indeed 'back.' We were fortunate enough to hear the entire show, but almost as soon as they left the stage, we left the venue...

@@ -1,0 +1,43 @@
+# Info
+
+## Setlist
+
+1. Loose
+2. 1970
+3. Search and Destroy
+
+## Notes
+
+> The band was a surprise guest at a benefit show to raise money for a stage play titled “Waiting for Iggy,” an effort written in tribute to Iggy Pop.
+
+## Media 
+
+<details>
+  <summary>Pictures</summary>
+  <!--<img alt="Setlist" title="Setlist" src="_.jpg" height="200" />-->
+</details>
+
+## Line Up
+
+* Anthony Kiedis
+* Flea
+* John Frusciante
+* Chad Smith
+
+### Additional Musicians
+
+## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(X) > FLAC recorded by unknown
+
+## Links
+
+## Reviews 
+
+>
+**Paul Schrotenboer**:
+<br>
+Those attending the "Waiting for Iggy" benefit at Moguls in Hollywood last night (Thursday) were treated to a surprise set by -- no, not Iggy -- the Red Hot Chili Peppers. The band played a three-song, unannounced set as part of the benefit that raised funds for writer Susie McConnell's soon-to-be-staged play titled Waiting for Iggy.
+The line-up for the event featured several local bands and artists all performing Iggy Pop songs, both solo material and tunes recorded with his former band The Stooges. Headlining the show was Chili Pepper guitarist John Frusciante who performed an acoustic set of Pop tunes, including "China Girl" (famously covered by David Bowie on the platinum-selling Let's Dance LP). Frusciante was then joined by his new (and former) bandmates drummer Chad Smith, bassist Flea and singer Anthony Kiedis, who, shortly before midnight, bounced through three more classics from the Stooges canon: "Loose," "1970" and "Search & Destroy."
+Others performers on the bill include Circle Jerk Keith Morris, Thelonious Monster frontman Bob Forrest, Lutefisk's Dallas Don, and local guitarist Aaron Embry.
+Rumors earlier in the day hinted the famed Detroit rocker himself would make an appearance, but lil' Iggy was nowhere to be found (although several people thought the man with the blondish hair and dark glasses was he, but it was actually Bob Forrest singing "Lust For Life"). According to Pop's spokesperson, the singer is currently in Sweden, where he is performing this Friday at the Skelleftia festival. Which is all fine and well, but one question remains: Where the heck was Godot?
