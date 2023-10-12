@@ -2,6 +2,8 @@
 
 ## Setlist
 
+1. Californication
+
 ## Notes
 
 ## Media 
@@ -23,3 +25,6 @@
 ### Additional Musicians
 
 ## Recordings
+
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD 
+* PRO #2 professional video: soundboard > unknown TV > ? > MP4 Features sightly different camera takes. Unfortunately the only circulating transfer is taken from YouTube.

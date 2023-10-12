@@ -2231,6 +2231,20 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-11-05 - KeyArena at Seattle Center, Seattle, WA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][244 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2000-11-06 - KeyArena at Seattle Center, Seattle, WA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][292 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-11-30 - Shrine Auditorium (VH1 Music Awards), Los Angeles, CA, USA</td>
                             <td>
                                 [PRO #1][DVD][159 MB] <br />

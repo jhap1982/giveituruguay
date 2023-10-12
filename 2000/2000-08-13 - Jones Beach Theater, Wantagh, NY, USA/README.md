@@ -2,7 +2,25 @@
 
 ## Setlist
 
+Around the World
+You're Gonna Get Yours tease
+Give It Away
+Scar Tissue
+Otherside
+Skinny Sweaty Man
+Blood Sugar Sex Magik
+Californication
+London Calling tease
+Right on Time
+Under the Bridge
+Me and My Friends
+ENCORE BREAK
+Soul to Squeeze
+SETLIST INCOMPLETE
+
 ## Notes
+
+**Support**: Fishbone, Stone Temple Pilots
 
 ## Media 
 
@@ -23,3 +41,6 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown **NOT CIRCULATING**
+* AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by ukj69 **NOT CIRCULATING**

@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: The Bicycle Thief, Stone Temple Pilots
+
 ## Media 
 
 <details>
@@ -23,3 +25,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Core Sound Binaurals > Sharp MD-MS702 MD(M) > FLAC recorded by GreyZone **NOT CIRCULATING**

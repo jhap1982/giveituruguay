@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Fishbone, Stone Temple Pilots
+
 ## Media 
 
 <details>

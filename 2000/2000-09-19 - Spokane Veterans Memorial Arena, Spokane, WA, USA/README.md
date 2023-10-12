@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: The Bicycle Thief, Stone Temple Pilots
+
 ## Media 
 
 <details>
@@ -23,3 +25,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AMT #1 amateur video: built-in > unknown camera VHS(x) recorded by unknownApparently there's a transfer with 10 minutes of this show. It's unknown if there's a complete transfer out there. **NOT CIRCULATING**
