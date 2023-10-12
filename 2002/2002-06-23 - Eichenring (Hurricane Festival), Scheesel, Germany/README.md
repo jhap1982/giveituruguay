@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Otherside
-Universally Speaking
-Give It Away
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Fox on the Run part of JOHN
-Right on Time
-Don't Forget Me
-I Could Have Lied
-Californication
-What Is Soul? jam
-Can't Stop
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Otherside
+6. Universally Speaking
+7. Give It Away
+8. Soul to Squeeze
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Fox on the Run part of JOHN
+12. Right on Time
+13. Don't Forget Me
+14. I Could Have Lied
+15. Californication
+16. What Is Soul? jam
+17. Can't Stop
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Sir Psycho Sexy
+21. They're Red Hot
 
 ## Notes
 

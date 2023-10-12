@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Can't Stop
-Universally Speaking
-The Zephyr Song
-Throw Away Your Television
-Don't Forget Me
-Right on Time
-SETLIST INCOMPLETE
+1. Can't Stop
+2. Universally Speaking
+3. The Zephyr Song
+4. Throw Away Your Television
+5. Don't Forget Me
+6. Right on Time
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

@@ -2,9 +2,9 @@
 
 ## Setlist
 
-Can't Stop
-Don't Forget Me
-The Zephyr Song
+1. Can't Stop
+2. Don't Forget Me
+3. The Zephyr Song
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Maybe part of JOHN
-The Zephyr Song
-Can't Stop
-Latest Disgrace tease
-Parallel Universe
-Cabron
-Don't Forget Me
-Right on Time
-I Could Have Lied
-Venice Queen
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Maybe part of JOHN
+8. The Zephyr Song
+9. Can't Stop
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Cabron
+13. Don't Forget Me
+14. Right on Time
+15. I Could Have Lied
+16. Venice Queen
+17. Californication
+18. What Is Soul? jam
+19. Give It Away
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Me and My Friends
 
 ## Notes
 

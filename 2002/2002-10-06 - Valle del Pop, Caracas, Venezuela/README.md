@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Suck My Kiss
-The Zephyr Song
-Havana Affair
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-Venice Queen
-Give It Away
-ENCORE BREAK
-Jam
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Suck My Kiss
+8. The Zephyr Song
+9. Havana Affair
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Don't Forget Me
+13. London Calling tease
+14. Right on Time
+15. I Could Have Lied
+16. Can't Stop
+17. Californication
+18. Venice Queen
+19. Give It Away
+<br> ENCORE BREAK
+20. Jam
+21. Under the Bridge
+22. Me and My Friends
 
 ## Notes
 

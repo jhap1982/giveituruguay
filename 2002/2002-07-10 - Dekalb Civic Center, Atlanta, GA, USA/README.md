@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Don't Forget Me
-Parallel Universe
-Throw Away Your Television
-Otherside
-Latest Disgrace tease
-Dig a Pony tease
-I Could Die for You
-Can't Stop
-Californication
-Venice Queen
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-Right on Time
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Don't Forget Me
+7. Parallel Universe
+8. Throw Away Your Television
+9. Otherside
+10. Latest Disgrace tease
+11. Dig a Pony tease
+12. I Could Die for You
+13. Can't Stop
+14. Californication
+15. Venice Queen
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Under the Bridge
+18. Right on Time
+19. Search and Destroy
+20. Outro Jam
 
 ## Notes
 

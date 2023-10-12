@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Suck My Kiss
-The Zephyr Song
-Havana Affair
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-Maybe part of JOHN
-I Could Have Lied
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Fela's Cock part of
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Suck My Kiss
+8. The Zephyr Song
+9. Havana Affair
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Don't Forget Me
+13. London Calling tease
+14. Right on Time
+15. Maybe part of JOHN
+16. I Could Have Lied
+17. Can't Stop
+18. Venice Queen
+19. Give It Away
+<br> ENCORE BREAK
+20. Fela's Cock part of
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

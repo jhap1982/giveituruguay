@@ -2,22 +2,22 @@
 
 ## Setlist
 
-By the Way
-Scar Tissue
-Can't Stop
-Otherside
-Universally Speaking
-Give It Away
-Dig a Pony tease
-I Could Die for You
-Havana Affair
-I Could Have Lied
-You Always Sing the Same
-Don't Forget Me
-Right on Time
-ENCORE BREAK
-Californication
-The Power of Equality
+1. By the Way
+2. Scar Tissue
+3. Can't Stop
+4. Otherside
+5. Universally Speaking
+6. Give It Away
+7. Dig a Pony tease
+8. I Could Die for You
+9. Havana Affair
+10. I Could Have Lied
+11. You Always Sing the Same
+12. Don't Forget Me
+13. Right on Time
+<br> ENCORE BREAK
+14. Californication
+15. The Power of Equality
 
 ## Notes
 

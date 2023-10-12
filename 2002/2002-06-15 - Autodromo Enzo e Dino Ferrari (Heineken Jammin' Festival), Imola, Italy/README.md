@@ -2,26 +2,26 @@
 
 ## Setlist
 
-By the Way
-Scar Tissue
-Give It Away
-Universally Speaking
-Otherside
-Around the World
-Fox on the Run part of JOHN
-Don't Forget Me
-Latest Disgrace tease
-Parallel Universe
-Blood Sugar Sex Magik
-Show of Strength tease
-Throw Away Your Television
-I Could Have Lied
-Can't Stop
-Californication
-Right on Time
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. By the Way
+2. Scar Tissue
+3. Give It Away
+4. Universally Speaking
+5. Otherside
+6. Around the World
+7. Fox on the Run part of JOHN
+8. Don't Forget Me
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Blood Sugar Sex Magik
+12. Show of Strength tease
+13. Throw Away Your Television
+14. I Could Have Lied
+15. Can't Stop
+16. Californication
+17. Right on Time
+<br> ENCORE BREAK
+18. Under the Bridge
+19. The Power of Equality
 
 ## Notes
 

@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Otherside
-Suck My Kiss
-The Zephyr Song
-Havana Affair
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-What Is Soul? jam
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Otherside
+8. Suck My Kiss
+9. The Zephyr Song
+10. Havana Affair
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. I Could Have Lied
+17. Can't Stop
+18. Californication
+19. What Is Soul? jam
+20. Venice Queen
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Me and My Friends
 
 ## Notes
 
@@ -50,6 +50,6 @@ Me and My Friends
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ANA(X) > MP3 recorded by unknownThere's no lossless transfer circulating of this recording.
+* AUD #1 audience audio: unknown mic > unknown recorder ANA(X) > MP3 recorded by unknown There's no lossless transfer circulating of this recording.
 
 ## Links

@@ -2,14 +2,14 @@
 
 ## Setlist
 
-Intro Jam
-Cabron
-Otherside
-Dig a Pony tease
-I Could Die for You
-Maybe part of JOHN
-By the Way
-Red Tape
+1. Intro Jam
+2. Cabron
+3. Otherside
+4. Dig a Pony tease
+5. I Could Die for You
+6. Maybe part of JOHN
+7. By the Way
+8. Red Tape
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Give It Away
-Fox on the Run part of JOHN
-Don't Forget Me
-Latest Disgrace tease
-Parallel Universe
-Right on Time
-Venice Queen
-I Could Have Lied
-Can't Stop
-Californication
-The Power of Equality
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Give It Away
+8. Fox on the Run part of JOHN
+9. Don't Forget Me
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Right on Time
+13. Venice Queen
+14. I Could Have Lied
+15. Can't Stop
+16. Californication
+17. The Power of Equality
+<br> ENCORE BREAK
+18. Under the Bridge
+19. Search and Destroy
+20. Outro Jam
 
 ## Notes
 
@@ -50,6 +50,6 @@ Outro Jam
 ## Recordings
 
 * AUD #1 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown  
-* AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknownMissing "Under The Bridge", "Search And Destroy" and the outro jam.
+* AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown Missing "Under The Bridge", "Search And Destroy" and the outro jam.
 
 ## Links

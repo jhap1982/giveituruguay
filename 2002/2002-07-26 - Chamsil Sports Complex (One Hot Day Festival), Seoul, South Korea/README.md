@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-The Zephyr Song
-Can't Stop
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-Right on Time
-Minor Thing
-I Could Have Lied
-Venice Queen
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. The Zephyr Song
+8. Can't Stop
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Don't Forget Me
+12. Right on Time
+13. Minor Thing
+14. I Could Have Lied
+15. Venice Queen
+16. Californication
+17. Give It Away
+<br> ENCORE BREAK
+18. Under the Bridge
+19. Me and My Friends
 
 ## Notes
 

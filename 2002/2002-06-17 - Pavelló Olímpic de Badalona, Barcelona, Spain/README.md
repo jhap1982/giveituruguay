@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-My Automobile part of FLEA
-Give It Away
-Fox on the Run part of JOHN
-Don't Forget Me
-Latest Disgrace tease
-Parallel Universe
-The Power of Equality
-Venice Queen
-I Could Have Lied
-Californication
-What Is Soul? jam
-Can't Stop
-Right on Time
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. My Automobile part of FLEA
+8. Give It Away
+9. Fox on the Run part of JOHN
+10. Don't Forget Me
+11. Latest Disgrace tease
+12. Parallel Universe
+13. The Power of Equality
+14. Venice Queen
+15. I Could Have Lied
+16. Californication
+17. What Is Soul? jam
+18. Can't Stop
+19. Right on Time
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

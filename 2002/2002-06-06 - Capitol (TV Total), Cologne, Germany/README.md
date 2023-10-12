@@ -13,7 +13,6 @@
 
 > They played two "By the Way" takes so the best could be broadcasted for the late night show. Then they played two more songs for the people attending the event.
 
-
 ## Media 
 
 <details>

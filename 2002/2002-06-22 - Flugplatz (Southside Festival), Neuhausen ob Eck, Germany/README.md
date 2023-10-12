@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Dazed and Confused tease
-Otherside
-Give It Away
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Fox on the Run part of JOHN
-Right on Time
-Venice Queen
-I Could Have Lied
-Californication
-Cold Sweat jam
-Can't Stop
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Dazed and Confused tease
+7. Otherside
+8. Give It Away
+9. Soul to Squeeze
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Fox on the Run part of JOHN
+13. Right on Time
+14. Venice Queen
+15. I Could Have Lied
+16. Californication
+17. Cold Sweat jam
+18. Can't Stop
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

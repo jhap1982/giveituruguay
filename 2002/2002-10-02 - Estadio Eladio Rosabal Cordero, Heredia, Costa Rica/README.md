@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Suck My Kiss
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-What Is Soul? jam
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Suck My Kiss
+8. Soul to Squeeze
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Don't Forget Me
+12. London Calling tease
+13. Right on Time
+14. I Could Have Lied
+15. Can't Stop
+16. Californication
+17. What Is Soul? jam
+18. Venice Queen
+19. Give It Away
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

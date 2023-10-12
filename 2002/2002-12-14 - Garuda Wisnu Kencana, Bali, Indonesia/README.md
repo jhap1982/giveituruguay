@@ -15,11 +15,3 @@
   <img alt="Flyer" title="Flyer" src="_.jpg" height="200" />
   <img alt="Clipping" title="Clipping" src="_.jpg" height="200" />-->
 </details>
-
-## Line Up
-
-### Additional Musicians
-
-## Recordings
-
-## Links

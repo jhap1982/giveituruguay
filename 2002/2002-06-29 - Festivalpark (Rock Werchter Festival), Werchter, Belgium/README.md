@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Otherside
-Give It Away
-Soul to Squeeze
-Latest Disgrace tease
-Parallel Universe
-Right on Time
-Fox on the Run part of JOHN
-Don't Forget Me
-I Could Have Lied
-Californication
-Can't Stop
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Otherside
+7. Give It Away
+8. Soul to Squeeze
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Right on Time
+12. Fox on the Run part of JOHN
+13. Don't Forget Me
+14. I Could Have Lied
+15. Californication
+16. Can't Stop
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Under the Bridge
+19. The Power of Equality
 
 ## Notes
 

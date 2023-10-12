@@ -2,13 +2,13 @@
 
 ## Setlist
 
-By the Way
-Around the World
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Can't Stop
-Give It Away
+1. By the Way
+2. Around the World
+3. Latest Disgrace tease
+4. Parallel Universe
+5. The Zephyr Song
+6. Can't Stop
+7. Give It Away
 
 ## Notes
 
