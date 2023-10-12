@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-My Lovely Man
-Otherside
-I Like Dirt
-I Could Have Lied
-Organic Anti-Beat Box Band
-Easily
-Whole Lotta Love tease
-London Calling tease
-Right on Time
-Under the Bridge
-Emit Remmus
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. My Lovely Man
+5. Otherside
+6. I Like Dirt
+7. I Could Have Lied
+8. Organic Anti-Beat Box Band
+9. Easily
+10. Whole Lotta Love tease
+11. London Calling tease
+12. Right on Time
+13. Under the Bridge
+14. Emit Remmus
+15. Me and My Friends
+<br> ENCORE BREAK
+16. Soul to Squeeze
+17. The Power of Equality
 
 ## Notes
 

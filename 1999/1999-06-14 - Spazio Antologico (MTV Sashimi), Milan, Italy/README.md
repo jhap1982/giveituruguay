@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Emit Remmus
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-If You Have to Ask
-Around the World
-I Could Have Lied
-Californication
-Easily
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-Untitled #2 tease
-The Power of Equality
+1. Emit Remmus
+2. Give It Away
+3. Tiny Dancer part of JOHN
+4. Scar Tissue
+5. If You Have to Ask
+6. Around the World
+7. I Could Have Lied
+8. Californication
+9. Easily
+10. Right on Time
+11. Under the Bridge
+12. Me and My Friends
+<br>ENCORE BREAK
+13. Yertle the Turtle
+14. Freaky Styley
+15. Cosmic Slop tease
+16. Atomic Dog tease
+17. Cholly (Funk Get Ready to Roll!) tease
+18. Not Great Men tease
+19. Untitled #2 tease
+20. The Power of Equality
 
 ## Notes
 

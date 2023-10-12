@@ -2,18 +2,18 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-If You Have to Ask
-My Lovely Man
-I Like Dirt
-Green Heaven
-Police Helicopter
-Me and My Friends
-Under the Bridge
-The Power of Equality
-SETLIST INCOMPLETE
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. If You Have to Ask
+5. My Lovely Man
+6. I Like Dirt
+7. Green Heaven
+8. Police Helicopter
+9. Me and My Friends
+10. Under the Bridge
+11. The Power of Equality
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

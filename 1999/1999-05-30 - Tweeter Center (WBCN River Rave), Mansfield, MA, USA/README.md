@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Religion II part of
-Suck My Kiss
-Scar Tissue
-Give It Away
-Soul to Squeeze
-I Like Dirt
-If You Have to Ask
-Hardcore Jollies tease
-My Lovely Man
-Blood Sugar Sex Magik
-Parallel Universe
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Religion II part of
+2. Suck My Kiss
+3. Scar Tissue
+4. Give It Away
+5. Soul to Squeeze
+6. I Like Dirt
+7. If You Have to Ask
+8. Hardcore Jollies tease
+9. My Lovely Man
+10. Blood Sugar Sex Magik
+11. Parallel Universe
+12. Under the Bridge
+13. Me and My Friends
+<br> ENCORE BREAK
+14. The Power of Equality
 
 ## Notes
 

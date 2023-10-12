@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Parallel Universe
-If You Have to Ask
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Organic Anti-Beat Box Band
-I Like Dirt
-My Lovely Man
-London Calling tease
-Right on Time
-Tiny Dancer part of JOHN
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. Parallel Universe
+8. If You Have to Ask
+9. Otherside
+10. Blackeyed Blonde
+11. I Could Have Lied
+12. Organic Anti-Beat Box Band
+13. I Like Dirt
+14. My Lovely Man
+15. London Calling tease
+16. Right on Time
+17. Tiny Dancer part of JOHN
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Soul to Squeeze
+21. Fire
 
 ## Notes
 

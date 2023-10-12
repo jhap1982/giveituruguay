@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Religion II part of
-Around the World
-Suck My Kiss
-If You Have to Ask
-Hardcore Jollies tease
-Right on Time
-Give It Away
-Scar Tissue
-My Lovely Man
-Californication
-Organic Anti-Beat Box Band
-Skinny Sweaty Man
-Parallel Universe
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
+1. Religion II part of
+2. Around the World
+3. Suck My Kiss
+4. If You Have to Ask
+5. Hardcore Jollies tease
+6. Right on Time
+7. Give It Away
+8. Scar Tissue
+9. My Lovely Man
+10. Californication
+11. Organic Anti-Beat Box Band
+12. Skinny Sweaty Man
+13. Parallel Universe
+14. Me and My Friends
+<br>ENCORE BREAK
+15. Under the Bridge
+16. Search and Destroy
 
 ## Notes
 

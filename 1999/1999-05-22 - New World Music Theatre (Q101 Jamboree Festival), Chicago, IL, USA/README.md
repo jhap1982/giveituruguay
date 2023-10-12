@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Religion II part of
-Suck My Kiss
-Scar Tissue
-Give It Away
-Parallel Universe
-Soul to Squeeze
-Right on Time
-My Lovely Man
-If You Have to Ask
-Hardcore Jollies tease
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Religion II part of
+2. Suck My Kiss
+3. Scar Tissue
+4. Give It Away
+5. Parallel Universe
+6. Soul to Squeeze
+7. Right on Time
+8. My Lovely Man
+9. If You Have to Ask
+10. Hardcore Jollies tease
+11. Under the Bridge
+12. Me and My Friends
+<br>ENCORE BREAK
+13. The Power of Equality
 
 ## Notes
 
@@ -39,4 +39,4 @@ The Power of Equality
 
 ## Recordings
 
-*PRO #1 professional video: soundboard > unknown WEB > RM Apparently, there was a live webcast of the show. We don't know how much of the show was broadcasted. **NOT CIRCULATING**
+* PRO #1 professional video: soundboard > unknown WEB > RM Apparently, there was a live webcast of the show. We don't know how much of the show was broadcasted. **NOT CIRCULATING**

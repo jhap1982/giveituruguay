@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Untitled #11 JOHN
-Scar Tissue
-Backwoods
-Pea
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Easily
-My Lovely Man
-Californication
-I Like Dirt
-Sir Psycho Sexy
-Cold Sweat jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
-ENCORE BREAK
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Untitled #11 JOHN
+5. Scar Tissue
+6. Backwoods
+7. Pea
+8. Otherside
+9. Blackeyed Blonde
+10. I Could Have Lied
+11. Easily
+12. My Lovely Man
+13. Californication
+14. I Like Dirt
+15. Sir Psycho Sexy
+16. Cold Sweat jam
+17. London Calling tease
+18. Right on Time
+19. Under the Bridge
+20. Me and My Friends
+<br> ENCORE BREAK
+21. Soul to Squeeze
+22. The Power of Equality
+<br> ENCORE BREAK
+23. Fire
 
 ## Notes
 

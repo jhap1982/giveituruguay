@@ -2,14 +2,14 @@
 
 ## Setlist
 
-Around the World
-Suck My Kiss
-Give It Away
-Scar Tissue
-Parallel Universe
-Californication
-Sir Psycho Sexy
-SETLIST INCOMPLETE
+1. Around the World
+2. Suck My Kiss
+3. Give It Away
+4. Scar Tissue
+5. Parallel Universe
+6. Californication
+7. Sir Psycho Sexy
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

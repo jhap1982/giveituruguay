@@ -2,24 +2,25 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-Otherside
-My Lovely Man
-I Could Have Lied
-Easily
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. Otherside
+7. My Lovely Man
+8. I Could Have Lied
+9. Easily
+10. Californication
+11. London Calling tease
+12. Right on Time
+13. Under the Bridge
+14. Me and My Friends
+<br> ENCORE BREAK
+15. Soul to Squeeze
+16. The Power of Equality
+<br> **SETLIST INCOMPLETE**
+
 ## Notes
 
 > Setlist is missing a few songs.

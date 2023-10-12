@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Religion II part of
-Around the World
-Give It Away
-Scar Tissue
-If You Have to Ask
-Hardcore Jollies tease
-My Lovely Man
-Soul to Squeeze
-Green Heaven
-Police Helicopter
-I Like Dirt
-Under the Bridge
-Parallel Universe
-The Power of Equality
-ENCORE BREAK
-Sir Psycho Sexy
-Search and Destroy
+1. Religion II part of
+2. Around the World
+3. Give It Away
+4. Scar Tissue
+5. If You Have to Ask
+6. Hardcore Jollies tease
+7. My Lovely Man
+8. Soul to Squeeze
+9. Green Heaven
+10. Police Helicopter
+11. I Like Dirt
+12. Under the Bridge
+13. Parallel Universe
+14. The Power of Equality
+<br> ENCORE BREAK
+15. Sir Psycho Sexy
+16. Search and Destroy
 
 ## Notes
 

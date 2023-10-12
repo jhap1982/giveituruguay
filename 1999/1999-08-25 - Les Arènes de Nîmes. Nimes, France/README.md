@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-Savior
-I Like Dirt
-Soul to Squeeze
-Organic Anti-Beat Box Band
-If You Have to Ask
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-The Power of Equality
+1. Around the World
+2. Give It Away
+3. Your Pussy's Glued to a Building on Fire JOHN
+4. Scar Tissue
+5. My Lovely Man
+6. Savior
+7. I Like Dirt
+8. Soul to Squeeze
+9. Organic Anti-Beat Box Band
+10. If You Have to Ask
+11. London Calling tease
+12. Right on Time
+13. Under the Bridge
+14. Me and My Friends
+<br> ENCORE BREAK
+15. Sir Psycho Sexy
+16. The Power of Equality
 
 ## Notes
 

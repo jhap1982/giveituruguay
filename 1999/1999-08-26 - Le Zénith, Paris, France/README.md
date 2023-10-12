@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-Suck My Kiss
-Savior
-I Like Dirt
-I Could Have Lied
-Organic Anti-Beat Box Band
-The Guns of Brixton tease
-Your Pussy's Glued to a Building on Fire JOHN
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-The Power of Equality
-ENCORE BREAK
-My Lovely Man
-Back in Black tease
-Fire
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. Suck My Kiss
+5. Savior
+6. I Like Dirt
+7. I Could Have Lied
+8. Organic Anti-Beat Box Band
+9. The Guns of Brixton tease
+10. Your Pussy's Glued to a Building on Fire JOHN
+11. Easily
+12. London Calling tease
+13. Right on Time
+14. Under the Bridge
+15. Me and My Friends
+<br> ENCORE BREAK
+16. Sir Psycho Sexy
+17. The Power of Equality
+<br> ENCORE BREAK
+18 .My Lovely Man
+19. Back in Black tease
+20. Fire
 
 ## Notes
 

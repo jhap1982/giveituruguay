@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-Give It Away
-Scar Tissue
-Savior
-My Lovely Man
-I Like Dirt
-I Could Have Lied
-Organic Anti-Beat Box Band
-Skinny Sweaty Man
-If You Have to Ask
-Warped tease
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Tiny Dancer part of JOHN
-Soul to Squeeze
-The Power of Equality
-ENCORE BREAK
-Sir Psycho Sexy
-Police Helicopter
+1. Freaky Styley part of
+2. Around the World
+3. Give It Away
+4. Scar Tissue
+5. Savior
+6. My Lovely Man
+7. I Like Dirt
+8. I Could Have Lied
+9. Organic Anti-Beat Box Band
+10. Skinny Sweaty Man
+11. If You Have to Ask
+12. Warped tease
+13. Easily
+14. London Calling tease
+15. Right on Time
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Tiny Dancer part of JOHN
+19. Soul to Squeeze
+20. The Power of Equality
+<br> ENCORE BREAK
+21. Sir Psycho Sexy
+22. Police Helicopter
 
 ## Notes
 

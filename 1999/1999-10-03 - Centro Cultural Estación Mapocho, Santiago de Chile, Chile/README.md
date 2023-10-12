@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-Suck My Kiss
-Californication
-Blood Sugar Sex Magik
-Soul to Squeeze
-My Lovely Man
-If You Have to Ask
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. Suck My Kiss
+5. Californication
+6. Blood Sugar Sex Magik
+7. Soul to Squeeze
+8. My Lovely Man
+9. If You Have to Ask
+10. Easily
+11. London Calling tease
+12. Right on Time
+13. Under the Bridge
+14. Me and My Friends
+<br> ENCORE BREAK
+15. Sir Psycho Sexy
+16. Fire
 
 ## Notes
 

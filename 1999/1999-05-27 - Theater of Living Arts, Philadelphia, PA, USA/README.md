@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Your Song part of JOHN
-Scar Tissue
-Parallel Universe
-Soul to Squeeze
-Pea
-Right on Time
-If You Have to Ask
-Blood Sugar Sex Magik
-My Lovely Man
-Californication
-Organic Anti-Beat Box Band
-Sir Psycho Sexy
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Around the World
+2. Give It Away
+3. Your Song part of JOHN
+4. Scar Tissue
+5. Parallel Universe
+6. Soul to Squeeze
+7. Pea
+8. Right on Time
+9. If You Have to Ask
+10. Blood Sugar Sex Magik
+11. My Lovely Man
+12. Californication
+13. Organic Anti-Beat Box Band
+14. Sir Psycho Sexy
+15. Me and My Friends
+<br> ENCORE BREAK
+16. Under the Bridge
+17. The Power of Equality
 
 ## Notes
 

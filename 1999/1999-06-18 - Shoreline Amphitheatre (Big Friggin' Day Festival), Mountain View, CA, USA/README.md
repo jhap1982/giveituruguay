@@ -2,19 +2,19 @@
 
 ## Setlist
 
-Emit Remmus
-Give It Away
-Scar Tissue
-If You Have to Ask
-Hardcore Jollies tease
-Around the World
-Soul to Squeeze
-Blood Sugar Sex Magik
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Emit Remmus
+2. Give It Away
+3. Scar Tissue
+4. If You Have to Ask
+5. Hardcore Jollies tease
+6. Around the World
+7. Soul to Squeeze
+8. Blood Sugar Sex Magik
+9. Right on Time
+10. Under the Bridge
+11. Me and My Friends
+<br> ENCORE BREAK
+12. The Power of Equality
 
 ## Notes
 

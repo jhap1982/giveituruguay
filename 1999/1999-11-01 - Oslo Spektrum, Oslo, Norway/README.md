@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-Mommy Where's Daddy?
-Savior
-Blackeyed Blonde
-I Could Have Lied
-Pea
-Organic Anti-Beat Box Band
-If You Have to Ask
-Otherside
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Freaky Styley part of
+2. Around the World
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Mommy Where's Daddy?
+8. Savior
+9. Blackeyed Blonde
+10. I Could Have Lied
+11. Pea
+12. Organic Anti-Beat Box Band
+13. If You Have to Ask
+14. Otherside
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. The Power of Equality
 
 ## Notes
 

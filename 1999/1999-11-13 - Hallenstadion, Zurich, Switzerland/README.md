@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Otherside
-Pea
-If You Have to Ask
-Hardcore Jollies tease
-Skinny Sweaty Man
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-Cold Sweat jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Sir Psycho Sexy
-ENCORE BREAK
-Fire
+1. Freaky Styley part of
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Your Pussy's Glued to a Building on Fire JOHN
+6. Scar Tissue
+7. Suck My Kiss
+8. Otherside
+9. Pea
+10. If You Have to Ask
+11. Hardcore Jollies tease
+12. Skinny Sweaty Man
+13. I Could Have Lied
+14. Easily
+15. I Like Dirt
+16. Californication
+17. Cold Sweat jam
+18. London Calling tease
+19. Right on Time
+20. Under the Bridge
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Soul to Squeeze
+23. Sir Psycho Sexy
+<br> ENCORE BREAK
+24. Fire
 
 ## Notes
 

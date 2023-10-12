@@ -42,8 +42,8 @@ There were also some songs that didn't make it on the TV and radio broadcasts: t
 
 ## Recordings
 
-* **SBD #1** soundboard audio: soundboard > unknown recorder "Around the World" CD > FLAC "Me and My Friends" was released on the second "Around the World" CD single.  
-* **PRO #1** professional video: soundboard > unknown TV > VHS(M) > DVD Missing "Under the Bridge" and the "Yertle the Turtle" > "Freaky Styley" medley.
+* SBD #1 soundboard audio: soundboard > unknown recorder "Around the World" CD > FLAC "Me and My Friends" was released on the second "Around the World" CD single.  
+* PRO #1 professional video: soundboard > unknown TV > VHS(M) > DVD Missing "Under the Bridge" and the "Yertle the Turtle" > "Freaky Styley" medley.
 
 ## Links
 

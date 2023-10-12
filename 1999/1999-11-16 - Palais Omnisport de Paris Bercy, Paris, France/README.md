@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Pea
-Otherside
-If You Have to Ask
-My Lovely Man
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-Nuthin' but a G Thang tease
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Freaky Styley part of
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Your Pussy's Glued to a Building on Fire JOHN
+6. Scar Tissue
+7. Suck My Kiss
+8. Pea
+9. Otherside
+10. If You Have to Ask
+11. My Lovely Man
+12. I Could Have Lied
+13. Easily
+14. I Like Dirt
+15. Californication
+16. Nuthin' but a G Thang tease
+17. London Calling tease
+18. Right on Time
+19. Under the Bridge
+20. Me and My Friends
+<br> ENCORE BREAK
+21. Soul to Squeeze
+22. The Power of Equality
 
 ## Notes
 

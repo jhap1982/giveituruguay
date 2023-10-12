@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-Pea
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Organic Anti-Beat Box Band
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
-ENCORE BREAK
-Sir Psycho Sexy
-Outro Jam
+1. Freaky Styley part of
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Your Pussy's Glued to a Building on Fire JOHN
+6. Scar Tissue
+7. My Lovely Man
+8. Pea
+9. Otherside
+10. Blackeyed Blonde
+11. I Could Have Lied
+12. Organic Anti-Beat Box Band
+13. Easily
+14. I Like Dirt
+15. Californication
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Soul to Squeeze
+21. The Power of Equality
+<br> ENCORE BREAK
+22. Sir Psycho Sexy
+23. Outro Jam
 
 ## Notes
 

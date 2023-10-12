@@ -2,22 +2,22 @@
 
 ## Setlist
 
-Emit Remmus
-Give It Away
-Scar Tissue
-If You Have to Ask
-Parallel Universe
-I Could Have Lied
-My Lovely Man
-I Like Dirt
-Soul to Squeeze
-London Calling tease
-Right on Time
-Easily
-Me and My Friends
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Emit Remmus
+2. Give It Away
+3. Scar Tissue
+4. If You Have to Ask
+5. Parallel Universe
+6. I Could Have Lied
+7. My Lovely Man
+8. I Like Dirt
+9. Soul to Squeeze
+10. London Calling tease
+11. Right on Time
+12. Easily
+13. Me and My Friends
+<br> ENCORE BREAK
+14. Under the Bridge
+15. The Power of Equality
 
 ## Notes
 

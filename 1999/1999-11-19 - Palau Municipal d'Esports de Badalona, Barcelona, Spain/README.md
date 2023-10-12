@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Gong Li tease
-Scar Tissue
-Suck My Kiss
-Your Pussy's Glued to a Building on Fire JOHN
-Otherside
-Pot Sharing Tots part of FLEA
-If You Have to Ask
-My Lovely Man
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-Plate of Brown tease
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-The Power of Equality
+1. Freaky Styley part of
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Gong Li tease
+6. Scar Tissue
+7. Suck My Kiss
+8. Your Pussy's Glued to a Building on Fire JOHN
+9. Otherside
+10. Pot Sharing Tots part of FLEA
+11. If You Have to Ask
+12. My Lovely Man
+13. I Could Have Lied
+14. Easily
+15. I Like Dirt
+16. Californication
+17. Plate of Brown tease
+18. London Calling tease
+19. Right on Time
+20. Under the Bridge
+21. Me and My Friends
+<br> ENCORE BREAK
+22. The Power of Equality
 
 ## Notes
 

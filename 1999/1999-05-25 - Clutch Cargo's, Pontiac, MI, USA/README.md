@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Hardcore Jollies tease
-Otherside
-Skinny Sweaty Man
-I Could Have Lied
-Parallel Universe
-I Like Dirt
-Californication
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. Give It Away
+3. Tiny Dancer part of JOHN
+4. Scar Tissue
+5. Suck My Kiss
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Otherside
+9. Skinny Sweaty Man
+10. I Could Have Lied
+11. Parallel Universe
+12. I Like Dirt
+13. Californication
+14. Right on Time
+15. Under the Bridge
+16. Me and My Friends
+<br>ENCORE BREAK
+17. Soul to Squeeze
+18. The Power of Equality
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-Suck My Kiss
-Soul to Squeeze
-I Like Dirt
-If You Have to Ask
-Hardcore Jollies tease
-Organic Anti-Beat Box Band
-My Lovely Man
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-Untitled #2 tease
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. Suck My Kiss
+5. Soul to Squeeze
+6. I Like Dirt
+7. If You Have to Ask
+8. Hardcore Jollies tease
+9. Organic Anti-Beat Box Band
+10. My Lovely Man
+11. London Calling tease
+12. Right on Time
+13. Under the Bridge
+14. Me and My Friends
+<br> ENCORE BREAK
+15. Yertle the Turtle
+16. Freaky Styley
+17. Cosmic Slop tease
+18. Atomic Dog tease
+19. Cholly (Funk Get Ready to Roll!) tease
+20. Not Great Men tease
+21. Untitled #2 tease
 
 ## Notes
 

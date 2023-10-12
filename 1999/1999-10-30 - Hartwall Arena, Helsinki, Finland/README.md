@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Pea
-Otherside
-Skinny Sweaty Man
-Soul to Squeeze
-Blood Sugar Sex Magik
-I Like Dirt
-If You Have to Ask
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Not Great Men tease
-Untitled #2 tease
-Search and Destroy
+1. Freaky Styley part of
+2. Around the World
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. Pea
+8. Otherside
+9. Skinny Sweaty Man
+10. Soul to Squeeze
+11. Blood Sugar Sex Magik
+12. I Like Dirt
+13. If You Have to Ask
+14. Easily
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Cholly (Funk Get Ready to Roll!) tease
+24. Not Great Men tease
+25. Untitled #2 tease
+26. Search and Destroy
 
 ## Notes
 

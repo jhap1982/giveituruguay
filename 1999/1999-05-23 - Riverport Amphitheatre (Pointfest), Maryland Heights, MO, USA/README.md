@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Give It Away
-Scar Tissue
-Suck My Kiss
-Parallel Universe
-Soul to Squeeze
-Californication
-Under the Bridge
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop part of
-Atomic Dog part of
-Cholly (Funk Get Ready to Roll!) part of
-Me and My Friends
-SETLIST INCOMPLETE
+1. Give It Away
+2. Scar Tissue
+3. Suck My Kiss
+4. Parallel Universe
+5. Soul to Squeeze
+6. Californication
+7. Under the Bridge
+8. Yertle the Turtle
+9. Freaky Styley
+10. Cosmic Slop part of
+11. Atomic Dog part of
+12. Cholly (Funk Get Ready to Roll!) part of
+13. Me and My Friends
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

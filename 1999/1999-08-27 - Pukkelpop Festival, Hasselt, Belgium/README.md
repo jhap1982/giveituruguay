@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Scar Tissue
-My Lovely Man
-Savior
-Rapper's Delight tease
-Soul to Squeeze
-If You Have to Ask
-Hardcore Jollies tease
-What Is Soul? jam
-Organic Anti-Beat Box Band
-Easily
-Cold Sweat jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Boyz-N-the-Hood part of
-Sir Psycho Sexy
-The Power of Equality
+1. Around the World
+2. Give It Away
+3. Scar Tissue
+4. My Lovely Man
+5. Savior
+6. Rapper's Delight tease
+7. Soul to Squeeze
+8. If You Have to Ask
+9. Hardcore Jollies tease
+10. What Is Soul? jam
+11. Organic Anti-Beat Box Band
+12. Easily
+13. Cold Sweat jam
+14. London Calling tease
+15. Right on Time
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Boyz-N-the-Hood part of
+19. Sir Psycho Sexy
+20. The Power of Equality
 
 ## Notes
 

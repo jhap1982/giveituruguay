@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-Suck My Kiss
-Scar Tissue
-My Lovely Man
-Otherside
-Blood Sugar Sex Magik
-Show of Strength tease
-I Could Have Lied
-Organic Anti-Beat Box Band
-Blackeyed Blonde
-If You Have to Ask
-Easily
-Pea
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-History Lesson – Part II tease
-Untitled #2 tease
-Search and Destroy
+1. Freaky Styley part of
+2. Around the World
+3. Suck My Kiss
+4. Scar Tissue
+5. My Lovely Man
+6. Otherside
+7. Blood Sugar Sex Magik
+8. Show of Strength tease
+9. I Could Have Lied
+10. Organic Anti-Beat Box Band
+11. Blackeyed Blonde
+12. If You Have to Ask
+13. Easily
+14. Pea
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Yertle the Turtle
+20. Freaky Styley
+21. Cosmic Slop tease
+22. Atomic Dog tease
+23. Cholly (Funk Get Ready to Roll!) tease
+24. History Lesson – Part II tease
+25. Untitled #2 tease
+26. Search and Destroy
 
 ## Notes
 

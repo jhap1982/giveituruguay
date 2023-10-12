@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Otherside
-I Could Have Lied
-Skinny Sweaty Man
-If You Have to Ask
-I Like Dirt
-Organic Anti-Beat Box Band
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Fire
+1. Freaky Styley part of
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Your Pussy's Glued to a Building on Fire JOHN
+6. Scar Tissue
+7. Suck My Kiss
+8. Otherside
+9. I Could Have Lied
+10. Skinny Sweaty Man
+11. If You Have to Ask
+12. I Like Dirt
+13. Organic Anti-Beat Box Band
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. Fire
 
 ## Notes
 

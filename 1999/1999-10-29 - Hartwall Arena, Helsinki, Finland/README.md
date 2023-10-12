@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Freaky Styley part of
-Around the World
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-My Lovely Man
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Organic Anti-Beat Box Band
-I Like Dirt
-If You Have to Ask
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-The Power of Equality
+1. Freaky Styley part of
+2. Around the World
+3. Give It Away
+4. Tiny Dancer part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Otherside
+8. Blackeyed Blonde
+9. I Could Have Lied
+10. Organic Anti-Beat Box Band
+11. I Like Dirt
+12. If You Have to Ask
+13. Easily
+14. London Calling tease
+15. Right on Time
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Sir Psycho Sexy
+19. The Power of Equality
 
 ## Notes
 
