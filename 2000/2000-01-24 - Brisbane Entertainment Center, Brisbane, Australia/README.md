@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-If You Have to Ask
-Otherside
-Skinny Sweaty Man
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
-Search and Destroy
-Outro Jam
+1. Around the World
+2. Give It Away
+3. Your Pussy's Glued to a Building on Fire JOHN
+4. Scar Tissue
+5. My Lovely Man
+6. If You Have to Ask
+7. Otherside
+8. Skinny Sweaty Man
+9. I Could Have Lied
+10. Easily
+11. I Like Dirt
+12. Californication
+13. London Calling tease
+14. Right on Time
+15. Under the Bridge
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Sir Psycho Sexy
+18. Fire
+19. Search and Destroy
+20. Outro Jam
 
 ## Notes
 

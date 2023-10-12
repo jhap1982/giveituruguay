@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Kool Keith, Foo Fighters
+
 ## Media 
 
 <details>
@@ -23,3 +25,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: Core Sound stealthy mics > bass box > Sony MZ-R55 MD(M) > FLAC recorded by Redrock **NOT CIRCULATING**

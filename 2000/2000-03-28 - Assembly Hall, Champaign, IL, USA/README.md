@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Organic Anti-Beat Box Band
-Pea
-I Could Have Lied
-I Like Dirt
-Californication
-Cold Sweat jam
-Easily
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Tiny Dancer part of JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Otherside
+9. Organic Anti-Beat Box Band
+10. Pea
+11. I Could Have Lied
+12. I Like Dirt
+13. Californication
+14. Cold Sweat jam
+15. Easily
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Soul to Squeeze
+21. The Power of Equality
 
 ## Notes
 

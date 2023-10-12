@@ -2,6 +2,19 @@
 
 ## Setlist
 
+Around the World
+You're Gonna Get Yours tease
+Give It Away
+Scar Tissue
+Otherside
+Californication
+What Is Soul? jam
+Easily
+Under the Bridge
+ENCORE BREAK
+London Calling tease
+Right on Time
+
 ## Notes
 
 ## Media 
@@ -23,3 +36,7 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLAC recorded by unknown
+* AUD #2 audience audio: Core Sound Binaurals (w/ fixed bass roll-off filter) > Sony PCM-M1DAT(M) > FLAC recorded by swinburnson **NOT CIRCULATING**
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD "Californication", "Give It Away" and "Right On Time" were broadcasted on "MuchMusic".

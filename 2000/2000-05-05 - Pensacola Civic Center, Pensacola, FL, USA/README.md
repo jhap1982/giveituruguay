@@ -20,7 +20,7 @@
 16. Right on Time
 17. Under the Bridge
 18. Me and My Friends
-<br>ENCORE BREAK
+<br> ENCORE BREAK
 19. Sir Psycho Sexy
 20. They're Red Hot
 21. Search and Destroy

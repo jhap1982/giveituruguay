@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Song part of JOHN
-Scar Tissue
-My Lovely Man
-The Guns of Brixton tease
-Skinny Sweaty Man
-Otherside
-The Guns of Brixton tease
-Subterranean Homesick Blues
-I Could Have Lied
-Pea
-Sir Psycho Sexy
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Song part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. The Guns of Brixton tease
+8. Skinny Sweaty Man
+9. Otherside
+10. The Guns of Brixton tease
+11. Subterranean Homesick Blues
+12. I Could Have Lied
+13. Pea
+14. Sir Psycho Sexy
+15. I Like Dirt
+16. Californication
+17. London Calling tease
+18. Right on Time
+19. Under the Bridge
+20. Me and My Friends
+<br> ENCORE BREAK
+21. Soul to Squeeze
+22. Search and Destroy
+23. Outro Jam
 
 ## Notes
 

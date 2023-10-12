@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Song part of JOHN
-Scar Tissue
-My Lovely Man
-If You Have to Ask
-Otherside
-Subterranean Homesick Blues
-I Could Have Lied
-Easily
-I Like Dirt
-Boys Don't Cry tease
-Californication
-What Is Soul? jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Yertle the Turtle
-Freaky Styley
-Cosmic Slop tease
-Atomic Dog tease
-Cholly (Funk Get Ready to Roll!) tease
-Untitled #2 tease
-History Lesson – Part II tease
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Song part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. If You Have to Ask
+8. Otherside
+9. Subterranean Homesick Blues
+10. I Could Have Lied
+11. Easily
+12. I Like Dirt
+13. Boys Don't Cry tease
+14. Californication
+15. What Is Soul? jam
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Yertle the Turtle
+21. Freaky Styley
+22. Cosmic Slop tease
+23. Atomic Dog tease
+24. Cholly (Funk Get Ready to Roll!) tease
+25. Untitled #2 tease
+26. History Lesson – Part II tease
+27. Fire
 
 ## Notes
 

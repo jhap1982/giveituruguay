@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-If You Have to Ask
-Otherside
-Skinny Sweaty Man
-Easily
-What Is Soul? jam
-I Could Have Lied
-I Like Dirt
-Blood Sugar Sex Magik
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. If You Have to Ask
+8. Otherside
+9. Skinny Sweaty Man
+10. Easily
+11. What Is Soul? jam
+12. I Could Have Lied
+13. I Like Dirt
+14. Blood Sugar Sex Magik
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. The Power of Equality
 
 ## Notes
 

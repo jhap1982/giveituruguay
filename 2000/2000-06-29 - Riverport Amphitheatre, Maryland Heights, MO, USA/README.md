@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Blonde Redhead, Foo Fighters
+
 ## Media 
 
 <details>

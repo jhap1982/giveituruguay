@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-My Lovely Man
-If You Have to Ask
-Otherside
-Pea
-Subterranean Homesick Blues
-I Could Have Lied
-Easily
-I Like Dirt
-Blood Sugar Sex Magik
-London Calling tease
-Right on Time
-Cold Sweat jam
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Tiny Dancer part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. If You Have to Ask
+8. Otherside
+9. Pea
+10. Subterranean Homesick Blues
+11. I Could Have Lied
+12. Easily
+13. I Like Dirt
+14. Blood Sugar Sex Magik
+15. London Calling tease
+16. Right on Time
+17. Cold Sweat jam
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Sir Psycho Sexy
+21. The Power of Equality
 
 ## Notes
 

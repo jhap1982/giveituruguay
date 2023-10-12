@@ -49,5 +49,5 @@
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown  
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown
 * SBD #1 soundboard audio: soundboard > unknown WEB > MP3 Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.

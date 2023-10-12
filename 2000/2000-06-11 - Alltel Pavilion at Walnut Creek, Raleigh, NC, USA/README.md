@@ -4,6 +4,8 @@
 
 ## Notes
 
+**Support**: Kool Keith, Foo Fighters
+
 ## Media 
 
 <details>

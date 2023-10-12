@@ -53,6 +53,6 @@
 ## Recordings
 
 * AUD #1 audience audio: Core Sound Cardioids > Battery Box > Sony TCD-D8 DAT(M) > FLAC recorded by Jim Fiesler (aka undiscokidd) 
-* AUD #2 audience audio: AKG 460B's > Aerco > SBM-1 > Sony TCD-D8 DAT(M) > FLAC recorded by Steve Duchin  
+* AUD #2 audience audio: AKG 460B's > Aerco > SBM-1 > Sony TCD-D8 DAT(M) > FLAC recorded by Steve Duchin
 * AUD #3 audience audio: AKG 460s > Beyer > Sony TCD-D7 DAT(M) > FLAC recorded by unknown **NOT CIRCULATING**
 * AUD #4 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by Casey Childs **NOT CIRCULATING**

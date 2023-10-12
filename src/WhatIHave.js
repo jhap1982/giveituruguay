@@ -1964,6 +1964,20 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-05-10 - Baltimore Arena, Baltimore, MD, USA</td>
+                            <td>
+                                [AUD #1][FLAC][381 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2000-05-13 - Providence Civic Center, Providence, RI, USA</td>
+                            <td>
+                                [AUD #1][FLAC][503 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-05-27 - Gorge Amphitheatre, George, WA, USA</td>
                             <td>
                                 [AMT #1][George + Seattle][DVD][3,62 GB]
@@ -1997,6 +2011,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2000-06-08 - Lakewood Amphitheatre, Atlanta, GA, USA</td>
                             <td>
                                 [SBD #1][MP3][181 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2000-06-14 - Mars Music Amphitheatre, West Palm Beach, FL, USA</td>
+                            <td>
+                                [AUD #2][FLAC][463 MB]
                             </td>
                         </tr>
 

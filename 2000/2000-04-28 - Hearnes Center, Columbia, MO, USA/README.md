@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-My Lovely Man
-Pea
-This Velvet Glove
-Subterranean Homesick Blues
-Otherside
-I Like Dirt
-I Could Have Lied
-Cold Sweat jam
-Easily
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Pea
+8. This Velvet Glove
+9. Subterranean Homesick Blues
+10. Otherside
+11. I Like Dirt
+12. I Could Have Lied
+13. Cold Sweat jam
+14. Easily
+15. Californication
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Soul to Squeeze
+21. The Power of Equality
 
 ## Notes
 

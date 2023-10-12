@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-Suck My Kiss
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-If You Have to Ask
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Easily
-Pea
-My Lovely Man
-I Like Dirt
-Blood Sugar Sex Magik
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Green Heaven
-Police Helicopter
-Fire
+1. Around the World
+2. Suck My Kiss
+3. Your Pussy's Glued to a Building on Fire JOHN
+4. Scar Tissue
+5. If You Have to Ask
+6. Otherside
+7. Blackeyed Blonde
+8. I Could Have Lied
+9. Easily
+10. Pea
+11. My Lovely Man
+12. I Like Dirt
+13. Blood Sugar Sex Magik
+14. London Calling tease
+15. Right on Time
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Green Heaven
+19. Police Helicopter
+20. Fire
 
 ## Notes
 

@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Skinny Sweaty Man
-Your Song part of JOHN
-I Could Have Lied
-Easily
-Five Years tease
-I Like Dirt
-Californication
-Ramble On
-London Calling tease
-Right on Time
-Under the Bridge
-The Greeting Song tease
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Otherside
+9. Skinny Sweaty Man
+10. Your Song part of JOHN
+11. I Could Have Lied
+12. Easily
+13. Five Years tease
+14. I Like Dirt
+15. Californication
+16. Ramble On
+17. London Calling tease
+18. Right on Time
+19. Under the Bridge
+20. The Greeting Song tease
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Soul to Squeeze
+23. Search and Destroy
+24. Outro Jam
 
 ## Notes
 
