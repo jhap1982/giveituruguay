@@ -34,4 +34,6 @@ This performance has been widely and wrongly misdated as **Jan 24th 1997**. Ther
 
 ## Recordings / Footage
 
+* PRO #1 professional video: soundboard > unknown TV > VHS(x) > DVD
+
 ## Links

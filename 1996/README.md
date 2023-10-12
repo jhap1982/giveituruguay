@@ -8,7 +8,6 @@
 * 1996-02-12 - Worcester Centrum, Worcester, MA, USA
 * 1996-02-13 - Ed Sullivan Theater (Late Show with David Letterman), New York, NY, USA
 * 1996-02-14 - USAir Arena, Landover, MD, USA
-* 1996-02-15 - BBC Television Centre (Top of the Pops), London, England
 * 1996-02-16 - Nassau Coliseum, Nassau, NY, USA
 * 1996-03-01 - NBC Studios (The Tonight Show with Jay Leno), Burbank, CA, USA
 * 1996-03-06 - United Center, Chicago, IL, USA

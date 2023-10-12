@@ -1292,6 +1292,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1996-03-11 - Market Square Arena, Indianapolis, IN, USA</td>
+                            <td>[AUD #1][FLAC][505 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1996-03-12 - Gund Arena, Cleveland, OH, USA</td>
                             <td>[AUD #1][FLAC][432 MB]</td>
                         </tr>
