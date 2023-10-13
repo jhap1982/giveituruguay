@@ -41,8 +41,6 @@
   * [SBD #1][FLAC]
 * 1987-09-15 - Paradiso, Amsterdam, Netherlands
 * 1987-09-16 - Tivoli, Utrecth, Netherlands
-* 1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA
-  * [PRO #1][DVD] 
 * 1987-09-24 - Sam's Hofbrau, Sacramento, CA, USA
 * 1987-09-28 - Dingwalls, London, England
 * 1987-10-02 - The Loft, Berlin, Germany

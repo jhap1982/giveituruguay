@@ -27,7 +27,7 @@
 * 1988-03-11 - Northridge Center at California State University, Los Angeles, CA, USA
 * 1988-03-12 - Crawford Hall at University of California at Irvine, Irvine, CA, USA
 * 1988-03-14 - Montezuma Hall at San Diego State University, San Diego, CA, USA
-* 1988-03-19 - Bren Events Center at University of California, Irvine, CA, USA
+* 1988-03-19 - Bren Events Center at University of California at Irvine, Irvine, CA, USA
 * 1988-03-27 - John Anson Ford Amphitheatre (Amnesty International Benefit Show), Los Angeles, CA, USA
 * 1988-04-00 - Ballroom at University of Kansas, Kansas City, USA
 * 1988-04-00 - Temple University, Philadelphia, PA, USA

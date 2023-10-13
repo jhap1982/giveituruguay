@@ -310,12 +310,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>1987-08-29 - Deja Vu, Phoenix, AZ, USA</td>
                             <td>[SBD #1][1st Show][FLAC][658 MB]</td>
                         </tr>
-
-                        <tr>
-                            <td>1987-09-20 - Bren Events Center at University of California at Irvine (Vision Skate Escape), Irvine, CA, USA</td>
-                            <td title="MPG from VOB DVD file">[PRO #1][DVD][MPG][1,02 GB]</td>
-                        </tr>
-
+                        
                         <tr>
                             <td>1987-10-22 - Chestnut Cabaret, Philadelphia, PA, USA</td>
                             <td>[AUD #1][FLAC][372 MB]</td>
@@ -414,6 +409,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>1988-03-14 - Montezuma Hall at San Diego State University, San Diego, CA, USA</td>
                             <td>[AUD #1][FLAC][498 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>1988-03-19 - Bren Events Center at University of California at Irvine, Irvine, CA, USA</td>
+                            <td title="MPG from VOB DVD file">[PRO #1][DVD][MPG][1,02 GB]</td>
                         </tr>
 
                         <tr>
