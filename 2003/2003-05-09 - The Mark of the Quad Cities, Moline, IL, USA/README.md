@@ -2,9 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+The Zephyr Song
+Suck My Kiss
+This Is the Place
+Latest Disgrace tease
+Parallel Universe
+Otherside
+Havana Affair
+Don't Forget Me
+Warm Tape
+London Calling tease
+Right on Time
+Soul to Squeeze
+Can't Stop
+Venice Queen
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Me and My Friends
+
 ## Notes
 
-**Other Acts**: -
+**Attendance**: 8,464 / 8,464 (100%)
+<br>
+**Support**: The Mars Volta, Queens of the Stone Age
 
 ## Media 
 

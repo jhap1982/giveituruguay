@@ -56,4 +56,3 @@
 * AMT #2 amateur video: built-in > Canon Elura 40MC MiniDV(M) > DVD recorded by Pierre-Olivier Picotte Missing "Give It Away", "Under the Bridge" and "Me and My Friends".
 
 ## Links
-

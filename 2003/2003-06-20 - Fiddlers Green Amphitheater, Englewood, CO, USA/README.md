@@ -2,9 +2,35 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Maybe part of JOHN
+The Zephyr Song
+Suck My Kiss
+Latest Disgrace tease
+Parallel Universe
+I Feel Love part of JOHN
+This Is the Place
+Otherside
+Throw Away Your Television
+Purple Stain abandoned
+Purple Stain
+Don't Forget Me
+London Calling tease
+Right on Time
+Soul to Squeeze
+Can't Stop
+Venice Queen
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Fire
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Snoop Dog
 
 ## Media 
 
@@ -23,6 +49,8 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio: AKG CK-91 > Sony ECMS > SBM-1 > Sony TCD-D8 DAT(M) > FLAC recorded by unknown
 
 ## Links
 

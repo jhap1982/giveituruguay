@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-All the Young Dudes part of JOHN
-The Zephyr Song
-Suck My Kiss
-Purple Stain
-Throw Away Your Television
-Otherside
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-Warm Tape
-Can't Stop
-Soul to Squeeze
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. All the Young Dudes part of JOHN
+6. The Zephyr Song
+7. Suck My Kiss
+8. Purple Stain
+9. Throw Away Your Television
+10. Otherside
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. Warm Tape
+17. Can't Stop
+18. Soul to Squeeze
+19. Venice Queen
+20. Give It Away
+<br>ENCORE BREAK
+21. Under the Bridge
+22. Fire
+23. Outro Jam
 
 ## Notes
 

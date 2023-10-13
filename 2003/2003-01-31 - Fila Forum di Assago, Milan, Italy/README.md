@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Suck My Kiss
-Otherside
-Havana Affair
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-I Love Livin' in the City part of JOHN
-London Calling tease
-Right on Time
-Soul to Squeeze
-Minor Thing
-Can't Stop
-Warm Tape
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Suck My Kiss
+7. Otherside
+8. Havana Affair
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Don't Forget Me
+12. I Love Livin' in the City part of JOHN
+13. London Calling tease
+14. Right on Time
+15. Soul to Squeeze
+16. Minor Thing
+17. Can't Stop
+18. Warm Tape
+19. Californication
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. Search and Destroy
+23. Outro Jam
 
 ## Notes
 

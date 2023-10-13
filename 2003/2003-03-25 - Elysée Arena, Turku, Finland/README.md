@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Lament part of JOHN
-The Zephyr Song
-Suck My Kiss
-This Is the Place
-Latest Disgrace tease
-Parallel Universe
-Otherside
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Warm Tape
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Love Gun part of JOHN
-Under the Bridge
-Police Helicopter
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Lament part of JOHN
+6. The Zephyr Song
+7. Suck My Kiss
+8. This Is the Place
+9. Latest Disgrace tease
+10. Parallel Universe
+11. Otherside
+12. Purple Stain
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. Soul to Squeeze
+17. Warm Tape
+18. Can't Stop
+19. Californication
+20. Give It Away
+<br> ENCORE BREAK
+21. Love Gun part of JOHN
+22. Under the Bridge
+23. Police Helicopter
+24. Me and My Friends
 
 ## Notes
 

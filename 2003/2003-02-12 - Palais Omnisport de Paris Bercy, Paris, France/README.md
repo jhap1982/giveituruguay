@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Suck My Kiss
-Purple Stain
-Latest Disgrace tease
-Parallel Universe
-Otherside
-Throw Away Your Television
-Maybe part of JOHN
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-Venice Queen
-Give It Away
-ENCORE BREAK
-Love Gun part of JOHN
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Suck My Kiss
+7. Purple Stain
+8. Latest Disgrace tease
+9. Parallel Universe
+10. Otherside
+11. Throw Away Your Television
+12. Maybe part of JOHN
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. I Could Have Lied
+17. Can't Stop
+18. Californication
+19. Venice Queen
+20. Give It Away
+<br> ENCORE BREAK
+21. Love Gun part of JOHN
+22. Under the Bridge
+23. Fire
 
 ## Notes
 

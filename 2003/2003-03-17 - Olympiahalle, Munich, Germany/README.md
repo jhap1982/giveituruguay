@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-See Emily Play part of JOHN
-The Zephyr Song
-Havana Affair
-Throw Away Your Television
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-If You Have to Ask
-Warm Tape
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. See Emily Play part of JOHN
+9. The Zephyr Song
+10. Havana Affair
+11. Throw Away Your Television
+12. Otherside
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. If You Have to Ask
+17. Warm Tape
+18. Can't Stop
+19. Venice Queen
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. The Power of Equality
 
 ## Notes
 

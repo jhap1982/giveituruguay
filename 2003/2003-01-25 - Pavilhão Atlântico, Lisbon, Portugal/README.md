@@ -53,4 +53,3 @@
 * AUD #1 audience audio: unknown mic > unknown recorder ? > MP3 recorded by unknownThere's no lossless transfer circulating of this recording.
 
 ## Links
-

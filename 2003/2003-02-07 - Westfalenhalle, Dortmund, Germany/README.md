@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Havana Affair
-The Zephyr Song
-Throw Away Your Television
-Otherside
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-Tiny Dancer part of JOHN
-Maybe part of JOHN
-London Calling tease
-Right on Time
-Warm Tape
-Can't Stop
-I Could Have Lied
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Havana Affair
+7. The Zephyr Song
+8. Throw Away Your Television
+9. Otherside
+10. Latest Disgrace tease
+11. Parallel Universe
+12. Don't Forget Me
+13. Tiny Dancer part of JOHN
+14. Maybe part of JOHN
+15. London Calling tease
+16. Right on Time
+17. Warm Tape
+18. Can't Stop
+19. I Could Have Lied
+20. Venice Queen
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Search and Destroy
+24. Outro Jam
 
 ## Notes
 
@@ -54,4 +54,3 @@ Outro Jam
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 
 ## Links
-

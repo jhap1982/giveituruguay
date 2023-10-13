@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-If You Have to Ask
-Hardcore Jollies tease
-Otherside
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-Minor Thing
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Suck My Kiss
+7. The Zephyr Song
+8. If You Have to Ask
+9. Hardcore Jollies tease
+10. Otherside
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. I Could Have Lied
+17. Can't Stop
+18. Californication
+19. Minor Thing
+20. Give It Away
+<br>ENCORE BREAK
+21. Under the Bridge
+22. Me and My Friends
 
 ## Notes
 
@@ -52,4 +52,3 @@ Me and My Friends
 * AMT #2 amateur video: built-in > Canon Elura 40MC MiniDV(M) > MP4 recorded by Alessandro LazzarinMissing "Don't Forget Me", half of "Under the Bridge" and "Me and My Friends". Transfer in circulation is taken from YouTube.
 
 ## Links
-

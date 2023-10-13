@@ -31,7 +31,7 @@ Outro Jam
 
 ## Notes
 
-Support: French Toast, Queens of the Stone Age
+**Support**: French Toast, Queens of the Stone Age
 
 ## Media 
 
@@ -55,4 +55,3 @@ Support: French Toast, Queens of the Stone Age
 * AUD #2 audience audio: Shure SM98 > Sony PCM-M1 DAT(M) > FLAC recorded by CPS
 
 ## Links
-

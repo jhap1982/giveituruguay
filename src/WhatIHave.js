@@ -2847,6 +2847,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2003-05-12 - Corel Center, Ottawa, Canada</td>
+                            <td>
+                                [AUD #1][FLAC][525 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2003-05-15 - Centre Bell, Montreal, Canada</td>
                             <td>
                                 [AMT #1][MP4][785 MB]
@@ -2897,6 +2904,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2003-06-08 - HiFi Buys Amphitheatre, Atlanta, GA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][601 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2003-06-13 - Verizon Wireless Amphitheatre, Selma, TX, USA</td>
                             <td>
                                 [AUD #1][FLAC][411 MB]
@@ -2933,6 +2947,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2003-08-19 - Parkbüne Wuhlheide, Berlin, Germany</td>
+                            <td>
+                                [AUD #1][FLAC][288 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2003-08-21 - Landschaftspark Nord, Duisburg, Germany</td>
                             <td>
                                 [AUD #1][FLAC][529 MB]
@@ -2950,7 +2971,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2003-08-24 - Glasgow Green, Glasgow, Scotland</td>
                             <td>
-                                [AUD #1][MP3][116 MB]
+                                [AUD #1][FLAC][612 MB]
                             </td>
                         </tr>
 
@@ -2976,6 +2997,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2003-09-12 - Tweeter Center at The Waterfront, Camden, NJ, USA</td>
+                            <td>
+                                [SBD #1][FLAC][505 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2003-10-08 - Mandalay Bay Events Center, Las Vegas, NV, USA</td>
                             <td>
                                 [AUD #1][FLAC][445 MB]
@@ -2986,6 +3014,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2003-10-11 - Great Western Forum, Inglewood, CA, USA</td>
                             <td>
                                 [MIX #1][DVD][3,50 GB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2003-10-14 - Coors Amphitheatre, Chula Vista, CA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][709 MB]
                             </td>
                         </tr>
 

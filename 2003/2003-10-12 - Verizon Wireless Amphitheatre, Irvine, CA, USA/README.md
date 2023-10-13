@@ -2,9 +2,36 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+Universally Speaking
+Suck My Kiss
+Latest Disgrace tease
+Parallel Universe
+The Zephyr Song
+Throw Away Your Television
+Don't You Ever Leave jam
+Havana Affair
+Otherside
+Purple Stain
+Don't Forget Me
+London Calling tease
+Right on Time
+Soul to Squeeze
+Can't Stop
+Californication
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Sir Psycho Sexy
+They're Red Hot
+Fire
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Mike Watt, The Flaming Lips
 
 ## Media 
 

@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Havana Affair
-The Zephyr Song
-If You Have to Ask
-Hardcore Jollies tease
-Otherside
-Latest Disgrace tease
-Parallel Universe
-Don't Forget Me
-Fox on the Run part of JOHN
-London Calling tease
-Right on Time
-Blood Sugar Sex Magik
-Show of Strength tease
-I Could Have Lied
-Can't Stop
-Give It Away
-ENCORE BREAK
-Custard Pie tease
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Havana Affair
+7. The Zephyr Song
+8. If You Have to Ask
+9. Hardcore Jollies tease
+10. Otherside
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Don't Forget Me
+14. Fox on the Run part of JOHN
+15. London Calling tease
+16. Right on Time
+17. Blood Sugar Sex Magik
+18. Show of Strength tease
+19. I Could Have Lied
+20. Can't Stop
+21. Give It Away
+<br> ENCORE BREAK
+22. Custard Pie tease
+23. Under the Bridge
+24. Me and My Friends
 
 ## Notes
 
@@ -54,4 +54,3 @@ Me and My Friends
 * AUD #2 audience audio: built-in > voice recorder ANA(M) > FLAC recorded by PehjottAround 50 minutes were recorded, the taper paused the recording between pretty much every song and sometimes within a song, hence most songs are incomplete.
 
 ## Links
-

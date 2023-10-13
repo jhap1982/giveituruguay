@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Fox on the Run part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-Flea Fly tease
-The Zephyr Song
-Havana Affair
-Throw Away Your Television
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-If You Have to Ask
-Hardcore Jollies tease
-I Could Have Lied
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Fox on the Run part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. Flea Fly tease
+10. The Zephyr Song
+11. Havana Affair
+12. Throw Away Your Television
+13. Otherside
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. If You Have to Ask
+18. Hardcore Jollies tease
+19. I Could Have Lied
+20. Can't Stop
+21. Venice Queen
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Fire
 
 ## Notes
 

@@ -2,9 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+By the Way
+Scar Tissue
+Around the World
+The Zephyr Song
+Latest Disgrace tease
+Parallel Universe
+Suck My Kiss
+Throw Away Your Television
+Otherside
+Purple Stain
+Don't Forget Me
+London Calling tease
+Right on Time
+Can't Stop
+Soul to Squeeze
+Give It Away
+ENCORE BREAK
+Under the Bridge
+Sir Psycho Sexy
+They're Red Hot
+
 ## Notes
 
-**Other Acts**: -
+**Support**: Snoop Dog
 
 ## Media 
 

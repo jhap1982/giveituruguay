@@ -52,12 +52,11 @@ Me and My Friends
 
 ## Recordings
 
-AUD #1
-audience audiounknown mic > unknown recorder? > FLACrecorded by unknownDOWNLOADLISTEN  AUD #2
-audience audioSonic Studios DSM-6s/L > PA-6LC (65) > Sony TCD-D100DAT(M) > FLACrecorded by A.T.Could be the info for AUD #1. NOT CIRCULATING   AMT #1
-amateur videobuilt-in > unknown camera? > DVDrecorded by unknown AMT #2
-amateur videobuilt-in > unknown camera? > DVDrecorded by NYC Bitch CommitteeAMT #1 is probably from the same taper. NOT CIRCULATING   MIX #1
-mixed videobuilt-in > unknown cameras? > DVDrecorded by NYC Bitch CommitteeMix of both amateur video sources.NOT CIRCULATING
+* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown 
+* AUD #2 audience audioSonic Studios DSM-6s/L > PA-6LC (65) > Sony TCD-D100 DAT(M) > FLAC recorded by A.T.Could be the info for AUD #1. **NOT CIRCULATING**  
+* AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by unknown 
+* AMT #2 amateur video: built-in > unknown camera ? > DVD recorded by NYC Bitch Committee AMT #1 is probably from the same taper. **NOT CIRCULATING**   
+* MIX #1 mixed video: built-in > unknown cameras ? > DVD recorded by NYC Bitch Committee Mix of both amateur video sources. **NOT CIRCULATING**
 
 ## Links
 

@@ -54,4 +54,3 @@
 * AMT #1 amateur video: built-in > unknown camera MiniDV(M) > DVD recorded by unknown
 
 ## Links
-

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Suck My Kiss
-This Is the Place
-Latest Disgrace tease
-Parallel Universe
-Otherside
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Warm Tape
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Suck My Kiss
+7. This Is the Place
+8. Latest Disgrace tease
+9. Parallel Universe
+10. Otherside
+11. Purple Stain
+12. Don't Forget Me
+13. London Calling tease
+14. Right on Time
+15. Soul to Squeeze
+16. Warm Tape
+17. Can't Stop
+18. Californication
+19. Give It Away
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

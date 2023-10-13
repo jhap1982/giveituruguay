@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-One Day (at a Time) part of JOHN
-Universally Speaking
-Suck My Kiss
-The Zephyr Song
-If You Have to Ask
-Hardcore Jollies tease
-Latest Disgrace tease
-Parallel Universe
-Ca Plane Pour Moi tease FLEA
-Otherside
-Throw Away Your Television
-Don't Forget Me
-London Calling tease
-Right on Time
-Warm Tape
-Can't Stop
-Soul to Squeeze
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. One Day (at a Time) part of JOHN
+6. Universally Speaking
+7. Suck My Kiss
+8. The Zephyr Song
+9. If You Have to Ask
+10. Hardcore Jollies tease
+11. Latest Disgrace tease
+12. Parallel Universe
+13. Ca Plane Pour Moi tease FLEA
+14. Otherside
+15. Throw Away Your Television
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. Warm Tape
+20. Can't Stop
+21. Soul to Squeeze
+22. Give It Away
+<br>ENCORE BREAK
+23. Under the Bridge
+24. Search and Destroy
+25. Outro Jam
 
 ## Notes
 
@@ -50,7 +50,6 @@ Outro Jam
 ### Additional Musicians
 
 ## Recordings
-
 
 * AUD #1 audience audio: MM-MCSM-4 > MM-EBM-1-CUSTOM Battery Box > Sharp MD-MT831 MD(M) > FLAC recorded by Casper (aka CAS)  
 * AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown

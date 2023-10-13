@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-This Is the Place
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-If You Have to Ask
-Hardcore Jollies tease
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Blue Monday tease
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. This Is the Place
+7. Latest Disgrace tease
+8. Parallel Universe
+9. The Zephyr Song
+10. Throw Away Your Television
+11. Otherside
+12. Don't Forget Me
+13. London Calling tease
+14. Right on Time
+15. If You Have to Ask
+16. Hardcore Jollies tease
+17. Soul to Squeeze
+18. Can't Stop
+19. Venice Queen
+20. Give It Away
+<br> ENCORE BREAK
+21. Blue Monday tease
+22. Under the Bridge
+23. The Power of Equality
 
 ## Notes
 
@@ -52,4 +52,3 @@ The Power of Equality
 * AUD #1 audience audio: AT831b > Sony PCM-M1 DAT(M) > FLAC recorded by Mark Jackson
 
 ## Links
-
