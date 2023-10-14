@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Tell Me Baby
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Me and My Friends
-Strip My Mind
-London Calling tease
-Right on Time
-Don't Forget Me
-How Deep Is Your Love? part of JOHN
-Torture Me
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Tell Me Baby
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Snow ((Hey Oh))
+11. Me and My Friends
+12. Strip My Mind
+13. London Calling tease
+14. Right on Time
+15. Don't Forget Me
+16. How Deep Is Your Love? part of JOHN
+17. Torture Me
+18. Californication
+19. What Is Soul? jam
+20. By the Way
+<br> ENCORE BREAK
+21. Under the Bridge
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

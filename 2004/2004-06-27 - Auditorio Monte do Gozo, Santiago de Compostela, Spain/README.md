@@ -50,7 +50,6 @@
 
 ## Recordings
 
-AUD #1
-audience audiocustom mics > Sharp MD-MS721HMD(M) > FLAC > MP3recorded by Franco FenoglioMissing everything after "Brandy" due to the battery running out. There's no lossless transfer circulating of this recording.
+* AUD #1 audience audio: custom mics > Sharp MD-MS721H MD(M) > FLAC > MP3 recorded by Franco Fenoglio Missing everything after "Brandy" due to the battery running out. There's no lossless transfer circulating of this recording.
 
 ## Links
