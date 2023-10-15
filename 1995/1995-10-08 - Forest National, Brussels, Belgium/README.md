@@ -52,4 +52,3 @@
 * AMT #1 amateur video: built-in > unknown camera Hi8(M) > DVD recorded by J.F. & C.C.
 
 ## Links
-

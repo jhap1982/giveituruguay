@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Give It Away
-Suck My Kiss
-Walkabout
-Warped
-Blood Sugar Sex Magik
-My Friends
-Heroin part of DAVE
-Higher Ground
-Backwoods
-Pea
-Coffee Shop
-Aeroplane
-One Big Mob
-Under the Bridge
-Spiritual part of FLEA
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Suffragette City
+1. Give It Away
+2. Suck My Kiss
+3. Walkabout
+4. Warped
+5. Blood Sugar Sex Magik
+6. My Friends
+7. Heroin part of DAVE
+8. Higher Ground
+9. Backwoods
+10. Pea
+11. Coffee Shop
+12. Aeroplane
+13. One Big Mob
+14. Under the Bridge
+15. Spiritual part of FLEA
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Deep Kick
+18. Suffragette City
 
 ## Notes
 
@@ -48,4 +48,3 @@ Suffragette City
 ## Recordings
 
 ## Links
-

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Give It Away
-Suck My Kiss
-Warped
-Walkabout
-Warped
-Backwoods
-My Friends
-Heroin part of DAVE
-Higher Ground
-Blood Sugar Sex Magik
-Pea
-Coffee Shop
-Aeroplane
-One Big Mob
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Nevermind
+1. Give It Away
+2. Suck My Kiss
+3. Warped
+4. Walkabout
+5. Warped
+6. Backwoods
+7. My Friends
+8. Heroin part of DAVE
+9. Higher Ground
+10. Blood Sugar Sex Magik
+11. Pea
+12. Coffee Shop
+13. Aeroplane
+14. One Big Mob
+15. Under the Bridge
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Deep Kick
+18. Nevermind
 
 ## Notes
 
@@ -50,4 +50,3 @@ Nevermind
 * AMT #1 amateur video: built-in > unknown camera 8mm(M) > MKV recorded by Rajeev Singh
 
 ## Links
-

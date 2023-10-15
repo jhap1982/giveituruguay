@@ -42,6 +42,7 @@
 * 2023-09-23 - Global Citizen Festival, Central Park, NYC, USA
 * 2023-09-27 - Hersheypark Stadium, Herhsey, PA, USA
 * 2023-09-30 - Seaside Park (Sound on Sound Festival), Birdgeport, CT, USA
+* 2023-10-14 - Silverlake Conservatory of Music, Los Angeles, CA, USA 
 * 2023-10-31 - Estadio Nacional de Costa Rica, San Jose, Costa Rica
 * 2023-11-04 - Estádio Olímpico Nilton Santos, Rio de Janeiro, Brazil
 * 2023-11-07 - Arena BRB Mané Garrincha, Brasilia, Brazil

@@ -35,4 +35,3 @@
 * AMT #1 amateur video: built-in > unknown camera VHS(M) recorded by unknown **NOT CIRCULATING**
 
 ## Links
-

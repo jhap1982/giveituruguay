@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Freaky Styley part of
-Night of the Thumpasorus Peoples part of
-Suck My Kiss
-Give It Away
-Aeroplane
-Warped
-Electric Funeral tease
-Walkabout
-Come as You Are tease
-Backwoods
-Sweet Home Alabama tease
-Southern Man FLEA
-My Friends
-Venus in Furs part of DAVE
-Higher Ground
-Pea
-Coffee Shop
-Sound and Vision part of
-One Big Mob
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Nevermind
-Manic Depression jam
+1. Freaky Styley part of
+2. Night of the Thumpasorus Peoples part of
+3. Suck My Kiss
+4. Give It Away
+5. Aeroplane
+6. Warped
+7. Electric Funeral tease
+8. Walkabout
+9. Come as You Are tease
+10. Backwoods
+11. Sweet Home Alabama tease
+12. Southern Man FLEA
+13. My Friends
+14. Venus in Furs part of DAVE
+15. Higher Ground
+16. Pea 
+17. Coffee Shop
+18. Sound and Vision part of
+19. One Big Mob
+20. Under the Bridge
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Deep Kick
+23. Nevermind
+24. Manic Depression jam
 
 ## Notes
 
@@ -57,4 +57,3 @@ Manic Depression jam
 * AUD #2 audience audio: unknown mic > unknown recorder DAT(M) > FLAC recorded by unknown
 
 ## Links
-

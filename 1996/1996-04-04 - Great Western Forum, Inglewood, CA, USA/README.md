@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Freaky Styley part of
-Give It Away
-Suck My Kiss
-Warped
-Electric Funeral tease
-Walkabout
-Come as You Are tease
-Backwoods
-My Friends
-Heroin part of DAVE
-Higher Ground
-Blood Sugar Sex Magik
-Pea
-Coffee Shop
-Aeroplane
-One Big Mob
-Under the Bridge
-Spiritual part of FLEA
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Nevermind
+1. Freaky Styley part of
+2. Give It Away
+3. Suck My Kiss
+4. Warped
+5. Electric Funeral tease
+6. Walkabout
+7. Come as You Are tease
+8. Backwoods
+9. My Friends
+10. Heroin part of DAVE
+11. Higher Ground
+12. Blood Sugar Sex Magik
+13. Pea
+14. Coffee Shop
+15. Aeroplane
+16. One Big Mob
+17. Under the Bridge
+18. Spiritual part of FLEA
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Deep Kick
+21. Nevermind
 
 ## Notes
 
@@ -57,4 +57,3 @@ Nevermind
 * AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLAC recorded by unknown
 
 ## Links
-

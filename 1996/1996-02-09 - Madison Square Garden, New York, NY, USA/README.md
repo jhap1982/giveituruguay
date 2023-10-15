@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Freaky Styley part of
-Night of the Thumpasorus Peoples part of
-Suck My Kiss
-Give It Away
-Aeroplane
-Warped
-Walkabout
-Come as You Are tease
-Backwoods
-My Friends
-Sound and Vision part of
-Higher Ground
-Pea
-Coffee Shop
-One Big Mob
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-I Wanna Be Your Dog
-Nevermind
+1. Freaky Styley part of
+2. Night of the Thumpasorus Peoples part of
+3. Suck My Kiss
+4. Give It Away
+5. Aeroplane
+6. Warped
+7. Walkabout
+8. Come as You Are tease
+9. Backwoods
+10. My Friends
+11. Sound and Vision part of
+12. Higher Ground
+13. Pea
+14. Coffee Shop
+15. One Big Mob
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Deep Kick
+19. I Wanna Be Your Dog
+20. Nevermind
 
 ## Notes
 

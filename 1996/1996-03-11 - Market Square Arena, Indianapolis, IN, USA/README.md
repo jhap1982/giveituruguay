@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Freaky Styley part of
-Night of the Thumpasorus Peoples part of
-Suck My Kiss
-Give It Away
-Aeroplane
-Warped
-Walkabout
-Backwoods
-Anarchy in the U.K. part of FLEA
-My Friends
-Venus in Furs part of DAVE
-Higher Ground
-Pea
-Coffee Shop
-Sound and Vision part of
-One Big Mob
-Under the Bridge
-Red Hot Mama part of
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Nevermind
+1. Freaky Styley part of
+2. Night of the Thumpasorus Peoples part of
+3. Suck My Kiss
+4. Give It Away
+5. Aeroplane
+6. Warped
+7. Walkabout
+8. Backwoods
+9. Anarchy in the U.K. part of FLEA
+10. My Friends
+11. Venus in Furs part of DAVE
+12. Higher Ground
+13. Pea
+14. Coffee Shop
+15. Sound and Vision part of
+16. One Big Mob
+17. Under the Bridge
+18. Red Hot Mama part of
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Deep Kick
+21. Nevermind
 
 ## Notes
 
@@ -53,4 +53,3 @@ Nevermind
 * AUD #1 audience audio: unknown mic > unknown recorder ANA(M) > FLAC recorded by unknown
 
 ## Links
-

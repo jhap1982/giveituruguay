@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Freaky Styley part of
-Night of the Thumpasorus Peoples part of
-Suck My Kiss
-Give It Away
-Jean-Pierre tease
-Aeroplane
-Warped
-Walkabout
-Come as You Are tease
-Backwoods
-Tearjerker tease
-My Friends
-Sound and Vision part of
-Higher Ground
-Pea
-One Big Mob
-If You Want Me to Stay tease
-Coffee Shop
-Don't Touch That Stereo tease
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Deep Kick
-Nevermind
-Manic Depression jam
+1. Freaky Styley part of
+2. Night of the Thumpasorus Peoples part of
+3. Suck My Kiss
+4. Give It Away
+5. Jean-Pierre tease
+6. Aeroplane
+7. Warped
+8. Walkabout
+9. Come as You Are tease
+10. Backwoods
+11. Tearjerker tease
+12. My Friends
+13. Sound and Vision part of
+14. Higher Ground
+15. Pea
+16. One Big Mob
+17. If You Want Me to Stay tease
+18. Coffee Shop
+19. Don't Touch That Stereo tease
+20. Under the Bridge
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Deep Kick
+23. Nevermind
+24. Manic Depression jam
 
 ## Notes
 

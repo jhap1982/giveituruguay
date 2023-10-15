@@ -59,7 +59,7 @@ Footage from this show was used for the "Coffee Shop" music video and on the unr
 
 ## Recordings
 
-* AUD #1 audience audio Sony ECM-727p > Sony TCD-D7 DAT(M) > FLAC recorded by Don 
+* AUD #1 audience audio: Sony ECM-727p > Sony TCD-D7 DAT(M) > FLAC recorded by Don 
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown
 
 ## Links

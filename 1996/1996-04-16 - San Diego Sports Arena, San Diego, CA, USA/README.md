@@ -2,19 +2,19 @@
 
 ## Setlist
 
-Give It Away
-Suck My Kiss
-Warped
-Electric Funeral tease
-Walkabout
-Backwoods
-My Friends
-Heroin part of DAVE
-Higher Ground
-Blood Sugar Sex Magik
-Pea
-Coffee Shop
-Aeroplane
+1. Give It Away
+2. Suck My Kiss
+3. Warped
+4. Electric Funeral tease
+5. Walkabout
+6. Backwoods
+7. My Friends
+8. Heroin part of DAVE
+9. Higher Ground
+10. Blood Sugar Sex Magik
+11. Pea
+12. Coffee Shop
+13. Aeroplane
 One Big Mob
 Under the Bridge
 Me and My Friends
