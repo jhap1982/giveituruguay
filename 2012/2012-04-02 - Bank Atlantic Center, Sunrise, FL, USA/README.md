@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Look Around
-Universally Speaking
-Police Station
-Parallel Universe
-The Adventures of Rain Dance Maggie
-Right on Time
-Factory of Faith
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Everybody Knows This Is Nowhere
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Look Around
+6. Universally Speaking
+7. Police Station
+8. Parallel Universe
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Factory of Faith
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Everybody Knows This Is Nowhere
+19. Give It Away
+20. Encore jam
+21. Outro Jam
 
 ## Notes
 

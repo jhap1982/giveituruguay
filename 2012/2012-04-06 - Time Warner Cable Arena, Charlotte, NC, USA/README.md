@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Look Around
-She's Only 18
-Suck My Kiss
-Annie Wants a Baby
-Blood Sugar Sex Magik
-Show of Strength tease
-The Adventures of Rain Dance Maggie
-Higher Ground
-Under the Bridge
-Factory of Faith
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Look Around
+6. She's Only 18
+7. Suck My Kiss
+8. Annie Wants a Baby
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. The Adventures of Rain Dance Maggie
+12. Higher Ground
+13. Under the Bridge
+14. Factory of Faith
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. The Power of Equality
+19. I Could Have Lied
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

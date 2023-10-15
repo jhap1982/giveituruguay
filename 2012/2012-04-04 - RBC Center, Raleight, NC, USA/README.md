@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Otherside
-Look Around
-Throw Away Your Television
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Happiness Loves Company
-Me and My Friends
-Ethiopia
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Can't Stop
-Meet Me at the Corner
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Otherside
+5. Look Around
+6. Throw Away Your Television
+7. Hard to Concentrate
+8. The Adventures of Rain Dance Maggie
+9. Happiness Loves Company
+10. Me and My Friends
+11. Ethiopia
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Can't Stop
+18. Meet Me at the Corner
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 
