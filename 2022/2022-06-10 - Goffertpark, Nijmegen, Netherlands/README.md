@@ -28,6 +28,7 @@
 > Although "Under the Bridge" is seen on the handwritten setlist, it was replaced by "Soul to Squeeze" (originally intended for the encore and then being changed for "I Could Have Lied").
 
 **Attendance**: 65,000 / 65,000 (100%)
+<br>
 **Support**: Thundercat, Nas
 
 ## Media 
@@ -45,6 +46,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

@@ -27,6 +27,7 @@
 > "Under the Bridge" is seen on the handwritten setlist but was skipped.
 
 **Attendance**: 42,905 / 42,905 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -44,6 +45,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

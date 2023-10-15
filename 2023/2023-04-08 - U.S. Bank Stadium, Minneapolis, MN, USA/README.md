@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Aquatic Mouth Dance
-Otherside
-These Are the Ways
-Universally Speaking
-Tippa My Tongue
-London Calling tease
-Right on Time
-Tell Me Baby
-Your Song part of JOHN
-Whatchu Thinkin'
-Californication
-Carry Me Home
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Aquatic Mouth Dance
+6. Otherside
+7. These Are the Ways
+8. Universally Speaking
+9. Tippa My Tongue
+10. London Calling tease
+11. Right on Time
+12. Tell Me Baby
+13. Your Song part of JOHN
+14. Whatchu Thinkin'
+15. Californication
+16. Carry Me Home
+17. Black Summer
+18. By the Way
+<br>ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
 
 ## Notes
 
@@ -45,6 +45,7 @@ Give It Away
 * Chad Smith
 
 ### Additonal Musicians:
+
 * Chris Warren
 
 ## Recordings

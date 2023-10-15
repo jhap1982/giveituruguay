@@ -25,6 +25,7 @@
 ## Notes
 
 **Attendance**: 30,112 / 30,112 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -42,6 +43,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

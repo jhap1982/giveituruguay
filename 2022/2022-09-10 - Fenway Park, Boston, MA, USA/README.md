@@ -26,6 +26,7 @@
 ## Notes
 
 **Attendance**: 37,516 / 37,516 (100%)
+<br>
 **Support**: Thundercat, St. Vincent
 
 ## Media 
@@ -43,6 +44,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

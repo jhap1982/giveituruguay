@@ -29,6 +29,7 @@
 > Although "Under the Bridge" is seen on the handwritten setlist, it was replaced by "Sir Psycho Sexy" and "They're Red Hot".
 
 **Attendance**: 37,248 / 37,248 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -46,6 +47,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

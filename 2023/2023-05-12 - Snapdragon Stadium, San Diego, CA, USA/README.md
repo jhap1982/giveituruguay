@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-The Zephyr Song
-Dani California
-Aquatic Mouth Dance
-Danny's Song part of JOHN
-Otherside
-Blood Sugar Sex Magik
-Show of Strength tease
-London Calling tease
-Right on Time
-Tippa My Tongue
-Soul to Squeeze
-Eddie
-Hard to Concentrate
-Carry Me Home
-Californication
-Break on Through (to the Other Side) tease
-Black Summer
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. The Zephyr Song
+4. Dani California
+5. Aquatic Mouth Dance
+6. Danny's Song part of JOHN
+7. Otherside
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. London Calling tease
+11. Right on Time
+12. Tippa My Tongue
+13. Soul to Squeeze
+14. Eddie
+15. Hard to Concentrate
+16. Carry Me Home
+17. Californication
+18. Break on Through (to the Other Side) tease
+19. Black Summer
+20. By the Way
+<br> ENCORE BREAK
+21. I Could Have Lied
+22. Give It Away
 
 ## Notes
 
@@ -49,6 +49,7 @@ Give It Away
 * Chad Smith
 
 ### Additonal Musicians:
+
 * Chris Warren
 
 ## Recordings

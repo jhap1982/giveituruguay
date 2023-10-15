@@ -28,6 +28,7 @@
 > Although "Blood Sugar Sex Magik" is seen on the handwritten setlist, it was replaced by "Throw Away Your Television".
 
 **Attendance**: 45,308 / 45,308 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -45,6 +46,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

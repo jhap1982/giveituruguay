@@ -28,9 +28,6 @@
 <br>
 **Support**: City and Colour, King Princess
 
-### Additonal Musicians:
-* Chris Warren
-
 ## Media 
 
 <details>
@@ -44,6 +41,9 @@
 * Flea
 * John Frusciante
 * Chad Smith
+
+### Additonal Musicians:
+* Chris Warren
 
 ## Recordings
 

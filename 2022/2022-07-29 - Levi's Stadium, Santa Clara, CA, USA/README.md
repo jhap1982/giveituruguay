@@ -25,6 +25,7 @@
 ## Notes
 
 **Attendance**: 45,743 / 45,743 (100%)
+<br>
 **Support**: Thundercat, Beck
 
 ## Media 
@@ -42,6 +43,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

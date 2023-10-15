@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Aquatic Mouth Dance
-Wet Sand
-Eddie
-Reach Out
-Soul to Squeeze
-The Heavy Wing
-London Calling tease
-Right on Time
-Tippa My Tongue
-Californication
-What Is Soul? jam
-Carry Me Home
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Aquatic Mouth Dance
+6. Wet Sand
+7. Eddie
+8. Reach Out
+9. Soul to Squeeze
+10. The Heavy Wing
+11. London Calling tease
+12. Right on Time
+13. Tippa My Tongue
+14. Californication
+15. What Is Soul? jam
+16. Carry Me Home
+17. Black Summer
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
 
 ## Notes
 

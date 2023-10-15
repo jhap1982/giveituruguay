@@ -2,27 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Scar Tissue
-Dani California
-Aquatic Mouth Dance
-Parallel Universe
-Soul to Squeeze
-London Calling tease
-Right on Time
-Whatchu Thinkin'
-Dreamboy/Dreamgirl part of JOHN
-Tell Me Baby
-Eddie
-Wet Sand
-The Heavy Wing
-Californication
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Aquatic Mouth Dance
+6. Parallel Universe
+7. Soul to Squeeze
+8. London Calling tease
+9. Right on Time
+10. Whatchu Thinkin'
+11. Dreamboy/Dreamgirl part of JOHN
+12. Tell Me Baby
+13. Eddie
+14. Wet Sand
+15. The Heavy Wing
+16. Californication
+17. Black Summer
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
+
 ## Notes
 
 **Other Acts**: King Princess, Iggy Pop

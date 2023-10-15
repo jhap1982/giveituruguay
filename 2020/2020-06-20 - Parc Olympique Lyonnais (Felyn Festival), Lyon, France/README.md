@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Rescheduled to June 19, 2021 due to the worldwide COVID-19 pandemic.
+> Rescheduled to **June 19, 2021** due to the worldwide COVID-19 pandemic.
 
 ## Media 
 

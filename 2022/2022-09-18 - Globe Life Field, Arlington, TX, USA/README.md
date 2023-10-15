@@ -28,6 +28,7 @@
 > Although "Under the Bridge" is seen on the handwritten setlist, it was replaced by "I Could Have Lied".
 
 **Attendance**: 41,362 / 41,362 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -45,6 +46,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

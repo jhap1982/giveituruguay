@@ -25,6 +25,7 @@ By the Way
 * Chad Smith
 
 ### Additional Musicians
+
 * Nate Walcott  
 
 ## Recordings

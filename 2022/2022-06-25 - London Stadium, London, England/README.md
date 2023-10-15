@@ -25,6 +25,7 @@
 ## Notes
 
 **Attendance**: 70,849 / 70,849 (100%)
+<br>
 **Support**: Thundercat, Anderson .Paak & the Free Nationals
 
 ## Media 
@@ -42,6 +43,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

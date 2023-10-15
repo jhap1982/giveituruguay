@@ -14,7 +14,6 @@
 10. Californication
 11. By the Way
 
-
 ## Notes
 
 > RHCP join with Global Citizen to call for action For Equity, For the Planet, For Food, For Jobs.
@@ -39,7 +38,6 @@
 * Flea
 * John Frusciante
 * Chad Smith
-
 
 ### Aditional Musicians
 

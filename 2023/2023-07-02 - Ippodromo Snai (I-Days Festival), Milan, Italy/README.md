@@ -2,28 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Scar Tissue
-Snow ((Hey Oh))
-Eddie
-I Like Dirt
-Otherside
-Me and My Friends
-Wet Sand
-Whatchu Thinkin'
-Carry Me Home
-Californication
-Black Summer
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Scar Tissue
+4. Snow ((Hey Oh))
+5. Eddie
+6. I Like Dirt
+7. Otherside
+8. Me and My Friends
+9. Wet Sand
+10. Whatchu Thinkin'
+11. Carry Me Home
+12. Californication
+13. Black Summer
+14. By the Way
+<br> ENCORE BREAK
+15. I Could Have Lied
+16. Give It Away
 
 ## Notes
 
 **Other Acts**: Studio Murena, Primal Scream, Skunk Anansie
-
 
 ## Media 
 

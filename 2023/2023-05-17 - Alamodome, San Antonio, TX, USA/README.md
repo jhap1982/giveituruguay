@@ -1,27 +1,27 @@
 # Info
 
-Intro Jam
-Can't Stop
-Universally Speaking
-Dani California
-Aquatic Mouth Dance
-Throw Away Your Television
-Soul to Squeeze
-Tippa My Tongue
-Otherside
-London Calling tease
-Right on Time
-Danny's Song part of JOHN
-Whatchu Thinkin'
-Don't Forget Me
-Carry Me Home
-Californication
-Third Stone from the Sun tease
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Universally Speaking
+4. Dani California
+5. Aquatic Mouth Dance
+6. Throw Away Your Television
+7. Soul to Squeeze
+8. Tippa My Tongue
+9. Otherside
+10. London Calling tease
+11. Right on Time
+12. Danny's Song part of JOHN
+13. Whatchu Thinkin'
+14. Don't Forget Me
+15. Carry Me Home
+16. Californication
+17. Third Stone from the Sun tease
+18. Black Summer
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
 
 ## Notes
 

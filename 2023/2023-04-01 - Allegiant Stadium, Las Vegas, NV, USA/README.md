@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Scar Tissue
-Dani California
-Aquatic Mouth Dance
-Parallel Universe
-Tippa My Tongue
-Soul to Squeeze
-London Calling tease
-Right on Time
-Reach Out
-I Like Dirt
-Don't Forget Me
-Californication
-The Heavy Wing
-Black Summer
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Aquatic Mouth Dance
+6. Parallel Universe
+7. Tippa My Tongue
+8. Soul to Squeeze
+9. London Calling tease
+10. Right on Time
+11. Reach Out
+12. I Like Dirt
+13. Don't Forget Me
+14. Californication
+15. The Heavy Wing
+16. Black Summer
+17. By the Way
+<br> ENCORE BREAK
+18. I Could Have Lied
+19. Give It Away
 
 ## Notes
 
@@ -46,6 +46,7 @@ Give It Away
 * Chad Smith
 
 ### Additonal Musicians:
+
 * Chris Warren
 
 ## Recordings

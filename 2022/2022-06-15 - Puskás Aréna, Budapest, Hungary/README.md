@@ -26,6 +26,7 @@
 > “Under the Bridge” is seen on the handwritten setlist but was skipped.
 
 **Attendance**: 47,787 / 47,787 (100%)
+<br>
 **Support**: Thundercat, Nas
 
 ## Media 
@@ -43,6 +44,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

@@ -26,6 +26,7 @@
 ## Notes
 
 **Attendance**: 32,932 / 32,932 (100%)
+<br>
 **Support**: George Clinton & Parliament Funkadelic
 
 ## Media 
@@ -43,6 +44,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Nate Walcott  
 * Samuel Banuelos

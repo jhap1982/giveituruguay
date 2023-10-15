@@ -28,6 +28,7 @@
 ## Notes
 
 **Attendance**: 38,788 / 38,788 (100%)
+<br>
 **Support**: Thundercat, HAIM
 
 ## Media 
@@ -45,6 +46,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

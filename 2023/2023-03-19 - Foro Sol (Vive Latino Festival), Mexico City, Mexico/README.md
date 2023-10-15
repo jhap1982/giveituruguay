@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Aquatic Mouth Dance
-Suck My Kiss
-Eddie
-Soul to Squeeze
-Reach Out
-London Calling tease
-Right on Time
-Tippa My Tongue
-Californication
-Carry Me Home
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Aquatic Mouth Dance
+6. Suck My Kiss
+7. Eddie
+8. Soul to Squeeze
+9. Reach Out
+10. London Calling tease
+11. Right on Time
+12. Tippa My Tongue
+13. Californication
+14. Carry Me Home
+15. Black Summer
+16. By the Way
+<br> ENCORE BREAK
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

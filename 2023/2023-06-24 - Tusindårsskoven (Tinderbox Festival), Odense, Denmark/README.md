@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Universally Speaking
-Dani California
-Aquatic Mouth Dance
-If You Have to Ask
-Hardcore Jollies tease
-London Calling tease
-Right on Time
-Soul to Squeeze
-Reach Out
-Hard to Concentrate
-Carry Me Home
-Californication
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Universally Speaking
+4. Dani California
+5. Aquatic Mouth Dance
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. London Calling tease
+9. Right on Time
+10. Soul to Squeeze
+11. Reach Out
+12. Hard to Concentrate
+13. Carry Me Home
+14. Californication
+15. Black Summer
+16. By the Way
+<br> ENCORE BREAK
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

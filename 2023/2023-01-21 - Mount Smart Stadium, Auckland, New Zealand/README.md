@@ -30,9 +30,6 @@
 <br>
 **Support**: Post Malone
 
-### Additonal Musicians:
-* Chris Warren
-
 ## Media 
 
 <details>
@@ -46,6 +43,9 @@
 * Flea
 * John Frusciante
 * Chad Smith
+
+### Additonal Musicians:
+* Chris Warren
 
 ## Recordings
 

@@ -28,6 +28,7 @@
 > Although "Under the Bridge" is seen on the handwritten setlist, it was replaced by "I Could Have Lied".
 
 **Attendance**: 50,000 / 50,000 (100%)
+<br>
 **Support**: Thundercat, A$AP Rocky
 
 ## Media 
@@ -45,6 +46,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

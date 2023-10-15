@@ -27,6 +27,7 @@
 ## Notes
 
 **Attendance**: 44,045 / 44,045 (100%)
+<br>
 **Support**: King Princess, The Strokes
 
 ## Media 
@@ -44,6 +45,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

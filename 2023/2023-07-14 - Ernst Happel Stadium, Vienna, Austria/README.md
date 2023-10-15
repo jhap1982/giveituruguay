@@ -46,4 +46,3 @@
 ## Recordings
 
 * AUD #1 audience audio: Soundman OKM II Rock > A3 > Roland R-07 WAV > FLACrecorded by Pehjott
-

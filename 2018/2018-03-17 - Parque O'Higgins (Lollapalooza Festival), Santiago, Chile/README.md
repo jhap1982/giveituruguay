@@ -2,7 +2,7 @@
 
 ## Setlist
 
-1. ntro Jam
+1. Intro Jam
 2. Can't Stop
 3. Dani California
 4. Scar Tissue
@@ -46,6 +46,7 @@
 * Chad Smith
 
 ### Additional Musicians:
+
 * Chris Warren  
 * Nate Walcott  
 * Samuel Banuelos

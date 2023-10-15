@@ -1,24 +1,24 @@
 # Info
 
-Intro Jam
-Around the World
-Universally Speaking
-Snow ((Hey Oh))
-Here Ever After
-Don't Forget Me
-Eddie
-Soul to Squeeze
-I Like Dirt
-Danny's Song part of JOHN
-Tell Me Baby
-Reach Out
-Californication
-What Is Soul? jam
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Universally Speaking
+4. Snow ((Hey Oh))
+5. Here Ever After
+6. Don't Forget Me
+7. Eddie
+8. Soul to Squeeze
+9. I Like Dirt
+10. Danny's Song part of JOHN
+11. Tell Me Baby
+12. Reach Out
+13. Californication
+14. What Is Soul? jam
+15. Black Summer
+16. By the Way
+<br> ENCORE BREAK
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

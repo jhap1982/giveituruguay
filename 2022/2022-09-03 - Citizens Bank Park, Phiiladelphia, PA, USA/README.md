@@ -29,6 +29,7 @@
 > Although "Under the Bridge" is seen on the handwritten setlist, it was replaced by "Soul to Squeeze".
 
 **Attendance**: 43,425 / 43,425 (100%)
+<br>
 **Support**: Thundercat, The Strokes
 
 ## Media 
@@ -46,6 +47,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

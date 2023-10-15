@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Universally Speaking
-Dani California
-Aquatic Mouth Dance
-Suck My Kiss
-Soul to Squeeze
-London Calling tease
-Right on Time
-These Are the Ways
-Dreamboy/Dreamgirl part of JOHN
-Tell Me Baby
-The Heavy Wing
-Californication
-What Is Soul? jam
-Black Summer
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Universally Speaking
+4. Dani California
+5. Aquatic Mouth Dance
+6. Suck My Kiss
+7. Soul to Squeeze
+8. London Calling tease
+9. Right on Time
+10. These Are the Ways
+11. Dreamboy/Dreamgirl part of JOHN
+12. Tell Me Baby
+13. The Heavy Wing
+14. Californication
+15. What Is Soul? jam
+16. Black Summer
+17. By the Way
+<br> ENCORE BREAK
+18. Under the Bridge
+19. Give It Away
 
 ## Notes
 

@@ -32,9 +32,6 @@
 **Attendance**: 47,866 / 50,582 (95%)
 **Support**: Post Malone
 
-### Additonal Musicians:
-* Chris Warren
-
 ## Media 
 
 <details>
@@ -48,5 +45,8 @@
 * Flea
 * John Frusciante
 * Chad Smith
+
+### Additonal Musicians:
+* Chris Warren
 
 ## Recordings

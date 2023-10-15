@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Scar Tissue
-Snow ((Hey Oh))
-Here Ever After
-Suck My Kiss
-Tippa My Tongue
-Soul to Squeeze
-Nobody Weird Like Me
-Eddie
-Don't Forget Me
-Carry Me Home
-Californication
-What Is Soul? jam
-Reach Out
-Black Summer
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Scar Tissue
+4. Snow ((Hey Oh))
+5. Here Ever After
+6. Suck My Kiss
+7. Tippa My Tongue
+8. Soul to Squeeze
+9. Nobody Weird Like Me
+10. Eddie
+11. Don't Forget Me
+12. Carry Me Home
+13. Californication
+14. What Is Soul? jam
+15. Reach Out
+16. Black Summer
+17. By the Way
+<br> ENCORE BREAK
+18. I Could Have Lied
+19. Give It Away
 
 ## Notes
 
@@ -46,6 +46,7 @@ Give It Away
 * Chad Smith
 
 ### Additonal Musicians:
+
 * Chris Warren
 
 ## Recordings

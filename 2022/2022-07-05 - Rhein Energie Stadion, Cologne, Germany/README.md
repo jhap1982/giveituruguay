@@ -25,6 +25,7 @@
 ## Notes
 
 **Attendance**: 39,394 / 39,394 (100%)
+<br>
 **Support**: Thundercat, A$AP Rocky
 
 ## Media 
@@ -42,6 +43,7 @@
 * Chad Smith
 
 ## Additional Musicians
+
 * Chris Warren
 
 ## Recordings

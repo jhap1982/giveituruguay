@@ -25,7 +25,6 @@
 
 > Surprise appearance at the WeWork Creator Global Finals.
 
-
 ## Media 
 
 <details>
@@ -41,6 +40,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Nate Walcott  
 * Samuel Banuelos
