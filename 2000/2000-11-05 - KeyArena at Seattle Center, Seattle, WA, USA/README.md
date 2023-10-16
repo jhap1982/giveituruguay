@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Tiny Dancer part of JOHN
-Scar Tissue
-Bring It on Home tease
-I Just Want Some Skank
-Beverly Hills
-If You Have to Ask
-Otherside
-London Calling tease
-Right on Time
-Californication
-Me and My Friends
-ENCORE BREAK
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Tiny Dancer part of JOHN
+5. Scar Tissue
+6. Bring It on Home tease
+7. I Just Want Some Skank
+8. Beverly Hills
+9. If You Have to Ask
+10. Otherside
+11. London Calling tease
+12. Right on Time
+13. Californication
+14. Me and My Friends
+<br> ENCORE BREAK
+15. Search and Destroy
+16. Outro Jam
 
 ## Notes
 

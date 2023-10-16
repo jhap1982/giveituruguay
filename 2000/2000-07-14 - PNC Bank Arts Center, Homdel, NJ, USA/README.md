@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Skinny Sweaty Man
-Otherside
-I Could Have Lied
-Pea
-Easily
-Forming II JOHN
-I Like Dirt
-Californication
-Cold Sweat jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. If You Have to Ask
+7. Skinny Sweaty Man
+8. Otherside
+9. I Could Have Lied
+10. Pea
+11. Easily
+12. Forming II JOHN
+13. I Like Dirt
+14. Californication
+15. Cold Sweat jam
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. The Power of Equality
 
 ## Notes
 

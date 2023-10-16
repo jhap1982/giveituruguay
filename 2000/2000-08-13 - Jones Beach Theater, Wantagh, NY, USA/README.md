@@ -2,21 +2,21 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Otherside
-Skinny Sweaty Man
-Blood Sugar Sex Magik
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Otherside
+6. Skinny Sweaty Man
+7. Blood Sugar Sex Magik
+8. Californication
+9. London Calling tease
+10. Right on Time
+11. Under the Bridge
+12. Me and My Friends
+<br> ENCORE BREAK
+13. Soul to Squeeze
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

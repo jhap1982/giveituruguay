@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Forming II JOHN
-Scar Tissue
-My Lovely Man
-Subterranean Homesick Blues
-Otherside
-Pea
-Blood Sugar Sex Magik
-I Could Have Lied
-Parallel Universe
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Forming II JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Subterranean Homesick Blues
+8. Otherside
+9. Pea
+10. Blood Sugar Sex Magik
+11. I Could Have Lied
+12. Parallel Universe
+13. I Like Dirt
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. Fire
 
 ## Notes
 

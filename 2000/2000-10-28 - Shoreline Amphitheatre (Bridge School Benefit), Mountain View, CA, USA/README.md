@@ -2,17 +2,17 @@
 
 ## Setlist
 
-Road Trippin'
-Californication
-Rapper's Delight tease
-I Just Want Some Skank
-Beverly Hills
-Breaking the Girl
-Superstition tease
-Otherside
-The Power of Equality
-Under the Bridge
-Trouble
+1. Road Trippin'
+2. Californication
+3. Rapper's Delight tease
+4. I Just Want Some Skank
+5. Beverly Hills
+6. Breaking the Girl
+7. Superstition tease
+8. Otherside
+9. The Power of Equality
+10. Under the Bridge
+11. Trouble
 
 ## Notes
 

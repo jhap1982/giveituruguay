@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-Skinny Sweaty Man
-If You Have to Ask
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-Soul to Squeeze
-ENCORE BREAK
-Search and Destroy
-Outro Jam
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. Skinny Sweaty Man
+7. If You Have to Ask
+8. I Like Dirt
+9. Californication
+10. London Calling tease
+11. Right on Time
+12. Under the Bridge
+13. Me and My Friends
+14. Soul to Squeeze
+<br> ENCORE BREAK
+15. Search and Destroy
+16. Outro Jam
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

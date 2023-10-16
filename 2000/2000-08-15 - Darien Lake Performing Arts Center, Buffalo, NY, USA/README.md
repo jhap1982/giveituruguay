@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Skinny Sweaty Man
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-What Is Soul? jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
+1. Intro Jam
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Your Pussy's Glued to a Building on Fire JOHN
+6. Scar Tissue
+7. Suck My Kiss
+8. If You Have to Ask
+9. Otherside
+10. Skinny Sweaty Man
+11. I Could Have Lied
+12. Easily
+13. I Like Dirt
+14. Californication
+15. What Is Soul? jam
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Sir Psycho Sexy
+21. Fire
 
 ## Notes
 

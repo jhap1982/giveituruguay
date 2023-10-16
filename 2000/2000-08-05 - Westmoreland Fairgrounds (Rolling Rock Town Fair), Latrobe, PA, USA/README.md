@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Forming II JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Skinny Sweaty Man
-Pea
-I Could Have Lied
-I Like Dirt
-London Calling tease
-Right on Time
-Me and My Friends
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Forming II JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Skinny Sweaty Man
+9. Pea
+10. I Could Have Lied
+11. I Like Dirt
+12. London Calling tease
+13. Right on Time
+14. Me and My Friends
 
 ## Notes
 

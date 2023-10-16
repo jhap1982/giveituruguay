@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Forming II JOHN
-Scar Tissue
-My Lovely Man
-Subterranean Homesick Blues
-Otherside
-Pea
-Blood Sugar Sex Magik
-I Could Have Lied
-Parallel Universe
-What Is Soul? jam
-I Like Dirt
-Untitled #3 JOHN
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. Around the World
+3. You're Gonna Get Yours tease
+4. Give It Away
+5. Forming II JOHN
+6. Scar Tissue
+7. My Lovely Man
+8 .Subterranean Homesick Blues
+9. Otherside
+10. Pea
+11. Blood Sugar Sex Magik
+12. I Could Have Lied
+13. Parallel Universe
+14. What Is Soul? jam
+15. I Like Dirt
+16. Untitled #3 JOHN
+17. Californication
+18. London Calling tease
+19. Right on Time
+20. Under the Bridge
+21. Me and My Friends
+<br> ENCORE BREAK
+22. Soul to Squeeze
+23. Search and Destroy
+24. Outro Jam
 
 ## Notes
 

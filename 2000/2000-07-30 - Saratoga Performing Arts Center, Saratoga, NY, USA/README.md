@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Forming II part of JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Skinny Sweaty Man
-Otherside
-Pea
-I Could Have Lied
-Easily
-I Like Dirt
-Your Pussy's Glued to a Building on Fire JOHN
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Forming II part of JOHN
+4. Scar Tissue
+5. Suck My Kiss
+6. If You Have to Ask
+7. Skinny Sweaty Man
+8. Otherside
+9. Pea
+10. I Could Have Lied
+11. Easily
+12. I Like Dirt
+13. Your Pussy's Glued to a Building on Fire JOHN
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Sir Psycho Sexy
+20. They're Red Hot
+21. Fire
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Subterranean Homesick Blues
-Otherside
-Blackeyed Blonde
-Pea
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Subterranean Homesick Blues
+9. Otherside
+10. Blackeyed Blonde
+11. Pea
+12. Easily
+13. I Like Dirt
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. Search and Destroy
+21. Outro Jam
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-My Lovely Man
-Skinny Sweaty Man
-Parallel Universe
-Otherside
-Pea
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Search and Destroy
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. My Lovely Man
+6. Skinny Sweaty Man
+7. Parallel Universe
+8. Otherside
+9. Pea
+10. I Could Have Lied
+11. Easily
+12. I Like Dirt
+13. Californication
+14. London Calling tease
+15. Right on Time
+16. Under the Bridge
+17. Me and My Friends
+<br> ENCORE BREAK
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Search and Destroy
 
 ## Notes
 

@@ -2,16 +2,16 @@
 
 ## Setlist
 
-Road Trippin'
-Californication
-What Is Soul? jam
-I Just Want Some Skank
-Beverly Hills
-Scar Tissue
-Parallel Universe
-Otherside
-I Could Have Lied
-Trouble
+1. Road Trippin'
+2. Californication
+3. What Is Soul? jam
+4. I Just Want Some Skank
+5. Beverly Hills
+6. Scar Tissue
+7. Parallel Universe
+8. Otherside
+9. I Could Have Lied
+10. Trouble
 
 ## Notes
 
