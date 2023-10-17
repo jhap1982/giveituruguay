@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Around the World
-Otherside
-The Adventures of Rain Dance Maggie
-Breaking the Girl
-Me and My Friends
-Throw Away Your Television
-Look Around
-Under the Bridge
-Higher Ground
-Did I Let You Know
-Californication
-By the Way
-ENCORE BREAK
-Io Sono Quel Che Sono JOSH
-Can't Stop
-Meet Me at the Corner
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Around the World
+5. Otherside
+6. The Adventures of Rain Dance Maggie
+7. Breaking the Girl
+8. Me and My Friends
+9. Throw Away Your Television
+10. Look Around
+11. Under the Bridge
+12. Higher Ground
+13. Did I Let You Know
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Io Sono Quel Che Sono JOSH
+17. Can't Stop
+18. Meet Me at the Corner
+19. Give It Away
+20. Encore jam
+21. Outro Jam
 
 ## Notes
 

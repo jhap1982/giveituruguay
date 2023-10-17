@@ -2,17 +2,17 @@
 
 ## Setlist
 
-By the Way
-Dani California
-Can't Stop
-Scar Tissue
-The Adventures of Rain Dance Maggie
-Otherside
-Look Around
-Soul to Squeeze
-Californication
-Give It Away
-Louie Louie
+1. By the Way
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. The Adventures of Rain Dance Maggie
+6. Otherside
+7. Look Around
+8. Soul to Squeeze
+9. Californication
+10. Give It Away
+11. Louie Louie
 
 ## Notes
 

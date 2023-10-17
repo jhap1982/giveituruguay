@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Can't Stop
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Otherside
-Look Around
-If You Have to Ask
-Hardcore Jollies tease
-Me and My Friends
-Did I Let You Know
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Can't Stop
+5. The Adventures of Rain Dance Maggie
+6. Throw Away Your Television
+7. Otherside
+8. Look Around
+9. If You Have to Ask
+10. Hardcore Jollies tease
+11. Me and My Friends
+12. Did I Let You Know
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Soul to Squeeze
+21. Give It Away
+22. Encore jam
+23. Outro Jam
 
 ## Notes
 

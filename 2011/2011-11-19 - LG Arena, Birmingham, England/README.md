@@ -2,28 +2,27 @@
 
 ## Setlist
 
-Setlist
-Monarchy of Roses
-Dani California
-Scar Tissue
-Can't Stop
-The Adventures of Rain Dance Maggie
-Parallel Universe
-Hard to Concentrate
-Look Around
-I Like Dirt
-Universally Speaking
-Goodbye Hooray
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Can't Stop
+5. The Adventures of Rain Dance Maggie
+6. Parallel Universe
+7. Hard to Concentrate
+8. Look Around
+9. I Like Dirt
+10. Universally Speaking
+11. Goodbye Hooray
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Everybody Knows This Is Nowhere
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-Throw Away Your Television
-Otherside
-Emit Remmus
-Me and My Friends
-The Adventures of Rain Dance Maggie
-Under the Bridge
-Fire
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Don't Forget Me
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Throw Away Your Television
+7. Otherside
+8. Emit Remmus
+9. Me and My Friends
+10. The Adventures of Rain Dance Maggie
+11. Under the Bridge
+12. Fire
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Don't Forget Me
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

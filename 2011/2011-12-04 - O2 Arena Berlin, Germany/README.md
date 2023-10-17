@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Everybody Dance tease
-Charlie
-Look Around
-Otherside
-Throw Away Your Television
-Can't Stop
-The Adventures of Rain Dance Maggie
-Hard to Concentrate
-Me and My Friends
-Cholly (Funk Get Ready to Roll!) tease
-Ethiopia
-Under the Bridge
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Factory of Faith
-Everybody Knows This Is Nowhere
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Everybody Dance tease
+4. Charlie
+5. Look Around
+6. Otherside
+7. Throw Away Your Television
+8. Can't Stop
+9. The Adventures of Rain Dance Maggie
+10. Hard to Concentrate
+11. Me and My Friends
+12. Cholly (Funk Get Ready to Roll!) tease
+13. Ethiopia
+14. Under the Bridge
+15. Right on Time
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Factory of Faith
+20. Everybody Knows This Is Nowhere
+21. Give It Away
+22. Encore jam
+23. Outro Jam
 
 ## Notes
 

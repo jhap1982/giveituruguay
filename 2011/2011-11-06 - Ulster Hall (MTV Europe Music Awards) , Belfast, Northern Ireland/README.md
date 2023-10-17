@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-The Adventures of Rain Dance Maggie
-Dani California
-Throw Away Your Television
-Soul to Squeeze
-Me and My Friends
-Look Around
-Under the Bridge
-By the Way
-ENCORE BREAK
-Freaky Styley
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. The Adventures of Rain Dance Maggie
+4. Dani California
+5. Throw Away Your Television
+6. Soul to Squeeze
+7. Me and My Friends
+8. Look Around
+9. Under the Bridge
+10. By the Way
+<br> ENCORE BREAK
+11. Freaky Styley
+12. Give It Away
+13. Outro Jam
 
 ## Notes
 

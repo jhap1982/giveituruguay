@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Look Around
-Scar Tissue
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Can't Stop
-Emit Remmus
-Me and My Friends
-Factory of Faith
-Under the Bridge
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Look Around
+5. Scar Tissue
+6. Throw Away Your Television
+7. The Adventures of Rain Dance Maggie
+8. Can't Stop
+9. Emit Remmus
+10. Me and My Friends
+11. Factory of Faith
+12. Under the Bridge
+13. Right on Time
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Everybody Knows This Is Nowhere
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

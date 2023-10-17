@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Scar Tissue
-Look Around
-Throw Away Your Television
-Universally Speaking
-Me and My Friends
-Breaking the Girl
-The Adventures of Rain Dance Maggie
-Bemsha Swing tease
-Higher Ground
-Under the Bridge
-Factory of Faith
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Dani California
-Meet Me at the Corner
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Scar Tissue
+5. Look Around
+6. Throw Away Your Television
+7. Universally Speaking
+8. Me and My Friends
+9. Breaking the Girl
+10. The Adventures of Rain Dance Maggie
+11. Bemsha Swing tease
+12. Higher Ground
+13. Under the Bridge
+14. Factory of Faith
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Dani California
+19. Meet Me at the Corner
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

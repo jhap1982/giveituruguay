@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Look Around
-Throw Away Your Television
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Right on Time
-Blood Sugar Sex Magik
-Factory of Faith
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Meet Me at the Corner
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Look Around
+6. Throw Away Your Television
+7. Hard to Concentrate
+8. The Adventures of Rain Dance Maggie
+9. Right on Time
+10. Blood Sugar Sex Magik
+11. Factory of Faith
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Meet Me at the Corner
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

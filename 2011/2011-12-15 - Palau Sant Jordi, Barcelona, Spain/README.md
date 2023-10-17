@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Tell Me Baby
-Ethiopia
-Otherside
-If You Have to Ask
-Hardcore Jollies tease
-Look Around
-Hard to Concentrate
-Right on Time
-The House of the Rising Sun tease
-The Adventures of Rain Dance Maggie
-Can't Stop
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-This Is the Kitt tease
-Around the World
-Meet Me at the Corner
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Tell Me Baby
+4. Ethiopia
+5. Otherside
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Look Around
+9. Hard to Concentrate
+10. Right on Time
+11. The House of the Rising Sun tease
+12. The Adventures of Rain Dance Maggie
+13. Can't Stop
+14. Under the Bridge
+15. Higher Ground
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. This Is the Kitt tease
+20. Around the World
+21. Meet Me at the Corner
+22. Give It Away
+23. Encore jam
+24. Outro Jam
 
 ## Notes
 

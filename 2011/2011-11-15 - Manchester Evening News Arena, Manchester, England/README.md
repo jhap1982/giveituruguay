@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Tell Me Baby
-Scar Tissue
-Look Around
-She's Only 18
-Can't Stop
-The Adventures of Rain Dance Maggie
-Hard to Concentrate
-Right on Time
-Did I Let You Know
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Tell Me Baby
+4. Scar Tissue
+5. Look Around
+6. She's Only 18
+7. Can't Stop
+8. The Adventures of Rain Dance Maggie
+9. Hard to Concentrate
+10. Right on Time
+11. Did I Let You Know
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Soul to Squeeze
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

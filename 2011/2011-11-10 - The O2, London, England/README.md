@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Charlie
-Dani California
-Factory of Faith
-Throw Away Your Television
-Look Around
-Parallel Universe
-Me and My Friends
-The Adventures of Rain Dance Maggie
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Everybody Knows This Is Nowhere
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Charlie
+5. Dani California
+6. Factory of Faith
+7. Throw Away Your Television
+8. Look Around
+9. Parallel Universe
+10. Me and My Friends
+11. The Adventures of Rain Dance Maggie
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Everybody Knows This Is Nowhere
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

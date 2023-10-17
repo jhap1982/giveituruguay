@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Scar Tissue
-Can't Stop
-Ethiopia
-Otherside
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Under the Bridge
-Look Around
-Hard to Concentrate
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Can't Stop
+5. Ethiopia
+6. Otherside
+7. Throw Away Your Television
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Under the Bridge
+11. Look Around
+12. Hard to Concentrate
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Soul to Squeeze
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

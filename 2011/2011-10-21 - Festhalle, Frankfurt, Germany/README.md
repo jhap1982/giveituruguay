@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Look Around
-Otherside
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Fire
-Pea
-Can't Stop
-Organic Anti-Beat Box Band tease
-Police Station
-Me and My Friends
-She's Only 18
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-Under the Bridge
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Look Around
+5. Otherside
+6. Throw Away Your Television
+7. The Adventures of Rain Dance Maggie
+8. Fire
+9. Pea
+10. Can't Stop
+11. Organic Anti-Beat Box Band tease
+12. Police Station
+13. Me and My Friends
+14. She's Only 18
+15. Higher Ground
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. The Power of Equality
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

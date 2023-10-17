@@ -2,26 +2,25 @@
 
 ## Setlist
 
-Setlist
-Monarchy of Roses
-Dani California
-Tell Me Baby
-Universally Speaking
-Look Around
-If You Have to Ask
-Factory of Faith
-Otherside
-Right on Time
-The Adventures of Rain Dance Maggie
-Hard to Concentrate
-Higher Ground
-Wet Sand
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Under the Bridge
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Tell Me Baby
+4. Universally Speaking
+5. Look Around
+6. If You Have to Ask
+7. Factory of Faith
+8. Otherside
+9. Right on Time
+10. The Adventures of Rain Dance Maggie
+11. Hard to Concentrate
+12. Higher Ground
+13. Wet Sand
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Under the Bridge
+18. Give It Away
 
 ## Notes
 

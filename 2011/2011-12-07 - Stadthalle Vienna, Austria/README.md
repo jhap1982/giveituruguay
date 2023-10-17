@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Charlie
-Around the World
-Otherside
-Look Around
-Parallel Universe
-Hard to Concentrate
-Universally Speaking
-American Ghost Dance part of
-The Adventures of Rain Dance Maggie
-Higher Ground
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Can't Stop
-Meet Me at the Corner
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Charlie
+4. Around the World
+5. Otherside
+6. Look Around
+7. Parallel Universe
+8. Hard to Concentrate
+9. Universally Speaking
+10. American Ghost Dance part of
+11. The Adventures of Rain Dance Maggie
+12. Higher Ground
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Can't Stop
+19. Meet Me at the Corner
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

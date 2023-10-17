@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Emit Remmus
-Otherside
-Look Around
-Throw Away Your Television
-Pea
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Factory of Faith
-Dani California
-Hard to Concentrate
-Higher Ground
-By the Way
-ENCORE BREAK
-Jam
-Californication
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Emit Remmus
+5. Otherside
+6. Look Around
+7. Throw Away Your Television
+8. Pea
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Under the Bridge
+12. Factory of Faith
+13. Dani California
+14. Hard to Concentrate
+15. Higher Ground
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Californication
+19. Everybody Knows This Is Nowhere
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

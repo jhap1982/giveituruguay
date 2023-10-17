@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Scar Tissue
-Look Around
-Emit Remmus
-Tell Me Baby
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Soul to Squeeze
-Factory of Faith
-Fire
-Jungle Man tease
-If You Have to Ask
-Hardcore Jollies tease
-Can't Stop
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Californication
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Look Around
+5. Emit Remmus
+6. Tell Me Baby
+7. The Adventures of Rain Dance Maggie
+8. Throw Away Your Television
+9. Soul to Squeeze
+10. Factory of Faith
+11. Fire
+12. Jungle Man tease
+13. If You Have to Ask
+14. Hardcore Jollies tease
+15. Can't Stop
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Californication
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
@@ -61,7 +61,7 @@ Outro Jam
 * AUD #4 audience audio: Soundman OKM II > Soundman A3 > Sony MZ-RH910 Hi-MD(M) > FLACrecorded by Henrik **NOT CIRCULATING**
 * AUD #5 udience audio: SP-CMC-4 > SP-SPSB-11 > Olympus LS-10 WAV > FLAC recorded by bedoc **NOT CIRCULATING**
 * AUD #6 audience audio: built-in > Edirol R09-HR WAV > FLAC recorded by bonozitoun **NOT CIRCULATING**
-* SBD #1 soundboard audio: Icom IC-R10 > Edirol R-09? > FLAC **NOT CIRCULATING**
+* SBD #1 soundboard audio: Icom IC-R10 > Edirol R-09 ? > FLAC **NOT CIRCULATING**
 * AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by unknownA DVD of this show can be purchased on Japanese online bootleg stores. **NOT CIRCULATING**
 
 ## Links

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Tell Me Baby
-Scar Tissue
-Look Around
-Otherside
-Ethiopia
-Parallel Universe
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Under the Bridge
-Blood Sugar Sex Magik
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Dani California
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Tell Me Baby
+4. Scar Tissue
+5. Look Around
+6. Otherside
+7. Ethiopia
+8. Parallel Universe
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Under the Bridge
+12. Blood Sugar Sex Magik
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Dani California
+18. Everybody Knows This Is Nowhere
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 
