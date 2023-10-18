@@ -2,22 +2,22 @@
 
 ## Setlist
 
-By the Way
-Dazed and Confused jam
-Rapper's Delight jam
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-Havana Affair
-Throw Away Your Television
-Don't You Ever Leave jam
-Otherside
-London Calling tease
-Right on Time
-I Wanna Be Well
-Can't Stop
-Under the Bridge
-Give It Away
+1. By the Way
+2. Dazed and Confused jam
+3. Rapper's Delight jam
+4. Universally Speaking
+5. Latest Disgrace tease
+6. Parallel Universe
+7. Havana Affair
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Otherside
+11. London Calling tease
+12. Right on Time
+13. I Wanna Be Well
+14. Can't Stop
+15. Under the Bridge
+16. Give It Away
 
 ## Notes
 
@@ -42,4 +42,3 @@ Give It Away
 ## Recordings
 
 ## Links
-

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Don't You Ever Leave jam
-Havana Affair
-Otherside
-Skinny Sweaty Man
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. The Zephyr Song
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Havana Affair
+12. Otherside
+13. Skinny Sweaty Man
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. Soul to Squeeze
+18. Can't Stop
+19. Californication
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. Fire
 
 ## Notes
 
@@ -52,4 +52,3 @@ Fire
 * AUD #2 audience audio: Core Sound Binaurals > battery box > Sharp MT-180 MD(M) > FLAC recorded by gaspcdz Missing the last few songs. **NOT CIRCULATING**
 
 ## Links
-

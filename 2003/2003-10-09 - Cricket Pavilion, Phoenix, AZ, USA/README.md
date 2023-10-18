@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Cosmic Dancer part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Don't You Ever Leave jam
-Havana Affair
-Otherside
-If You Have to Ask
-Hardcore Jollies tease
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Cosmic Dancer part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. The Zephyr Song
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Havana Affair
+13. Otherside
+14. If You Have to Ask
+15. Hardcore Jollies tease
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. Soul to Squeeze
+20. Can't Stop
+21. Venice Queen
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Sir Psycho Sexy
+25. They're Red Hot
 
 ## Notes
 

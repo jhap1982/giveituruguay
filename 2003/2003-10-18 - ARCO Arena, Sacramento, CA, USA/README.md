@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Suck My Kiss
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Don't You Ever Leave jam
-I Feel Love part of JOHN
-Havana Affair
-Otherside
-Skinny Sweaty Man
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Suck My Kiss
+8. Latest Disgrace tease
+9. Parallel Universe
+10. The Zephyr Song
+11. Throw Away Your Television
+12. Don't You Ever Leave jam
+13. I Feel Love part of JOHN
+14. Havana Affair
+15. Otherside
+16. Skinny Sweaty Man
+17. Don't Forget Me
+18. London Calling tease
+19. Right on Time
+20. I Could Have Lied
+21. Can't Stop
+22. Venice Queen
+23. Give It Away
+<br> ENCORE BREAK
+24. Under the Bridge
+25. Sir Psycho Sexy
+26. They're Red Hot
 
 ## Notes
 
@@ -53,4 +53,3 @@ They're Red Hot
 ## Recordings
 
 ## Links
-

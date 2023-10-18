@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-The Zephyr Song
-Suck My Kiss
-Havana Affair
-Otherside
-Throw Away Your Television
-Don't You Ever Leave jam
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Detroit Rock City part of JOHN
-Under the Bridge
-Search and Destroy
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. The Zephyr Song
+7. Suck My Kiss
+8. Havana Affair
+9. Otherside
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Purple Stain
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. Soul to Squeeze
+17. Can't Stop
+18. Venice Queen
+19. Give It Away
+<br> ENCORE BREAK
+20. Detroit Rock City part of JOHN
+21. Under the Bridge
+22. Search and Destroy
 
 ## Notes
 
@@ -51,4 +51,3 @@ Search and Destroy
 ## Recordings
 
 ## Links
-

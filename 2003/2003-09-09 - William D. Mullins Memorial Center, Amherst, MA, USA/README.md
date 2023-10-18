@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Otherside
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Tiny Dancer part of JOHN
-I Could Have Lied
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. The Zephyr Song
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Blood Sugar Sex Magik
+12. Show of Strength tease
+13. Otherside
+14. Purple Stain
+15. Don't Forget Me
+16. London Calling tease
+17. Right on Time
+18. Tiny Dancer part of JOHN
+19. I Could Have Lied
+20. Can't Stop
+21. Californication
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Sir Psycho Sexy
+25. They're Red Hot
 
 ## Notes
 
@@ -52,4 +52,3 @@ They're Red Hot
 ## Recordings
 
 ## Links
-

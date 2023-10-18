@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Suck My Kiss
-Latest Disgrace tease
-Parallel Universe
-This Is the Place
-Throw Away Your Television
-Don't You Ever Leave jam
-Havana Affair
-Otherside
-Skinny Sweaty Man
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Suck My Kiss
+8. Latest Disgrace tease
+9. Parallel Universe
+10. This Is the Place
+11. Throw Away Your Television
+12. Don't You Ever Leave jam
+13. Havana Affair
+14. Otherside
+15. Skinny Sweaty Man
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. I Could Have Lied
+20. Can't Stop
+21. Venice Queen
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Me and My Friends
 
 ## Notes
 
@@ -51,4 +51,3 @@ Me and My Friends
 ## Recordings
 
 ## Links
-
