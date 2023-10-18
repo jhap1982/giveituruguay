@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Hey
+Search and Destroy
+Go Robot
+Californication
+Aeroplane
+Blood Sugar Sex Magik
+Show of Strength tease
+Higher Ground
+Dreams of a Samurai
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Twilight part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 13,461 / 13,461 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +47,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+

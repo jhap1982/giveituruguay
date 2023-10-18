@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Nobody Weird Like Me
+Go Robot
+Breaking the Girl
+Sick Love
+Californication
+The Getaway
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+This Is a Low part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +44,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

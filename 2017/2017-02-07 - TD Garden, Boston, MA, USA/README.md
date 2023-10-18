@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+Hey
+Look Around
+Go Robot
+Californication
+Sick Love
+Search and Destroy
+Feasting on the Flowers
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Lust for Life tease
+Where Everybody Knows Your Name part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 13,072 / 13,072 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +47,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

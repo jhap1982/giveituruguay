@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Ethiopia
+Wet Sand
+Go Robot
+Californication
+Aeroplane
+Dreams of a Samurai
+Suck My Kiss
+Detroit
+Under the Bridge
+By the Way
+ENCORE BREAK
+Take My Hand, Precious Lord instrumental
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 11,764 / 11,764 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +46,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

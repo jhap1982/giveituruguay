@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Otherside
+Snow ((Hey Oh))
+Dark Necessities
+Hey
+Search and Destroy
+Go Robot
+Californication
+Charlie
+Aeroplane
+If You Have to Ask
+Hardcore Jollies tease
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Until the Ocean part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 11,971 / 12,322 (97%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +47,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+

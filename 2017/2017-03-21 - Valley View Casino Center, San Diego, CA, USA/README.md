@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+Hey
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Californication
+Around the World
+The Getaway
+Charlie
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Fight Like a Brave tease
+Give It Away
+
 ## Notes
+
+> Rescheduled from **March 5, 2017**.
+
+**Attendance**: 10,396 / 10,396 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +49,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+ 

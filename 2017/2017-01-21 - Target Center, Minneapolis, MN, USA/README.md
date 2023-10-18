@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+She's Only 18
+Me and My Friends
+Go Robot
+Did I Let You Know
+Californication
+Dreams of a Samurai
+Search and Destroy
+The Longest Wave
+Higher Ground
+By the Way
+ENCORE BREAK
+Answering Machine part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> "I Could Have Lied" was on the setlist but got replaced with "Higher Ground". This was Dave Rat's last show after mixing the band for 26 years.
+
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +46,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

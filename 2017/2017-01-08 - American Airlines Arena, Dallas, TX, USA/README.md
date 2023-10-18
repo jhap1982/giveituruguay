@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+She's Only 18
+Look Around
+Go Robot
+Californication
+Sick Love
+Parallel Universe
+Detroit
+The Power of Equality
+Under the Bridge
+By the Way
+ENCORE BREAK
+The Bewlay Brothers part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 13,509 / 14,373 (94%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -22,4 +46,10 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
+
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

@@ -51,4 +51,3 @@
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC  
 * PRO #1 professional video: soundboard > unknown WEB > TS [1080p] From an official festival livestream on YouTube by RedBullTV.
-

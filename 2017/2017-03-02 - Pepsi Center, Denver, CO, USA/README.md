@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Rescheduled to **October 16, 2017** due to Anthony fighting off bronchitis.
+
 ## Media 
 
 <details>
