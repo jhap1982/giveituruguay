@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Forming II JOHN
-Universally Speaking
-Breaking the Girl
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-If You Have to Ask
-I Could Have Lied
-Can't Stop
-Californication
-Red Hot Mama part of
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Forming II JOHN
+6. Universally Speaking
+7. Breaking the Girl
+8. Latest Disgrace tease
+9. Parallel Universe
+10. The Zephyr Song
+11. Throw Away Your Television
+12. Otherside
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. If You Have to Ask
+17. I Could Have Lied
+18. Can't Stop
+19. Californication
+20. Red Hot Mama part of
+21. Give It Away
+<br>ENCORE BREAK
+22. Under the Bridge
+23. Fire
 
 ## Notes
 
@@ -53,4 +53,3 @@ Fire
 * AUD #2 audience audio: Core Sound High-End Cardioids > Bass roll-off box > Sony TCD-D10 DAT(M) > FLAC recorded by The Fridge (aka alzeppelin) Missing everything after "If You Have To Ask".
 
 ## Links
-

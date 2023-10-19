@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Great Expectations part of JOHN
-The Zephyr Song
-Suck My Kiss
-Latest Disgrace tease
-Parallel Universe
-Otherside
-Don't Forget Me
-Throw Away Your Television
-Havana Affair
-Warm Tape
-London Calling tease
-Right on Time
-Mellowship Slinky in B Major tease
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Great Expectations part of JOHN
+6. The Zephyr Song
+7. Suck My Kiss
+8. Latest Disgrace tease
+9. Parallel Universe
+10. Otherside
+11. Don't Forget Me
+12. Throw Away Your Television
+13. Havana Affair
+14. Warm Tape
+15. London Calling tease
+16. Right on Time
+17. Mellowship Slinky in B Major tease
+18. Soul to Squeeze
+19. Can't Stop
+20. Venice Queen
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Sir Psycho Sexy
+24. They're Red Hot
 
 ## Notes
 
@@ -55,4 +55,3 @@ They're Red Hot
 * AUD #1 audience audio: unknown mic > Sony MZ-R700 MD(M) > FLAC recorded by Martin Mosteiro
 
 ## Links
-

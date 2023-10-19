@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-I Feel Love part of JOHN
-Breaking the Girl
-The Zephyr Song
-Rapper's Delight tease
-Throw Away Your Television
-Otherside
-Don't Forget Me
-I'm Eighteen part of JOHN
-I Could Have Lied
-London Calling tease
-Right on Time
-Warm Tape
-Can't Stop
-Californication
-You're Gonna Get Yours tease
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. I Feel Love part of JOHN
+10. Breaking the Girl
+11. The Zephyr Song
+12. Rapper's Delight tease
+13. Throw Away Your Television
+14. Otherside
+15. Don't Forget Me
+16. I'm Eighteen part of JOHN
+17. I Could Have Lied
+18. London Calling tease
+19. Right on Time
+20. Warm Tape
+21. Can't Stop
+22. Californication
+23. You're Gonna Get Yours tease
+24. Give It Away
+<br> ENCORE BREAK
+25. Under the Bridge
+26. Sir Psycho Sexy
+27. They're Red Hot
 
 ## Notes
 
@@ -60,4 +60,3 @@ They're Red Hot
 * AMT #1 amateur video: built-in > unknown camera VHS(x) > DVD recorded by unknown **NOT CIRCULATING**
 
 ## Links
-

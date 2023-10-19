@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-Breaking the Girl
-The Zephyr Song
-Otherside
-Throw Away Your Television
-Maybe part of JOHN
-Don't Forget Me
-I Could Have Lied
-London Calling tease
-Right on Time
-Warm Tape
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. Breaking the Girl
+9. The Zephyr Song
+10. Otherside
+11. Throw Away Your Television
+12. Maybe part of JOHN
+13. Don't Forget Me
+14. I Could Have Lied
+15. London Calling tease
+16. Right on Time
+17. Warm Tape
+18. Can't Stop
+19. Californication
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. The Power of Equality
 
 ## Notes
 

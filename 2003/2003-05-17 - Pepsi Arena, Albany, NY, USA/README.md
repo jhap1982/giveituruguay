@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-Breaking the Girl
-The Zephyr Song
-Havana Affair
-Throw Away Your Television
-Otherside
-Don't Forget Me
-I Could Have Lied
-London Calling tease
-Right on Time
-Can't Stop
-Californication
-What Is Soul? jam
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. Breaking the Girl
+10. The Zephyr Song
+11. Havana Affair
+12. Throw Away Your Television
+13. Otherside
+14. Don't Forget Me
+15. I Could Have Lied
+16. London Calling tease
+17. Right on Time
+18. Can't Stop
+19. Californication
+20. What Is Soul? jam
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Me and My Friends
 
 ## Notes
 
@@ -54,4 +54,3 @@ Me and My Friends
 * AUD #1 audience audio: Beyer M-160's > Sony TCD-D7 DAT(M) > FLAC recorded by Chris Nouryan
 
 ## Links
-

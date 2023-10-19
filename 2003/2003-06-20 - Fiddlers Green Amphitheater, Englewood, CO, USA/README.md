@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-The Zephyr Song
-Suck My Kiss
-Latest Disgrace tease
-Parallel Universe
-I Feel Love part of JOHN
-This Is the Place
-Otherside
-Throw Away Your Television
-Purple Stain abandoned
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. The Zephyr Song
+7. Suck My Kiss
+8. Latest Disgrace tease
+9. Parallel Universe
+10. I Feel Love part of JOHN
+11. This Is the Place
+12. Otherside
+13. Throw Away Your Television
+14. Purple Stain abandoned
+15. Purple Stain
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. Soul to Squeeze
+20. Can't Stop
+21. Venice Queen
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Fire
 
 ## Notes
 

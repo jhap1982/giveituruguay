@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Suck My Kiss
-This Is the Place
-Latest Disgrace tease
-Parallel Universe
-Otherside
-Havana Affair
-Don't Forget Me
-Warm Tape
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Suck My Kiss
+7. This Is the Place
+8. Latest Disgrace tease
+9. Parallel Universe
+10. Otherside
+11. Havana Affair
+12. Don't Forget Me
+13. Warm Tape
+14. London Calling tease
+15. Right on Time
+16. Soul to Squeeze
+17. Can't Stop
+18. Venice Queen
+19. Give It Away
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Me and My Friends
 
 ## Notes
 

@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-Maybe part of JOHN
-The Zephyr Song
-Throw Away Your Television
-Purple Stain
-I Could Have Lied
-Don't Forget Me
-Breaking the Girl
-Otherside
-Red Hot Mama part of
-London Calling tease
-Right on Time
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. Maybe part of JOHN
+9. The Zephyr Song
+10. Throw Away Your Television
+11. Purple Stain
+12. I Could Have Lied
+13. Don't Forget Me
+14. Breaking the Girl
+15. Otherside
+16. Red Hot Mama part of
+17. London Calling tease
+18. Right on Time
+19. Can't Stop
+20. Californication
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Me and My Friends
 
 ## Notes
 
@@ -52,4 +52,3 @@ Me and My Friends
 ## Recordings
 
 ## Links
-

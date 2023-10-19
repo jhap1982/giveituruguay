@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Suck My Kiss
-Latest Disgrace tease
-Parallel Universe
-Havana Affair
-Otherside
-Throw Away Your Television
-If You Have to Ask
-Hardcore Jollies tease
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Fire
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Suck My Kiss
+7. Latest Disgrace tease
+8. Parallel Universe
+9. Havana Affair
+10. Otherside
+11. Throw Away Your Television
+12. If You Have to Ask
+13. Hardcore Jollies tease
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. Soul to Squeeze
+18. Can't Stop
+19. Venice Queen
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. Fire
+23. Outro Jam
 
 ## Notes
 
@@ -55,4 +55,3 @@ Outro Jam
 * MIX #1 mixed video: built-in > unknown cameras Digital8(M) > DVD recorded by Mad Raving & brotherMix of two amateur shots from opposite angles.
 
 ## Links
-

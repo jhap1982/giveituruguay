@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Latest Disgrace tease
-Suck My Kiss
-Parallel Universe
-This Is the Place
-Otherside
-Throw Away Your Television
-Purple Stain
-Rocky part of JOHN
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Can't Stop
-Venice Queen
-Give It Away
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Latest Disgrace tease
+7. Suck My Kiss
+8. Parallel Universe
+9. This Is the Place
+10. Otherside
+11. Throw Away Your Television
+12. Purple Stain
+13. Rocky part of JOHN
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. Soul to Squeeze
+18. Can't Stop
+19. Venice Queen
+20. Give It Away
+<br> ENCORE BREAK
+21. Under the Bridge
+22. The Power of Equality
 
 ## Notes
 

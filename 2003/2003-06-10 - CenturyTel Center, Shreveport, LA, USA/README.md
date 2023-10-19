@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-The Zephyr Song
-Latest Disgrace tease
-Parallel Universe
-Suck My Kiss
-Throw Away Your Television
-Otherside
-Purple Stain
-Don't Forget Me
-London Calling tease
-Right on Time
-Can't Stop
-Soul to Squeeze
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. The Zephyr Song
+6. Latest Disgrace tease
+7. Parallel Universe
+8. Suck My Kiss
+9. Throw Away Your Television
+10. Otherside
+11. Purple Stain
+12. Don't Forget Me
+13. London Calling tease
+14. Right on Time
+15. Can't Stop
+16. Soul to Squeeze
+17. Give It Away
+<br> ENCORE BREAK
+18. Under the Bridge
+19. Sir Psycho Sexy
+20. They're Red Hot
 
 ## Notes
 
@@ -47,4 +47,3 @@ They're Red Hot
 ## Recordings
 
 ## Links
-

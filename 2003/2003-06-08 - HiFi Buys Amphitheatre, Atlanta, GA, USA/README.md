@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-The Zephyr Song
-Throw Away Your Television
-Havana Affair
-Purple Stain
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-Ride Into the Sun part of JOHN
-I Could Have Lied
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-The Power of Equality
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. The Zephyr Song
+10. Throw Away Your Television
+11. Havana Affair
+12. Purple Stain
+13. Otherside
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. Ride Into the Sun part of JOHN
+18. I Could Have Lied
+19. Can't Stop
+20. Californication
+21. Give It Away
+<br> ENCORE BREAK
+22. Under the Bridge
+23. The Power of Equality
 
 ## Notes
 
@@ -55,4 +55,3 @@ The Power of Equality
 * AUD #2 audience audio: unknown mic > Radio Shack CTR-122 ANA(M) > FLAC recorded by Lew (aka deadlie13) Missing everything after "Purple Stain".
 
 ## Links
-

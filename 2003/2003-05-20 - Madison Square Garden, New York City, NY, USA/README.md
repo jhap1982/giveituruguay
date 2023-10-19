@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Maybe part of JOHN
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-I Feel Love part of JOHN
-The Zephyr Song
-Havana Affair
-Breaking the Girl
-Throw Away Your Television
-Otherside
-Don't Forget Me
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-Cosmic Slop tease
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Me and My Friends
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Maybe part of JOHN
+6. Universally Speaking
+7. Latest Disgrace tease
+8. Parallel Universe
+9. I Feel Love part of JOHN
+10. The Zephyr Song
+11. Havana Affair
+12. Breaking the Girl
+13. Throw Away Your Television
+14. Otherside
+15. Don't Forget Me
+16. London Calling tease
+17. Right on Time
+18. I Could Have Lied
+19. Can't Stop
+20. Californication
+21. Cosmic Slop tease
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Me and My Friends
 
 ## Notes
 

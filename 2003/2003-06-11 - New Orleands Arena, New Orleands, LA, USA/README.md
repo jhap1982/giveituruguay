@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-By the Way
-Scar Tissue
-Around the World
-Universally Speaking
-Latest Disgrace tease
-Parallel Universe
-I Feel Love part of JOHN
-The Zephyr Song
-Throw Away Your Television
-Havana Affair
-If You Have to Ask
-Hardcore Jollies tease
-Otherside
-Don't Forget Me
-Apache Rose Peacock part of
-London Calling tease
-Right on Time
-I Could Have Lied
-Can't Stop
-Californication
-Give It Away
-ENCORE BREAK
-Under the Bridge
-Search and Destroy
-Outro Jam
+1. Intro Jam
+2. By the Way
+3. Scar Tissue
+4. Around the World
+5. Universally Speaking
+6. Latest Disgrace tease
+7. Parallel Universe
+8. I Feel Love part of JOHN
+9. The Zephyr Song
+10. Throw Away Your Television
+11. Havana Affair
+12. If You Have to Ask
+13. Hardcore Jollies tease
+14. Otherside
+15. Don't Forget Me
+16. Apache Rose Peacock part of
+17. London Calling tease
+18. Right on Time
+19. I Could Have Lied
+20. Can't Stop
+21. Californication
+22. Give It Away
+<br> ENCORE BREAK
+23. Under the Bridge
+24. Search and Destroy
+25. Outro Jam
 
 ## Notes
 
@@ -54,5 +54,3 @@ Outro Jam
 ## Recordings
 
 ## Links
-
-
