@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Otherside
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Nobody Weird Like Me
+Brandy (You're a Fine Girl)
+Go Robot
+Californication
+Tell Me Baby
+Dreams of a Samurai
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Heaven part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 10,738 / 10,738 (100%)
+<br>
+**Support**: Irontom, Jack Irons
 
 ## Media 
 

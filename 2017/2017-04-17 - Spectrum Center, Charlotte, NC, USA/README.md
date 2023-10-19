@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+She's Only 18
+Me and My Friends
+Go Robot
+Parallel Universe
+The Power of Equality
+The Getaway
+Higher Ground
+Californication
+What Is Soul? jam
+Under the Bridge
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 12,577 / 14,553 (86%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

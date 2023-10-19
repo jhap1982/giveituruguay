@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+Dosed
+Fire
+Go Robot
+Californication
+Tell Me Baby
+The Power of Equality
+The Longest Wave
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Waterloo Sunset part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Rescheduled **from March 4, 2017**.<br>
+Jack Irons joined the band for "Fire" and his son Zach played additional guitar for "Dosed" and "The Longest Wave".
+
+**Attendance**: 13,343 / 13,343 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 

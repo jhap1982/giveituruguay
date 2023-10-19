@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+Aeroplane
+Go Robot
+Californication
+Tell Me Baby
+Don't Forget Me
+Sick Love
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+The Crunge tease
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 10,182 / 13,294 (77%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 
@@ -28,4 +52,5 @@
 
 ## Recordings
 
+* AUD #1 audience audio: DPA 4023 > Tascam DR-100MKIII WAV > FLAC recorded by George Wang
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

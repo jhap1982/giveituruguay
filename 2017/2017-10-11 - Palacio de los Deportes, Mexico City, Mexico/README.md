@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+Mommy Where's Daddy?
+Me and My Friends
+Go Robot
+Californication
+The Power of Equality
+Sick Love
+Don't Forget Me
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+I Know It's Gonna Happen Someday part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 20,837 / 21,197 (98%)
+<br>
+**Support**: Louis Cole
 
 ## Media 
 

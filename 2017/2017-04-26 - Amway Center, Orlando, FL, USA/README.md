@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Dark Necessities
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Californication
+Did I Let You Know
+Encore
+Aeroplane
+Pea
+The Getaway
+Sir Psycho Sexy
+They're Red Hot
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Feed the Birds instrumental JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 12,557 / 12,557 (100%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hard to Concentrate
+Search and Destroy
+Go Robot
+Californication
+Aeroplane
+Don't Forget Me
+Sick Love
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+O.D.'d in Denver part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Rescheduled from **March 2, 2017**.
+
+**Attendance**: 13,323 / 13,323 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -28,4 +54,5 @@
 
 ## Recordings
 
+* AUD #1 audience audio: Soundprofessionals > Tascam DR-05 WAV > FLAC recorded by slewofboots
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

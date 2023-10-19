@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Otherside
+Dark Necessities
+Wet Sand
+I Like Dirt
+Go Robot
+Californication
+Charlie
+Detroit
+Look Around
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

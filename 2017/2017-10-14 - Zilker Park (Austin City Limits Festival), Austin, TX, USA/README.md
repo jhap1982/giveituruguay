@@ -2,6 +2,25 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Otherside
+Dark Necessities
+Universally Speaking
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Californication
+The Power of Equality
+Encore
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 

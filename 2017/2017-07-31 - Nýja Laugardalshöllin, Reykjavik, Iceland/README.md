@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Immigrant Song tease
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Californication
+Tell Me Baby
+Don't Forget Me
+The Getaway
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Africa tease
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 

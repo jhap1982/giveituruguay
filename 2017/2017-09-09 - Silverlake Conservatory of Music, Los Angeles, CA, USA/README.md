@@ -2,7 +2,16 @@
 
 ## Setlist
 
+Intro Jam
+Dark Necessities
+Goodbye Angels
+Californication
+Under the Bridge
+By the Way
+
 ## Notes
+
+> Acoustic performance at the Silverlake Conservatory of Music annual fundraising gala.
 
 ## Media 
 
@@ -21,5 +30,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Nate Walcott  
+* Chris Warren
 
 ## Recordings

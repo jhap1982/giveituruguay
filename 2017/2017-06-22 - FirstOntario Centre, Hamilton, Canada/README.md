@@ -2,7 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+I Wanna Be Your Dog part of
+Right on Time
+Emit Remmus
+Go Robot
+Californication
+Aeroplane
+Detroit
+Did I Let You Know
+Under the Bridge
+By the Way
+ENCORE BREAK
+Sometimes part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Deerhoof, Jack Irons
 
 ## Media 
 
@@ -28,4 +51,5 @@
 
 ## Recordings
 
+* AUD #1 audience audio: Audioreality Binaural Stealth Mics > Zoom H2 WAV > FLAC recorded by foou
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

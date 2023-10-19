@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+Hey
+I Wanna Be Your Dog part of
+Right on Time
+Brandy (You're a Fine Girl)
+Go Robot
+Californication
+Andy Warhol part of JOSH
+Charlie
+The Getaway
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Irontom, Jack Irons
 
 ## Media 
 

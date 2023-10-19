@@ -2,7 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Search and Destroy
+Parallel Universe
+Go Robot
+Californication
+Tell Me Baby
+Dreams of a Samurai
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Rescheduled from **December 20, 2016**.
+
+**Support**: Lady Leshurr
 
 ## Media 
 

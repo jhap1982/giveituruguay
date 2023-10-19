@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Otherside
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Nobody Weird Like Me
+Go Robot
+Blood Sugar Sex Magik
+Show of Strength tease
+Charlie
+Around the World
+Dreams of a Samurai
+Big Rock Candy Mountain part of FLEA
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+The Mercy Seat part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 9,332 / 10,344 (90%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

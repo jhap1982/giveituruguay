@@ -2,6 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Wet Sand
+Me and My Friends
+Go Robot
+Californication
+What Is Soul? jam
+Aeroplane
+Blood Sugar Sex Magik
+Show of Strength tease
+Sick Love
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Debaser abandoned JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 

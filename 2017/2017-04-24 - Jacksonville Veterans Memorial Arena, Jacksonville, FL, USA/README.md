@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+Tell Me Baby
+Go Robot
+Californication
+What Is Soul? jam
+Factory of Faith
+Search and Destroy
+Encore
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 11,640 / 11,640 (100%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

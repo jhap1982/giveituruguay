@@ -2,7 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Right on Time
+Go Robot
+Californication
+Aeroplane
+The Getaway
+Don't Forget Me
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Benefit show at the Band Together Bay Area event.
 
 ## Media 
 
@@ -21,5 +42,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings

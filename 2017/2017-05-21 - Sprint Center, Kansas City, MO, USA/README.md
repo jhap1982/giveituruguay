@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Wet Sand
+Look Around
+Go Robot
+Californication
+Encore
+Aeroplane
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 11,726 / 11,726 (100%)
+<br>
+**Support**: Irontom, Jack Irons
 
 ## Media 
 

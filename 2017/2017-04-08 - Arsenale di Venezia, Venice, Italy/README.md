@@ -2,7 +2,21 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Otherside
+I Wanna Be Your Dog part of
+Me and My Friends
+Go Robot
+Dark Necessities
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> The band played a surprise private show at Damien Hirst's "Treasures from the Wreck of the Unbelievable" launch party.
 
 ## Media 
 
@@ -21,5 +35,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Nate Walcott  
+* Samuel Banuelos
 
 ## Recordings

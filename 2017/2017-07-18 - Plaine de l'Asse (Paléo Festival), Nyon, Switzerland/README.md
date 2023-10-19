@@ -2,6 +2,26 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+Wet Sand
+I Wanna Be Your Dog part of
+Me and My Friends
+Go Robot
+Californication
+Tell Me Baby
+Sick Love
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Higgs Boson Blues part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 

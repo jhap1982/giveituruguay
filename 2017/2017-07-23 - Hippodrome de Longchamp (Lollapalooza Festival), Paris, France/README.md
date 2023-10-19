@@ -2,6 +2,27 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+I Wanna Be Your Dog part of
+Me and My Friends
+Go Robot
+Californication
+Tell Me Baby
+Wicked Game part of JOSH
+The Getaway
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 

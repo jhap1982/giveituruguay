@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Otherside
+Dark Necessities
+If You Have to Ask
+Hardcore Jollies tease
+Me and My Friends
+Universally Speaking
+Go Robot
+Californication
+Feasting on the Flowers
+Sir Psycho Sexy
+They're Red Hot
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 10,358 / 10,358 (100%)
+<br>
+**Support**: Irontom, Jack Irons
 
 ## Media 
 

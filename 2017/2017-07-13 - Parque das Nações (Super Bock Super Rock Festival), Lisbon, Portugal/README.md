@@ -2,7 +2,28 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Nobody Weird Like Me
+Go Robot
+Californication
+What Is Soul? jam
+Aeroplane
+Suck My Kiss
+Foi Na Cruz part of JOSH
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Apparently "The Zephyr Song" and "Dreams of a Samurai" weren't played due to time restraints. "Soul to Squeeze" was played instead of "Under the Bridge".
 
 ## Media 
 

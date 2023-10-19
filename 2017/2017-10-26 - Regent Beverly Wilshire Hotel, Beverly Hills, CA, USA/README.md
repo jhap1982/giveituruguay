@@ -4,6 +4,8 @@
 
 ## Notes
 
+> Anthony and Josh performed a 3-song acoustic set for the Whole Child International Gala.
+
 ## Media 
 
 <details>
@@ -16,9 +18,7 @@
 ## Line Up
 
 * Anthony Kiedis
-* Flea
 * Josh Klinghoffer
-* Chad Smith
 
 ### Additional Musicians
 

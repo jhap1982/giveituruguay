@@ -2,6 +2,26 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Californication
+What Is Soul? jam
+Aeroplane
+Don't Forget Me
+Sick Love
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
 
 ## Media 
@@ -29,3 +49,4 @@
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
+* PRO #1 professional video: soundboard > unknown WEB > TS [720p] From an official festival livestream on Tidal.

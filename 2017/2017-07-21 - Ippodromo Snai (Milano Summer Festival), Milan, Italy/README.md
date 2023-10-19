@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Otherside
+Freaky Styley tease
+Dark Necessities
+Hey
+Fire
+Go Robot
+Californication
+Charlie
+Sick Love
+Don't Forget Me
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Knower
 
 ## Media 
 

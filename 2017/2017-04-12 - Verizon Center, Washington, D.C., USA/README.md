@@ -2,7 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Go Robot
+Sweet and Low part of
+Californication
+What Is Soul? jam
+Charlie
+The Getaway
+Aeroplane
+Dreams of a Samurai
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 13,745 / 13,745 (100%)
+<br>
+**Support**: Babymetal, Jack Irons
 
 ## Media 
 

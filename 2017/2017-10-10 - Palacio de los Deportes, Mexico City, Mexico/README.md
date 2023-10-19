@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Factory of Faith
+Blood Sugar Sex Magik
+Show of Strength tease
+Go Robot
+Californication
+What Is Soul? jam
+Tell Me Baby
+Encore
+Higher Ground
+Under the Bridge
+By the Way
+ENCORE BREAK
+Hands on the Wheel part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Attendance**: 21,197 / 21,197 (100%)
+<br>
+**Support**: Louis Cole
 
 ## Media 
 

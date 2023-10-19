@@ -2,7 +2,31 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Dani California
+Scar Tissue
+Dark Necessities
+Pea
+Wet Sand
+Search and Destroy
+Go Robot
+Californication
+Aeroplane
+Blood Sugar Sex Magik
+Show of Strength tease
+Sick Love
+Suck My Kiss
+Under the Bridge
+By the Way
+ENCORE BREAK
+Goodbye Angels
+Give It Away
+Jam
+
 ## Notes
+
+**Support**: Knower
 
 ## Media 
 

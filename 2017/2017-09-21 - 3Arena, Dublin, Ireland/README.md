@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Dark Necessities
+Hey
+I Wanna Be Your Dog part of
+Right on Time
+Blood Sugar Sex Magik
+Show of Strength tease
+Go Robot
+Californication
+Get on Top
+The Getaway
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+The Last Day of Our Acquaintance part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Rescheduled from **December 21, 2016**.
+
+**Support**: Lady Leshurr
 
 ## Media 
 

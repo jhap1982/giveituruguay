@@ -2,7 +2,34 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Snow ((Hey Oh))
+Scar Tissue
+Dark Necessities
+Emit Remmus
+I Wanna Be Your Dog part of
+Right on Time
+Go Robot
+Blood Sugar Sex Magik
+Show of Strength tease
+Did I Let You Know
+Californication
+What Is Soul? jam
+Sick Love
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Sycamore Trees part of JOSH
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> "Higher Ground" was on the handritten setlist but was replaced by "Suck My Kiss".
+
+**Support**: Irontom, Jack Irons
 
 ## Media 
 

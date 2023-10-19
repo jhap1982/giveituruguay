@@ -2,7 +2,29 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+Otherside
+Dark Necessities
+Mommy Where's Daddy?
+Look Around
+She's Only 18
+Go Robot
+Californication
+Charlie
+Dreams of a Samurai
+Suck My Kiss
+I Could Have Lied
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+**Support**: Deerhoof, Jack Irons
 
 ## Media 
 
@@ -28,4 +50,5 @@
 
 ## Recordings
 
+* AUD #1 audience audio: Audioreality Binaural Stealth Mics > Zoom H2 WAV > FLAC recorded by foou
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC

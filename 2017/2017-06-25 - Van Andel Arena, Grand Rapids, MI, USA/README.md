@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Fire
+Parallel Universe
+Go Robot
+Californication
+Aeroplane
+The Getaway
+Higher Ground
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> Jack Irons joined on drums on "Fire".
+
+**Attendance**: 10,975 / 10,975 (100%)
+<br>
+**Support**: Deerhoof, Jack Irons
 
 ## Media 
 

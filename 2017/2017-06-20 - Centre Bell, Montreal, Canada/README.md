@@ -2,7 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Around the World
+Snow ((Hey Oh))
+The Zephyr Song
+Dark Necessities
+The Adventures of Rain Dance Maggie
+Fire
+Go Robot
+Californication
+Tell Me Baby
+Don't Forget Me
+Sick Love
+Suck My Kiss
+Soul to Squeeze
+By the Way
+ENCORE BREAK
+Jam
+Goodbye Angels
+Give It Away
+
 ## Notes
+
+> "Hey" was written on the setlist but got replaced with "The Adventures Of Rain Dance Maggie".
+
+**Attendance**: 13,049 / 14,867 (88%)
+<br>
+**Support**: Deerhoof, Jack Irons
 
 ## Media 
 
