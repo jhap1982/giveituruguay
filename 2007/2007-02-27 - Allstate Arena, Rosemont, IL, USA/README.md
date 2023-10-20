@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-Will You Still Love Me Tomorrow? part of JOHN
-Don't Forget Me
-Me and My Friends
-Warlocks
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Snow ((Hey Oh))
+13. Will You Still Love Me Tomorrow? part of JOHN
+14. Don't Forget Me
+15. Me and My Friends
+16. Warlocks
+17. C'mon Girl
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. I Could Have Lied
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

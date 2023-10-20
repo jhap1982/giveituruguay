@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Rescheduled to *March 12, 2007* due to a huge ice storm in the area.
+> Rescheduled to **March 12, 2007** due to a huge ice storm in the area.
 
 
 ## Media 

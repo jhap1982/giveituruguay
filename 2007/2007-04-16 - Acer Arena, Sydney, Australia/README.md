@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Fortune Faded
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-This Velvet Glove
-How Can I Tell You JOHN
-Snow ((Hey Oh))
-Me and My Friends
-Don't Forget Me
-Hump de Bump
-I Feel Love part of JOHN
-Hey
-Californication
-Sunny part of FLEA
-By the Way
-ENCORE BREAK
-Jam
-I Could Have Lied
-Higher Ground
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. This Velvet Glove
+11. How Can I Tell You JOHN
+12. Snow ((Hey Oh))
+13. Me and My Friends
+14. Don't Forget Me
+15. Hump de Bump
+16. I Feel Love part of JOHN
+17. Hey
+18. Californication
+19. Sunny part of FLEA
+20. By the Way
+<br> ENCORE BREAK
+21. Jam
+22. I Could Have Lied
+23. Higher Ground
 
 ## Notes
 

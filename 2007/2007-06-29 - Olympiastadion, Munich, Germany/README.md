@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Purple Stain tease
-Scar Tissue
-Fortune Faded
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Your Pussy's Glued to a Building on Fire JOHN
-Nobody Weird Like Me
-Emit Remmus
-She's Only 18
-Don't Forget Me
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Under the Bridge
-I Feel Love part of JOHN
-The Power of Equality
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Purple Stain tease
+5. Scar Tissue
+6. Fortune Faded
+7. Readymade
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Snow ((Hey Oh))
+11. Your Pussy's Glued to a Building on Fire JOHN
+12. Nobody Weird Like Me
+13. Emit Remmus
+14. She's Only 18
+15. Don't Forget Me
+16. Right on Time
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Under the Bridge
+21. I Feel Love part of JOHN
+22. The Power of Equality
 
 ## Notes
 

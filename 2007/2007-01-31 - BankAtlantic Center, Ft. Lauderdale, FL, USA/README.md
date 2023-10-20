@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Hump de Bump
-Havana Affair
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-See Emily Play part of JOHN
-Snow ((Hey Oh))
-Don't Forget Me
-London Calling tease
-Right on Time
-Hey
-Californication
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Hump de Bump
+7. Havana Affair
+8. 21st Century
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Blood Sugar Sex Magik
+12. Show of Strength tease
+13. See Emily Play part of JOHN
+14. Snow ((Hey Oh))
+15. Don't Forget Me
+16. London Calling tease
+17. Right on Time
+18. Hey
+19. Californication
+20. By the Way
+<br> ENCORE BREAK
+21. I Could Have Lied
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
@@ -54,5 +54,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-

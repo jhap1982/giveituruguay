@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Readymade
-Parallel Universe
-Blood Sugar Sex Magik
-Show of Strength tease
-Maybe part of JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Wet Sand
-Hump de Bump
-London Calling tease
-Right on Time
-C'mon Girl
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Jam
-Soul to Squeeze
-Higher Ground
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Readymade
+7. Parallel Universe
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Maybe part of JOHN
+11. Snow ((Hey Oh))
+12. Nobody Weird Like Me
+13. Wet Sand
+14. Hump de Bump
+15. London Calling tease
+16. Right on Time
+17. C'mon Girl
+18. Californication
+19. What Is Soul? jam
+20. By the Way
+<br> ENCORE BREAK
+21. Jam
+22. Soul to Squeeze
+23. Higher Ground
 
 ## Notes
 

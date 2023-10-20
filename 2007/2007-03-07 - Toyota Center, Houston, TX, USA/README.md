@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Readymade
-Parallel Universe
-Tell Me Baby
-If You Have to Ask
-I Feel Love part of JOHN
-Snow ((Hey Oh))
-Me and My Friends
-Don't Forget Me
-Get on Top
-Hey
-Californication
-By the Way
-ENCORE BREAK
-Jam
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Readymade
+7. Parallel Universe
+8. Tell Me Baby
+9. If You Have to Ask
+10. I Feel Love part of JOHN
+11. Snow ((Hey Oh))
+12. Me and My Friends
+13. Don't Forget Me
+14. Get on Top
+15. Hey
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. I Could Have Lied
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
@@ -52,5 +52,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-

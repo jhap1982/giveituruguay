@@ -52,5 +52,3 @@
 * AUD #1 audience audio: built-in > unknown recorder MP3 recorded by unknown Recorded in 128kbps, very bad quality.  
 * SBD #1 soundboard audio: soundboard > unknown recorder ? > FLAC Comes from the master recording of the TV station that aired the show, hence it's missing the same songs as the video.  
 * PRO #1 professional video: soundboard > unknown ? > DVD Missing "Throw Away Your Television", "Snow" and "Don't Forget Me". There are various transfers sourced from the TV broadcast, but the best one comes from a DVD copy handed out directly by the TV station to a fan.
-
-

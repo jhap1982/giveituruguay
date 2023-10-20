@@ -24,5 +24,3 @@
 ### Additional Musicians
 
 ## Recordings
-
-

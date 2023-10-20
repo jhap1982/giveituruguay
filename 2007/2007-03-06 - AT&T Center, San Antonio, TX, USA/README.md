@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Maybe part of JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Stadium Arcadium
-London Calling tease
-Right on Time
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Maybe part of JOHN
+13. Snow ((Hey Oh))
+14. Nobody Weird Like Me
+15. Stadium Arcadium
+16. London Calling tease
+17. Right on Time
+18. C'mon Girl
+19. Californication
+20. By the Way
+<br> ENCORE BREAK
+21. I Could Have Lied
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 

@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Tell Me Baby
-Parallel Universe
-Blood Sugar Sex Magik
-Show of Strength tease
-Maybe part of JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Wet Sand
-London Calling tease
-Right on Time
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-Jam
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Tell Me Baby
+8. Parallel Universe
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. Maybe part of JOHN
+12. Snow ((Hey Oh))
+13. Nobody Weird Like Me
+14. Wet Sand
+15. London Calling tease
+16. Right on Time
+17. C'mon Girl
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. I Could Have Lied
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -54,6 +54,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-
-

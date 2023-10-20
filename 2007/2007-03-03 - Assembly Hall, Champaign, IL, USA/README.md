@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Tell Me Baby
-Parallel Universe
-If You Have to Ask
-Hardcore Jollies tease
-How Can I Tell You JOHN
-Snow ((Hey Oh))
-Me and My Friends
-Do You Really Want to Hurt Me? tease
-C'mon Girl
-Don't Forget Me
-Warlocks
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Tell Me Baby
+8. Parallel Universe
+9. If You Have to Ask
+10. Hardcore Jollies tease
+11. How Can I Tell You JOHN
+12. Snow ((Hey Oh))
+13. Me and My Friends
+14. Do You Really Want to Hurt Me? tease
+15. C'mon Girl
+16. Don't Forget Me
+17. Warlocks
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Jam
+21. Soul to Squeeze
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
@@ -54,5 +54,3 @@ Outro Jam
 ## Recordings
 
 * AUD #1 audience audio: SP-CMC-19 > SP-Microtrack Micpower Batterybox > Microtrack 24/96 WAV > FLAC recorded by sparkjokey
-
-

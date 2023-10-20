@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Readymade
-Songbird JOHN
-Parallel Universe
-Snow ((Hey Oh))
-Get on Top
-C'mon Girl
-If You Have to Ask
-Hardcore Jollies tease
-London Calling tease
-Right on Time
-Hey
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Readymade
+8. Songbird JOHN
+9. Parallel Universe
+10. Snow ((Hey Oh))
+11. Get on Top
+12. C'mon Girl
+13. If You Have to Ask
+14. Hardcore Jollies tease
+15. London Calling tease
+16. Right on Time
+17. Hey
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -56,6 +56,3 @@ Outro Jam
 
 * AUD #1 audience audio: Core Sound Binaurals > Sharp MD-MT190 MD(M) > FLAC recorded by Lokalfuz
 * AUD #2 audience audio: built-in > unknown recorder WAV > MP3 recorded by frickdogAlthough this was recorded in .wav, the taper uploaded it in .mp3.
-
-
-

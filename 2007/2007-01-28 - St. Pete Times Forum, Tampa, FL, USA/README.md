@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-If You Want Me to Stay part of
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Don't Forget Me
-The Power of Equality
-Hey
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. If You Want Me to Stay part of
+8. 21st Century
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Blood Sugar Sex Magik
+12. Show of Strength tease
+13. Snow ((Hey Oh))
+14. Nobody Weird Like Me
+15. Don't Forget Me
+16. The Power of Equality
+17. Hey
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -53,5 +53,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Parallel Universe
-Get on Top
-Shadow Dancing part of JOHN
-Snow ((Hey Oh))
-Tell Me Baby
-If You Have to Ask
-Hardcore Jollies tease
-Hump de Bump
-London Calling tease
-Right on Time
-Stadium Arcadium
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Parallel Universe
+7. Get on Top
+8. Shadow Dancing part of JOHN
+9. Snow ((Hey Oh))
+10. Tell Me Baby
+11. If You Have to Ask
+12. Hardcore Jollies tease
+13. Hump de Bump
+14. London Calling tease
+15. Right on Time
+16. Stadium Arcadium
+17. C'mon Girl
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -55,4 +55,3 @@ Outro Jam
 ## Recordings
 
 * AUD #1 audience audio: built-in > unknown recorder MP3 recorded by Hottie GirlRecorded in 128kbps, very bad quality.
-

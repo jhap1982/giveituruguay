@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Fortune Faded
-Readymade
-Get on Top
-Nobody Weird Like Me
-Snow ((Hey Oh))
-Don't Forget Me
-Shadow Dancing part of JOHN
-C'mon Girl
-Californication
-London Calling tease
-Right on Time
-Hey
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+2. Dani California
+3. Otherside
+4. Charlie
+8. Fortune Faded
+9. Readymade
+10. Get on Top
+11. Nobody Weird Like Me
+12. Snow ((Hey Oh))
+13. Don't Forget Me
+14. Shadow Dancing part of JOHN
+15. C'mon Girl
+16. Californication
+17. London Calling tease
+18. Right on Time
+19. Hey
+20. By the Way
+<br> ENCORE BREAK
+21. I Could Have Lied
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
@@ -52,5 +52,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-

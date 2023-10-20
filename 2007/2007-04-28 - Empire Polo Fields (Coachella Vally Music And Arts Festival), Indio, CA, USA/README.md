@@ -51,6 +51,3 @@
 
 * AUD #1 audience audio: Panasonic WM-61A > Sound Pro SP-SPSB-2 > Edirol R-09 WAV > FLAC recorded by Kris Sproul
 * AUD #2 audience audio: Core Sound Cardioids > M-Audio MicroTrack 24/96 WAV > FLAC recorded by AfrodudeThe battery died near the end of the show. **NOT CIRCULATING**
-
-
-

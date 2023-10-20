@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Readymade
-Parallel Universe
-Warlocks
-Maybe part of JOHN
-Snow ((Hey Oh))
-Jugband Blues part of JOHN
-Get on Top
-Sir Psycho Sexy
-They're Red Hot
-C'mon Girl
-Me and My Friends
-Strip My Mind
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Readymade
+7. Parallel Universe
+8. Warlocks
+9. Maybe part of JOHN
+10. Snow ((Hey Oh))
+11. Jugband Blues part of JOHN
+12. Get on Top
+13. Sir Psycho Sexy
+14. They're Red Hot
+15. C'mon Girl
+16. Me and My Friends
+17. Strip My Mind
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -55,5 +55,3 @@ Outro Jam
 ## Recordings
 
 * AMT #1 amateur video: built-in > unknown camera ? > DVD recorded by unknownFeatures the intro jam, "Can't Stop", "Dani California", "Otherside", "Warlocks", "Maybe", "Snow ((Hey Oh))", "Jugband Blues", "Get on Top", "Sir Psycho Sexy", "They're Red Hot" and "C'mon Girl".
-
-

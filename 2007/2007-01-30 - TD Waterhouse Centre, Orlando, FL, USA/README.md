@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Parallel Universe
-Get on Top
-Shadow Dancing part of JOHN
-Snow ((Hey Oh))
-Warlocks
-Me and My Friends
-Tell Me Baby
-C'mon Girl
-London Calling tease
-Right on Time
-Stadium Arcadium
-Californication
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Parallel Universe
+7. Get on Top
+8. Shadow Dancing part of JOHN
+9. Snow ((Hey Oh))
+10. Warlocks
+11. Me and My Friends
+12. Tell Me Baby
+13. C'mon Girl
+14. London Calling tease
+15. Right on Time
+16. Stadium Arcadium
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
@@ -55,6 +55,3 @@ Outro Jam
 
 * AUD #1 audience audio: built-in > unknown recorder MP3 recorded by unknownRecorded with an mp3 recorder, very bad quality.  
 * SBD #1 soundboard audio: soundboard > unknown recorder "Hump De Bump" CD > FLACThe intro jam was officially released on the "Hump De Bump" CD single.
-
-
-

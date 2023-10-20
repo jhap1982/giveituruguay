@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Don't Forget Me
-The Power of Equality
-Hey
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Snow ((Hey Oh))
+13. Nobody Weird Like Me
+14. Don't Forget Me
+15. The Power of Equality
+16. Hey
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
 
 ## Notes
 
@@ -51,5 +51,3 @@ Give It Away
 * Chris Warren
 
 ## Recordings
-
-

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-21st Century
-Throw Away Your Television
-Don't You Ever Leave jam
-C'mon Girl
-Snow ((Hey Oh))
-How Can I Tell You JOHN
-Nobody Weird Like Me
-Don't Forget Me
-London Calling tease
-Right on Time
-Hey
-Californication
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. 21st Century
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. C'mon Girl
+11. Snow ((Hey Oh))
+12. How Can I Tell You JOHN
+13. Nobody Weird Like Me
+14. Don't Forget Me
+15. London Calling tease
+16. Right on Time
+17. Hey
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. I Could Have Lied
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 
@@ -53,5 +53,3 @@ Outro Jam
 * Chris Warren
 
 ## Recordings
-
-
