@@ -6609,6 +6609,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2023</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -6786,6 +6787,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2023-07-23 - Hampden Park, Glasgow, Scotland</td>
                             <td>[AUD #1][FLAC][392 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2023-08-06 - Grant Park (Lollapalooza Festival), Chicago, IL, USA</td>
+                            <td>[SBD #1][MP3][9,61 MB]</td>
                         </tr>
 
                         <tr>

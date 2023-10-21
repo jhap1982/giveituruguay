@@ -16,6 +16,10 @@
 
 ## Line Up
 
+* Flea
+* John Frusciante
+* Josh Klinghoffer
+
 ## Recordings / Footage
 
 ## Links
