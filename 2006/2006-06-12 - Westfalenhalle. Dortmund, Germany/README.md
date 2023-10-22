@@ -2,9 +2,33 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Parallel Universe
+Warlocks
+Fortune Faded
+How Deep Is Your Love? part of JOHN
+Me and My Friends
+Snow ((Hey Oh))
+London Calling tease
+Right on Time
+Wet Sand
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+I Could Have Lied
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Dizzee Rascal
 
 ## Media 
 
@@ -25,6 +49,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings / Footage
 

@@ -2,6 +2,32 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Warlocks
+Throw Away Your Television
+Don't You Ever Leave jam
+Snow ((Hey Oh))
+Me and My Friends
+How Deep Is Your Love? part of JOHN
+Strip My Mind
+London Calling tease
+Right on Time
+Don't Forget Me
+Tell Me Baby
+Californication
+What Is Soul? jam
+By the Way
+ENCORE BREAK
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
 **Support**: -
@@ -26,6 +52,10 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings / Footage
+
+* AUD #1 audience audio: unknown mic > unknown recorder MP3 recorded by unknown Recorded in 32kbps, very bad quality.
 
 ## Links

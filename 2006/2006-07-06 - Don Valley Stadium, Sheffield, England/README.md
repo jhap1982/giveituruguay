@@ -2,6 +2,30 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Otherside
+21st Century
+Parallel Universe
+Snow ((Hey Oh))
+Me and My Friends
+Wet Sand
+London Calling tease
+Right on Time
+Don't Forget Me
+Being Boiled part of JOHN
+I Could Have Lied
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Under the Bridge
+Give It Away
+Outro Jam
+
 ## Notes
 
 **Support**: -
@@ -25,6 +49,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings / Footage
 

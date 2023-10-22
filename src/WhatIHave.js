@@ -3455,7 +3455,14 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-06-08 - Palais Omnisport de Paris Bercy, Paris, France</td>
                             <td>
                                 [AMT #1][DVD][3,84 GB] <br />
-                                [AUD #2][MP3][566 MB]
+                                [AUD #2][FLAC][566 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-11 - Westfalenhalle, Dortmund, Germany</td>
+                            <td>
+                                [AUD #1][MP3][108 MB]
                             </td>
                         </tr>
 
@@ -3478,7 +3485,15 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-06-29 - Festivalpark (Rock Werchter Festival), Werchter, Belgium</td>
                             <td>
                                 [PRO #1][ShortVer][DVD][497 MB] <br />
-                                [PRO #1][YT][MP4][1,40 GB]
+                                [PRO #1][YT][MP4][1,40 GB] <br />
+                                [AUD #1][FLAC][528 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-06-30 - Portman Road, Ipswich, England</td>
+                            <td>
+                                
                             </td>
                         </tr>
 
