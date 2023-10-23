@@ -2,9 +2,36 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Readymade
+Blood Sugar Sex Magik
+Show of Strength tease
+21st Century
+Parallel Universe
+Hump de Bump
+Songbird JOHN
+Snow ((Hey Oh))
+London Calling tease
+Right on Time
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
-**Support**: -
+**Attendance**: 15,012 / 15,012 (100%)
+<br>
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -25,6 +52,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Marcel Rodriguez-Lopez
 
 ## Recordings / Footage
 

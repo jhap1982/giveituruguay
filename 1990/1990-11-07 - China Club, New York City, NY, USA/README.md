@@ -4,7 +4,7 @@
 
 ## Notes
 
-> Anthony, Flea and John attended the Rack'n'Roll Pool Tournament at the Amsterdam Billiard Club. A jam session followed at the China Club and they all eventually hopped on stage.
+> The band was in attendance at Earth Alliance's second annual "Rack and Roll" celebrity pool tournament held at the Amsterdam Billiard Club to benefit the Starlight Foundation. A jam session among musicians followed at the China Club and they eventually hopped on stage borrowing whatever gear was there.
 
 ## Media 
 

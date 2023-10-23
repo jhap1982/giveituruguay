@@ -57,7 +57,7 @@
 ## Recordings / Footage
 
 * AUD #1 audience audio: built-in > Edirol R-09 WAV(M) > FLAC recorded by clonefunk  
-* AMT #1 amateur video: built-in > unknown camera ? > DVD > WMV recorded by JoompaOnly a .wmv rip of the DVD is circulating. 
-* AMT #2 amateur videobuilt-in > unknown camera? > DVD recorded by Sammun **NOT CIRCULATING**
+* AMT #1 amateur video: built-in > unknown camera ? > DVD > WMV recorded by JoompaOnly a .wmv rip of the DVD is circulating.
+* AMT #2 amateur video: built-in > unknown camera? > DVD recorded by Sammun **NOT CIRCULATING**
 
 ## Links

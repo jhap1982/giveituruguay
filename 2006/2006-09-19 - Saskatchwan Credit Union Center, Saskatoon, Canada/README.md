@@ -2,9 +2,37 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Warlocks
+Blood Sugar Sex Magik
+Show of Strength tease
+Parallel Universe
+Strip My Mind
+Will You Still Love Me Tomorrow? JOHN
+Snow ((Hey Oh))
+Nobody Weird Like Me
+London Calling tease
+Right on Time
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Attendance**: 12,989 / 12,989 (100%)
+<br>
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -25,6 +53,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Marcel Rodriguez-Lopez
 
 ## Recordings / Footage
 

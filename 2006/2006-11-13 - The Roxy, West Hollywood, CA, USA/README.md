@@ -2,6 +2,25 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Readymade
+Blood Sugar Sex Magik
+Show of Strength tease
+Snow ((Hey Oh))
+London Calling tease
+Right on Time
+Higher Ground
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
 **Support**: -
@@ -25,6 +44,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings / Footage
 

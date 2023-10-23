@@ -2,6 +2,10 @@
 
 ## Setlist
 
+1. Dani California
+2. Snow ((Hey Oh))
+3. By the Way
+
 ## Notes
 
 **Support**: -
@@ -27,5 +31,7 @@
 ### Additional Musicians
 
 ## Recordings / Footage
+
+* PRO #1 professional video: soundboard > unknown HDTV > TS [1080i] > DVD
 
 ## Links

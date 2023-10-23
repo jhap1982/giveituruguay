@@ -2,9 +2,39 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+21st Century
+Blood Sugar Sex Magik
+Show of Strength tease
+Songbird JOHN
+Snow ((Hey Oh))
+Nobody Weird Like Me
+Especially in Michigan tease
+Wet Sand
+London Calling tease
+Right on Time
+Warlocks
+Don't Forget Me
+Pea
+Higher Ground
+City of New Orleans part of JOHN
+Californication
+By the Way
+ENCORE BREAK
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+
 ## Notes
 
-**Support**: -
+**Attendance**: 11,477 / 11,477 (100%)
+<br>
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -25,6 +55,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Marcel Rodriguez-Lopez
 
 ## Recordings / Footage
 

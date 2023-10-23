@@ -49,6 +49,8 @@ Outro Jam
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings / Footage
 
 * AMT #1 amateur video: built-in > unknown camera DVD recorded by SnowBear This recording has cuts inbetween songs, but is otherwise complete. 

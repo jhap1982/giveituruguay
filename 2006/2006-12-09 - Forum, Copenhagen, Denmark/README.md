@@ -2,9 +2,35 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Otherside
+Charlie
+Havana Affair
+Desecration Smile
+Throw Away Your Television
+Don't You Ever Leave jam
+Blood Sugar Sex Magik
+Show of Strength tease
+Dosed tease
+Snow ((Hey Oh))
+Your Pussy's Glued to a Building on Fire JOHN
+Tell Me Baby
+Stadium Arcadium
+Around the World
+C'mon Girl
+Californication
+What Is Soul? jam
+By the Way
+ENCORE BREAK
+I Could Have Lied
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Support**: Mike Watt and the Missingmen
 
 ## Media 
 
@@ -26,6 +52,10 @@
 
 ### Additional Musicians
 
+* Chris Warren
+
 ## Recordings / Footage
+
+* AUD #1 audience audio: Core Sound Cardioids > Battery Box > iRiver H120 WAV(M) > FLAC recorded by JTL
 
 ## Links

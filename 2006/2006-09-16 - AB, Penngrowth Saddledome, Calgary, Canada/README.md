@@ -2,9 +2,36 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+21st Century
+Parallel Universe
+Hump de Bump
+Will You Still Love Me Tomorrow? JOHN
+Snow ((Hey Oh))
+Nobody Weird Like Me
+Wet Sand
+London Calling tease
+Right on Time
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Soul to Squeeze
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Attendance**: 13,985 / 13,985 (100%)
+<br>
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -26,6 +53,11 @@
 
 ### Additional Musicians
 
+* Chris Warren  
+* Marcel Rodriguez-Lopez
+
 ## Recordings / Footage
+
+* SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 
 ## Links

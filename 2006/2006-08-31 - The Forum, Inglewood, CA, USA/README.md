@@ -2,9 +2,38 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+21st Century
+Blood Sugar Sex Magik
+Show of Strength tease
+Throw Away Your Television
+Don't You Ever Leave jam
+Will You Still Love Me Tomorrow? JOHN
+Snow ((Hey Oh))
+Me and My Friends
+Stadium Arcadium
+London Calling tease
+Right on Time
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Soul to Squeeze
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+**Attendance**: 13,598 / 13,598 (100%)
+<br>
+**Support**: The Mars Volta
 
 ## Media 
 
@@ -25,6 +54,9 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren  
+* Marcel Rodriguez-Lopez
 
 ## Recordings / Footage
 

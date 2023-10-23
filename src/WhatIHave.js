@@ -3580,6 +3580,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2006-08-11 - Rose Garden Arena, Portland, OR, USA</td>
+                            <td>
+                                [AUD #1][FLAC][580 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2006-08-12 - White River Amphitheater (Endfest), Auburn, WA, USA</td>
                             <td>
                                 [AUD #1][FLAC][566 MB]
@@ -3616,8 +3623,16 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2006-09-23 - Pimlico Racetrack (Virgin Festival), Baltimore, MD, USA</td>
+                            <td>
+                                [AUD #1][FLAC][494 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2006-09-25 - Air Canada Center, Toronto, Canada</td>
                             <td>
+                                [AUD #1][FLAC][588 MB]<br / >
                                 [AUD #1][MP3][186 MB]
                             </td>
                         </tr>
@@ -3637,6 +3652,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2006-10-01 - Colisée Pepsi, Quebec, Canada</td>
+                            <td>
+                                [AUD #1][FLAC][779 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2006-10-02 - TD Banknorth Garden, Boston, MA, USA</td>
                             <td>
                                 [AUD #1][FLAC][140 MB]
@@ -3647,7 +3669,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2006-10-17 - Continental Airlines Arena, East Rutherford, NJ, USA</td>
                             <td>
                                 [MIX #1][DVD][3,99 GB] <br />
-                                [AUD #3][MP3][101 MB]
+                                [AUD #1][FLAC][710 MB]  <br />
+                                [AUD #3][MP3][101 MB]                                
                             </td>
                         </tr>
 
@@ -3717,6 +3740,20 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][1080i][TS][730 MB] <br/>
                                 [PRO #1][DVD][1,19 GB] <br />
                                 [PRO #1][MP4][293 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-24 - Color Line Arena, Hamburg, Germany</td>
+                            <td>
+                                [AUD #1][FLAC][717 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2006-11-26 - Festhalle, Frankfurt, Germany</td>
+                            <td>
+                                [AUD #1][MP3][44,7 MB]
                             </td>
                         </tr>
 

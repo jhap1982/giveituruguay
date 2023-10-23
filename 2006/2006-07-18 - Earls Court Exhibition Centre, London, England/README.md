@@ -2,9 +2,40 @@
 
 ## Setlist
 
+Intro Jam
+Can't Stop
+Dani California
+Scar Tissue
+Charlie
+Fortune Faded
+Readymade
+Around the World
+Throw Away Your Television
+Don't You Ever Leave jam
+People Have the Power
+Snow ((Hey Oh))
+For Emily, Whenever I May Find Her JOHN
+Me and My Friends
+Strip My Mind
+London Calling tease
+Right on Time
+Duke of Earl part of JOHN
+Don't Forget Me
+Tell Me Baby
+Californication
+By the Way
+ENCORE BREAK
+Sunday Bloody Sunday part of JOHN
+Under the Bridge
+You're Gonna Get Yours tease
+Give It Away
+Outro Jam
+
 ## Notes
 
-**Support**: -
+> Patti Smith joined the band for "People Have the Power".
+
+**Support**: Chk Chk Chk
 
 ## Media 
 
@@ -25,6 +56,8 @@
 * Chad Smith
 
 ### Additional Musicians
+
+* Chris Warren
 
 ## Recordings / Footage
 
