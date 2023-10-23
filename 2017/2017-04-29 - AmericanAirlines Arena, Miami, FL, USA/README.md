@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Hey
-I Wanna Be Your Dog part of
-Right on Time
-The Adventures of Rain Dance Maggie
-Go Robot
-Californication
-Tell Me Baby
-Encore
-Higher Ground
-You're a Big Girl Now part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. The Adventures of Rain Dance Maggie
+10. Go Robot
+11. Californication
+12. Tell Me Baby
+13. Encore
+14. Higher Ground
+15. You're a Big Girl Now part of JOSH
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

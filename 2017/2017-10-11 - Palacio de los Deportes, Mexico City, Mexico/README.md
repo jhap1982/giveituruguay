@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-Mommy Where's Daddy?
-Me and My Friends
-Go Robot
-Californication
-The Power of Equality
-Sick Love
-Don't Forget Me
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-I Know It's Gonna Happen Someday part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. The Power of Equality
+11. Sick Love
+12. Don't Forget Me
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. I Know It's Gonna Happen Someday part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

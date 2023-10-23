@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Dosed
-Fire
-Go Robot
-Californication
-Tell Me Baby
-The Power of Equality
-The Longest Wave
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Waterloo Sunset part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Dosed
+7. Fire
+8. Go Robot
+9. Californication
+10. Tell Me Baby
+11. The Power of Equality
+12. The Longest Wave
+13. Higher Ground
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Waterloo Sunset part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Search and Destroy
-Parallel Universe
-Go Robot
-Californication
-Tell Me Baby
-Dreams of a Samurai
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Search and Destroy
+8. Parallel Universe
+9. Go Robot
+10. Californication
+11. Tell Me Baby
+12. Dreams of a Samurai
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 

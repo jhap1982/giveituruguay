@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Wet Sand
-I Wanna Be Your Dog part of
-Me and My Friends
-Go Robot
-Californication
-Tell Me Baby
-Sick Love
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Higgs Boson Blues part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Wet Sand
+7. I Wanna Be Your Dog part of
+8. Me and My Friends
+9. Go Robot
+10. Californication
+11. Tell Me Baby
+12. Sick Love
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Higgs Boson Blues part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

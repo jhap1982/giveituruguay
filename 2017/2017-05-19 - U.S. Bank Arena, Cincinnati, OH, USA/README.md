@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Otherside
-Dark Necessities
-If You Have to Ask
-Hardcore Jollies tease
-Me and My Friends
-Universally Speaking
-Go Robot
-Californication
-Feasting on the Flowers
-Sir Psycho Sexy
-They're Red Hot
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Me and My Friends
+9. Universally Speaking
+10. Go Robot
+11. Californication
+12. Feasting on the Flowers
+13. Sir Psycho Sexy
+14. They're Red Hot
+15. Suck My Kiss
+16. I Could Have Lied
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

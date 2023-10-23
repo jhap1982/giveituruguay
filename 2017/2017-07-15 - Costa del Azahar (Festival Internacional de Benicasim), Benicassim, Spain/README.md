@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-Dreams of a Samurai
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Fire
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. I Wanna Be Your Dog part of
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Dreams of a Samurai
+11. Higher Ground
+12. Under the Bridge
+13. By the Way
+<br> ENCORE BREAK
+14. Goodbye Angels
+15. Fire
+16. Give It Away
 
 ## Notes
 

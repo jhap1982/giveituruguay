@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-Hard to Concentrate
-Me and My Friends
-Sick Love
-Don't Forget Me
-Go Robot
-Californication
-What Is Soul? jam
-Detroit
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-I'll Be Back part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Hard to Concentrate
+7. Me and My Friends
+8. Sick Love
+9. Don't Forget Me
+10. Go Robot
+11. Californication
+12. What Is Soul? jam
+13. Detroit
+14. Suck My Kiss
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. I'll Be Back part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Factory of Faith
-Blood Sugar Sex Magik
-Show of Strength tease
-Go Robot
-Californication
-What Is Soul? jam
-Tell Me Baby
-Encore
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Hands on the Wheel part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Factory of Faith
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Go Robot
+11. Californication
+12. What Is Soul? jam
+13. Tell Me Baby
+14. Encore
+15. Higher Ground
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Hands on the Wheel part of JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

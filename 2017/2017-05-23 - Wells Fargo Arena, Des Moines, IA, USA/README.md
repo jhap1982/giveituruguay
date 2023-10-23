@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-Mommy Where's Daddy?
-I Wanna Be Your Dog part of
-Tell Me Baby
-Go Robot
-Californication
-Brandy (You're a Fine Girl)
-Don't Forget Me
-Suck My Kiss
-Dreams of a Samurai
-Under the Bridge
-By the Way
-ENCORE BREAK
-That Joke Isn't Funny Anymore part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. I Wanna Be Your Dog part of
+8. Tell Me Baby
+9. Go Robot
+10. Californication
+11. Brandy (You're a Fine Girl)
+12. Don't Forget Me
+13. Suck My Kiss
+14. Dreams of a Samurai
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. That Joke Isn't Funny Anymore part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

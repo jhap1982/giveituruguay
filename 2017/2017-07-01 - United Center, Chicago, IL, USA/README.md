@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Fire
-Go Robot
-Californication
-Tell Me Baby
-The Getaway
-Did I Let You Know
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Fire
+8. Go Robot
+9. Californication
+10. Tell Me Baby
+11. The Getaway
+12. Did I Let You Know
+13. Suck My Kiss
+14. Soul to Squeeze
+15 By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Wet Sand
-Me and My Friends
-Go Robot
-Californication
-What Is Soul? jam
-Aeroplane
-Blood Sugar Sex Magik
-Show of Strength tease
-Sick Love
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Debaser abandoned JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Wet Sand
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Aeroplane
+12. Blood Sugar Sex Magik
+13. Show of Strength tease
+14. Sick Love
+15. Suck My Kiss
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Debaser abandoned JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

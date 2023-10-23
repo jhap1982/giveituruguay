@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Warlocks
-Fortune Faded
-Snow ((Hey Oh))
-Me and My Friends
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-How Deep Is Your Love? part of JOHN
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Warlocks
+8. Fortune Faded
+9. Snow ((Hey Oh))
+10. Me and My Friends
+11. Stadium Arcadium
+12. London Calling tease
+13. Right on Time
+14. Don't Forget Me
+15. How Deep Is Your Love? part of JOHN
+16. Tell Me Baby
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. You're Gonna Get Yours tease
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

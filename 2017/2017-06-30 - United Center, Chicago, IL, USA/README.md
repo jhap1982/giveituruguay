@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Otherside
-Dark Necessities
-I Wanna Be Your Dog part of
-Right on Time
-Don't Forget Me
-Go Robot
-Californication
-Aeroplane
-Sick Love
-Sir Psycho Sexy
-They're Red Hot
-Higher Ground
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Let Me Roll It part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Otherside
+5. Dark Necessities
+6. I Wanna Be Your Dog part of
+7. Right on Time
+8. Don't Forget Me
+9. Go Robot
+10. Californication
+11. Aeroplane
+12. Sick Love
+13. Sir Psycho Sexy
+14. They're Red Hot
+15. Higher Ground
+16. I Could Have Lied
+17. By the Way
+<br> ENCORE BREAK
+18. Let Me Roll It part of JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Mommy Where's Daddy?
-I Wanna Be Your Dog part of
-Right on Time
-Ethiopia
-Go Robot
-Californication
-Magic Johnson tease
-So What If I Did part of JOSH
-This Ticonderoga
-Parallel Universe
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Ethiopia
+10. Go Robot
+11. Californication
+12. Magic Johnson tease
+13. So What If I Did part of JOSH
+14. This Ticonderoga
+15. Parallel Universe
+16. Higher Ground
+17. Soul to Squeeze
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Goodbye Angels
+21. Give It Away
 
 ## Notes
 

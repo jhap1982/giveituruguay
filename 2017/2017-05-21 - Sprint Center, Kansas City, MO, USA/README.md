@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Wet Sand
-Look Around
-Go Robot
-Californication
-Encore
-Aeroplane
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Wet Sand
+8. Look Around
+9. Go Robot
+10. Californication
+11. Encore
+12. Aeroplane
+13. Higher Ground
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

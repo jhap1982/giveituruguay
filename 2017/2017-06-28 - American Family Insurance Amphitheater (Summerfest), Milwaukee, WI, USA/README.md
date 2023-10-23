@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Mommy Where's Daddy?
-Me and My Friends
-Breaking the Girl
-Go Robot
-Californication
-Tell Me Baby
-Sick Love
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Add It Up part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. Me and My Friends
+8. Breaking the Girl
+9. Go Robot
+10. Californication
+11. Tell Me Baby
+12. Sick Love
+13. Suck My Kiss
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Add It Up part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

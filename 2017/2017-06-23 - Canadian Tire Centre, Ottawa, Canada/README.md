@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Otherside
-Dark Necessities
-Mommy Where's Daddy?
-Look Around
-She's Only 18
-Go Robot
-Californication
-Charlie
-Dreams of a Samurai
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. Look Around
+8. She's Only 18
+9. Go Robot
+10. Californication
+11. Charlie
+12. Dreams of a Samurai
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-What Is Soul? jam
-Aeroplane
-Snow ((Hey Oh))
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. What Is Soul? jam
+12. Aeroplane
+13. Snow ((Hey Oh))
+14. Suck My Kiss
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

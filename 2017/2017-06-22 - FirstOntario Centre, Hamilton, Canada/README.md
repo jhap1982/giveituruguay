@@ -2,15 +2,15 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-I Wanna Be Your Dog part of
-Right on Time
-Emit Remmus
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Emit Remmus
 Go Robot
 Californication
 Aeroplane

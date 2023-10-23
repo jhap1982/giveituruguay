@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Let's Make Evil tease
-Hey
-I Wanna Be Your Dog part of
-I Like Dirt
-Go Robot
-Californication
-Did I Let You Know
-Aeroplane
-The Getaway
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Seasons part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Let's Make Evil tease
+7. Hey
+8. I Wanna Be Your Dog part of
+9. I Like Dirt
+10. Go Robot
+11. Californication
+12. Did I Let You Know
+13. Aeroplane
+14. The Getaway
+15. Suck My Kiss
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Seasons part of JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

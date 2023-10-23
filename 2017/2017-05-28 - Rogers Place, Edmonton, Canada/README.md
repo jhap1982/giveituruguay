@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-Mommy Where's Daddy?
-Tell Me Baby
-Go Robot
-Californication
-Brandy (You're a Fine Girl)
-Aeroplane
-Dosed
-Higher Ground
-Deep Kick tease
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. Tell Me Baby
+8. Go Robot
+9. Californication
+10. Brandy (You're a Fine Girl)
+11. Aeroplane
+12. Dosed
+13. Higher Ground
+14. Deep Kick tease
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

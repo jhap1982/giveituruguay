@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Dosed
-I Wanna Be Your Dog part of
-Me and My Friends
-Go Robot
-Californication
-What Is Soul? jam
-Sick Love
-Charlie
-Dreams of a Samurai
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Dosed
+7. I Wanna Be Your Dog part of
+8. Me and My Friends
+9. Go Robot
+10. Californication
+11. What Is Soul? jam
+12. Sick Love
+13. Charlie
+14. Dreams of a Samurai
+15. Suck My Kiss
+16. I Could Have Lied
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

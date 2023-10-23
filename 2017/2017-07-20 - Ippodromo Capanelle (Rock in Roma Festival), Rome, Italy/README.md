@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-What Is Soul? jam
-Aeroplane
-The Getaway
-Sir Psycho Sexy
-They're Red Hot
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Io Sono Quel Che Sono part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. What Is Soul? jam
+12. Aeroplane
+13. The Getaway
+14. Sir Psycho Sexy
+15. They're Red Hot
+16. Higher Ground
+17. Under the Bridge
+18 .By the Way
+<br> ENCORE BREAK
+19. Io Sono Quel Che Sono part of JOSH
+20. Goodbye Angels
+21. Give It Away
 
 ## Notes
 

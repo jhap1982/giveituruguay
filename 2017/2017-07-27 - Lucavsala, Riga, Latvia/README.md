@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Mommy Where's Daddy?
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-I Like Dirt
-Red Hot Mama jam
-Don't Forget Me
-The Power of Equality
-Higher Ground
-I Could Have Lied
-ENCORE BREAK
-Angeles JOSH
-By the Way
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Mommy Where's Daddy?
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. I Like Dirt
+12. Red Hot Mama jam
+13. Don't Forget Me
+14. The Power of Equality
+15. Higher Ground
+16. I Could Have Lied
+<br> ENCORE BREAK
+17. Angeles JOSH
+18. By the Way
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

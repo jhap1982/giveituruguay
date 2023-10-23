@@ -1,33 +1,33 @@
-# Info
+# In1fo
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Warlocks
-Throw Away Your Television
-Don't You Ever Leave jam
-Golden Hair part of JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Strip My Mind
-London Calling tease
-Right on Time
-Don't Forget Me
-I Could Have Lied
-Tell Me Baby
-Californication
-Red Hot Mama jam
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Warlocks
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Golden Hair part of JOHN
+11. Snow ((Hey Oh))
+12. Nobody Weird Like Me
+13. Strip My Mind
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. I Could Have Lied
+18. Tell Me Baby
+19. Californication
+20. Red Hot Mama jam
+21. By the Way
+<br> ENCORE BREAK
+22. Soul to Squeeze
+23. You're Gonna Get Yours tease
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 

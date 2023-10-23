@@ -2,13 +2,13 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Dark Necessities
-Hey
-Go Robot
-By the Way
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Dark Necessities
+5. Hey
+6. Go Robot
+7. By the Way
 
 ## Notes
 

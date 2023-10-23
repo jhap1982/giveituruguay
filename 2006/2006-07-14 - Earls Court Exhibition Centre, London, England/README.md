@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-21st Century
-How Deep Is Your Love? part of JOHN
-Parallel Universe
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Wet Sand
-London Calling tease
-Right on Time
-Don't Forget Me
-I Could Have Lied
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. How Deep Is Your Love? part of JOHN
+9. Parallel Universe
+10. Snow ((Hey Oh))
+11. Nobody Weird Like Me
+12. Wet Sand
+13. London Calling tease
+14. Right on Time
+15. Don't Forget Me
+16. I Could Have Lied
+17. Tell Me Baby
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. You're Gonna Get Yours tease
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 

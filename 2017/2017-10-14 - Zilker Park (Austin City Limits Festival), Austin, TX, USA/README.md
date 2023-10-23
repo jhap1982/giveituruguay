@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Otherside
-Dark Necessities
-Universally Speaking
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-The Power of Equality
-Encore
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Dark Necessities
+6. Universally Speaking
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. The Power of Equality
+12. Encore
+13. Higher Ground
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 
@@ -48,4 +48,3 @@ Give It Away
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
-

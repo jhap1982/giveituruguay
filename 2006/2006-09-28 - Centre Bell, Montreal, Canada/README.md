@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Blood Sugar Sex Magik
-Show of Strength tease
-Warlocks
-Throw Away Your Television
-Don't You Ever Leave jam
-For Emily, Whenever I May Find Her JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-C'mon Girl
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Blood Sugar Sex Magik
+8. Show of Strength tease
+9. Warlocks
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. For Emily, Whenever I May Find Her JOHN
+13. Snow ((Hey Oh))
+14. Nobody Weird Like Me
+15. C'mon Girl
+16. London Calling tease
+17. Right on Time
+18. Don't Forget Me
+19. Tell Me Baby
+20. Californication
+21. What Is Soul? jam
+22. By the Way
+<br> ENCORE BREAK
+23. Under the Bridge
+24. You're Gonna Get Yours tease
+25. Give It Away
+26. Outro Jam
 
 ## Notes
 

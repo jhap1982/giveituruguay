@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-I Wanna Be Your Dog part of
-Right on Time
-Blood Sugar Sex Magik
-Show of Strength tease
-Go Robot
-Californication
-Get on Top
-The Getaway
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-The Last Day of Our Acquaintance part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. Go Robot
+12. Californication
+13. Get on Top
+14. The Getaway
+15. Higher Ground
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. The Last Day of Our Acquaintance part of JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

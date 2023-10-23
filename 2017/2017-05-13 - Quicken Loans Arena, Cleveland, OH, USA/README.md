@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-The Zephyr Song
-Dark Necessities
-She's Only 18
-Look Around
-Go Robot
-Californication
-The Power of Equality
-Aeroplane
-Sick Love
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Burn On part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. She's Only 18
+7. Look Around
+8. Go Robot
+9. Californication
+10. The Power of Equality
+11. Aeroplane
+12. Sick Love
+13. Higher Ground
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Burn On part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-What Is Soul? jam
-Aeroplane
-Don't Forget Me
-Sick Love
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. I Wanna Be Your Dog part of
+7. Right on Time
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Aeroplane
+12. Don't Forget Me
+13. Sick Love
+14. Higher Ground
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

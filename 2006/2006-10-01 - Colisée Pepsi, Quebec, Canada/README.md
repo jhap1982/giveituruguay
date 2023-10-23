@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-21st Century
-Blood Sugar Sex Magik
-Show of Strength tease
-Throw Away Your Television
-Don't You Ever Leave jam
-Your Pussy's Glued to a Building on Fire abandoned JOHN
-Will You Still Love Me Tomorrow? JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. 21st Century
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Your Pussy's Glued to a Building on Fire abandoned JOHN
+13. Will You Still Love Me Tomorrow? JOHN
+14. Snow ((Hey Oh))
+15. Nobody Weird Like Me
+16. Stadium Arcadium
+17. London Calling tease
+18. Right on Time
+19. Don't Forget Me
+20. Tell Me Baby
+21. Californication
+22. By the Way
+<br> ENCORE BREAK
+23. Under the Bridge
+24. You're Gonna Get Yours tease
+25. Give It Away
+26. Outro Jam
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hard to Concentrate
-Search and Destroy
-Go Robot
-Californication
-Aeroplane
-Don't Forget Me
-Sick Love
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-O.D.'d in Denver part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hard to Concentrate
+7. Search and Destroy
+8. Go Robot
+9. Californication
+10. Aeroplane
+11. Don't Forget Me
+12. Sick Love
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. O.D.'d in Denver part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

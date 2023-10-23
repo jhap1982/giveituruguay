@@ -2,12 +2,12 @@
 
 ## Setlist
 
-Intro Jam
-Dark Necessities
-Goodbye Angels
-Californication
-Under the Bridge
-By the Way
+1. Intro Jam
+2. Dark Necessities
+3. Goodbye Angels
+4. Californication
+5. Under the Bridge
+6. By the Way
 
 ## Notes
 

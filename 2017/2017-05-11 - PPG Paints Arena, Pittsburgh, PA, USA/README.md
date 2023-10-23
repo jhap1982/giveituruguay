@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Hey
-I Wanna Be Your Dog part of
-Right on Time
-Brandy (You're a Fine Girl)
-Go Robot
-Californication
-Andy Warhol part of JOSH
-Charlie
-The Getaway
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Brandy (You're a Fine Girl)
+10. Go Robot
+11. Californication
+12. Andy Warhol part of JOSH
+13. Charlie
+14. The Getaway
+15. Suck My Kiss
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

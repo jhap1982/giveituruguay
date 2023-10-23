@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-I Wanna Be Your Dog part of
-Me and My Friends
-Go Robot
-Californication
-Tell Me Baby
-Wicked Game part of JOSH
-The Getaway
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. I Wanna Be Your Dog part of
+8. Me and My Friends
+9. Go Robot
+10. Californication
+11. Tell Me Baby
+12. Wicked Game part of JOSH
+13. The Getaway
+14. Higher Ground
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

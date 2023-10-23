@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Californication
-Aeroplane
-The Getaway
-Don't Forget Me
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Aeroplane
+11. The Getaway
+12. Don't Forget Me
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 

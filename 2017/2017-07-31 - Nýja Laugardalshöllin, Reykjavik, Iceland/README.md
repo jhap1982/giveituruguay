@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Immigrant Song tease
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-Tell Me Baby
-Don't Forget Me
-The Getaway
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-Africa tease
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Immigrant Song tease
+8. I Wanna Be Your Dog part of
+9. Right on Time
+10. Go Robot
+11. Californication
+12. Tell Me Baby
+13. Don't Forget Me
+14. The Getaway
+15. Higher Ground
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Africa tease
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

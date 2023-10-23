@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Did I Let You Know
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-Tell Me Baby
-Sir Psycho Sexy
-They're Red Hot
-The Power of Equality
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Did I Let You Know
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. Tell Me Baby
+12. Sir Psycho Sexy
+13. They're Red Hot
+14. The Power of Equality
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 
