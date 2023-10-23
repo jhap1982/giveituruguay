@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Funky Monks
-Parallel Universe
-Runaway part of JOHN
-Snow ((Hey Oh))
-Higher Ground
-Wet Sand
-Me and My Friends
-Don't Forget Me
-Warlocks
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Funky Monks
+9. Parallel Universe
+10. Runaway part of JOHN
+11. Snow ((Hey Oh))
+12. Higher Ground
+13. Wet Sand
+14. Me and My Friends
+15. Don't Forget Me
+16. Warlocks
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Sir Psycho Sexy
+21. They're Red Hot
 
 ## Notes
 

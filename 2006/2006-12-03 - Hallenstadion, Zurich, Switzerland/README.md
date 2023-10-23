@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Charlie
-Suck My Kiss
-21st Century
-Blood Sugar Sex Magik
-Show of Strength tease
-Maybe part of JOHN
-Snow ((Hey Oh))
-Higher Ground
-Stadium Arcadium
-London Calling tease
-Right on Time
-Your Pussy's Glued to a Building on Fire JOHN
-If You Have to Ask
-Hardcore Jollies tease
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Charlie
+6. Suck My Kiss
+7. 21st Century
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Maybe part of JOHN
+11. Snow ((Hey Oh))
+12. Higher Ground
+13. Stadium Arcadium
+14. London Calling tease
+15. Right on Time
+16. Your Pussy's Glued to a Building on Fire JOHN
+17. If You Have to Ask
+18. Hardcore Jollies tease
+19. C'mon Girl
+20. Californication
+21. By the Way
+<br> ENCORE BREAK
+22. Soul to Squeeze
+23. You're Gonna Get Yours tease
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 

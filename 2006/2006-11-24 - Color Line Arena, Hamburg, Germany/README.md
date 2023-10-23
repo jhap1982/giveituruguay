@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Your Pussy's Glued to a Building on Fire JOHN
-Snow ((Hey Oh))
-Me and My Friends
-Tell Me Baby
-London Calling tease
-Right on Time
-Don't Forget Me
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-We Will Rock You part of JOHN
-I Could Have Lied
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Your Pussy's Glued to a Building on Fire JOHN
+11. Snow ((Hey Oh))
+12. Me and My Friends
+13. Tell Me Baby
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. C'mon Girl
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. We Will Rock You part of JOHN
+21. I Could Have Lied
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

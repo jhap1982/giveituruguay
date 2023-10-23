@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Warlocks
-Blood Sugar Sex Magik
-Show of Strength tease
-Will You Still Love Me Tomorrow? part of JOHN
-Snow ((Hey Oh))
-Throw Away Your Television
-Don't You Ever Leave jam
-Tell Me Baby
-Your Pussy's Glued to a Building on Fire JOHN
-Me and My Friends
-Don't Forget Me
-London Calling tease
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Warlocks
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Will You Still Love Me Tomorrow? part of JOHN
+11. Snow ((Hey Oh))
+12. Throw Away Your Television
+13. Don't You Ever Leave jam
+14. Tell Me Baby
+15. Your Pussy's Glued to a Building on Fire JOHN
+16. Me and My Friends
+17. Don't Forget Me
+18. London Calling tease
+19. Right on Time
+20. Californication
+21. By the Way
+<br> ENCORE BREAK
+22. Under the Bridge
+23. You're Gonna Get Yours tease
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 

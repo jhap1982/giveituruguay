@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Desecration Smile
-Blood Sugar Sex Magik
-Show of Strength tease
-How Can I Tell You JOHN
-Snow ((Hey Oh))
-Don't Forget Me
-Hump de Bump
-London Calling tease
-Right on Time
-C'mon Girl
-Californication
-Tiny Dancer part of JOHN
-By the Way
-ENCORE BREAK
-I Could Have Lied
-You're Gonna Get Yours tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Desecration Smile
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. How Can I Tell You JOHN
+11. Snow ((Hey Oh))
+12. Don't Forget Me
+13. Hump de Bump
+14. London Calling tease
+15. Right on Time
+16. C'mon Girl
+17. Californication
+18. Tiny Dancer part of JOHN
+19. By the Way
+<br> ENCORE BREAK
+20. I Could Have Lied
+21. You're Gonna Get Yours tease
+22. Give It Away
 
 ## Notes
 

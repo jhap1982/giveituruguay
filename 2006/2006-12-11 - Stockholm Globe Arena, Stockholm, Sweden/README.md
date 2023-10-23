@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Desecration Smile
-Fortune Faded
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-How Can I Tell You JOHN
-Snow ((Hey Oh))
-Don't Forget Me
-Hump de Bump
-Nobody Weird Like Me
-C'mon Girl
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Desecration Smile
+7. Fortune Faded
+8. Readymade
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. How Can I Tell You JOHN
+12. Snow ((Hey Oh))
+13. Don't Forget Me
+14. Hump de Bump
+15. Nobody Weird Like Me
+16. C'mon Girl
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

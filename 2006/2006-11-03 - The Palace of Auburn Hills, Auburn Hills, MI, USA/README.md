@@ -2,32 +2,32 @@
 
 ## Setlist
 
-The Greeting Song jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Havana Affair
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-Throw Away Your Television
-Don't You Ever Leave jam
-Your Pussy's Glued to a Building on Fire JOHN
-Snow ((Hey Oh))
-Me and My Friends
-C'mon Girl
-London Calling tease
-Right on Time
-Higher Ground
-Tell Me Baby
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
+1. The Greeting Song jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Havana Affair
+7. Readymade
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Your Pussy's Glued to a Building on Fire JOHN
+13. Snow ((Hey Oh))
+14. Me and My Friends
+15. C'mon Girl
+16. London Calling tease
+17. Right on Time
+18. Higher Ground
+19. Tell Me Baby
+20. Californication
+21. What Is Soul? jam
+22. By the Way
+<br> ENCORE BREAK
+23. Under the Bridge
+24. You're Gonna Get Yours tease
+25. Give It Away
 
 ## Notes
 

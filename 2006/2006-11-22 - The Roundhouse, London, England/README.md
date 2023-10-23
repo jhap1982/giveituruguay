@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-For Emily, Whenever I May Find Her JOHN
-Snow ((Hey Oh))
-Me and My Friends
-C'mon Girl
-London Calling tease
-Right on Time
-The Needle and the Damage Done tease FLEA
-Don't Forget Me
-Californication
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Readymade
+7. Blood Sugar Sex Magik
+8. Show of Strength tease
+9. For Emily, Whenever I May Find Her JOHN
+10. Snow ((Hey Oh))
+11. Me and My Friends
+12. C'mon Girl
+13. London Calling tease
+14. Right on Time
+15. The Needle and the Damage Done tease FLEA
+16. Don't Forget Me
+17. Californication
+18. You're Gonna Get Yours tease
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

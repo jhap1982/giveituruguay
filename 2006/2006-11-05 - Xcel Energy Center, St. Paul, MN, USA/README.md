@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-Your Pussy's Glued to a Building on Fire JOHN
-Snow ((Hey Oh))
-Get on Top
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-Higher Ground
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-I Could Have Lied
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Your Pussy's Glued to a Building on Fire JOHN
+11. Snow ((Hey Oh))
+12. Get on Top
+13. Stadium Arcadium
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. Higher Ground
+18. Tell Me Baby
+19. Californication
+20. By the Way
+<br> ENCORE BREAK
+21. I Could Have Lied
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 
