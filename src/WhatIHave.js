@@ -5160,6 +5160,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2013-08-05 - Sullivan Arena, Anchorage, AK, USA</td>
                             <td>
+                                [AUD #1][FLAC][617 MB] <br />
                                 [SBD #1][LiveChiliPeppers.com][FLAC]
                             </td>
                         </tr>
@@ -5167,8 +5168,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2013-08-06 - Sullivan Arena, Anchorage, AK, USA</td>
                             <td>
-                                [AUD #1][FLAC][661 MB]
-                                <br />
+                                [AUD #1][FLAC][661 MB] <br />
                                 [SBD #1][LiveChiliPeppers.com][FLAC][721 MB]
                             </td>
                         </tr>
