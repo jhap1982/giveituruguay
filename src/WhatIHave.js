@@ -5837,6 +5837,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2017-02-10 - KeyBank Center, Buffalo, NY, USA</td>
                             <td>
+                                [AUD #1][FLAC][635 MB] <br />
                                 [SBD #1][LiveChiliPeppers][FLAC][605 MB]
                             </td>
                         </tr>
@@ -6274,6 +6275,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2017-10-16 - Pepsi Center, Denver, CO, USA</td>
                             <td>
+                                [AUD #1][FLAC][536 MB] <br />
                                 [SBD #1][LiveChiliPeppers.com][FLAC][2,17 GB]
                             </td>
                         </tr>
