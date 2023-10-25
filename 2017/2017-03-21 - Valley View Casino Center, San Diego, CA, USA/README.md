@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Hey
-I Wanna Be Your Dog part of
-Right on Time
-Go Robot
-Californication
-Around the World
-The Getaway
-Charlie
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Fight Like a Brave tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Hey
+7. I Wanna Be Your Dog part of
+8. Right on Time
+9. Go Robot
+10. Californication
+11. Around the World
+12. The Getaway
+13. Charlie
+14. Higher Ground
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Fight Like a Brave tease
+19. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Emit Remmus
-Sick Love
-I Like Dirt
-Higher Ground
-The Getaway
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Rock and Roll jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Emit Remmus
+10. Sick Love
+11. I Like Dirt
+12. Higher Ground
+13. The Getaway
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Rock and Roll jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

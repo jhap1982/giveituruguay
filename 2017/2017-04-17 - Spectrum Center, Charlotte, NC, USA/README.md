@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-She's Only 18
-Me and My Friends
-Go Robot
-Parallel Universe
-The Power of Equality
-The Getaway
-Higher Ground
-Californication
-What Is Soul? jam
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. She's Only 18
+7. Me and My Friends
+8. Go Robot
+9. Parallel Universe
+10. The Power of Equality
+11. The Getaway
+12. Higher Ground
+13. Californication
+14. What Is Soul? jam
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Otherside
-Dark Necessities
-Wet Sand
-I Like Dirt
-Go Robot
-Californication
-Charlie
-Detroit
-Look Around
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. Wet Sand
+7. I Like Dirt
+8. Go Robot
+9. Californication
+10. Charlie
+11. Detroit
+12. Look Around
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

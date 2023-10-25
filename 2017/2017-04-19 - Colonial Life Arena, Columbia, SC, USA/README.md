@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-Aeroplane
-Go Robot
-Californication
-Tell Me Baby
-Don't Forget Me
-Sick Love
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-The Crunge tease
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Aeroplane
+8. Go Robot
+9. Californication
+10. Tell Me Baby
+11. Don't Forget Me
+12. Sick Love
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. The Crunge tease
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

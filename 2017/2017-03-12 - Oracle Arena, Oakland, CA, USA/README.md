@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-Hey
-Look Around
-Go Robot
-Californication
-What Is Soul? jam
-Aeroplane
-Sir Psycho Sexy
-They're Red Hot
-The Getaway
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Family Affair tease
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Look Around
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Aeroplane
+12. Sir Psycho Sexy
+13. They're Red Hot
+14. The Getaway
+15. Higher Ground
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Family Affair tease
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 
@@ -55,5 +55,3 @@ Give It Away
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
-
-

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Snow ((Hey Oh))
-Otherside
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Go Robot
-Blood Sugar Sex Magik
-Show of Strength tease
-Charlie
-Around the World
-Dreams of a Samurai
-Big Rock Candy Mountain part of FLEA
-Higher Ground
-Under the Bridge
-By the Way
-ENCORE BREAK
-The Mercy Seat part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Otherside
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Nobody Weird Like Me
+8. Go Robot
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. Charlie
+12. Around the World
+13. Dreams of a Samurai
+14. Big Rock Candy Mountain part of FLEA
+15. Higher Ground
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. The Mercy Seat part of JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

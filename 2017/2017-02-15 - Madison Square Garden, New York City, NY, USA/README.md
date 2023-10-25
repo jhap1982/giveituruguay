@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Californication
-Sick Love
-Search and Destroy
-The Getaway
-Suck My Kiss
-I Don't Want to Play in Your Yard part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Search and Destroy
+12. The Getaway
+13. Suck My Kiss
+14. I Don't Want to Play in Your Yard part of JOSH
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

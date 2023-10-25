@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Go Robot
-Sweet and Low part of
-Californication
-What Is Soul? jam
-Charlie
-The Getaway
-Aeroplane
-Dreams of a Samurai
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Go Robot
+8. Sweet and Low part of
+9. Californication
+10. What Is Soul? jam
+11. Charlie
+12. The Getaway
+13. Aeroplane
+14. Dreams of a Samurai
+15. Suck My Kiss
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

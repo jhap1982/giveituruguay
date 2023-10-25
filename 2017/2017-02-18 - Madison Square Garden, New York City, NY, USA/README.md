@@ -2,30 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hard to Concentrate
-Me and My Friends
-Go Robot
-Californication
-Around the World
-Don't Forget Me
-The Longest Wave
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-The Only Living Boy in New York part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hard to Concentrate
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. Around the World
+11. Don't Forget Me
+12. The Longest Wave
+13. Suck My Kiss
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. The Only Living Boy in New York part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 
-Attendance: 15,072 / 15,072 (100%)
-Support: Trombone Shorty & Orleans Avenue, Jack Irons
+**Attendance**: 15,072 / 15,072 (100%)
+<br>
+**Support**: Trombone Shorty & Orleans Avenue, Jack Irons
 
 ## Media 
 
@@ -52,4 +53,3 @@ Support: Trombone Shorty & Orleans Avenue, Jack Irons
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
-

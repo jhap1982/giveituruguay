@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-The Zephyr Song
-Dark Necessities
-Hard to Concentrate
-Me and My Friends
-Go Robot
-Don't Forget Me
-Sick Love
-Parallel Universe
-The Longest Wave
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-It's So Hard to Say Goodbye to Yesterday part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. The Zephyr Song
+5. Dark Necessities
+6. Hard to Concentrate
+7. Me and My Friends
+8. Go Robot
+8. Don't Forget Me
+9. Sick Love
+10. Parallel Universe
+11. The Longest Wave
+12. Suck My Kiss
+13. Under the Bridge
+14. By the Way
+<br> ENCORE BREAK
+15. It's So Hard to Say Goodbye to Yesterday part of JOSH
+16. Goodbye Angels
+17. Give It Away
 
 ## Notes
 
@@ -55,4 +55,3 @@ Give It Away
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
-

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-Hey
-Right on Time
-Go Robot
-Californication
-Southern Nights part of JOSH
-Sick Love
-Don't Forget Me
-Did I Let You Know
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Hey
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Southern Nights part of JOSH
+11. Sick Love
+12. Don't Forget Me
+13. Did I Let You Know
+14. Suck My Kiss
+15. I Could Have Lied
+16. By the Way
+<br> ENCORE BREAK
+17. Goodbye Angels
+18. Give It Away
+19. Outro Jam
 
 ## Notes
 

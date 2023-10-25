@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-She's Only 18
-Me and My Friends
-Go Robot
-Did I Let You Know
-Californication
-Dreams of a Samurai
-Search and Destroy
-The Longest Wave
-Higher Ground
-By the Way
-ENCORE BREAK
-Answering Machine part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. She's Only 18
+7. Me and My Friends
+8. Go Robot
+9. Did I Let You Know
+10. Californication
+11. Dreams of a Samurai
+12. Search and Destroy
+13. The Longest Wave
+14. Higher Ground
+15. By the Way
+<br> ENCORE BREAK
+16. Answering Machine part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

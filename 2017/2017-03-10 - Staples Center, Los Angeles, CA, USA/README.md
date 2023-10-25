@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-Hard to Concentrate
-Me and My Friends
-Go Robot
-Californication
-What Is Soul? jam
-Sick Love
-Don't Forget Me
-The Adventures of Rain Dance Maggie
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Living Without You JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Hard to Concentrate
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Sick Love
+12. Don't Forget Me
+13. The Adventures of Rain Dance Maggie
+14. Suck My Kiss
+15. Under the Bridge
+16. By the Way
+<br> ENCORE BREAK
+18. Living Without You JOSH
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Dark Necessities
-Hey
-Right on Time
-Opportunity to Cry part of JOSH
-Go Robot
-Californication
-Sick Love
-Orange Claw Hammer part of FLEA
-Breaking the Girl
-The Getaway
-Suck My Kiss
-Under the Bridge
-By the Way
-Jam
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Dark Necessities
+6. Hey
+7. Right on Time
+8. Opportunity to Cry part of JOSH
+9. Go Robot
+10. Californication
+11. Sick Love
+12. Orange Claw Hammer part of FLEA
+13. Breaking the Girl
+14. The Getaway
+15. Suck My Kiss
+16. Under the Bridge
+17. By the Way
+18. Jam
+<br> ENCORE BREAK
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

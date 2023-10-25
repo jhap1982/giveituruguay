@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Nobody Weird Like Me
-Go Robot
-Breaking the Girl
-Sick Love
-Californication
-The Getaway
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-This Is a Low part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Nobody Weird Like Me
+8. Go Robot
+9. Breaking the Girl
+10. Sick Love
+11. Californication
+12. The Getaway
+13. Suck My Kiss
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. This Is a Low part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Blood Sugar Sex Magik
-Show of Strength tease
-Sick Love
-Californication
-Higher Ground
-The Getaway
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-The Ballad of El Goodo part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Blood Sugar Sex Magik
+10. Show of Strength tease
+11. Sick Love
+12. Californication
+13. Higher Ground
+14. The Getaway
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. The Ballad of El Goodo part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

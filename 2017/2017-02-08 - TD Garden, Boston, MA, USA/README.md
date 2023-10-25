@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Wet Sand
-Sick Love
-Jean-Pierre tease
-Sir Psycho Sexy
-They're Red Hot
-Higher Ground
-Dreams of a Samurai
-That's When I Reach for My Revolver part of JOSH
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Wet Sand
+10. Sick Love
+11. Jean-Pierre tease
+12. Sir Psycho Sexy
+13. They're Red Hot
+14. Higher Ground
+15. Dreams of a Samurai
+16. That's When I Reach for My Revolver part of JOSH
+17. Soul to Squeeze
+18. By the Way
+<br> ENCORE BREAK
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

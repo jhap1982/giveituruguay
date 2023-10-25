@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-She's Only 18
-Aeroplane
-Go Robot
-Until Then part of JOSH
-I Like Dirt
-Californication
-What Is Soul? jam
-Sick Love
-Search and Destroy
-The Getaway
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. She's Only 18
+7. Aeroplane
+8. Go Robot
+9. Until Then part of JOSH
+10. I Like Dirt
+11. Californication
+12. What Is Soul? jam
+13. Sick Love
+14. Search and Destroy
+15. The Getaway
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Pea
-Wet Sand
-Johnny B. Goode part of
-Me and My Friends
-Go Robot
-Californication
-Sick Love
-Parallel Universe
-The Adventures of Rain Dance Maggie
-Suck My Kiss
-Under the Bridge
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Pea
+7. Wet Sand
+8. Johnny B. Goode part of
+9. Me and My Friends
+10. Go Robot
+11. Californication
+12. Sick Love
+13. Parallel Universe
+14. The Adventures of Rain Dance Maggie
+15. Suck My Kiss
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

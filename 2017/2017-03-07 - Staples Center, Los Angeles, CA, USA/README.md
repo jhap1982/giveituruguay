@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Right on Time
-Go Robot
-Californication
-Red Hot Mama jam
-Tell Me Baby
-Parallel Universe
-The Getaway
-Suck My Kiss
-I'm Set Free part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Right on Time
+8. Go Robot
+9. Californication
+10. Red Hot Mama jam
+11. Tell Me Baby
+12. Parallel Universe
+13. The Getaway
+14. Suck My Kiss
+15. I'm Set Free part of JOSH
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

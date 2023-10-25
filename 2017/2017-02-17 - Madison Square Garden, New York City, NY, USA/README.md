@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Hey
-Look Around
-Go Robot
-Californication
-I Like Dirt
-Aeroplane
-Dreams of a Samurai
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Anymore part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Hey
+7. Look Around
+8. Go Robot
+9. Californication
+10. I Like Dirt
+11. Aeroplane
+12. Dreams of a Samurai
+13. Higher Ground
+14. Soul to Squeeze
+15. By the Way
+<br> ENCORE BREAK
+16. Anymore part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

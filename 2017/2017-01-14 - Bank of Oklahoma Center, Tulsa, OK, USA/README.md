@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Ethiopia
-Wet Sand
-Go Robot
-Californication
-Aeroplane
-Dreams of a Samurai
-Suck My Kiss
-Detroit
-Under the Bridge
-By the Way
-ENCORE BREAK
-Take My Hand, Precious Lord instrumental
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Ethiopia
+7. Wet Sand
+8. Go Robot
+9. Californication
+10. Aeroplane
+11. Dreams of a Samurai
+12. Suck My Kiss
+13. Detroit
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. Take My Hand, Precious Lord instrumental
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 

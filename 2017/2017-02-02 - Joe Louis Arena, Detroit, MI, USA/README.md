@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-Search and Destroy
-Go Robot
-Californication
-What Is Soul? jam
-Sick Love
-Parallel Universe
-Detroit
-Suck My Kiss
-This Is Where I Belong part of JOSH
-Under the Bridge
-By the Way
-ENCORE BREAK
-Pea
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Search and Destroy
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Sick Love
+12. Parallel Universe
+13. Detroit
+14. Suck My Kiss
+15. This Is Where I Belong part of JOSH
+16. Under the Bridge
+17. By the Way
+<br> ENCORE BREAK
+18. Pea
+19. Goodbye Angels
+20. Give It Away
 
 ## Notes
 

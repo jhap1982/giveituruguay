@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Hey
-Search and Destroy
-Go Robot
-Californication
-Aeroplane
-Blood Sugar Sex Magik
-Show of Strength tease
-Higher Ground
-Dreams of a Samurai
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Twilight part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Hey
+7. Search and Destroy
+8. Go Robot
+9. Californication
+10. Aeroplane
+11. Blood Sugar Sex Magik
+12. Show of Strength tease
+13. Higher Ground
+14. Dreams of a Samurai
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Twilight part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 
@@ -54,4 +54,3 @@ Give It Away
 ## Recordings
 
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
-

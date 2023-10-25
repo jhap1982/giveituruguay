@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-Hey
-Look Around
-Go Robot
-Californication
-Sick Love
-Search and Destroy
-Feasting on the Flowers
-Suck My Kiss
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Lust for Life tease
-Where Everybody Knows Your Name part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. Hey
+7. Look Around
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Search and Destroy
+12. Feasting on the Flowers
+13. Suck My Kiss
+14. I Could Have Lied
+15. By the Way
+<br> ENCORE BREAK
+16. Lust for Life tease
+17. Where Everybody Knows Your Name part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

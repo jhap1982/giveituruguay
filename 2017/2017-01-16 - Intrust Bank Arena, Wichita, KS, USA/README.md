@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Otherside
-Dark Necessities
-Hard to Concentrate
-Look Around
-Go Robot
-Sir Psycho Sexy
-They're Red Hot
-Wichita Lineman part of JOSH
-Sick Love
-Californication
-The Getaway
-Search and Destroy
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Dark Necessities
+6. Hard to Concentrate
+7. Look Around
+8. Go Robot
+9. Sir Psycho Sexy
+10. They're Red Hot
+11. Wichita Lineman part of JOSH
+12. Sick Love
+13. Californication
+14. The Getaway
+15. Search and Destroy
+16. Soul to Squeeze
+17. By the Way
+<br> ENCORE BREAK
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

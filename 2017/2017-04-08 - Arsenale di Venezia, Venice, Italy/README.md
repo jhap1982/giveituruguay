@@ -2,17 +2,17 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Otherside
-I Wanna Be Your Dog part of
-Me and My Friends
-Go Robot
-Dark Necessities
-By the Way
-ENCORE BREAK
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Otherside
+4. I Wanna Be Your Dog part of
+5. Me and My Friends
+6. Go Robot
+7. Dark Necessities
+8. By the Way
+<br> ENCORE BREAK
+9. Goodbye Angels
+10. Give It Away
 
 ## Notes
 

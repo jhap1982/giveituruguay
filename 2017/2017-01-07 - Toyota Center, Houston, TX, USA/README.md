@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Dark Necessities
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Go Robot
-Californication
-What Is Soul? jam
-Sick Love
-Higher Ground
-Dreams of a Samurai
-Aeroplane
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Galveston part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Dark Necessities
+6. The Adventures of Rain Dance Maggie
+7. Me and My Friends
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Sick Love
+12. Higher Ground
+13. Dreams of a Samurai
+14. Aeroplane
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Galveston part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

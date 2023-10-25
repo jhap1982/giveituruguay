@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Scar Tissue
-Dark Necessities
-Hey
-Tell Me Baby
-Go Robot
-Californication
-What Is Soul? jam
-Factory of Faith
-Search and Destroy
-Encore
-Suck My Kiss
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Jam
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Scar Tissue
+5. Dark Necessities
+6. Hey
+7. Tell Me Baby
+8. Go Robot
+9. Californication
+10. What Is Soul? jam
+11. Factory of Faith
+12. Search and Destroy
+13. Encore
+14. Suck My Kiss
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

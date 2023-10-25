@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Otherside
-Snow ((Hey Oh))
-Dark Necessities
-Hey
-Search and Destroy
-Go Robot
-Californication
-Charlie
-Aeroplane
-If You Have to Ask
-Hardcore Jollies tease
-Higher Ground
-Soul to Squeeze
-By the Way
-ENCORE BREAK
-Until the Ocean part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Otherside
+4. Snow ((Hey Oh))
+5. Dark Necessities
+6. Hey
+7. Search and Destroy
+8. Go Robot
+9. Californication
+10. Charlie
+11. Aeroplane
+12. If You Have to Ask
+13. Hardcore Jollies tease
+14. Higher Ground
+15. Soul to Squeeze
+16. By the Way
+<br> ENCORE BREAK
+17. Until the Ocean part of JOSH
+18. Goodbye Angels
+19. Give It Away
 
 ## Notes
 

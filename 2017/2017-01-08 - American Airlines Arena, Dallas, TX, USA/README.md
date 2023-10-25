@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-The Zephyr Song
-Dark Necessities
-She's Only 18
-Look Around
-Go Robot
-Californication
-Sick Love
-Parallel Universe
-Detroit
-The Power of Equality
-Under the Bridge
-By the Way
-ENCORE BREAK
-The Bewlay Brothers part of JOSH
-Goodbye Angels
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. The Zephyr Song
+5. Dark Necessities
+6. She's Only 18
+7. Look Around
+8. Go Robot
+9. Californication
+10. Sick Love
+11. Parallel Universe
+12. Detroit
+13. The Power of Equality
+14. Under the Bridge
+15. By the Way
+<br> ENCORE BREAK
+16. The Bewlay Brothers part of JOSH
+17. Goodbye Angels
+18. Give It Away
 
 ## Notes
 
