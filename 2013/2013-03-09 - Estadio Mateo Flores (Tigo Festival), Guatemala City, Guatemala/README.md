@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Look Around
-Can't Stop
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Encore jam
-Tell Me Baby
-Parallel Universe
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Look Around
+5. Can't Stop
+6. Snow ((Hey Oh))
+7. The Adventures of Rain Dance Maggie
+8. Encore jam
+9. Tell Me Baby
+10. Parallel Universe
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Around the World
+17. Give It Away
+18. Outro Jam
 
 ## Notes
 

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Scar Tissue
-Snow ((Hey Oh))
-Factory of Faith
-Can't Stop
-She's Only 18
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Universally Speaking
-Fortune Faded tease
-Under the Bridge
-Look Around
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-I Could Have Lied
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Snow ((Hey Oh))
+5. Factory of Faith
+6. Can't Stop
+7. She's Only 18
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Universally Speaking
+11. Fortune Faded tease
+12. Under the Bridge
+13. Look Around
+14. Suck My Kiss
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Around the World
+19. I Could Have Lied
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

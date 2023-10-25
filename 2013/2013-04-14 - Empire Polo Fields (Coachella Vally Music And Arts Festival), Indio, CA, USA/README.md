@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Look Around
-Can't Stop
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Tell Me Baby
-Parallel Universe
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Look Around
+5. Can't Stop
+6. Snow ((Hey Oh))
+7. The Adventures of Rain Dance Maggie
+8. Tell Me Baby
+9. Parallel Universe
+10. Under the Bridge
+11. Ethiopia
+12. Higher Ground
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Around the World
+17. Give It Away
 
 ## Notes
 
@@ -38,6 +38,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

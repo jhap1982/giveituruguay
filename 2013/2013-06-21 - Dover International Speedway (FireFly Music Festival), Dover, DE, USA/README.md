@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Dani California
-Otherside
-Can't Stop
-Factory of Faith
-Snow ((Hey Oh))
-She's Only 18
-The Adventures of Rain Dance Maggie
-Higher Ground
-Parallel Universe
-Under the Bridge
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Meet Me at the Corner
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Dani California
+4. Otherside
+5. Can't Stop
+6. Factory of Faith
+7. Snow ((Hey Oh))
+8. She's Only 18
+9. The Adventures of Rain Dance Maggie
+10. Higher Ground
+11. Parallel Universe
+12. Under the Bridge
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Sir Psycho Sexy
+17. They're Red Hot
+18. Meet Me at the Corner
+19. Give It Away
 
 ## Notes
 
@@ -40,6 +40,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Especially in Michigan tease
-Scar Tissue
-Can't Stop
-Look Around
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Higher Ground
-Hard to Concentrate
-Me and My Friends
-Under the Bridge
-Suck My Kiss
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Especially in Michigan tease
+4. Scar Tissue
+5. Can't Stop
+6. Look Around
+7. Snow ((Hey Oh))
+8. The Adventures of Rain Dance Maggie
+9. Higher Ground
+10. Hard to Concentrate
+11. Me and My Friends
+12. Under the Bridge
+13. Suck My Kiss
+14. Ethiopia
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Around the World
+19. Soul to Squeeze
+20. Give It Away
 
 ## Notes
 
@@ -43,6 +43,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

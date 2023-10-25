@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Look Around
-Snow ((Hey Oh))
-Soul to Squeeze
-Right on Time
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Me and My Friends
-Under the Bridge
-Ethiopia
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Meet Me at the Corner
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Look Around
+6. Snow ((Hey Oh))
+7. Soul to Squeeze
+8. Right on Time
+9. The Adventures of Rain Dance Maggie
+10. Throw Away Your Television
+11. Me and My Friends
+12. Under the Bridge
+13. Ethiopia
+14. Suck My Kiss
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Meet Me at the Corner
+21. Give It Away
 
 ## Notes
 
@@ -44,6 +44,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

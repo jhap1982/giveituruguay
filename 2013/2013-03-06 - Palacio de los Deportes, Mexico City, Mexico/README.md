@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Factory of Faith
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Love of Your Life tease
-Under the Bridge
-Look Around
-Pea part of
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Factory of Faith
+6. Blood Sugar Sex Magik
+7. Show of Strength tease
+8. Snow ((Hey Oh))
+9. Throw Away Your Television
+10. The Adventures of Rain Dance Maggie
+11. I Like Dirt
+12. Love of Your Life tease
+13. Under the Bridge
+14. Look Around
+15. Pea part of
+16. Suck My Kiss
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Soul to Squeeze
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

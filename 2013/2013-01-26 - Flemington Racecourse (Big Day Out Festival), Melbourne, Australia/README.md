@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-What in the World
-Look Around
-Can't Stop
-Throw Away Your Television
-Tell Me Baby
-The Adventures of Rain Dance Maggie
-Under the Bridge
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Higher Ground
-Meet Me at the Corner
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. What in the World
+5. Look Around
+6. Can't Stop
+7. Throw Away Your Television
+8. Tell Me Baby
+9. The Adventures of Rain Dance Maggie
+10. Under the Bridge
+11. Suck My Kiss
+12. Californication
+13. By the Way
+14. ENCORE BREAK
+15. Jam
+16. Higher Ground
+17. Meet Me at the Corner
+18. Give It Away
 
 ## Notes
 

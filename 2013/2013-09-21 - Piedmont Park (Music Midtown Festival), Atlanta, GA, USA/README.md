@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Look Around
-Snow ((Hey Oh))
-She's Only 18
-Right on Time
-The Adventures of Rain Dance Maggie
-Parallel Universe
-Under the Bridge
-Higher Ground
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Meet Me at the Corner
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Look Around
+6. Snow ((Hey Oh))
+7. She's Only 18
+8. Right on Time
+9. The Adventures of Rain Dance Maggie
+10. Parallel Universe
+11. Under the Bridge
+12. Higher Ground
+13. Ethiopia
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Meet Me at the Corner
+19. Give It Away
 
 ## Notes
 
@@ -40,6 +40,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

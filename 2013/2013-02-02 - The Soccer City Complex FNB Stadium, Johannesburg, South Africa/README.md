@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Look Around
-Can't Stop
-Throw Away Your Television
-Hollywood (Africa) part of
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Right on Time
-Parallel Universe
-Under the Bridge
-Ethiopia
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Look Around
+5. Can't Stop
+6. Throw Away Your Television
+7. Hollywood (Africa) part of
+8. Snow ((Hey Oh))
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Parallel Universe
+12. Under the Bridge
+13. Ethiopia
+14. Suck My Kiss
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. The Power of Equality
+19. Soul to Squeeze
+20. Give It Away
 
 ## Notes
 

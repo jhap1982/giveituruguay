@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Scar Tissue
-Snow ((Hey Oh))
-Factory of Faith
-Can't Stop
-What in the World
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Love of Your Life tease
-Under the Bridge
-Look Around
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Ocean tease
-Higher Ground
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Scar Tissue
+4. Snow ((Hey Oh))
+5. Factory of Faith
+6. Can't Stop
+7. What in the World
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Love of Your Life tease
+11. Under the Bridge
+12. Look Around
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. The Ocean tease
+17. Higher Ground
+18. Soul to Squeeze
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

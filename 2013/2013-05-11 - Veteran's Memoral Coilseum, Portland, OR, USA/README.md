@@ -2,20 +2,19 @@
 
 ## Setlist
 
-Setlist
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Look Around
-Throw Away Your Television
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Soul to Squeeze
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Look Around
+5. Throw Away Your Television
+6. Snow ((Hey Oh))
+7. The Adventures of Rain Dance Maggie
+8. Soul to Squeeze
+9. Ethiopia
+10. Californication
+11. By the Way
+<br> ENCORE BREAK
+12. Give It Away
 
 ## Notes
 
@@ -36,6 +35,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Otherside
-Factory of Faith
-Snow ((Hey Oh))
-I Could Have Lied
-I Like Dirt
-The Adventures of Rain Dance Maggie
-If You Have to Ask
-Hardcore Jollies tease
-Higher Ground
-Dosed tease
-Under the Bridge
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Encore jam
-Meet Me at the Corner
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Otherside
+5. Factory of Faith
+6. Snow ((Hey Oh))
+7. I Could Have Lied
+8. I Like Dirt
+9. The Adventures of Rain Dance Maggie
+10. If You Have to Ask
+11. Hardcore Jollies tease
+12. Higher Ground
+13. Dosed tease
+14. Under the Bridge
+15. Ethiopia
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Around the World
+20. Encore jam
+21. Meet Me at the Corner
+22. Give It Away
 
 ## Notes
 
@@ -43,6 +43,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 

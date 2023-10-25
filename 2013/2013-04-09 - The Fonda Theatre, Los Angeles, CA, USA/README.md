@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Otherside
-Factory of Faith
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-The Adventures of Rain Dance Maggie
-Universally Speaking
-Me and My Friends
-Soul to Squeeze
-Ethiopia
-By the Way
-ENCORE BREAK
-Freaky Styley part of
-Around the World
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Otherside
+4. Factory of Faith
+5. Blood Sugar Sex Magik
+6. Show of Strength tease
+7. Snow ((Hey Oh))
+8. The Adventures of Rain Dance Maggie
+9. Universally Speaking
+10. Me and My Friends
+11. Soul to Squeeze
+12. Ethiopia
+13. By the Way
+<br> ENCORE BREAK
+14. Freaky Styley part of
+15. Around the World
+16. Give It Away
 
 ## Notes
 
@@ -39,6 +39,7 @@ Give It Away
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 
