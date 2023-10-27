@@ -5,26 +5,30 @@
 1. Around the World
 2. You're Gonna Get Yours tease
 3. Give It Away
-4. Scar Tissue
-5. My Lovely Man
-6. If You Have to Ask
-7. Otherside
-8. Subterranean Homesick Blues
-9. I Could Have Lied
-10. Pea
-11. Parallel Universe
-12. I Like Dirt
-13. Californication
-14. London Calling tease
-15. Right on Time
-16. Under the Bridge
-17. Me and My Friends
+4. Your Pussy's Glued to a Building on Fire part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. If You Have to Ask
+8. Otherside
+9. Subterranean Homesick Blues
+10. I Could Have Lied
+11. Pea
+12. Easily
+13. I Like Dirt
+14. Californication
+15. Cold Sweat jam
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
 <br> ENCORE BREAK
-18. Soul to Squeeze
-19. Search and Destroy
-20. Outro Jam
+20. Soul to Squeeze
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
+
+> Josh Klinghoffer joined the band on drums for the "Pea" outro and on guitar for the "Easily" solo.
 
 **Support**: The Bicycle Thief, Stone Temple Pilots
 
@@ -47,3 +51,5 @@
 ### Additional Musicians
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > MP3 Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.

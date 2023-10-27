@@ -2202,6 +2202,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-09-18 - Boise Centre, Boise, ID, USA</td>
+                            <td>
+                                [SBD #1][MP3][200 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-09-21 - Memorial Coliseum, Portland, USA</td>
                             <td>
                                 [AUD #1][FLAC][470 MB]
