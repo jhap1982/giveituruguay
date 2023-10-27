@@ -53,3 +53,4 @@
 * 2023-11-21 - Movitar Arena, Santiago, Chile
 * 2023-11-24 - Estadio Mâs Monumental, Buenos Aires, Argentina
 * 2023-11-26 - Estadio Mâs Monumental, Buenos Aires, Argentina
+* 2023-12-09 - The Kia Forum (KROQ Almost Acoustic Christmas), Inglewood, CA, USA
