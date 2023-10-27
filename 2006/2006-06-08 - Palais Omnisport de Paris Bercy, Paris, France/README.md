@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Tell Me Baby
-For Emily, Whenever I May Find Her JOHN
-Throw Away Your Television
-Snow ((Hey Oh))
-If
-Me and My Friends
-Strip My Mind
-London Calling tease
-Right on Time
-Don't Forget Me
-Torture Me
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-They're Red Hot
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Tell Me Baby
+8. For Emily, Whenever I May Find Her JOHN
+9. Throw Away Your Television
+10. Snow ((Hey Oh))
+11. If
+12. Me and My Friends
+13. Strip My Mind
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. Torture Me
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. You're Gonna Get Yours tease
+22. Give It Away
+23. They're Red Hot
 
 ## Notes
 

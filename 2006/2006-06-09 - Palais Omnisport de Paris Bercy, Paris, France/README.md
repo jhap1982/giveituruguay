@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Parallel Universe
-Tell Me Baby
-How Deep Is Your Love? part of JOHN
-Don't Forget Me
-Around the World
-Snow ((Hey Oh))
-Me and My Friends
-I Feel Love part of JOHN
-Wet Sand
-London Calling tease
-Right on Time
-Warlocks
-Californication
-By the Way
-ENCORE BREAK
-Sunday Bloody Sunday part of JOHN
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-They're Red Hot
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Parallel Universe
+7. Tell Me Baby
+8. How Deep Is Your Love? part of JOHN
+9. Don't Forget Me
+10. Around the World
+11. Snow ((Hey Oh))
+12. Me and My Friends
+13. I Feel Love part of JOHN
+14. Wet Sand
+15. London Calling tease
+16. Right on Time
+17. Warlocks
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Sunday Bloody Sunday part of JOHN
+21. Soul to Squeeze
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. They're Red Hot
 
 ## Notes
 

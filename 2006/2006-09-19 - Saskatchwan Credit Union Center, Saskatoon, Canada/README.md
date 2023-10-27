@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Warlocks
-Blood Sugar Sex Magik
-Show of Strength tease
-Parallel Universe
-Strip My Mind
-Will You Still Love Me Tomorrow? JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Warlocks
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Parallel Universe
+11. Strip My Mind
+12. Will You Still Love Me Tomorrow? JOHN
+13. Snow ((Hey Oh))
+14. Nobody Weird Like Me
+15. London Calling tease
+16. Right on Time
+17. Don't Forget Me
+18. Tell Me Baby
+19. Californication
+20. By the Way
+<br> ENCORE BREAK
+21. Under the Bridge
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

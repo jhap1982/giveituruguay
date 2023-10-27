@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Strip My Mind
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-I Could Have Lied
-By the Way
-ENCORE BREAK
-Love Gun part of JOHN
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Snow ((Hey Oh))
+13. Nobody Weird Like Me
+14. Strip My Mind
+15. London Calling tease
+16. Right on Time
+17. Don't Forget Me
+18. Tell Me Baby
+19. I Could Have Lied
+20. By the Way
+<br> ENCORE BREAK
+21. Love Gun part of JOHN
+22. Soul to Squeeze
+23. You're Gonna Get Yours tease
+24. Give It Away
 
 ## Notes
 

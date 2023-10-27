@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Me and My Friends
-For Emily, Whenever I May Find Her JOHN
-Wet Sand
-London Calling tease
-Right on Time
-The Needle and the Damage Done tease FLEA
-Don't Forget Me
-Tell Me Baby
-By the Way
-ENCORE BREAK
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Snow ((Hey Oh))
+11. Me and My Friends
+12. For Emily, Whenever I May Find Her JOHN
+13. Wet Sand
+14. London Calling tease
+15. Right on Time
+16. The Needle and the Damage Done tease FLEA
+17. Don't Forget Me
+18. Tell Me Baby
+19. By the Way
+<br> ENCORE BREAK
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
@@ -53,7 +53,7 @@ Outro Jam
 
 ## Recordings / Footage
 
-* AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLACrecorded by iamgod1 
+* AUD #1 audience audio: unknown mic > unknown recorder DAT(M) > FLAC recorded by iamgod1 
 * PRO #1 professional video: soundboard > unknown WEB > TS [1080p] Streamed on May 21, 2020 on YouTube as a part of the "Lolla from the Vault" COVID-19 relief concert series. Although available in 1080p, the video is sourced from standard definition.
 
 ## Links

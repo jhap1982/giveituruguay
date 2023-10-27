@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Snow ((Hey Oh))
-Me and My Friends
-Warlocks
-Throw Away Your Television
-Don't You Ever Leave jam
-Stadium Arcadium
-Don't Forget Me
-London Calling tease
-Right on Time
-Californication
-How Deep Is Your Love? part of JOHN
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Snow ((Hey Oh))
+8. Me and My Friends
+9. Warlocks
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Stadium Arcadium
+13. Don't Forget Me
+14. London Calling tease
+15. Right on Time
+16. Californication
+17. How Deep Is Your Love? part of JOHN
+18. By the Way
+<br> ENCORE BREAK
+19. Under the Bridge
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

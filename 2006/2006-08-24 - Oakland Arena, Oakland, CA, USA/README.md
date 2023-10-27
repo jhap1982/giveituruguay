@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Around the World
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Nobody Weird Like Me
-For Emily, Whenever I May Find Her JOHN
-Strip My Mind
-London Calling tease
-Right on Time
-Don't Forget Me
-Californication
-Tell Me Baby
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Around the World
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Snow ((Hey Oh))
+12. Nobody Weird Like Me
+13. For Emily, Whenever I May Find Her JOHN
+14. Strip My Mind
+15. London Calling tease
+16. Right on Time
+17. Don't Forget Me
+18. Californication
+19. Tell Me Baby
+20. By the Way
+<br> ENCORE BREAK
+21. Soul to Squeeze
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Warlocks
-Throw Away Your Television
-Don't You Ever Leave jam
-For Emily, Whenever I May Find Her JOHN
-Snow ((Hey Oh))
-Me and My Friends
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-I Could Have Lied
-Tell Me Baby
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Jugband Blues part of JOHN
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Warlocks
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. For Emily, Whenever I May Find Her JOHN
+11. Snow ((Hey Oh))
+12. Me and My Friends
+13. Stadium Arcadium
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. I Could Have Lied
+18. Tell Me Baby
+19. Californication
+20. What Is Soul? jam
+21. By the Way
+<br> ENCORE BREAK
+22. Jugband Blues part of JOHN
+23. Soul to Squeeze
+24. You're Gonna Get Yours tease
+25. Give It Away
+26. Outro Jam
 
 ## Notes
 

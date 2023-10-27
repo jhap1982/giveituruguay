@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Warlocks
-Blood Sugar Sex Magik
-Show of Strength tease
-Parallel Universe
-Snow ((Hey Oh))
-Me and My Friends
-C'mon Girl
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Sir Psycho Sexy
-They're Red Hot
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Warlocks
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Parallel Universe
+11. Snow ((Hey Oh))
+12. Me and My Friends
+13. C'mon Girl
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. Tell Me Baby
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Sir Psycho Sexy
+22. They're Red Hot
+23. Outro Jam
 
 ## Notes
 

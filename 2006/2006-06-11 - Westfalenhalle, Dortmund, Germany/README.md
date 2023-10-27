@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-21st Century
-For Emily, Whenever I May Find Her JOHN
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Me and My Friends abandoned
-Me and My Friends
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. 21st Century
+8. For Emily, Whenever I May Find Her JOHN
+9. Throw Away Your Television
+10. Don't You Ever Leave jam
+11. Snow ((Hey Oh))
+12. Me and My Friends abandoned
+13. Me and My Friends
+14. Stadium Arcadium
+15. London Calling tease
+16. Right on Time
+17. Don't Forget Me
+18. Tell Me Baby
+19. Californication
+20. What Is Soul? jam
+21. By the Way
+<br> ENCORE BREAK
+22. Under the Bridge
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

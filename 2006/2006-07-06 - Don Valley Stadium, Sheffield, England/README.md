@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-21st Century
-Parallel Universe
-Snow ((Hey Oh))
-Me and My Friends
-Wet Sand
-London Calling tease
-Right on Time
-Don't Forget Me
-Being Boiled part of JOHN
-I Could Have Lied
-Tell Me Baby
-Californication
-By the Way
-ENCORE BREAK
-Under the Bridge
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. 21st Century
+8. Parallel Universe
+9. Snow ((Hey Oh))
+10. Me and My Friends
+11. Wet Sand
+12. London Calling tease
+13. Right on Time
+14. Don't Forget Me
+15. Being Boiled part of JOHN
+16. I Could Have Lied
+17. Tell Me Baby
+18. Californication
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

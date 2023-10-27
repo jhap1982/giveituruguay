@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Tell Me Baby
-How Deep Is Your Love? part of JOHN
-Parallel Universe
-Snow ((Hey Oh))
-Me and My Friends
-Stadium Arcadium
-London Calling tease
-Right on Time
-Don't Forget Me
-Warlocks
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Tell Me Baby
+8. How Deep Is Your Love? part of JOHN
+9. Parallel Universe
+10. Snow ((Hey Oh))
+11. Me and My Friends
+12. Stadium Arcadium
+13. London Calling tease
+14. Right on Time
+15. Don't Forget Me
+16. Warlocks
+17. Californication
+18. What Is Soul? jam
+19. By the Way
+<br> ENCORE BREAK
+20. Under the Bridge
+21. You're Gonna Get Yours tease
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 
@@ -58,6 +58,5 @@ Outro Jam
 * AUD #1 audience audio: SP-CMC-8 > SP-SPSB-6 > Sony TCD-D8 DAT(M) > FLAC recorded by Ceucheumeu
 * AUD #2 audience audio: unknown mic > unknown recorder ? > MP3 recorded by unknown There's no lossless transfer circulating of this recording.  
 * SBD #1 soundboard audio: soundboard > unknown recorder "Tell Me Baby" CD > FLAC Part of the final jam was officially released on the second "Tell Me Baby" CD single.
-
 
 ## Links

@@ -2,34 +2,34 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Throw Away Your Television
-Don't You Ever Leave jam
-Save the Population jam
-Torture Me
-Fortune Faded
-How Deep Is Your Love? part of JOHN
-Me and My Friends
-Snow ((Hey Oh))
-Hump de Bump part of
-London Calling tease
-Right on Time
-Strip My Mind
-Don't Forget Me
-Tell Me Baby
-Californication
-What Is Soul? jam
-Magic Johnson tease
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Throw Away Your Television
+7. Don't You Ever Leave jam
+8. Save the Population jam
+9. Torture Me
+10. Fortune Faded
+11. How Deep Is Your Love? part of JOHN
+12. Me and My Friends
+13. Snow ((Hey Oh))
+14. Hump de Bump part of
+15. London Calling tease
+16. Right on Time
+17. Strip My Mind
+18. Don't Forget Me
+19. Tell Me Baby
+20. Californication
+21. What Is Soul? jam
+22. Magic Johnson tease
+23. By the Way
+<br> ENCORE BREAK
+24. Soul to Squeeze
+25. You're Gonna Get Yours tease
+26. Give It Away
+27. Outro Jam
 
 ## Notes
 

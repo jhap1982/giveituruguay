@@ -2,33 +2,33 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Throw Away Your Television
-Don't You Ever Leave jam
-Blood Sugar Sex Magik
-Show of Strength tease
-Snow ((Hey Oh))
-Me and My Friends
-Untitled #3 JOHN
-Wet Sand
-London Calling tease
-Right on Time
-Don't Forget Me
-I Feel Love part of JOHN
-I Could Have Lied
-Tell Me Baby
-By the Way
-ENCORE BREAK
-Soul to Squeeze
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Throw Away Your Television
+9. Don't You Ever Leave jam
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Snow ((Hey Oh))
+13. Me and My Friends
+14. Untitled #3 JOHN
+15. Wet Sand
+16. London Calling tease
+17. Right on Time
+18. Don't Forget Me
+19. I Feel Love part of JOHN
+20. I Could Have Lied
+21. Tell Me Baby
+22. By the Way
+<br> ENCORE BREAK
+23. Soul to Squeeze
+24. You're Gonna Get Yours tease
+25. Give It Away
+26. Outro Jam
 
 ## Notes
 

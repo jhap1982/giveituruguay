@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Fortune Faded
-Readymade
-Parallel Universe
-Hump de Bump
-For Emily, Whenever I May Find Her JOHN
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Wet Sand
-London Calling tease
-Right on Time
-Don't Forget Me
-Tell Me Baby
-Californication
-What Is Soul? jam
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Fortune Faded
+7. Readymade
+8. Parallel Universe
+9. Hump de Bump
+10. For Emily, Whenever I May Find Her JOHN
+11. Snow ((Hey Oh))
+12. Nobody Weird Like Me
+13. Wet Sand
+14. London Calling tease
+15. Right on Time
+16. Don't Forget Me
+17. Tell Me Baby
+18. Californication
+19. What Is Soul? jam
+20. By the Way
+<br> ENCORE BREAK
+21. Under the Bridge
+22. You're Gonna Get Yours tease
+23. Give It Away
+24. Outro Jam
 
 ## Notes
 

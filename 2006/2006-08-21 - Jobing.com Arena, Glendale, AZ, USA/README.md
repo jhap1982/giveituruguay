@@ -2,32 +2,32 @@
 
 ## Setlist
 
-Intro Jam
-Can't Stop
-Dani California
-Scar Tissue
-Charlie
-Otherside
-Readymade
-Blood Sugar Sex Magik
-Show of Strength tease
-Throw Away Your Television
-Don't You Ever Leave jam
-Snow ((Hey Oh))
-Nobody Weird Like Me
-Stadium Arcadium
-For Emily, Whenever I May Find Her JOHN
-Don't Forget Me
-London Calling tease
-Right on Time
-Soul to Squeeze
-Tell Me Baby
-By the Way
-ENCORE BREAK
-Under the Bridge
-You're Gonna Get Yours tease
-Give It Away
-Outro Jam
+1. Intro Jam
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Charlie
+6. Otherside
+7. Readymade
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Throw Away Your Television
+11. Don't You Ever Leave jam
+12. Snow ((Hey Oh))
+13. Nobody Weird Like Me
+14. Stadium Arcadium
+15 For Emily, Whenever I May Find Her JOHN
+16. Don't Forget Me
+17. London Calling tease
+18. Right on Time
+19. Soul to Squeeze
+20. Tell Me Baby
+21. By the Way
+<br> ENCORE BREAK
+22. Under the Bridge
+23. You're Gonna Get Yours tease
+24. Give It Away
+25. Outro Jam
 
 ## Notes
 
