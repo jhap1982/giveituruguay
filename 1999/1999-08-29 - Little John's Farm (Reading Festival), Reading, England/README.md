@@ -48,11 +48,7 @@
 
 ## Recordings
 
-AUD #1
-audience audioCore Sound Binaurals > Sony TCD-D7DAT(M) > FLACrecorded by excowboy  SBD #1
-soundboard audiosoundboard > unknown recorderFM > ? > FLACMissing "My Lovely Man" and "Search And Destroy".
-
-AMT #1
-amateur videobuilt-in > Panasonic NV-DS5MiniDV(M) > DVDrecorded by Master 8
-PRO #1
-professional videosoundboard > unknownS-VHS(M) > MKVMaster tape from a camera crew member, features a timestamp over the footage.
+* AUD #1 audience audio: Core Sound Binaurals > Sony TCD-D7DAT(M) > FLAC recorded by excowboy  
+* SBD #1 soundboard audio: soundboard > unknown recorder FM > ? > FLAC Missing "My Lovely Man" and "Search And Destroy".
+* AMT #1 amateur video: built-in > Panasonic NV-DS5 MiniDV(M) > DVD recorded by Master 8
+* PRO #1 professional video: soundboard > unknown S-VHS(M) > MKV Master tape from a camera crew member, features a timestamp over the footage.

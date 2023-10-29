@@ -49,6 +49,6 @@
 
 ## Recordings / Footage
 
-*AUD #1 audience audio: unknown mic > Sony WM-D3 ANA(M) > DAT(M) > FLAC recorded by Frank
+* AUD #1 audience audio: unknown mic > Sony WM-D3 ANA(M) > DAT(M) > FLAC recorded by Frank
 
 ## Links
