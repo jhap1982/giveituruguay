@@ -1066,7 +1066,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>1993-01-22 - Praça da Apoteose (Hollywood Rock Festival), Rio de Janeiro, Brazil</td>
                             <td>
                                 [PRO #1][Multishow][DVD][4,07 GB] <br />
-                                [PRO #1][Multishow][MKV][1,37 GB]
+                                [PRO #1][Multishow][MKV][1,37 GB] <br />
+                                [SBD #1][TV][FLAC][369 MB]
                             </td>
                         </tr>
                         
@@ -3148,7 +3149,8 @@ const WhatIHave = ({ onBack }) => {
                                 [AMT #1][DVD][191 MB] <br />
                                 [PRO #1][DVD][3,81 GB] <br />
                                 [PRO #1][rutracker][DVD][3,25 GB ] <br />
-                                [AUD #1][FLAC][657 MB]
+                                [AUD #1][FLAC][657 MB] <br />
+                                [SBD #1][TV][FLAC][385 MB]
                             </td>
                         </tr>
 
@@ -4222,7 +4224,8 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][Globo][MKV][2,97 GB] <br />
                                 [PRO #1][multishow HD][1080i][MKV][8,02 GB] <br />
                                 [PRO #1][multishow][MKV][695 MB] <br />
-                                [SBD #1][BootsLive][FLAC][466 MB]
+                                [SBD #1][BootsLive][FLAC][466 MB] <br />
+                                [SBD #1][TV][FLAC][660 MB]
                             </td>
                         </tr>
 
@@ -6335,6 +6338,7 @@ const WhatIHave = ({ onBack }) => {
 
             <section>
                 <h3>2019</h3>
+
                 <table>
                     <thead>
                         <tr>
@@ -6356,6 +6360,11 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2019-02-10 - Staples Center (Grammy Awards), Los Angeles, CA, USA</td>
                             <td>[PRO #1][YT][MP4][152 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2019-02-17 - Derwent Entertainment Centre, Hobart, Australia</td>
+                            <td>[AUD #1][FLAC][1,26 GB]</td>
                         </tr>
 
                         <tr>
