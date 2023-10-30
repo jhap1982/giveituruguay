@@ -1587,7 +1587,8 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][TMF][DVD][2,44 GB] <br />
                                 [PRO #2][DVD][3,25 GB] <br />
                                 [SBD #1][MP3][45,6 MB] <br />
-                                [SBD #1][MTV][MP3][36,7 MB]
+                                [SBD #1][MTV][MP3][36,7 MB] <br/ >
+                                [SBD #1][TV][FLAC][276 MB]
                             </td>
                         </tr>
 
@@ -1599,7 +1600,8 @@ const WhatIHave = ({ onBack }) => {
                                 [PRO #1][DigUpg][DVD][3,01 GB] <br />
                                 [PRO #1][DigUpg][TS][3,89 GB] <br />
                                 [PRO #1][TPB][TS][6,51 GB] <br />
-                                [Bootleg][Red Hot And Bizarre][MP3][94,3 MB]
+                                [Bootleg][Red Hot And Bizarre][MP3][94,3 MB] <br />
+                                [SBD #1][TV][FLAC][479 MB]
                             </td>
                         </tr>
 
@@ -1631,7 +1633,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>1999-08-29 - Little John's Farm (Reading Festival), Reading, England</td>
                             <td>
                                 [SBD #1][MP3][101 MB] <br />
-                                [AMT #1][YT][MP4][280 MB]
+                                [AMT #1][YT][MP4][280 MB] <br />
+                                [SBD #1][TV][FLAC][402 MB]
                             </td>
                         </tr>
 
@@ -1852,7 +1855,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2000-01-09 - Nippon Budokan, Tokyo, Japan</td>
                             <td title='Organic Anti-Beat Box Band!'>
                                 [PRO #1a][DVD][4,08 GB]
-                                [PRO #1b][DVD][4,12 GB]
+                                [PRO #1b][DVD][4,12 GB] <br />
+                                [AUD #1][FLAC][416 MB]
                             </td>
                         </tr>
 
@@ -4143,7 +4147,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>2011-08-22 - The Roxy Theatre, West Hollywood, CA, USA</td>
                             <td>
                                 [PRO #1][1080i][TS][4,80 GB] <br />
-                                [PRO #1][GIA][1080p][MP4][172 MB]
+                                [PRO #1][GIA][1080p][MP4][172 MB] <br />
+                                [SBD #1][Other][FLAC][563 MB]
                             </td>
                         </tr>
                         
