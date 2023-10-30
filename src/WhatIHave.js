@@ -3383,8 +3383,7 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][DVD][3,26 GB] <br />
                                 [PRO #1][WMV][105 MB] <br />
-                                [Bootleg][DVD-A][FLAC][219 MB] <br />
-                                [Bootleg][DVD-A][WMA][33,6 MB]
+                                [SBD #1][TV][FLAC][219 MB] <br />
                             </td>
                         </tr>
 
@@ -3493,7 +3492,8 @@ const WhatIHave = ({ onBack }) => {
                             <td>
                                 [PRO #1][ShortVer][DVD][497 MB] <br />
                                 [PRO #1][YT][MP4][1,40 GB] <br />
-                                [AUD #1][FLAC][528 MB]
+                                [AUD #1][FLAC][528 MB] <br />
+                                [SBD #1][FM-TV][FLAC][208 MB]
                             </td>
                         </tr>
 
