@@ -1,0 +1,79 @@
+RED HOT CHILI PEPPERS
+
+Ahoy, Rotterdam, October 16, 1995
+
+@ THE 1995 EUROPEAN TOUR
+The band performed a short European tour in late 1995 to promote their newly released album “One Hot Minute”. 
+
+Subterranea, London, September 27, 1995
+The Point, Dublin (day 1 of 2), September 29, 1995
+The Point, Dublin (day 2 of 2), October 1, 1995
+Brixton Academy, London (day 1 of 2), October 3, 1995
+Brixton Academy, London (day 2 of 2), October 4, 1995
+The Apollo, Manchester, October 6, 1995
+Forest Vorst National, Bruxelles, October 8, 1995
+Alsterdorfer Sporthalle, Hamburg, October 9, 1995
+Deutschlandhalle, Berlin, October 11, 1995
+Globen, Stockholm, October 14, 1995
+Ahoy, Rotterdam, October 16, 1995
+Le Zénith, Paris, October 18, 1995
+Hallenstadion, Zürich, October 20, 1995
+Forum Di Assago, Milano, October 21, 1995
+Palacio De Los Deportes, Barcelona, October 23, 1995
+
+The setlist remained almost the same for every show, with only a few additional jams and snippets added from time to time. 
+The 90-minute, 16-track show was mainly focussed on “One Hot Minute”, the recent (and poor) sequel to “Blood Sugar Sex Magik” album, with 10 tracks played.
+Usually three tracks from “Blood Sugar Sex Magik” were included in the setlist (“Give It Away”, “Suck My Kiss” and “Under The Bridge”), one from “Mother’s Milk” (“Higher Ground”) and two from “The Uplift Mofo Party Plan” (“Backwoods” and “Me And My Friends”).
+“Come As You Are” (Nirvana) was played as a short intro to “Backwoods”, and likewise “Sound And Vision” (David Bowie) for “Higher Ground”.
+One of the most notable change in the setlist happened in the Stockholm show, during which “Power Of Equality” was played as the last song of the main set, and “Me And My Friends” was played instead of “Suffragette City”.
+
+@ THE COMMERCIAL BOOTLEGS OF THE AHOY SHOW
+Fortunately for the fans, three of the sixteen European concerts were released in full by bootleggers on commercial unofficial releases:
+- The Stockholm concert as “One Hot Globe” by Moonraker (using their connections with Swedish and German tapers),
+- The Parisian show as “Coffee Shop” by Mountains (a local French label),
+- Flea’s Birthday Party in Rotterdam was radio-broadcasted in full, and four different labels released their version of the concert:
+
+- “Flea’s Birthday Gig” (Midnight Beat) is overall the best source and release, but is missing “Me And My Friends”, some dead air after this song, and part of the noise’s end after “Suffragette City”. There is a small sound drop after “Pea” (present on every source) that was easily corrected, and a small glitch during “Transcending” (again easily cleaned). “Transcending” is badly indexed, with the second half of the song included on the index of the next track “Pea”.
+
+- “Flea’s Birthday Suit” (German unknown label) is very similar to “Flea’s Birthday Gig”. “Me And My Friends” is included, but the two tracks of the encore are missing (“Deep Kick” and “Suffragette City”). There is a blank spot of 6 seconds after “One Big Mob” (no music missing). 
+
+- “Slap Happy” (Oxygen) has a more heavier sound, but unfortunately it was mixed like many KTS releases with fake crowd noises (6 seconds at the start of “Grand Pappy Du Plenty” and 13 seconds at the noise’s end after “Suffragette City”). Two tracks were omitted: “One Big Mob” after “Pea”, and “Me And My Friends” after “Under The Bridge”.
+
+- “Hot Life” (Razor’s Edge) could have been the best release as it is a 2CD set. Unfortunately the sound is mono, and around 10 seconds of dead airs are missing between “One Big Mob” and “Under The Bridge”. Despite that, “Hot Life” is having additional seconds not found on any other source, especially between the main set and the encore, and at the noise’s end after “Suffragette City”. 
+
+@ THE AHOY REWORKING
+Usually I don’t like to track every single snippet or jam, but I made an exception for this concert.
+
+01 Grand Pappy Du Plenty [snippet]		1.14
+02 Give It Away					6.34		
+03 Suck My Kiss					4.04
+04 Aeroplane					4.49
+05 Warped					5.42
+06 Walkabout					5.41
+07 Come As You Are [snippet] / Backwoods	5.32
+08 My Friends					5.05	
+09 Sweet Home Alabama [snippet]			1.04
+10 Coffee Shop					3.27		
+11 Sound And Vision [snippet]			1.02
+12 Higher Ground				3.34	
+13 Hey Joe [snippet]				0.45
+14 Transcending					5.29	
+15 Pea						2.00	
+16 One Big Mob					8.05			
+17 Under The Bridge				5.16		
+18 Me And My Friends				3.44		
+19 Deep Kick					6.22	
+20 Suffragette City				4.54
+
+Running time: 84.32				 
+
+Main source : 
+- “Flea’s Birthday Gig”
+Additional sources:
+- “Flea’s Birthday Suit” for “Me And My Friends” and 20 seconds of the following dead air,
+- “Slap Happy” for 16 seconds of the dead air before “Deep Kick”, and for 47 seconds of the noise’s end of “Suffragette City”,
+- “Hot Life” for 9 seconds of dead air between “Me & My Friends” and “Deep Kick” and for the last 5 seconds of the noise’s end of “Suffragette City”.
+
+Lineage: commercial bootlegs rip with EAC > reworking with Soundforge > wav.
+
+Reworked by Vince Dome on January 27, 2016.

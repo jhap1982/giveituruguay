@@ -1,0 +1,56 @@
+From the StoneColdBush.com tape archive:
+
+RED HOT CHILI PEPPERS
+April 29, 2006
+Alcatraz
+Milan, Italy
+
+
+TRACKS:
+01. Intro Jam
+02. Can't Stop
+03. Charlie
+04. Tell Me Baby
+05. Dani California
+06. For Emily, Wherever I May Find Her (John)
+07. Scar Tissue
+08. Me And My Friends
+09. By The Way
+ ENCORE
+10. You're Gonna Get Yours
+11. Give It Away
+
+LENGTH:
+42:48
+
+SOURCE (PRO #1b):
+unknown
+
+TRANSFER:
+Sony DVD-RW DW-G120A > DVD Audio Extractor 3.4.1 > Adobe Audition 1.5 > CD Wave 1.96.1 > Trader's Little Helper 1.1.1 (Build 90)
+
+GENERATION:
+DVDR(x) [LPCM 48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+This comes from the DVD that was recorded from the MHD broadcast, not the MTV one. MHD didn't air the complete set and the pace of the the broadcast was a bit slow. I'm assumung the order of the songs was slightly changed too. I fixed the pace problem by speeding up the WAV file, but there was no way for me to put the tracks into the right order as I couldn't find a proper setlist for this show. Nevertheless, this is the best we can get.
+
+MD5 FINGERPRINTS:
+c740024e1eabfa0c57592939971a7516 *RHCP_2006-04-29_PRO_t01.flac
+db707a0dc7c36b69b522c40515ceab44 *RHCP_2006-04-29_PRO_t02.flac
+0f6be3985867de3ffdfc49d201e728fd *RHCP_2006-04-29_PRO_t03.flac
+2b2d2123d0a851d0a7153990a7cfe76b *RHCP_2006-04-29_PRO_t04.flac
+095f53d2f7523a16614132c4c942cc38 *RHCP_2006-04-29_PRO_t05.flac
+1f79216d132a189b41ed1f761a751628 *RHCP_2006-04-29_PRO_t06.flac
+03383b28373859afb6a737ac4129ffd0 *RHCP_2006-04-29_PRO_t07.flac
+d247ac60585f4e3415d5ed1a2c24c666 *RHCP_2006-04-29_PRO_t08.flac
+2ae066e0428e891e79db26ff2a87b36f *RHCP_2006-04-29_PRO_t09.flac
+903152b3db24fdad394807da65d31e72 *RHCP_2006-04-29_PRO_t10.flac
+5bc3da23270ad78b9f2a1dc44ecc255e *RHCP_2006-04-29_PRO_t11.flac
+
+AUDIO TRANSFERRED BY:
+sikamikanico83 [at] gmail [dot] com
+
+www.stonecoldbush.com
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---OT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---

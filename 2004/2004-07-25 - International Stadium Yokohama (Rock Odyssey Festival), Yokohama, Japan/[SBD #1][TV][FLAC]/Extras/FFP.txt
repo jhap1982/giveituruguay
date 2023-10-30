@@ -1,0 +1,16 @@
+01. Can't Stop.flac:d3e7ef72e5528bff0dfa2299318a6c72
+02. Around The World.flac:1f306ca72e960d4a236247574d8f7935
+03. By The Way.flac:28add5447e35056f1f2c77f9419cf061
+04. Fortune Faded.flac:22b23eb294750647c7b029f7065ba132
+05. Throw Away Your Television.flac:247760723db10fb54a8a78ecab16b83f
+06. Universally Speaking.flac:94acaeb590ca81fe8632a5ccebc7fea2
+07. Get On The Top.flac:d3d86cf52a52fa873b85c896d2f7bd9e
+08. Don't Forget Me.flac:3806463b2454b9ef2dc5a86725334ec3
+09. Californication.flac:16c61b40cad91bcdc4d5a8f074a69f1d
+10. Parallel Universe.flac:4c23bb530ec9db4eb79e0fff21f5b8d7
+11. Under The Bridge.flac:fe4e232451a4733e3d59f38be5ad00f1
+12. Give It Away.flac:a4be2c09d33621c3ff9585cd2e8577d1
+
+No errors occured.
+
+Create checksum file log saved to file.

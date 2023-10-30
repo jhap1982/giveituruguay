@@ -1,0 +1,26 @@
+01. Monarchy Of Roses.flac:3c24385c5b729790119ccf1a99b6cc0c
+02. Can't Stop.flac:e871e40670c3b8204f43b8b1ad7f5f08
+03. Charlie.flac:ee24dedc27f89153e17e1e73aa75e528
+04. Otherside.flac:6047a3fe9b8dc1406797f208d33c4ce8
+05. Look Around.flac:353ea86934f990622fbef92bae6e8d9b
+06. Dani California.flac:3c067347da12a1f6b883d5ec6560cfde
+07. Under The Bridge.flac:d1126240a07df1af154ae33f0f604c4d
+08. Factory Of Faith.flac:ac36602a8acf3c3ebc5d3f48f94113ba
+09. Throw Away Your Television.flac:e4fd7a930aa9609c003763247ba5ba30
+10. Pea.flac:a7e070f6059f7a878d80b6be8338edad
+11. The Adventures Of Rain Dance Meggie.flac:0af20691e589a27d71cccf6a8714e1ac
+12. Me And My Friends.flac:b174983de966946edabdb00d83fd899a
+13. Did I Let You Know.flac:b0c8224e4787e390f0a55f9044fb9b63
+14. Higher Ground.flac:2b5c138b7e69060474fd0712dc2e4bf0
+15. Californication.flac:6cae714839e888004db3a9c092ac5df7
+16. By The Way.flac:55b391180345e72f31d1629ad4fbf674
+17. Encore Break.flac:b9a91252e109db6adcbba8ca064c794b
+18. Chad Drum Solo.flac:e93ee5fd1edd479bca4abe47964de4d4
+19. Around The World.flac:a509db272561f347d04ccb8a86703972
+20. Blood Sugar Sex Magik.flac:f595478e0809631cb4076a55726d3b4d
+21. Give It Away.flac:d2d76d12e4cd5e3a74dc46a858207525
+22. Fireworks.flac:f0de7ced870b68fc0bdc5da022c5ca7d
+
+No errors occured.
+
+Create checksum file log saved to file.

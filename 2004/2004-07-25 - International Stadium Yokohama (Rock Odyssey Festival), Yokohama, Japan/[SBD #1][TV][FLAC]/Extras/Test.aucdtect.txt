@@ -1,0 +1,23 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Can't Stop.wav:  track looks like CDDA with probability 100%.
+02. Around The World.wav:  track looks like CDDA with probability 100%.
+03. By The Way.wav:  track looks like CDDA with probability 99%.
+04. Fortune Faded.wav:  track looks like CDDA with probability 100%.
+05. Throw Away Your Television.wav:  track looks like CDDA with probability 100%.
+06. Universally Speaking.wav:  track looks like CDDA with probability 100%.
+07. Get On The Top.wav:  track looks like CDDA with probability 100%.
+08. Don't Forget Me.wav:  track looks like CDDA with probability 100%.
+09. Californication.wav:  track looks like CDDA with probability 100%.
+10. Parallel Universe.wav:  track looks like CDDA with probability 100%.
+11. Under The Bridge.wav:  track looks like CDDA with probability 100%.
+12. Give It Away.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.
