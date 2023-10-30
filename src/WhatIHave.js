@@ -3564,7 +3564,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2006-07-28 - TV Asahi Studios (Music Station), Tokyo, Japan</td>
                             <td>
-                                [PRO #1][AVI][52,2 MB]
+                                [PRO #1][AVI][52,2 MB] <br />
+                                [SBD #1][TV][FLAC][31 MB]
                             </td>
                         </tr>
 
