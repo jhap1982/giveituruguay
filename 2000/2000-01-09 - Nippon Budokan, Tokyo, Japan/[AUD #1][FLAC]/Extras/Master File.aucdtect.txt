@@ -1,0 +1,12 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+Master File.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

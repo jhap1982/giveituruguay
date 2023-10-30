@@ -1,0 +1,26 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Around The World.wav:  track looks like CDDA with probability 100%.
+02. Give It away.wav:  track looks like CDDA with probability 85%.
+03. Scar Tissue.wav:  track looks like CDDA with probability 100%.
+04. Suck My kiss.wav:  track looks like CDDA with probability 100%.
+05. If You Have To ask.wav:  track looks like CDDA with probability 100%.
+06. Blackeyed Blonde.wav:  track looks like CDDA with probability 100%.
+07. I could have Lied.wav:  track looks like CDDA with probability 100%.
+08. Organic Anti Beat Box Band.wav:  track looks like CDDA with probability 100%.
+09. I like Dirt.wav:  track looks like CDDA with probability 100%.
+10. My Lovely man.wav:  track looks like CDDA with probability 85%.
+11. Right On Time.wav:  track looks like CDDA with probability 85%.
+12. Under The Bridge.wav:  track looks like CDDA with probability 85%.
+13. Me & My Friends & Encore Break.wav:  track looks like CDDA with probability 100%.
+14. Sir Psycho sexy.wav:  track looks like CDDA with probability 100%.
+15. Fire.wav:  track looks like CDDA with probability 76%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

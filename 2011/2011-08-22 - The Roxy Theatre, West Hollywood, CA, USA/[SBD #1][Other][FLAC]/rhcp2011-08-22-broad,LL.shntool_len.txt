@@ -1,0 +1,19 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:29.45       68725484 B   ---   --   ---xx   flac  0.6739  rhcp2011-08-22-broad,LL-t01.flac
+     4:32.54       48107852 B   ---   --   ---xx   flac  0.7171  rhcp2011-08-22-broad,LL-t02.flac
+     4:20.00       45864044 B   ---   --   ---xx   flac  0.6967  rhcp2011-08-22-broad,LL-t03.flac
+     4:48.50       50920844 B   ---   --   ---xx   flac  0.7185  rhcp2011-08-22-broad,LL-t04.flac
+     5:01.19       53141132 B   ---   --   ---xx   flac  0.6561  rhcp2011-08-22-broad,LL-t05.flac
+     2:44.03       28936700 B   ---   --   ---xx   flac  0.7050  rhcp2011-08-22-broad,LL-t06.flac
+     6:03.33       64110860 B   ---   --   ---xx   flac  0.6858  rhcp2011-08-22-broad,LL-t07.flac
+     3:31.43       37321580 B   ---   --   ---xx   flac  0.6975  rhcp2011-08-22-broad,LL-t08.flac
+     4:42.04       49754252 B   ---   --   ---xx   flac  0.6948  rhcp2011-08-22-broad,LL-t09.flac
+     2:54.03       30700700 B   ---   --   ---xx   flac  0.7106  rhcp2011-08-22-broad,LL-t10.flac
+     6:37.42       70129628 B   ---   --   ---xx   flac  0.6906  rhcp2011-08-22-broad,LL-t11.flac
+     3:33.18       37615580 B   ---   --   ---xx   flac  0.7226  rhcp2011-08-22-broad,LL-t12.flac
+     4:49.10       51003164 B   ---   --   ---xx   flac  0.6784  rhcp2011-08-22-broad,LL-t13.flac
+     3:44.66       39668876 B   ---   --   ---xx   flac  0.6944  rhcp2011-08-22-broad,LL-t14.flac
+     5:07.08       54173660 B   ---   --   ---xx   flac  0.6925  rhcp2011-08-22-broad,LL-t15.flac
+     5:25.54       57457052 B   ---   --   ---xx   flac  0.6779  rhcp2011-08-22-broad,LL-t16.flac
+     5:54.70       62610284 B   ---   --   ---xx   flac  0.7263  rhcp2011-08-22-broad,LL-t17.flac
+    80:19.72      850241692 B                            0.6947  (17 files)

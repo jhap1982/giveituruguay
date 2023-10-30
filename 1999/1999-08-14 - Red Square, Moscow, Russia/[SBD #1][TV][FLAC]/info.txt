@@ -1,0 +1,37 @@
+Red Hot Chili Peppers
+Anthony Kiedis: lead vocals
+Michael Balzary "Flea": bass, vocals
+John Frusciante: guitar, Vocals
+Chad Smith: drums
+(and the clueless censorship edit idiot clan)
+
+Red Square
+Moscow, Russia
+August 14, 1999
+MTV broadcast audio master tape
+runtime: 42:34 (minutes/ seconds)
+
+tracklist:
+1: intro talk :49
+2: give it away 5:08
+3: talk 1:01
+4: scar tissue 3:26
+5: talk :22
+6: suck my kiss 3:28
+7: talk :32
+8: Californication 5:06
+9: talk :37
+10: under the bridge 3:56
+11: me and my friends 2:46
+12: talk :38
+13: if you have to ask 5:15
+14: talk :43
+15: the power of equality 4:15
+16: fire 3:59
+
+MTV broadcast stereo audio signal > 
+Yamaha RX-500U receiver >
+Naka. BX 100 cassette recorder (dolby off) >
+Maxell XLII 90 minute cassette >
+tascam 112 > soundforge (16 bit/ 44.1 khz wav) >
+flac 8 (sb's aligned)
