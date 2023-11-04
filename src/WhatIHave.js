@@ -6855,7 +6855,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-07-17 - Kerampuilh (Les Vieilles Charrues Festival), Carhaix-Polouguer, France</td>
-                            <td>[AUD #1][FLAC][540 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][540 MB] <br />
+                                [AUD #2][MP3][212 MB]
+                            </td>
                         </tr>
 
                         <tr>
