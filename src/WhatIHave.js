@@ -6892,6 +6892,11 @@ const WhatIHave = ({ onBack }) => {
                                 </span>
                             </td>
                         </tr>
+
+                        <tr>
+                            <td>2023-09-27 - Hersheypark Stadium, Herhsey, PA, USA</td>
+                            <td>[AUD #1][FLAC][510 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
