@@ -2,22 +2,22 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-Snow ((Hey Oh))
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Ethiopia
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Snow ((Hey Oh))
+7. Throw Away Your Television
+8. The Adventures of Rain Dance Maggie
+9. I Like Dirt
+10. Ethiopia
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Give It Away
 
 ## Notes
 

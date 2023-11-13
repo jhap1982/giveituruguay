@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Can't Stop
-Look Around
-Wet Sand
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Right on Time
-If You Have to Ask
-Hardcore Jollies tease
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Can't Stop
+5. Look Around
+6. Wet Sand
+7. Throw Away Your Television
+8. The Adventures of Rain Dance Maggie
+9. Right on Time
+10. If You Have to Ask
+11. Hardcore Jollies tease
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Soul to Squeeze
+21. Give It Away
 
 ## Notes
 

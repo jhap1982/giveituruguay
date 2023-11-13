@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Look Around
-Can't Stop
-If You Have to Ask
-Hardcore Jollies tease
-Tell Me Baby
-I Could Have Lied
-The Adventures of Rain Dance Maggie
-Right on Time
-Did I Let You Know
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Look Around
+5. Can't Stop
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Tell Me Baby
+9. I Could Have Lied
+10. The Adventures of Rain Dance Maggie
+11. Right on Time
+12. Did I Let You Know
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Everybody Knows This Is Nowhere
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

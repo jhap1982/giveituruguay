@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Look Around
-Can't Stop
-If You Have to Ask
-Hardcore Jollies tease
-Tell Me Baby
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Under the Bridge
-Factory of Faith
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Look Around
+5. Can't Stop
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Tell Me Baby
+9. Hard to Concentrate
+10. The Adventures of Rain Dance Maggie
+11. Me and My Friends
+12. Under the Bridge
+13. Factory of Faith
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Everybody Knows This Is Nowhere
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

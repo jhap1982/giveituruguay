@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Throw Away Your Television
-Look Around
-Emit Remmus
-Can't Stop
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Parallel Universe
-Under the Bridge
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Throw Away Your Television
+6. Look Around
+7. Emit Remmus
+8. Can't Stop
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Parallel Universe
+12. Under the Bridge
+13. Ethiopia
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Suck My Kiss
+18. Everybody Knows This Is Nowhere
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

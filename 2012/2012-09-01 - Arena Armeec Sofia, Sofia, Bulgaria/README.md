@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Blood Sugar Sex Magik
-Show of Strength tease
-Can't Stop
-Throw Away Your Television
-Orange Claw Hammer part of FLEA
-The Adventures of Rain Dance Maggie
-Right on Time
-Wet Sand
-Gong Li tease
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Factory of Faith
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Blood Sugar Sex Magik
+7. Show of Strength tease
+8. Can't Stop
+9. Throw Away Your Television
+10. Orange Claw Hammer part of FLEA
+11. The Adventures of Rain Dance Maggie
+12. Right on Time
+13. Wet Sand
+14. Gong Li tease
+15. Under the Bridge
+16. Higher Ground
+17. Californication
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Factory of Faith
+21. Soul to Squeeze
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 

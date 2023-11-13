@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Can't Stop
-Hey
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Parallel Universe
-Quixoticelixer tease
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-I Could Have Lied
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Can't Stop
+7. Hey
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Parallel Universe
+11. Quixoticelixer tease
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. I Could Have Lied
+21. Give It Away
+22. Encore jam
+23. Outro Jam
 
 ## Notes
 

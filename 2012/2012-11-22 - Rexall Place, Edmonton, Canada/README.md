@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Factory of Faith
-Can't Stop
-Parallel Universe
-Tell Me Baby
-I Could Have Lied
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Factory of Faith
+5. Can't Stop
+6. Parallel Universe
+7. Tell Me Baby
+8. I Could Have Lied
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Under the Bridge
+12. Ethiopia
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Soul to Squeeze
+20. Give It Away
 
 ## Notes
 

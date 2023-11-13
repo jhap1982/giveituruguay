@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-If You Have to Ask
-Hardcore Jollies tease
-Charlie
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Did I Let You Know
-Dosed tease
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Charlie
+9. Hard to Concentrate
+10. The Adventures of Rain Dance Maggie
+11. I Like Dirt
+12. Did I Let You Know
+13. Dosed tease
+14. Under the Bridge
+15. Higher Ground
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Suck My Kiss
+20. Soul to Squeeze
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

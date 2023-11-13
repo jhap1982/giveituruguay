@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-Strip My Mind
-Parallel Universe
-I Could Have Lied
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Dosed tease
-Under the Bridge
-Higher Ground
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Ethiopia
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Strip My Mind
+7. Parallel Universe
+8. I Could Have Lied
+9. The Adventures of Rain Dance Maggie
+10. I Like Dirt
+11. Dosed tease
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. Goodbye Hooray
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Ethiopia
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

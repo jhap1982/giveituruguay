@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Can't Stop
-Ethiopia
-She's Only 18
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Right on Time
-Universally Speaking
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Look Around
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Can't Stop
+6. Ethiopia
+7. She's Only 18
+8. Hard to Concentrate
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Universally Speaking
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Look Around
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

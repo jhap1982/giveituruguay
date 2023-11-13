@@ -2,15 +2,15 @@
 
 ## Setlist
 
-Can't Stop
-Snow ((Hey Oh))
-Monarchy of Roses
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-Right on Time
-Everybody Knows This Is Nowhere
-Give It Away
-By the Way
+1. Can't Stop
+2. Snow ((Hey Oh))
+3. Monarchy of Roses
+4. Soul to Squeeze
+5. The Adventures of Rain Dance Maggie
+6. Right on Time
+7. Everybody Knows This Is Nowhere
+8. Give It Away
+9. By the Way
 
 ## Notes
 

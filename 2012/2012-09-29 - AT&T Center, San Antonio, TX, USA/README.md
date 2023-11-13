@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-Throw Away Your Television
-Soul to Squeeze
-Tell Me Baby
-The Adventures of Rain Dance Maggie
-Love of Your Life tease
-Right on Time
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-Meet Me at the Corner
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Throw Away Your Television
+7. Soul to Squeeze
+8. Tell Me Baby
+9. The Adventures of Rain Dance Maggie
+10. Love of Your Life tease
+11. Right on Time
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. The Power of Equality
+19. Meet Me at the Corner
+20. Give It Away
 
 ## Notes
 

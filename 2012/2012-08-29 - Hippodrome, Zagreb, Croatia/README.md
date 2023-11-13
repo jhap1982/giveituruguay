@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Throw Away Your Television
-Can't Stop
-Emit Remmus
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Universally Speaking
-Red Hot Mama jam
-Road Trippin' tease
-Under the Bridge
-Higher Ground
-Cosmic Slop tease
-Suck My Kiss
-By the Way
-ENCORE BREAK
-Jam
-Californication
-Factory of Faith
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Throw Away Your Television
+7. Can't Stop
+8. Emit Remmus
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Universally Speaking
+12. Red Hot Mama jam
+13. Road Trippin' tease
+14. Under the Bridge
+15. Higher Ground
+16. Cosmic Slop tease
+17. Suck My Kiss
+18. By the Way
+<br> ENCORE BREAK
+19. Jam
+20. Californication
+21. Factory of Faith
+22. Give It Away
+23. Encore jam
+24. Outro Jam
 
 ## Notes
 

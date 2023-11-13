@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Can't Stop
-Otherside
-Look Around
-Breaking the Girl
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Universally Speaking
-My Friends tease
-Under the Bridge
-Ethiopia
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Higher Ground
-I Could Have Lied
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Can't Stop
+5. Otherside
+6. Look Around
+7. Breaking the Girl
+8. The Adventures of Rain Dance Maggie
+9. I Like Dirt
+10. Universally Speaking
+11. My Friends tease
+12. Under the Bridge
+13. Ethiopia
+14. Suck My Kiss
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Higher Ground
+19. I Could Have Lied
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

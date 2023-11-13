@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Otherside
-Look Around
-She's Only 18
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Parallel Universe
-Under the Bridge
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Higher Ground
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Otherside
+5. Look Around
+6. She's Only 18
+7. Soul to Squeeze
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Parallel Universe
+11. Under the Bridge
+12. Suck My Kiss
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Higher Ground
+17. Everybody Knows This Is Nowhere
+18. Give It Away
 
 ## Notes
 

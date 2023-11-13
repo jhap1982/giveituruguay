@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Universally Speaking
-Can't Stop
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Did I Let You Know
-Behind the Sun tease
-Under the Bridge
-My Lovely Man part of
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-The Power of Equality
-Meet Me at the Corner
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Universally Speaking
+7. Can't Stop
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Did I Let You Know
+12. Behind the Sun tease
+13. Under the Bridge
+14. My Lovely Man part of
+15. Higher Ground
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. The Power of Equality
+20. Meet Me at the Corner
+21. Give It Away
 
 ## Notes
 

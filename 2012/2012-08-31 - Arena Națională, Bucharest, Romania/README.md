@@ -2,31 +2,30 @@
 
 ## Setlist
 
-Setlist
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-If You Have to Ask
-Hardcore Jollies tease
-Charlie
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Magpies on Fire tease
-Under the Bridge
-Higher Ground
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-Freaky Styley
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Charlie
+9. Hard to Concentrate
+10. The Adventures of Rain Dance Maggie
+11. I Like Dirt
+12. Magpies on Fire tease
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. Goodbye Hooray
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Freaky Styley
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Ethiopia
+23. Give It Away
 
 ## Notes
 

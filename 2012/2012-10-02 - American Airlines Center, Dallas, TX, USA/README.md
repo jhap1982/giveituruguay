@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Can't Stop
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Universally Speaking
-Funky Crime tease
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Can't Stop
+7. Hard to Concentrate
+8. The Adventures of Rain Dance Maggie
+9. I Like Dirt
+10. Universally Speaking
+11. Funky Crime tease
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Everybody Knows This Is Nowhere
+20. Give It Away
 
 ## Notes
 

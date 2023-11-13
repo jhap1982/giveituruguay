@@ -2,20 +2,20 @@
 
 ## Setlist
 
-Monarchy of Roses
-Factory of Faith
-Brendan's Death Song
-Ethiopia
-Annie Wants a Baby
-Look Around
-The Adventures of Rain Dance Maggie
-Did I Let You Know
-Goodbye Hooray
-Happiness Loves Company
-Police Station
-Even You Brutus?
-Meet Me at the Corner
-Dance, Dance, Dance
+1. Monarchy of Roses
+2. Factory of Faith
+3. Brendan's Death Song
+4. Ethiopia
+5. Annie Wants a Baby
+6. Look Around
+7. The Adventures of Rain Dance Maggie
+8. Did I Let You Know
+9. Goodbye Hooray
+10. Happiness Loves Company
+11. Police Station
+12. Even You Brutus?
+13. Meet Me at the Corner
+14. Dance, Dance, Dance
 
 ## Notes
 

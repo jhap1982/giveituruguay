@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Factory of Faith
-Throw Away Your Television
-Factory of Faith
-The Adventures of Rain Dance Maggie
-Wet Sand
-I Like Dirt
-Up on the Sun tease
-Under the Bridge
-Higher Ground
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-The Wanton Song tease
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Factory of Faith
+6. Throw Away Your Television
+7. Factory of Faith
+8. The Adventures of Rain Dance Maggie
+9. Wet Sand
+10. I Like Dirt
+11. Up on the Sun tease
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. Goodbye Hooray
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. The Wanton Song tease
+19. Suck My Kiss
+20. Everybody Knows This Is Nowhere
+21. Give It Away
 
 ## Notes
 

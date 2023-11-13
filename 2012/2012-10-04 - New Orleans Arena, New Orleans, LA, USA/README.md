@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-She's Only 18
-Throw Away Your Television
-Soul to Squeeze
-Tell Me Baby
-Apache Rose Peacock part of
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Higher Ground
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. She's Only 18
+7. Throw Away Your Television
+8. Soul to Squeeze
+9. Tell Me Baby
+10. Apache Rose Peacock part of
+11. The Adventures of Rain Dance Maggie
+12. Right on Time
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Higher Ground
+19. Everybody Knows This Is Nowhere
+20. Give It Away
 
 ## Notes
 

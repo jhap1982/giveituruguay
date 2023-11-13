@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-She's Only 18
-Can't Stop
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Right on Time
-Universally Speaking
-Renaissance tease
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Meet Me at the Corner
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. She's Only 18
+7. Can't Stop
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Universally Speaking
+12. Renaissance tease
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Meet Me at the Corner
+21. Give It Away
 
 ## Notes
 

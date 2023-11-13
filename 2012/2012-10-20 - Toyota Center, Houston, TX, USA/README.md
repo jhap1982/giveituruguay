@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Can't Stop
-Scar Tissue
-Look Around
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Universally Speaking
-What Is Soul? jam
-Under the Bridge
-Factory of Faith
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Tell Me Baby
-I Could Have Lied
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Can't Stop
+5. Scar Tissue
+6. Look Around
+7. Hard to Concentrate
+8. The Adventures of Rain Dance Maggie
+9. I Like Dirt
+10. Universally Speaking
+11. What Is Soul? jam
+12. Under the Bridge
+13. Factory of Faith
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Tell Me Baby
+19. I Could Have Lied
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
