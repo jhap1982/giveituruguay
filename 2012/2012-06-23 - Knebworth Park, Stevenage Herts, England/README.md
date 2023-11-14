@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Throw Away Your Television
-Can't Stop
-Pea
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-Charlie
-Under the Bridge
-Higher Ground
-Californication
-Factory of Faith
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Suck My Kiss
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Throw Away Your Television
+6. Can't Stop
+7. Pea
+8. Soul to Squeeze
+9. The Adventures of Rain Dance Maggie
+10. Charlie
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. Factory of Faith
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Suck My Kiss
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

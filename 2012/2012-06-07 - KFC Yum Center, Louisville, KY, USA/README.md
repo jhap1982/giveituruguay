@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Look Around
-If You Have to Ask
-Hardcore Jollies tease
-Can't Stop
-Wet Sand
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Ethiopia
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Look Around
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Can't Stop
+9. Wet Sand
+10. The Adventures of Rain Dance Maggie
+11. Right on Time
+12. Under the Bridge
+13. Ethiopia
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Everybody Knows This Is Nowhere
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

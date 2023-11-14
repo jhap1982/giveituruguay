@@ -2,31 +2,31 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Dani California
-Scar Tissue
-Look Around
-She's Only 18
-The Adventures of Rain Dance Maggie
-Blood Sugar Sex Magik
-Show of Strength tease
-Goodbye Hooray
-If You Have to Ask
-Hardcore Jollies tease
-Under the Bridge
-Higher Ground
-Californication
-Factory of Faith
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-I Could Have Lied
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Look Around
+6. She's Only 18
+7. The Adventures of Rain Dance Maggie
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Goodbye Hooray
+11. If You Have to Ask
+12. Hardcore Jollies tease
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. Factory of Faith
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Sir Psycho Sexy
+20. They're Red Hot
+21. I Could Have Lied
+22. Give It Away
+23. Encore jam
+24. Outro Jam
 
 ## Notes
 

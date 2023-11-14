@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Scar Tissue
-Dani California
-Charlie
-Look Around
-Breaking the Girl
-The Adventures of Rain Dance Maggie
-Can't Stop
-Don't Forget Me
-Under the Bridge
-Me and My Friends
-Californication
-Suck My Kiss
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Scar Tissue
+4. Dani California
+5. Charlie
+6. Look Around
+7. Breaking the Girl
+8. The Adventures of Rain Dance Maggie
+9. Can't Stop
+10. Don't Forget Me
+11. Under the Bridge
+12. Me and My Friends
+13. Californication
+14. Suck My Kiss
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Soul to Squeeze
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

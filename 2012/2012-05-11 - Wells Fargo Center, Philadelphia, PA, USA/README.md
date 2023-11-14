@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Look Around
-Pea
-Dani California
-She's Only 18
-The Adventures of Rain Dance Maggie
-Parallel Universe
-Me and My Friends
-Universally Speaking
-Higher Ground
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
+1 .Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Look Around
+5. Pea
+6. Dani California
+7. She's Only 18
+8. The Adventures of Rain Dance Maggie
+9. Parallel Universe
+10. Me and My Friends
+11. Universally Speaking
+12. Higher Ground
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Everybody Knows This Is Nowhere
+20. Give It Away
 
 ## Notes
 

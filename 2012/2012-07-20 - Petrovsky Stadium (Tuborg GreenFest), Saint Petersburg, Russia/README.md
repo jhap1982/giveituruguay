@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Factory of Faith
-Can't Stop
-Soul to Squeeze
-Look Around
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Universally Speaking
-Suck My Kiss
-Under the Bridge
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Snow ((Hey Oh))
-Ethiopia
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Factory of Faith
+6. Can't Stop
+7. Soul to Squeeze
+8. Look Around
+9. Throw Away Your Television
+10. The Adventures of Rain Dance Maggie
+11. Universally Speaking
+12. Suck My Kiss
+13. Under the Bridge
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Snow ((Hey Oh))
+18. Ethiopia
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

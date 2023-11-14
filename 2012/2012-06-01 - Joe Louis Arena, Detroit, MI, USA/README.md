@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Look Around
-Emit Remmus
-Can't Stop
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Under the Bridge
-Higher Ground
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Look Around
+6. Emit Remmus
+7. Can't Stop
+8. Hard to Concentrate
+9. The Adventures of Rain Dance Maggie
+10. I Like Dirt
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. Goodbye Hooray
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Suck My Kiss
+18. Ethiopia
+19. Give It Away
 
 ## Notes
 

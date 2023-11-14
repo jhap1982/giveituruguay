@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Factory of Faith
-Can't Stop
-Hard to Concentrate
-Look Around
-She's Only 18
-The Adventures of Rain Dance Maggie
-Universally Speaking
-Higher Ground
-Under the Bridge
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sunday Bloody Sunday tease
-Suck My Kiss
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Factory of Faith
+6. Can't Stop
+7. Hard to Concentrate
+8. Look Around
+9. She's Only 18
+10. The Adventures of Rain Dance Maggie
+11. Universally Speaking
+12. Higher Ground
+13. Under the Bridge
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sunday Bloody Sunday tease
+18. Suck My Kiss
+19. Give It Away
+20. Encore jam
+21. Outro Jam
 
 ## Notes
 

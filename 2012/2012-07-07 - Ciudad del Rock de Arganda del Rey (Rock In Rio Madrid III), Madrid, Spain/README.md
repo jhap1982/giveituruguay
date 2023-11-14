@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Can't Stop
-Californication
-Look Around
-Hard to Concentrate
-Parallel Universe
-The Adventures of Rain Dance Maggie
-Right on Time
-Throw Away Your Television
-Factory of Faith
-Under the Bridge
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Can't Stop
+5. Californication
+6. Look Around
+7. Hard to Concentrate
+8. Parallel Universe
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Throw Away Your Television
+12. Factory of Faith
+13. Under the Bridge
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Suck My Kiss
+17. Ethiopia
+18. Give It Away
 
 ## Notes
 
@@ -57,6 +57,6 @@ Give It Away
 * SBD #1 soundboard audio: soundboard > unknown recorder LiveChiliPeppers.com > FLAC
 * PRO #1 professional video: soundboard > unknown WEB > FLV > TS [720p] Broadcasted live by Rock In Rio on YouTube.
 * PRO #2 professional video: soundboard > unknown WEB > FLV > TS [720p] Broadcasted live on YouTube. This was a Sony exclusive camera. It's only a one-camera shot, mostly focused on Josh.
-* PRO #3 professional video: soundboard > unknown TV > DVDBroadcasted by Spanish TV network "Neox", it's not the same recording as PRO #1 because features different cameras and shots.
+* PRO #3 professional video: soundboard > unknown TV > DVD Broadcasted by Spanish TV network "Neox", it's not the same recording as PRO #1 because features different cameras and shots.
 
 # Links

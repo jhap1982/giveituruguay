@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Charlie
-Dani California
-Otherside
-Can't Stop
-She's Only 18
-Look Around
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Under the Bridge
-Higher Ground
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Meet Me at the Corner
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Charlie
+4. Dani California
+5. Otherside
+6. Can't Stop
+7. She's Only 18
+8. Look Around
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. Goodbye Hooray
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Meet Me at the Corner
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 
@@ -45,6 +45,7 @@ Outro Jam
 * Chad Smith
 
 ## Additional Musicians 
+
 * Chris Warren  
 * Mauro Refosco
 

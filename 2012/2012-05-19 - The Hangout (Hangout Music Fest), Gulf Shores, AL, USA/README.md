@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Dani California
-Scar Tissue
-Look Around
-Suck My Kiss
-The Adventures of Rain Dance Maggie
-Blood Sugar Sex Magik
-Show of Strength tease
-Right on Time
-Universally Speaking
-Higher Ground
-Under the Bridge
-Throw Away Your Television
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Dani California
+4. Scar Tissue
+5. Look Around
+6. Suck My Kiss
+7. The Adventures of Rain Dance Maggie
+8. Blood Sugar Sex Magik
+9. Show of Strength tease
+10. Right on Time
+11. Universally Speaking
+12. Higher Ground
+13. Under the Bridge
+14. Throw Away Your Television
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Around the World
+19. Soul to Squeeze
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

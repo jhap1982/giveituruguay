@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Otherside
-Can't Stop
-Ethiopia
-Throw Away Your Television
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Right on Time
-Look Around
-Under the Bridge
-Higher Ground
-Factory of Faith
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Otherside
+4. Can't Stop
+5. Ethiopia
+6. Throw Away Your Television
+7. Hard to Concentrate
+8. The Adventures of Rain Dance Maggie
+9. Right on Time
+10. Look Around
+11. Under the Bridge
+12. Higher Ground
+13. Factory of Faith
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Give It Away
+19. Encore jam
+20. Outro Jam
 
 ## Notes
 

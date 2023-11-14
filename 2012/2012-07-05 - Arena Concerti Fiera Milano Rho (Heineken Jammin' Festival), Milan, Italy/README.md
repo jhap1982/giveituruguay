@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Snow ((Hey Oh))
-Look Around
-Scar Tissue
-Dani California
-I Like Dirt
-The Adventures of Rain Dance Maggie
-The Power of Equality
-Under the Bridge
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Fire
-Meet Me at the Corner
-Give It Away
-In Love Dying jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Look Around
+5. Scar Tissue
+6. Dani California
+7. I Like Dirt
+8. The Adventures of Rain Dance Maggie
+9. The Power of Equality
+10. Under the Bridge
+11. Ethiopia
+12. Californication
+13. By the Way
+<br> ENCORE BREAK
+14. Jam
+15. Fire
+16. Meet Me at the Corner
+17. Give It Away
+18. In Love Dying jam
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Scar Tissue
-Dani California
-Charlie
-I Love Livin' in the City part of FLEA
-Look Around
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Can't Stop
-Emit Remmus
-Under the Bridge
-Goodbye Hooray
-Californication
-Higher Ground
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-I Could Have Lied
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Scar Tissue
+4. Dani California
+5. Charlie
+6. I Love Livin' in the City part of FLEA
+7. Look Around
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Can't Stop
+11. Emit Remmus
+12. Under the Bridge
+13. Goodbye Hooray
+14. Californication
+15. Higher Ground
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. I Could Have Lied
+20. Give It Away
 
 ## Notes
 

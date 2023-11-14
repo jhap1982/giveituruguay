@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Ethiopia
-Throw Away Your Television
-I Could Have Lied
-The Adventures of Rain Dance Maggie
-Me and My Friends
-If You Have to Ask
-Hardcore Jollies tease
-Look Around
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Everybody Knows This Is Nowhere
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Ethiopia
+6. Throw Away Your Television
+7. I Could Have Lied
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. If You Have to Ask
+11. Hardcore Jollies tease
+12. Look Around
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Everybody Knows This Is Nowhere
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

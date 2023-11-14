@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Scar Tissue
-Dani California
-Look Around
-Throw Away Your Television
-Hard to Concentrate
-Factory of Faith
-The Adventures of Rain Dance Maggie
-Under the Bridge
-Me and My Friends
-Californication
-Suck My Kiss
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Scar Tissue
+5. Dani California
+6. Look Around
+7. Throw Away Your Television
+8. Hard to Concentrate
+9. Factory of Faith
+10. The Adventures of Rain Dance Maggie
+11. Under the Bridge
+12. Me and My Friends
+13. Californication
+14. Suck My Kiss
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Soul to Squeeze
+20. Give It Away
 
 ## Notes
 

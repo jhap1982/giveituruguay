@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Universally Speaking
-Look Around
-In Love Dying tease
-The Adventures of Rain Dance Maggie
-Throw Away Your Television
-Suck My Kiss
-Right on Time
-Higher Ground
-Under the Bridge
-Factory of Faith
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Universally Speaking
+6. Look Around
+7. In Love Dying tease
+8. The Adventures of Rain Dance Maggie
+9. Throw Away Your Television
+10. Suck My Kiss
+11. Right on Time
+12. Higher Ground
+13. Under the Bridge
+14. Factory of Faith
+15. Californication
+16. By the Way
+17. ENCORE BREAK
+18. Jam
+19. Sir Psycho Sexy
+20. They're Red Hot
+21. Soul to Squeeze
+22. Give It Away
+23. Outro Jam
 
 ## Notes
 

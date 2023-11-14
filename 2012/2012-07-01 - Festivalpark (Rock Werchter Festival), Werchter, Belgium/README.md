@@ -2,24 +2,24 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Snow ((Hey Oh))
-Scar Tissue
-Look Around
-Dani California
-I Like Dirt
-The Adventures of Rain Dance Maggie
-Right on Time
-Ethiopia
-Under the Bridge
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Look Around
+6. Dani California
+7. I Like Dirt
+8. The Adventures of Rain Dance Maggie
+9. Right on Time
+10. Ethiopia
+11. Under the Bridge
+12. Californication
+13. By the Way
+<br> ENCORE BREAK
+14. Jam
+15. Sir Psycho Sexy
+16. They're Red Hot
+17. Give It Away
 
 ## Notes
 
