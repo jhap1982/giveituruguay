@@ -21,6 +21,8 @@
 
 * Anthony Kiedis
 * Flea
+* John Frusciante
+* Chad Smith
 
 ### Additional Musicians
 

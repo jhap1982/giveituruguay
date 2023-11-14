@@ -41,6 +41,7 @@
 * Chad Smith
 
 ### Additional Musicians
+
 * Chris Warren  
 * Mauro Refosco
 
