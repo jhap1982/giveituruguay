@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Intro Jam
-Around the World
-Scar Tissue
-Dani California
-Universally Speaking
-Aquatic Mouth Dance
-Soul to Squeeze
-I Like Dirt
-Terrapin part of JOHN
-Wet Sand
-Throw Away Your Television
-Reach Out
-Danny's Song part of JOHN
-Suck My Kiss
-The Heavy Wing
-Californication
-Black Summer
-By the Way
-ENCORE BREAK
-I Could Have Lied
-Give It Away
+1. Intro Jam
+2. Around the World
+3. Scar Tissue
+4. Dani California
+5. Universally Speaking
+6. Aquatic Mouth Dance
+7. Soul to Squeeze
+8. I Like Dirt
+9. Terrapin part of JOHN
+10. Wet Sand
+11. Throw Away Your Television
+12. Reach Out
+13. Danny's Song part of JOHN
+14. Suck My Kiss
+15. The Heavy Wing
+16. Californication
+17. Black Summer
+18. By the Way
+<br> ENCORE BREAK
+19. I Could Have Lied
+20. Give It Away
 
 ## Notes
 
