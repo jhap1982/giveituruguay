@@ -2,10 +2,10 @@
 
 ## Setlist
 
-By the Way
-The Adventures of Rain Dance Maggie
-Give It Away
-Higher Ground
+1. By the Way
+2. The Adventures of Rain Dance Maggie
+3. Give It Away
+4. Higher Ground
 
 ## Notes
 

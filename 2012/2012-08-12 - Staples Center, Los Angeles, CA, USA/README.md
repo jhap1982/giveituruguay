@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Look Around
-Throw Away Your Television
-If You Have to Ask
-Hardcore Jollies tease
-Hard to Concentrate
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Wet Sand
-Strange Man tease
-Under the Bridge
-Suck My Kiss
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Magic Johnson tease
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Look Around
+6. Throw Away Your Television
+7. If You Have to Ask
+8. Hardcore Jollies tease
+9. Hard to Concentrate
+10. The Adventures of Rain Dance Maggie
+11. Me and My Friends
+12. Wet Sand
+13. Strange Man tease
+14. Under the Bridge
+15. Suck My Kiss
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Magic Johnson tease
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Ethiopia
+23. Give It Away
 
 ## Notes
 

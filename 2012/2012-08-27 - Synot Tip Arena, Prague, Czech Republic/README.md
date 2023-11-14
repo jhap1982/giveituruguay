@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Otherside
-Dani California
-Can't Stop
-Wet Sand
-Look Around
-Encore jam
-She's Only 18
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Factory of Faith
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Otherside
+4. Dani California
+5. Can't Stop
+6. Wet Sand
+7. Look Around
+8. Encore jam
+9. She's Only 18
+10. The Adventures of Rain Dance Maggie
+11. Right on Time
+12. Under the Bridge
+13. Factory of Faith
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Ethiopia
+21. Give It Away
 
 ## Notes
 

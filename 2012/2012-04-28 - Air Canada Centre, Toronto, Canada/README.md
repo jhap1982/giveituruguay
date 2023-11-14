@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Scar Tissue
-Can't Stop
-She's Only 18
-Look Around
-Boyz-N-the-Hood part of
-Suck My Kiss
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Universally Speaking
-Higher Ground
-Under the Bridge
-Ethiopia
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Dani California
+3. Scar Tissue
+4. Can't Stop
+5. She's Only 18
+6. Look Around
+7. Boyz-N-the-Hood part of
+8. Suck My Kiss
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Universally Speaking
+12. Higher Ground
+13. Under the Bridge
+14. Ethiopia
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Everybody Knows This Is Nowhere
+21. Give It Away
 
 ## Notes
 

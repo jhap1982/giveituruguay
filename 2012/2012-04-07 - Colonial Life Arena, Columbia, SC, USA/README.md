@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Otherside
-Look Around
-Hey
-Throw Away Your Television abandoned
-Throw Away Your Television
-The Adventures of Rain Dance Maggie
-Dani California
-Ethiopia
-Right on Time
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Meet Me at the Corner
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Otherside
+5. Look Around
+6. Hey
+7. Throw Away Your Television abandoned
+8. Throw Away Your Television
+9. The Adventures of Rain Dance Maggie
+10. Dani California
+11. Ethiopia
+12. Right on Time
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Around the World
+19. Meet Me at the Corner
+20. Give It Away
+21. Encore jam
+22. Outro Jam
 
 ## Notes
 

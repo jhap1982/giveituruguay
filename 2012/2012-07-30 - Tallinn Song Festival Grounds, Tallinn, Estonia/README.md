@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Look Around
-If You Have to Ask
-Hardcore Jollies tease
-Can't Stop
-The Adventures of Rain Dance Maggie
-Breaking the Girl
-Me and My Friends
-The Sunset Sleeps tease
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Look Around
+6. If You Have to Ask
+7. Hardcore Jollies tease
+8. Can't Stop
+9. The Adventures of Rain Dance Maggie
+10. Breaking the Girl
+11. Me and My Friends
+12. The Sunset Sleeps tease
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Ethiopia
+21. Give It Away
+22. Encore jam
+23. Outro Jam
 
 ## Notes
 

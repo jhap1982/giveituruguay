@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Dreams of a Samurai jam
-Otherside
-Look Around
-Throw Away Your Television
-Can't Stop
-If You Have to Ask
-Hardcore Jollies tease
-The Adventures of Rain Dance Maggie
-Suck My Kiss
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Brendan's Death Song
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Dreams of a Samurai jam
+5. Otherside
+6. Look Around
+7. Throw Away Your Television
+8. Can't Stop
+9. If You Have to Ask
+10. Hardcore Jollies tease
+11. The Adventures of Rain Dance Maggie
+12. Suck My Kiss
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Brendan's Death Song
+18. Give It Away
 
 ## Notes
 

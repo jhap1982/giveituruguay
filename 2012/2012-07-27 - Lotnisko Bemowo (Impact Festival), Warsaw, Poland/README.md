@@ -2,26 +2,26 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Scar Tissue
-Look Around
-Throw Away Your Television
-Can't Stop
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-Charlie
-Under the Bridge
-Higher Ground
-Warszawa part of
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Scar Tissue
+5. Look Around
+6. Throw Away Your Television
+7. Can't Stop
+8. Soul to Squeeze
+9. The Adventures of Rain Dance Maggie
+10. Charlie
+11. Under the Bridge
+12. Higher Ground
+13. Warszawa part of
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Sir Psycho Sexy
+18. They're Red Hot
+19. Give It Away
 
 ## Notes
 

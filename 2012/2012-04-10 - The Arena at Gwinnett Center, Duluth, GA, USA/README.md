@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Otherside
-Look Around
-Throw Away Your Television
-Wet Sand
-The Adventures of Rain Dance Maggie
-Dani California
-Happiness Loves Company
-Right on Time
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Freaky Styley
-Sir Psycho Sexy
-They're Red Hot
-Meet Me at the Corner
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Otherside
+5. Look Around
+6. Throw Away Your Television
+7. Wet Sand
+8. The Adventures of Rain Dance Maggie
+9. Dani California
+10. Happiness Loves Company
+11. Right on Time
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Freaky Styley
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Meet Me at the Corner
+21. Give It Away
+22. Outro Jam
 
 ## Notes
 

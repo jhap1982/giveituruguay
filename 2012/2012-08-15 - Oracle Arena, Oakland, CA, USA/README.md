@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Dani California
-Can't Stop
-Scar Tissue
-Factory of Faith
-Throw Away Your Television
-Universally Speaking
-I Could Have Lied
-The Adventures of Rain Dance Maggie
-Right on Time
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Ethiopia
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Dani California
+3. Can't Stop
+4. Scar Tissue
+5. Factory of Faith
+6. Throw Away Your Television
+7. Universally Speaking
+8. I Could Have Lied
+9. The Adventures of Rain Dance Maggie
+10. Right on Time
+11. Under the Bridge
+12. Higher Ground
+13. Californication
+14. By the Way
+<br> ENCORE BREAK
+15. Jam
+16. Sir Psycho Sexy
+17. They're Red Hot
+18. Ethiopia
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Charlie
-Dani California
-Look Around
-She's Only 18
-Otherside
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Blood Sugar Sex Magik
-Show of Strength tease
-Higher Ground
-Under the Bridge
-Right on Time
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Sir Psycho Sexy
-They're Red Hot
-Everybody Knows This Is Nowhere
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Charlie
+4. Dani California
+5. Look Around
+6. She's Only 18
+7. Otherside
+8. The Adventures of Rain Dance Maggie
+9. Me and My Friends
+10. Blood Sugar Sex Magik
+11. Show of Strength tease
+12. Higher Ground
+13. Under the Bridge
+14. Right on Time
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Sir Psycho Sexy
+19. They're Red Hot
+20. Everybody Knows This Is Nowhere
+21. Give It Away
 
 ## Notes
 

@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Scar Tissue
-Dani California
-Look Around
-Universally Speaking
-Strip My Mind
-Suck My Kiss
-The Adventures of Rain Dance Maggie
-Me and My Friends
-Factory of Faith
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Around the World
-Soul to Squeeze
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Can't Stop
+3. Scar Tissue
+4. Dani California
+5. Look Around
+6. Universally Speaking
+7. Strip My Mind
+8. Suck My Kiss
+9. The Adventures of Rain Dance Maggie
+10. Me and My Friends
+11. Factory of Faith
+12. Under the Bridge
+13. Higher Ground
+14. Californication
+15. By the Way
+<br> ENCORE BREAK
+16. Jam
+17. Around the World
+18. Soul to Squeeze
+19. Give It Away
+20. Outro Jam
 
 ## Notes
 

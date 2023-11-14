@@ -51,6 +51,8 @@
 
 ## Recordings
 
+* SBD #1 soundboard audio: soundboard > unknown recorder [LiveChiliPeppers.com](http://www.livechilipeppers.com) > FLAC "Brendan's Death Song" wasn't recorded due to a technical malfunction.
+
 ## Links
 
-* SBD #1 soundboard audio: soundboard > unknown recorder [LiveChiliPeppers.com](http://www.livechilipeppers.com) > FLAC "Brendan's Death Song" wasn't recorded due to a technical malfunction.
+

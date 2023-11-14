@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Monarchy of Roses
-Can't Stop
-Jean-Pierre tease
-Otherside
-Dani California
-Look Around
-Parallel Universe
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-I Like Dirt
-Don't Forget Me
-Factory of Faith
-Under the Bridge
-Higher Ground
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Meet Me at the Corner
-Give It Away
+1. Monarchy of Roses
+2. Can't Stop
+3. Jean-Pierre tease
+4. Otherside
+5. Dani California
+6. Look Around
+7. Parallel Universe
+8. Soul to Squeeze
+9. The Adventures of Rain Dance Maggie
+10. I Like Dirt
+11. Don't Forget Me
+12. Factory of Faith
+13. Under the Bridge
+14. Higher Ground
+15. Californication
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Meet Me at the Corner
+20. Give It Away
 
 ## Notes
 

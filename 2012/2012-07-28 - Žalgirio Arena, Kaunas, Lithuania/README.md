@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Dani California
-Otherside
-Factory of Faith
-Can't Stop
-Hard to Concentrate
-Look Around
-I Like Dirt
-The Adventures of Rain Dance Maggie
-Dreams of a Samurai jam
-Universally Speaking
-Under the Bridge
-Californication
-Goodbye Hooray
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Ethiopia
-Give It Away
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Dani California
+4. Otherside
+5. Factory of Faith
+6. Can't Stop
+7. Hard to Concentrate
+8. Look Around
+9. I Like Dirt
+10. The Adventures of Rain Dance Maggie
+11. Dreams of a Samurai jam
+12. Universally Speaking
+13. Under the Bridge
+14. Californication
+15. Goodbye Hooray
+16. By the Way
+<br> ENCORE BREAK
+17. Jam
+18. Suck My Kiss
+19. Ethiopia
+20. Give It Away
+21. Outro Jam
 
 ## Notes
 

@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-She's Only 18
-Can't Stop
-Dreams of a Samurai jam
-Soul to Squeeze
-The Adventures of Rain Dance Maggie
-Universally Speaking
-Right on Time
-Under the Bridge
-Goodbye Hooray
-Californication
-Pink as Floyd part of
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Ethiopia
-Give It Away
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. She's Only 18
+7. Can't Stop
+8. Dreams of a Samurai jam
+9. Soul to Squeeze
+10. The Adventures of Rain Dance Maggie
+11. Universally Speaking
+12. Right on Time
+13. Under the Bridge
+14. Goodbye Hooray
+15. Californication
+16. Pink as Floyd part of
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Suck My Kiss
+20. Ethiopia
+21. Give It Away
 
 ## Notes
 

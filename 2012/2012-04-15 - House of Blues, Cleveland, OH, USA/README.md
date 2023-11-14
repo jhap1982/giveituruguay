@@ -2,15 +2,15 @@
 
 ## Setlist
 
-Can't Stop
-Dani California
-Look Around
-The Adventures of Rain Dance Maggie
-Under the Bridge
-Around the World
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
+1. Can't Stop
+2. Dani California
+3. Look Around
+4. The Adventures of Rain Dance Maggie
+5. Under the Bridge
+6. Around the World
+<br> ENCORE BREAK
+7. Sir Psycho Sexy
+8. They're Red Hot
 
 ## Notes
 
@@ -32,6 +32,7 @@ They're Red Hot
 * Chad Smith
 
 ### Additional Musicians:
+
 * Chris Warren  
 * Mauro Refosco
 

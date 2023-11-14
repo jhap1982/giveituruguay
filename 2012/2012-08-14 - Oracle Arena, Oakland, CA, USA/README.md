@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Monarchy of Roses
-Around the World
-Snow ((Hey Oh))
-Otherside
-Look Around
-Parallel Universe
-Can't Stop
-Wet Sand
-The Adventures of Rain Dance Maggie
-The Zephyr Song tease
-I Like Dirt
-Higher Ground
-Long Progression tease
-Under the Bridge
-Goodbye Hooray
-Californication
-By the Way
-ENCORE BREAK
-Jam
-Suck My Kiss
-Meet Me at the Corner
-Give It Away
-Encore jam
-Outro Jam
+1. Monarchy of Roses
+2. Around the World
+3. Snow ((Hey Oh))
+4. Otherside
+5. Look Around
+6. Parallel Universe
+7. Can't Stop
+8. Wet Sand
+9. The Adventures of Rain Dance Maggie
+10. The Zephyr Song tease
+11. I Like Dirt
+12. Higher Ground
+13. Long Progression tease
+14. Under the Bridge
+15. Goodbye Hooray
+16. Californication
+17. By the Way
+<br> ENCORE BREAK
+18. Jam
+19. Suck My Kiss
+20. Meet Me at the Corner
+21. Give It Away
+22. Encore jam
+23. Outro Jam
 
 ## Notes
 
