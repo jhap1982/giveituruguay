@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Untitled #3 JOHN
-Scar Tissue
-If You Have to Ask
-Subterranean Homesick Blues
-Otherside
-My Lovely Man
-Skinny Sweaty Man
-I Could Have Lied
-Easily
-I Like Dirt
-Soul to Squeeze
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Fire
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Untitled #3 JOHN
+5. Scar Tissue
+6. If You Have to Ask
+7. Subterranean Homesick Blues
+8. Otherside
+9. My Lovely Man
+10. Skinny Sweaty Man
+11. I Could Have Lied
+12. Easily
+13. I Like Dirt
+14. Soul to Squeeze
+15. Californication
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Fire
+21. The Power of Equality
 
 ## Notes
 

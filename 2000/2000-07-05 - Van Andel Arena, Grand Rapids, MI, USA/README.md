@@ -2,27 +2,27 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Untitled #3 JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Blackeyed Blonde
-Pea
-I Could Have Lied
-Parallel Universe
-I Like Dirt
-Rapper's Delight jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Untitled #3 JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Otherside
+9. Blackeyed Blonde
+10. Pea
+11. I Could Have Lied
+12. Parallel Universe
+13. I Like Dirt
+14. Rapper's Delight jam
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Soul to Squeeze
+20. The Power of Equality
 
 ## Notes
 

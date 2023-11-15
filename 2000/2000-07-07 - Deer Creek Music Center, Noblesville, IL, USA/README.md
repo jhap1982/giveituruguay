@@ -2,30 +2,30 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Song for Toni part of JOHN
-Scar Tissue
-My Lovely Man
-Subterranean Homesick Blues
-Otherside
-Skinny Sweaty Man
-Pea
-I Could Have Lied
-Parallel Universe
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Rapper's Delight jam
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Song for Toni part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Subterranean Homesick Blues
+8. Otherside
+9. Skinny Sweaty Man
+10. Pea
+11. I Could Have Lied
+12. Parallel Universe
+13. I Like Dirt
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Sir Psycho Sexy
+20. They're Red Hot
+21. Rapper's Delight jam
+22. Search and Destroy
+23. Outro Jam
 
 ## Notes
 
@@ -52,3 +52,4 @@ Outro Jam
 ## Recordings
 
 * AUD #1 audience audio: Audio Technica AT853 > Sony PCM-M1 DAT(M) > FLAC recorded by Craig Helmreich
+

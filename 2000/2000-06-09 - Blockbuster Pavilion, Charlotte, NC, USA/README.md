@@ -2,22 +2,22 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-Parallel Universe
-Otherside
-Pea
-Easily
-Californication
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. Parallel Universe
+7. Otherside
+8. Pea
+9. Easily
+10. Californication
+11. Under the Bridge
+12. Me and My Friends
+<br> ENCORE BREAK
+13. Sir Psycho Sexy
+14. Fire
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

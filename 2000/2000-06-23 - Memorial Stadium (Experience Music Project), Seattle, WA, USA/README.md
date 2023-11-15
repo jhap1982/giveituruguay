@@ -2,18 +2,18 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Otherside
-Californication
-What Is Soul? jam
-Easily
-Under the Bridge
-ENCORE BREAK
-London Calling tease
-Right on Time
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Otherside
+6. Californication
+7. What Is Soul? jam
+8. Easily
+9. Under the Bridge
+<br> ENCORE BREAK
+10. London Calling tease
+11. Right on Time
 
 ## Notes
 

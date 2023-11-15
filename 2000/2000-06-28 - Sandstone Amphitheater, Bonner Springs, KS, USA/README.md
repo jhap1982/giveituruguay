@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Subterranean Homesick Blues
-Otherside
-Skinny Sweaty Man
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Fire
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Subterranean Homesick Blues
+6. Otherside
+7. Skinny Sweaty Man
+8. Californication
+9. London Calling tease
+10. Right on Time
+11. Under the Bridge
+12. Me and My Friends
+<br> ENCORE BREAK
+13. Sir Psycho Sexy
+14. They're Red Hot
+15. Fire
+<br> **SETLIST INCOMPLETE**
 
 ## Notes
 

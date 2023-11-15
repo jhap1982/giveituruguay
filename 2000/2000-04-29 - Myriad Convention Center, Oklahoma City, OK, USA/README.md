@@ -2,25 +2,25 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Otherside
-Skinny Sweaty Man
-I Could Have Lied
-I Like Dirt
-Californication
-Parallel Universe
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. If You Have to Ask
+7. Otherside
+8. Skinny Sweaty Man
+9. I Could Have Lied
+10. I Like Dirt
+11. Californication
+12. Parallel Universe
+13. London Calling tease
+14. Right on Time
+15. Under the Bridge
+16. Me and My Friends
+<br> ENCORE BREAK
+17. Sir Psycho Sexy
+18. Fire
 
 ## Notes
 

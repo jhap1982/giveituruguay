@@ -2,23 +2,23 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Scar Tissue
-Suck My Kiss
-Otherside
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Fire
-SETLIST INCOMPLETE
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Scar Tissue
+5. Suck My Kiss
+6. Otherside
+7. Easily
+8. I Like Dirt
+9. Californication
+10. London Calling tease
+11. Right on Time
+12. Under the Bridge
+13. Me and My Friends
+<br> ENCORE BREAK
+14. Soul to Squeeze
+15. Fire
+<br>**SETLIST INCOMPLETE**
 
 ## Notes
 

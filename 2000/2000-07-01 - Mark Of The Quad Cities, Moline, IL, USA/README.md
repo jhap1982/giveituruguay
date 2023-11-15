@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Untitled #3 JOHN
-Scar Tissue
-My Lovely Man
-Subterranean Homesick Blues
-Otherside
-Skinny Sweaty Man
-Soul to Squeeze
-Parallel Universe
-Cold Sweat jam
-I Like Dirt
-Californication
-What Is Soul? jam
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Fire
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Untitled #3 JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Subterranean Homesick Blues
+8. Otherside
+9. Skinny Sweaty Man
+10. Soul to Squeeze
+11. Parallel Universe
+12. Cold Sweat jam
+13. I Like Dirt
+14. Californication
+15. What Is Soul? jam
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Sir Psycho Sexy
+21. They're Red Hot
+22. Fire
 
 ## Notes
 

@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Been Insane part of JOHN
-Scar Tissue
-Suck My Kiss
-This Velvet Glove
-If You Have to Ask
-Otherside
-Blackeyed Blonde
-I Could Have Lied
-Parallel Universe
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Sir Psycho Sexy
-They're Red Hot
-Search and Destroy
-Outro Jam
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Been Insane part of JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. This Velvet Glove
+8. If You Have to Ask
+9. Otherside
+10. Blackeyed Blonde
+11. I Could Have Lied
+12. Parallel Universe
+13. I Like Dirt
+14. Californication
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends
+<br> ENCORE BREAK
+19. Sir Psycho Sexy
+20. They're Red Hot
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 

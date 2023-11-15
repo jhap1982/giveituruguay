@@ -2,28 +2,28 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-The Metro part of JOHN
-Scar Tissue
-Suck My Kiss
-If You Have to Ask
-Blackeyed Blonde
-Otherside
-Pea
-I Could Have Lied
-Easily
-What Is Soul? jam
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Soul to Squeeze
-Search and Destroy
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. The Metro part of JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. If You Have to Ask
+8. Blackeyed Blonde
+9. Otherside
+10. Pea
+11. I Could Have Lied
+12. Easily
+13. What Is Soul? jam
+14. I Like Dirt
+15. Californication
+16. London Calling tease
+17. Right on Time
+18. Under the Bridge
+19. Me and My Friends
+<br> ENCORE BREAK
+20. Soul to Squeeze
+21. Search and Destroy
 
 ## Notes
 

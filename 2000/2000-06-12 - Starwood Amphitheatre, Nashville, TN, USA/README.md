@@ -2,29 +2,29 @@
 
 ## Setlist
 
-Around the World
-You're Gonna Get Yours tease
-Give It Away
-Your Pussy's Glued to a Building on Fire JOHN
-Scar Tissue
-Suck My Kiss
-Parallel Universe
-If You Have to Ask
-Otherside
-Pea
-Blackeyed Blonde
-I Could Have Lied
-Easily
-I Like Dirt
-Californication
-London Calling tease
-Right on Time
-Soul to Squeeze
-Under the Bridge
-Me and My Friends
-ENCORE BREAK
-Fire
-The Power of Equality
+1. Around the World
+2. You're Gonna Get Yours tease
+3. Give It Away
+4. Your Pussy's Glued to a Building on Fire JOHN
+5. Scar Tissue
+6. Suck My Kiss
+7. Parallel Universe
+8. If You Have to Ask
+9. Otherside
+10. Pea
+11. Blackeyed Blonde
+12. I Could Have Lied
+13. Easily
+14. I Like Dirt
+15. Californication
+16. London Calling tease
+17. Right on Time
+18. Soul to Squeeze
+19. Under the Bridge
+20. Me and My Friends
+<br> ENCORE BREAK
+21. Fire
+22. The Power of Equality
 
 ## Notes
 
