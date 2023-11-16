@@ -6751,6 +6751,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2023-03-19 - Foro Sol (Vive Latino Festival), Mexico City, Mexico</td>
+                            <td>[SBD #1][MP3][208 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>2023-03-29 - BC Palace Stadium, Vancouver, Canada</td>
                             <td>[AUD #1][M4A][49,7 MB]</td>
                         </tr>

@@ -40,3 +40,5 @@
 * Chris Warren
 
 ## Recordings
+
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.
