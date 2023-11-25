@@ -6907,6 +6907,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>2023-11-21 - Movitar Arena, Santiago, Chile</td>
                             <td>[AUD #1][FLAC][777 MB]</td>
                         </tr>
+
+                        <tr title="jhap1982 was here!!!!! Thanks Reyes!">
+                            <td>2023-11-24 - Estadio Mâs Monumental, Buenos Aires, Argentina</td>
+                            <td>[AUD #1][FLAC][650 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
