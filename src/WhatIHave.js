@@ -6911,6 +6911,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr title="jhap1982 was here!!!!! Thanks Reyes!">
                             <td>2023-11-24 - Estadio Mâs Monumental, Buenos Aires, Argentina</td>
                             <td>[AUD #1][FLAC][650 MB]</td>
+                            <td>[PRO #1][HQ][1080i][MP4][11,8 GB]</td>
                         </tr>
                     </tbody>
                 </table>
