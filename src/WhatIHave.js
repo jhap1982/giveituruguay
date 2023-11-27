@@ -6913,6 +6913,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>[AUD #1][FLAC][650 MB]</td>
                             <td>[PRO #1][HQ][1080i][MP4][11,8 GB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2023-11-26 - Estadio Mâs Monumental, Buenos Aires, Argentina</td>
+                            <td>[AUD #1][FLAC][665 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>

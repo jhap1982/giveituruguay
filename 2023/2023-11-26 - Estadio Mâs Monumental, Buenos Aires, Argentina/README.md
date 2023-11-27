@@ -3,28 +3,27 @@
 ## Setlist
 
 1. Intro Jam
-2. Around The World
+2. Around the World
 3. Scar Tissue
-4. Snow ((Hey Oh)) + Jam
-5. Here Ever After
-6. Havana Affair (Cover Ramones)
-7. Eddie
-8. Hey
-9. I Like Dirt
-10. Don't Forget Me
-11. Tippa My Tongue
-12. Wet Sand
-13. Tell Me Baby
-14. Jam + Californication
-15. Black Summer
-16. By The Way
+4. The Ocean tease
+5. Snow ((Hey Oh))
+6. Here Ever After
+7. Havana Affair
+8. Eddie
+9. Hey
+10. I Like Dirt
+11. Don't Forget Me
+12. Tippa My Tongue
+13. Wet Sand
+14. Tell Me Baby
+15. Californication
+16. Black Summer
+17. By the Way
 <br> ENCORE BREAK
-17. Under The Bridge
-18. Give It Away
+18. Under the Bridge
+19. Give It Away
 
 ## Notes
-
->
 
 **Support**: Outernational, Irontom
 
@@ -42,3 +41,5 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: Zoom iQ5 > iPhone 11 Pro Max WAV > FLAC recorded by Leni
