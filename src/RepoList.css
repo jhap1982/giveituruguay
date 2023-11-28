@@ -163,7 +163,8 @@ a[title='2019'] {
 a[title='2020'],
 a[title='2021'],
 a[title='2022'],
-a[title='2023'] {
+a[title='2023'],
+a[title='2024'] {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/ulrotdc.jpg') center/cover no-repeat;
     background-blend-mode: multiply;
 }
