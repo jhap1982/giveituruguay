@@ -24,7 +24,7 @@
 
 * Anthony Kiedis
 * Flea
-* josh Klinghoffer
+* Josh Klinghoffer
 * Chad Smith
 
 ## Recordings

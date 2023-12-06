@@ -38,7 +38,7 @@
 
 * Anthony Kiedis
 * Flea
-* josh Klinghoffer
+* Josh Klinghoffer
 * Chad Smith
 
 ### Additional Musicians
