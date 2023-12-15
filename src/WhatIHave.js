@@ -6868,7 +6868,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-07-21 - Tottenham Hotspur Stadium, London, England</td>
-                            <td>[AUD #1][FLAC][359 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][359 MB] <br />
+                                [SBD #1][MP3][229 MB]
+                            </td>
                         </tr>
 
                         <tr>

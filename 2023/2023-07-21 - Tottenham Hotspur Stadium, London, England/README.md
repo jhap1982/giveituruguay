@@ -50,3 +50,4 @@
 ## Recordings
 
 * AUD #1 audience audio: built-in > iPhone SE WAV > FLAC recorded by Irena Halder
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.
