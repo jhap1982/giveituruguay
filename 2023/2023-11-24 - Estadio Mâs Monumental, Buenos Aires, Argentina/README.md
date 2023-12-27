@@ -33,9 +33,6 @@
 
 ## Media 
 
-* AUD #1 audience audio: Zoom iQ5 > iPhone 11 Pro Max WAV > FLAC recorded by Leni DOWNLOAD   
-* PRO #1 professional video: soundboard > unknown WEB > MKV [1080p] Livestreamed by Flow.
-
 ## Line Up
 
 * Anthony Kiedis
@@ -48,3 +45,6 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: Zoom iQ5 > iPhone 11 Pro Max WAV > FLAC recorded by Leni
+* PRO #1 professional video: soundboard > unknown WEB > MKV [1080p] Livestreamed by Flow.
