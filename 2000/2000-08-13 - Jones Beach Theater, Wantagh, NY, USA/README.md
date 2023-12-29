@@ -5,18 +5,26 @@
 1. Around the World
 2. You're Gonna Get Yours tease
 3. Give It Away
-4. Scar Tissue
-5. Otherside
-6. Skinny Sweaty Man
-7. Blood Sugar Sex Magik
-8. Californication
-9. London Calling tease
-10. Right on Time
-11. Under the Bridge
-12. Me and My Friends
+4. Forming II part of JOHN
+5. Scar Tissue
+6. My Lovely Man
+7. Parallel Universe
+8. Otherside
+9. Subterranean Homesick Blues
+10. Pot Sharing Tots part of FLEA
+11. I Could Have Lied
+12. Blood Sugar Sex Magik
+13. Show of Strength tease
+14. I Like Dirt
+15. Californication
+16. What Is Soul? jam
+17. London Calling tease
+18. Right on Time
+19. Under the Bridge
+20. Me and My Friends
 <br> ENCORE BREAK
-13. Soul to Squeeze
-<br> **SETLIST INCOMPLETE**
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
 
@@ -42,5 +50,4 @@
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ? > FLAC recorded by unknown **NOT CIRCULATING**
-* AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by ukj69 **NOT CIRCULATING**
+* AUD #1 audience audio: unknown mic > unknown Sony recorder ANA(M) > FLAC recorded by ukj69

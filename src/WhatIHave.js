@@ -1280,6 +1280,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr> 
 
                         <tr>
+                            <td>1996-02-16 - Nassau Coliseum, Nassau, NY, USA</td>
+                            <td>
+                                [AUD #1][FLAC][567 MB]
+                            </td>
+                        </tr> 
+
+                        <tr>
                             <td>1996-03-01 - NBC Studios (The Tonight Show with Jay Leno), Burbank, CA, USA</td>
                             <td>
                                 [PRO #1][YT][MP4][64,3 MB] <br />
@@ -2129,6 +2136,13 @@ const WhatIHave = ({ onBack }) => {
                             <td>2000-08-12 - Jones Beach Theater, Wantagh, NY, USA</td>
                             <td>
                                 [AUD #1][FLAC][382 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2000-08-13 - Jones Beach Theater, Wantagh, NY, USA</td>
+                            <td>
+                                [AUD #1][FLAC][471 MB]
                             </td>
                         </tr>
 
