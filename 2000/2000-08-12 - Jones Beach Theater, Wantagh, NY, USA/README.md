@@ -52,5 +52,4 @@
 
 * AUD #1 audience audio: Sonic Studios DSM621 > Sony TCD-D100 DAT(M) > FLAC recorded by A.T. 
 * AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown  
-* AUD #3 audience audio: Soundman OKM IIR's > A3 > Sony TCD-D7 DAT(M) > FLAC recorded by unknown **NOT CIRCULATING**
-* AUD #4 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by ukj69 **NOT CIRCULATING**
+* AUD #3 audience audio: unknown mic > unknown Sony recorder ANA(M) > FLAC recorded by ukj69

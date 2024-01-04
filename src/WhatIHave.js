@@ -2135,7 +2135,8 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-08-12 - Jones Beach Theater, Wantagh, NY, USA</td>
                             <td>
-                                [AUD #1][FLAC][382 MB]
+                                [AUD #1][FLAC][382 MB] <br />
+                                [AUD #3][FLAC][461 MB]
                             </td>
                         </tr>
 
