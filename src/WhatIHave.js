@@ -6830,6 +6830,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2023-06-21 - PGE Narodowy, Warsaw, Poland</td>
+                            <td>[SBD #1][MP3][241 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>2023-06-26 - Maimarktgelände, Mannheim, Germany</td>
                             <td>
                                 [AUD #1][FLAC][388 MB] <br />

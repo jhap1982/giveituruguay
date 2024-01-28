@@ -27,6 +27,8 @@
 
 ## Notes
 
+**Attendance**: 45,736 / 47,449 (96%)
+<br>
 **Support**: The Mars Volta, Iggy Pop
 
 ## Media 
@@ -44,4 +46,4 @@
 
 ## Recordings
 
-## Links
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.
