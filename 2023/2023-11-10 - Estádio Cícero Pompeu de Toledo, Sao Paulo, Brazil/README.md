@@ -43,3 +43,6 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: built-in > Motorola Edge 30 WAV > FLAC recorded by Augusto José 
+* AMT #1 amateur video: built-in > iPhone 14 Pro Max MOV > MP4 [2160p] recorded by Toshi Aizawa
