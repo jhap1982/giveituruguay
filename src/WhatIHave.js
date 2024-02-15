@@ -6928,7 +6928,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-11-10 - Estádio Cícero Pompeu de Toledo, Sao Paulo, Brazil</td>
-                            <td>[AUD #1][FLAC][720 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][720 MB] <br/>
+                                [SBD #1][MP3][233 MB]
+                            </td>
                         </tr>
 
                         <tr>
