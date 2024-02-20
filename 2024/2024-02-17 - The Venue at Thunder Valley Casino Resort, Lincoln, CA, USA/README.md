@@ -38,4 +38,7 @@
 
 * Chris Warren
 
-# Recording
+# Recordings
+
+* AUD #1 audience audio: Schoeps MK 4 > BabyNbox > Sony PCM-A10 WAV > FLAC recorded by loughney
+
