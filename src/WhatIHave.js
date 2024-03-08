@@ -6965,10 +6965,16 @@ const WhatIHave = ({ onBack }) => {
                             <th>Description</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>2024-02-17 - The Venue at Thunder Valley Casino Resort, Lincoln, CA, USA</td>
                             <td>[AUD #1][FLAC][548 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2024-03-02 - The Kia Forum, Inglewood, CA, USA</td>
+                            <td>[AUD #1][FLAC][527 MB]</td>
                         </tr>
                     </tbody>
                 </table>
