@@ -42,3 +42,6 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: Zoom iQ5 > iPhone 11 Pro Max WAV > FLAC recorded by Leni
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.

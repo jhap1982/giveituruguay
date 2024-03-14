@@ -6936,7 +6936,10 @@ const WhatIHave = ({ onBack }) => {
 
                         <tr>
                             <td>2023-11-21 - Movitar Arena, Santiago, Chile</td>
-                            <td>[AUD #1][FLAC][777 MB]</td>
+                            <td>
+                                [AUD #1][FLAC][777 MB] <br/>
+                                [SBD #1][MP3][255 MB]
+                            </td>
                         </tr>
 
                         <tr title="jhap1982 was here!!!!! Thanks Reyes!">
