@@ -10,22 +10,23 @@
 6. My Lovely Man
 7. If You Have to Ask
 8. Otherside
-9. I Could Have Lied
-10. Easily
-11. I Like Dirt
-12. London Calling tease
-13. Right on Time
-14. Californication
-15. Under the Bridge
-16. Me and My Friends
+9. Skinny Sweaty Man
+10. I Could Have Lied
+11. Easily
+12. I Like Dirt
+13. Californication
+14. What Is Soul? jam
+15. London Calling tease
+16. Right on Time
+17. Under the Bridge
+18. Me and My Friends abandoned
+19. Me and My Friends
 <br> ENCORE BREAK
-17. Soul to Squeeze
-18. Search and Destroy
-19. Outro Jam
+20. Soul to Squeeze
+21. Search and Destroy
+22. Outro Jam
 
 ## Notes
-
-> There could be one or two songs missing on the setlist.
 
 **Support**: Muse, Foo Fighters
 
@@ -49,4 +50,5 @@
 
 ## Recordings
 
-* AUD #1 audience audio: Countryman Isomax II(Hyper) > Rolls PB-224 > Sony TCD-D8 DAT(M) > FLAC recorded by unknownThis recording runs for about 35 minutes. **NOT CIRCULATING**
+* AUD #1 audience audio: Countryman Isomax II(Hyper) > Rolls PB-224 > Sony TCD-D8 DAT(M) > FLAC recorded by unknown This recording runs for about 35 minutes. **NOT CIRCULATING**
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channe

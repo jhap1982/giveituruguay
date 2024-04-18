@@ -1948,6 +1948,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2000-03-30 - Ervin J. Nutter Center, Dayton, OH, USA</td>
+                            <td>
+                                [SBD #1][MP3][191 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2000-04-02 - William D. Mullins Memorial Center, Amherst, MA, USA</td>
                             <td>
                                 [AUD #1][FLAC][574 MB]
