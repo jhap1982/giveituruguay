@@ -27,7 +27,6 @@
  
 **Support**: Ken Carson
 
-
 ## Media 
 
 ## Line Up
@@ -40,6 +39,5 @@
 ### Additional Musicians
 
 * Chris Warren
-
 
 # Recording

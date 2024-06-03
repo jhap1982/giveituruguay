@@ -814,6 +814,11 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>1991-12-03 - American Theater, St. Louis, MO, USA</td>
+                            <td>[AUD #1][FLAC][367 MB]</td>
+                        </tr>
+
+                        <tr>
                             <td>1991-12-15 - The Ritz (MTV New Year's Eve World Party), New York City, NY, USA</td>
                             <td>
                                 [PRO #1][MPG][255 MB]<br />
@@ -1975,6 +1980,13 @@ const WhatIHave = ({ onBack }) => {
                             </td>
                         </tr>
                         
+                        <tr>
+                            <td>2000-05-05 - Pensacola Civic Center, Pensacola, FL, USA</td>
+                            <td>
+                                [SBD #1][MP3][166 MB]
+                            </td>
+                        </tr>
+
                         <tr>
                             <td>2000-05-08 - Norfolk Scope, Norfolk, VA, USA</td>
                             <td>
