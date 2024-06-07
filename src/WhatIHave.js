@@ -6999,6 +6999,11 @@ const WhatIHave = ({ onBack }) => {
                             <td>2024-03-02 - The Kia Forum, Inglewood, CA, USA</td>
                             <td>[AUD #1][FLAC][527 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2024-06-05 - Utah First Credit Union Amphitheatre, West Valley City, UT, USA</td>
+                            <td>[AUD #1][FLAC][592 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
