@@ -6955,6 +6955,13 @@ const WhatIHave = ({ onBack }) => {
                         </tr>
 
                         <tr>
+                            <td>2023-11-13 - Estádio Major Antônio Couto Pereira, Curitiba, Brazil</td>
+                            <td>
+                                [AUD #1][FLAC][582 MB]
+                            </td>
+                        </tr>
+
+                        <tr>
                             <td>2023-11-21 - Movitar Arena, Santiago, Chile</td>
                             <td>
                                 [AUD #1][FLAC][777 MB] <br/>

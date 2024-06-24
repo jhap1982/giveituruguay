@@ -37,9 +37,8 @@
 * John Frusciante
 * Chad Smith
 
-
 ### Additional Musicians
 
 * Chris Warren
 
-# Recording
+# Recordings

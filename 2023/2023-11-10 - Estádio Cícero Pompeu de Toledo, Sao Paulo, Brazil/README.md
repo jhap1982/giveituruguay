@@ -45,5 +45,6 @@
 # Recordings
 
 * AUD #1 audience audio: built-in > Motorola Edge 30 WAV > FLAC recorded by Augusto José 
+* AUD #2 audience audio: SP-CMC-8 > SP-SPSB-10 > Roland R-07 WAV > FLAC recorded by toshi
 * SBD #1 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel.
 * AMT #1 amateur video: built-in > iPhone 14 Pro Max MOV > MP4 [2160p] recorded by Toshi Aizawa

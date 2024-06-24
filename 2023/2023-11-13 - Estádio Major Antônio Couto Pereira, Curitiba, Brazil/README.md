@@ -44,3 +44,5 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: SP-CMC-8 > SP-SPSB-10 > Roland R-07 WAV > FLAC recorded by toshi
