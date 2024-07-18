@@ -48,3 +48,4 @@
 
 * AUD #1 audience audio: unknown mic > unknown recorder MD(M) > FLAC recorded by unknown Missing the encore.
 * SBD #1 soundboard audio: soundboard > unknown recorder "Californication" CD > FLAC The outro jam was released on the first "Californication" CD single.
+* SBD #2 soundboard audio: soundboard > unknown recorder WEB > AAC > MP3 [320kbps] Archival broadcast from Whole Lotta Red Hot, the band's official SiriusXM channel. Missing the last three minutes of the outro jam.
