@@ -1895,7 +1895,7 @@ const WhatIHave = ({ onBack }) => {
                         <tr>
                             <td>2000-01-24 - Brisbane Entertainment Center, Brisbane, Australia</td>
                             <td>
-                                [AUD #1][FLAC][366 MB] <br>
+                                [AUD #1][FLAC][366 MB] <br/>
                                 [SBD #2][MP3][185 MB]
                             </td>
                         </tr>
