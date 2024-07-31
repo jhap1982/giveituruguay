@@ -7017,6 +7017,16 @@ const WhatIHave = ({ onBack }) => {
                             <td>2024-06-26 - Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, USA</td>
                             <td>[AUD #1][FLAC][574 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2024-07-12 - Darien Lake Performing Arts Center, Darien, NY, USA</td>
+                            <td>[AUD #1][FLAC][625 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2024-07-15 - Budweiser Stage, Toronto, Canada</td>
+                            <td>[AUD #1][FLAC][630 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>

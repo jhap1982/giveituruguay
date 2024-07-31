@@ -41,3 +41,5 @@
 * Chris Warren
 
 # Recordings
+
+* AUD #1 audience audio: built-in > Tascam DR-07X WAV > FLAC recorded by kgustin
