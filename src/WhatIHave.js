@@ -1966,6 +1966,13 @@ const WhatIHave = ({ onBack }) => {
                                 [AUD #1][FLAC][574 MB]
                             </td>
                         </tr>
+
+                        <tr>
+                            <td>2000-04-06 - Roanoke Civic Center, Roanoke, VA, USA</td>
+                            <td>
+                                [AUD #1][FLAC][205 MB]
+                            </td>
+                        </tr>
                         
                         <tr>
                             <td>2000-04-26 - Carver-Hawkeye Arena, Iowa City, IA, USA</td>
