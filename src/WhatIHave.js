@@ -7027,6 +7027,16 @@ const WhatIHave = ({ onBack }) => {
                             <td>2024-07-15 - Budweiser Stage, Toronto, Canada</td>
                             <td>[AUD #1][FLAC][630 MB]</td>
                         </tr>
+
+                        <tr>
+                            <td>2024-07-17 - Budweiser Stage, Toronto, Canada</td>
+                            <td>[AUD #1][FLAC][500 MB]</td>
+                        </tr>
+
+                        <tr>
+                            <td>2024-07-20 - Harriet Island Regional Park (Minnesota Yacht Club Festival), St. Paul, MN, USA</td>
+                            <td>[AUD #1][FLAC][500 MB]</td>
+                        </tr>
                     </tbody>
                 </table>
             </section>
