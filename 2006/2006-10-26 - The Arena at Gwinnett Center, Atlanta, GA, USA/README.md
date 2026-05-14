@@ -62,5 +62,6 @@
 ## Recordings / Footage
 
 * AUD #1 audience audio: SP-BMC mics > SP-BM6 battery box > Sony MZRH-10 Hi-MD(M) > FLAC recorded by Garret
+* AUD #2 audience audio: unknown mic > unknown recorder MD(M) > FLAC  recorded by Greg Harvey
 
 ## Links

@@ -29,7 +29,7 @@
 
 ## Recordings
 
-* PRO #1a professional video: soundboard > unknown TV > DVD French TV network "MCM" broadcasted "Don't Forget Me" and "The Zephyr Song".
-* PRO #1b professional video: soundboard > unknown TV > VHS(x) > DVD "Can't Stop" was broadcasted by "MuchMusic", the transfer in circulation was aired with the album version over the video, but broadcasts with live audio also exist.
+* PRO #1 professional video: soundboard > unknown? > MOV [480p].  version in circulation comes from a Warner Bros. promo video. 
+* PRO #2 professional video: soundboard > unknown TV [MuchMusic] > VHS(M) > DVD Features "Can't Stop". Live audio was replaced with the album version.
 
 ## Links

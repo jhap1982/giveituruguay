@@ -59,4 +59,6 @@
 
 ## Recordings / Footage
 
+* SBD #1 soundboard audio: soundboard > unknown recorder WEB [spotify.com] > MP3 [128kbps] Features "Snow ((Hey Oh))". Originally released on the UK DMD single for digital outlets, now only available on Spotify in few select countries.
+
 ## Links

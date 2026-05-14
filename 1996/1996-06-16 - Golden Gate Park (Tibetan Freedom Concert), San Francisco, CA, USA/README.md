@@ -36,8 +36,9 @@
 
 ## Recordings
 
-* AUD #1 audience audio: unknown mic > unknown recorder ANA(x) > FLAC recorded by unknownThe only transfer in circulation features "Venus In Furs" and "Waiting Room". We don't know if the full recording exists.  
-* PRO #1 professional video: soundboard > unknown TV > SVHS(M) > MKV Features "The Power of Equality", "Suck My Kiss", "Venus in Furs" and parts of "Waiting Room", "Walkabout", "One Big Mob" and "Give It Away".
+AUD #1 audience audio unknown mic > unknown recorder ANA(X) > FLAC recorded by unknown Features "Venus in Furs" and "Waiting Room". It's unknown if the full recording exists. 
+AUD #2 audience audio unknown mic > unknown recorder ANA(M) > FLAC recorded by neekrive
+PRO #1 professional video: soundboard > unknown TV > SVHS(M) > MKV Features "The Power of Equality", "Suck My Kiss", "Venus in Furs" and parts of "Waiting Room", "Walkabout", "One Big Mob" and "Give It Away".
 
 ## Links
 

@@ -40,7 +40,8 @@
 
 ## Recordings
 
-* AUD #1 audience audio: Sony ECM-737 > Sony TCD-D7 DAT(M) > FLAC recorded by ijwthstd
+* AUD #1 audience audio Sony ECM-737 > Sony TCD-D7DAT(M) > FLAC recorded by ijwthstd 
+* AUD #2 audience audioSony ECM-909A > Sony WM-D6CANA(M) > FLAC recorded by Marco Moir
 
 ## Links
 

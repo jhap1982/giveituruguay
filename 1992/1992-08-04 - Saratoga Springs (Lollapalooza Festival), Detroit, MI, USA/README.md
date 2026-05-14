@@ -2,28 +2,28 @@
 
 ## Setlist
 
-1. Give It Away
-2. Organic Anti-Beat Box Band
-3. Bullet Proof
-4. My Automobile part of FLEA
-5. Suck My Kiss
-6. Subterranean Homesick Blues
-7. Funky Crime
-8. Nobody Weird Like Me
-9. If You Have to Ask
-10. Stone Cold Bush
-11. Blood Sugar Sex Magik
-12. Higher Ground
-13. Magic Johnson
-14. Under the Bridge
-15. Fopp part of
-16. Special Secret Song Inside
-17. Red Hot Mama part of
-18. The Needle and the Damage Done FLEA
-19. Me and My Friends
-<br> ENCORE BREAK
-20. Mommy Where's Daddy?
-21. Crosstown Traffic
+Give It Away
+Organic Anti-Beat Box Band
+Bullet Proof
+My Automobile part of Flea
+Suck My Kiss
+Subterranean Homesick Blues
+Funky Crime
+Nobody Weird Like Me
+If You Have to Ask
+Stone Cold Bush
+Blood Sugar Sex Magik
+Higher Ground
+Magic Johnson
+Under the Bridge
+Fopp part of
+Special Secret Song Inside
+Red Hot Mama part of
+The Needle and the Damage Done Flea
+Me and My Friends
+Encore Break
+Mommy Where's Daddy?
+Crosstown Traffic
 
 ## Notes
 
@@ -46,3 +46,6 @@
 ### Additional Musicians
 
 ## Recordings
+
+* AUD #1 audience audio unknown mic > unknown recorder ANA(M) > FLAC recorded by unknown 
+* AUD #2 audience audio unknown mic > unknown recorder ANA(M) > WEB [youtube.com] > M4A [128kbps] recorded by Most People Are Blank Transfer in circulation is sped up.

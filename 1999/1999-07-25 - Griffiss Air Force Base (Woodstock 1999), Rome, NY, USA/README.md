@@ -46,6 +46,7 @@
 
 * SBD #1 soundboard audio: soundboard > unknown recorder "Otherside" CD > FLAC "My Lovely Man" was released on the second "Otherside" CD single.  
 * SBD #2 soundboard audio: soundboard > unknown recorder "Woodstock '99" CD > FLAC "Fire" was featured on the official compilation released by Epic Records.  
-* AMT #1 amateur video: built-in > unknown camera VHS(x)recorded by unknown A 30-minute amateur shot exists. **NOT CIRCULATING** 
+* AMT #1 amateur video: built-in > unknown camera ? > WEB [youtube.com] > MP4 [240p] recorded by Ivan Gabel. Features about 20 minutes. It's unknown if the full recording exists.
+* AMT #2 amateur video: built-in > unknown cameraVHS(M) > ? > WEB [youtube.com] > MP4 [720p] recorded by Steve Terrey0 Audio track has been replaced with soundboard audio from the television broadcast.
 * PRO #1 professional video: soundboard > unknown ConcertVault.com > MP4 > MKV There are many transfers of this show from several broadcasts and sources but the best one comes from ConcertVault.com. 
 * PRO #2 professional video: soundboard > unknown "Woodstock '99" DVD "Fire" was featured on the official DVD release of the event by Sony, with different camera angles than PRO #1.
