@@ -1,0 +1,17 @@
+temp
+**/*.torrent
+**/*.flac
+**/*.mp3
+**/*.ogg
+**/*.wav
+**/*.vob
+**/*.mpg
+**/*.mkv
+**/*.mp4
+**/*.m4a
+**/*.webm
+**/*.ts
+**/*.avi
+**/*.rar
+**/*.zip
+**/*.log

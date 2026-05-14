@@ -1,0 +1,93 @@
+Red Hot Chili Peppers - 2025 01 30 @ Kia Forum, Los Angeles CA
+
+Note:
+FireAid concert. Support families who lost everything, donate: https://fireaidla.org/
+
+Dani California
+Californication
+Black Summer
+Under the Bridge
+
+Source: Webstream > yt-dlp > LosslessCut > MP4
+
+Line-up:
+Intuit Dome, Inglewood, CA, USA
+Rod Stewart
+Earth, Wind & Fire
+Gracie Abrams
+Tate McRae
+Jelly Roll
+Katy Perry
+Lil Baby
+Olivia Rodrigo
+Sting
+Peso Pluma
+Billie Eilish
+Stevie Wonder
+Lady Gaga
+
+Kia Forum, Inglewood, CA, USA
+Green Day
+Alanis Morissette
+Anderson .Paak
+Joni Mitchell
+Dawes
+Stephen Stills & Graham Nash
+P!nk
+John Mayer
+The Black Crowes
+John Fogerty
+No Doubt
+Stevie Nicks
+Nirvana
+Red Hot Chili Peppers
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/mp41)
+File size                                : 244 MiB
+Duration                                 : 22 min 15 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 531 kb/s
+Frame rate                               : 29.970 FPS
+Writing application                      : Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : vp09
+Duration                                 : 22 min 15 s
+Bit rate                                 : 1 398 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 FPS
+Minimum frame rate                       : 29.412 FPS
+Maximum frame rate                       : 30.303 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bits/(Pixel*Frame)                       : 0.022
+Stream size                              : 222 MiB (91%)
+Language                                 : English
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : Opus
+Codec ID                                 : Opus
+Duration                                 : 22 min 15 s
+Source duration                          : 22 min 15 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 126 kb/s
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Source stream size                       : 20.0 MiB (8%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+
+	

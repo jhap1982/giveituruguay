@@ -1,0 +1,35 @@
+"Hey, isn’t this the same video that was uploaded by the Pinkpop channel?"
+
+Yes, it’s exactly the same video, the same show. The concert was originally recorded in native 480i and later upscaled to 1080p for YouTube. The quality is not only an incredible upgrade and a chance to relive this show as if it happened today, but I also noticed the video bitrate caused artifacts (compression in dark areas and harsh edges).
+https://youtu.be/Q3CtqcOj2tY
+I improved it using AI with the following settings:
+
+Enhanced using prob-4; revert compression at 41; recover details at 51; sharpen at 23; reduce noise at 27; recover original detail at 62. I also added film grain to give it a smoother, more natural look.
+
+These parameters produced a 50GB file with much better image quality. You don’t need 4K for it to look great—just a large MP4 file with proper compression. Enjoy it! And if you can, check out the original on the Pinkpop channel—linked as a card and at the end of the video.
+
+Cheers!
+
+Setlist:
+00:00 Intro Jam
+02:17 Can't Stop
+07:41 Dani California
+13:03 Scar Tissue
+17:51 Charlie
+22:52 Otherside
+27:39 Tell Me Baby
+32:03 How Deep Is Your Love? (Bee Gees cover)
+34:15 Throw Away Your Television
+41:37 Snow ((Hey Oh))
+46:22 Me & My Friends
+50:12 Wet Sand
+55:42 Right on Time (London Calling intro)
+58:55 Don't Forget Me
+1:04:48 Warlocks
+1:11:26 Californication
+1:17:37 By the Way
+Encore:
+1:23:53 Drum Solo
+1:26:14 Under the Bridge
+1:30:57 Give It Away (You're Gonna Get Yours intro)
+1:36:27 Final Jam
